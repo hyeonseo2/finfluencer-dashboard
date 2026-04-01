@@ -1,0 +1,711 @@
+{
+  "generated_at": "2026-03-31T23:21:07.651018+00:00",
+  "channels": [
+    {
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "display_name": "슈카월드",
+      "handle": "@syukaworld",
+      "category_primary": "macro"
+    },
+    {
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "display_name": "김작가 TV",
+      "handle": "@lucky_tv",
+      "category_primary": "stocks"
+    },
+    {
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "display_name": "달란트투자",
+      "handle": "@talentinvestment",
+      "category_primary": "stocks"
+    }
+  ],
+  "topics": [
+    "commodities",
+    "etf",
+    "fx",
+    "interest_rate",
+    "macro",
+    "stocks"
+  ],
+  "videos": [
+    {
+      "video_id": "7FkdybkP2AQ",
+      "title": "[수요일은 버디버디] 미-이란, 협상 기대감에 미 증시 급등ㅣ돈은 어디로 흐르고 있나?",
+      "source_url": "https://www.youtube.com/watch?v=7FkdybkP2AQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7FkdybkP2AQ/hqdefault.jpg",
+      "published_at": "2026-03-31T12:50:15+00:00",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "iI1Cfj18A98",
+      "title": "개미 애널리스트들이 분석하는 급락하는 국장",
+      "source_url": "https://www.youtube.com/watch?v=iI1Cfj18A98",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iI1Cfj18A98/hqdefault.jpg",
+      "published_at": "2026-03-31T12:04:50+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "PeCA4Qll_OQ",
+      "title": "폭락이 오든말든 이것 사모아라 \"예적금 5배로 돈 물어난다. 은퇴자금 포트폴리오 이렇게 짜세요\" #이슈드링크 #원픽리포트",
+      "source_url": "https://www.youtube.com/watch?v=PeCA4Qll_OQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PeCA4Qll_OQ/hqdefault.jpg",
+      "published_at": "2026-03-31T10:30:09+00:00",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "SQ-21zQDshQ",
+      "title": "\"증권가, 언론사가 숨기는 코스피 대폭락의 비밀\" 외국인만 아는 진실 말씀드리죠 | 나탈리 허 변호사 1부 #나탈리허 #코스피",
+      "source_url": "https://www.youtube.com/watch?v=SQ-21zQDshQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SQ-21zQDshQ/hqdefault.jpg",
+      "published_at": "2026-03-31T09:30:10+00:00",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "sBSt_6rWhfo",
+      "title": "\"17년만에 환율 1530원 돌파\" IMF, 금융위기급 위기 속 한국은행의 이례적 선택. 금리 인상으로 환율 잡는다? #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=sBSt_6rWhfo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/sBSt_6rWhfo/hqdefault.jpg",
+      "published_at": "2026-03-31T08:30:16+00:00",
+      "topics": [
+        "fx",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "V-h18yUU9gg",
+      "title": "\"탈출 못한 자들의 곡소리\" 대출 전면 봉쇄하는 정부, 다주택자 만기연장 사형선고 떴다 | 이현철 소장 3부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=V-h18yUU9gg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/V-h18yUU9gg/hqdefault.jpg",
+      "published_at": "2026-03-31T07:00:18+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "ivPDs8cwSqM",
+      "title": "[미에로화이바] 찐텐더를 이겨라",
+      "source_url": "https://www.youtube.com/watch?v=ivPDs8cwSqM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ivPDs8cwSqM/hqdefault.jpg",
+      "published_at": "2026-03-31T04:48:30+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "zYm7yCpuJf4",
+      "title": "월가에서 종토방 보는 이유",
+      "source_url": "https://www.youtube.com/shorts/zYm7yCpuJf4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zYm7yCpuJf4/hqdefault.jpg",
+      "published_at": "2026-03-31T03:00:51+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "PtwVrxZcD54",
+      "title": "[R드라이빙뷰] 웬만하면 사지 말자",
+      "source_url": "https://www.youtube.com/shorts/PtwVrxZcD54",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PtwVrxZcD54/hqdefault.jpg",
+      "published_at": "2026-03-31T01:55:41+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "EXhubXZKBwU",
+      "title": "더 거칠어진 트럼프의 말, 시장은 종전 시그널?",
+      "source_url": "https://www.youtube.com/watch?v=EXhubXZKBwU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EXhubXZKBwU/hqdefault.jpg",
+      "published_at": "2026-03-30T23:14:14+00:00",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "yhgbxPIw7cs",
+      "title": "개미는 아무리 노력해도 개미뿐인걸까ㅣ지금 상황에 유상증자를 한다고요?ㅣ윤지호 '윤쎈의 26년 박스권 살아남기'",
+      "source_url": "https://www.youtube.com/watch?v=yhgbxPIw7cs",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yhgbxPIw7cs/hqdefault.jpg",
+      "published_at": "2026-03-30T12:15:10+00:00",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "x-i1FfiYBRg",
+      "title": "\"현장은 완전 난리났다\" 급매물도 절대 사지 마세요. 집값 최대 -70% 빠질 겁니다 | 이현철 소장 2부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=x-i1FfiYBRg",
+      "thumbnail_url": "https://i1.ytimg.com/vi/x-i1FfiYBRg/hqdefault.jpg",
+      "published_at": "2026-03-30T10:30:32+00:00",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "ndAmhudOUB4",
+      "title": "금, 은 아닙니다. 이걸 주목하세요 #원픽리포트",
+      "source_url": "https://www.youtube.com/shorts/ndAmhudOUB4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ndAmhudOUB4/hqdefault.jpg",
+      "published_at": "2026-03-30T09:51:12+00:00",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "o7GoKgXQJas",
+      "title": "지금 미국이 싸도 너무 싸다 \"S&P500 딱 이만큼 사둬라. 노후 평생 돈걱정 끝이다\" | 김규동 이사 #원픽리포트",
+      "source_url": "https://www.youtube.com/watch?v=o7GoKgXQJas",
+      "thumbnail_url": "https://i4.ytimg.com/vi/o7GoKgXQJas/hqdefault.jpg",
+      "published_at": "2026-03-30T09:04:24+00:00",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "R_Ol165YzhY",
+      "title": "역주행 중인 삼전 Drowning",
+      "source_url": "https://www.youtube.com/shorts/R_Ol165YzhY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/R_Ol165YzhY/hqdefault.jpg",
+      "published_at": "2026-03-30T08:27:44+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "iNFxmnyRCls",
+      "title": "\"이미 시장이 죽어있다\" 문정부 때와 완전히 다르다. 집값 여기까지 빠질 겁니다 | 이현철 소장 1부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=iNFxmnyRCls",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iNFxmnyRCls/hqdefault.jpg",
+      "published_at": "2026-03-30T07:00:23+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "KPOh5ZfQg8k",
+      "title": "ISA 포트폴리오 이렇게 짜면 노후준비 충분하다 #박지환",
+      "source_url": "https://www.youtube.com/shorts/KPOh5ZfQg8k",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KPOh5ZfQg8k/hqdefault.jpg",
+      "published_at": "2026-03-30T02:04:40+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "wZpXFl3gD18",
+      "title": "[월요일은 버디버디] 미 증시는 글로벌 경제침체 이야기ㅣ중국은 뒤에서 웃고 있는 이유",
+      "source_url": "https://www.youtube.com/watch?v=wZpXFl3gD18",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wZpXFl3gD18/hqdefault.jpg",
+      "published_at": "2026-03-29T23:55:57+00:00",
+      "topics": [
+        "stocks",
+        "commodities",
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "KSd1NiVKDEs",
+      "title": "한국개미들이 월가 기관투자자들보다 더 열심히 해요",
+      "source_url": "https://www.youtube.com/watch?v=KSd1NiVKDEs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KSd1NiVKDEs/hqdefault.jpg",
+      "published_at": "2026-03-29T08:51:48+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "EuBvWJ7Ekf8",
+      "title": "\"증여 소용없다\" 이미 타겟은 1주택자다. 2주 뒤 훨씬 끔찍한 게 옵니다 | 이장원 세무사 풀버전 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=EuBvWJ7Ekf8",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EuBvWJ7Ekf8/hqdefault.jpg",
+      "published_at": "2026-03-29T06:00:06+00:00",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "BzU3CXePU28",
+      "title": "5천만원 있다면 그냥 여기 묻어두세요 \"이 5가지 ETF 사두면 남은 돈 다 써도 평생 놀고 먹는다\" | 김규동 이사 #원픽리포트",
+      "source_url": "https://www.youtube.com/watch?v=BzU3CXePU28",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BzU3CXePU28/hqdefault.jpg",
+      "published_at": "2026-03-29T04:00:13+00:00",
+      "topics": [
+        "commodities",
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "3pmMDPmFt9A",
+      "title": "\"보유세 5배 인상 예고 떴다?\" 이재명 대통령 SNS가 밝힌 시나리오. 앞으로 3년 집 사지 마라. 집 한 채 때문에 가난해질 겁니다 #김경필 #돈쭐남",
+      "source_url": "https://www.youtube.com/watch?v=3pmMDPmFt9A",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3pmMDPmFt9A/hqdefault.jpg",
+      "published_at": "2026-03-29T00:00:10+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_name": "달란트투자"
+    },
+    {
+      "video_id": "GzBmTVkg_sU",
+      "title": "직장 상사한테 수익 공개하는 여자",
+      "source_url": "https://www.youtube.com/watch?v=GzBmTVkg_sU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/GzBmTVkg_sU/hqdefault.jpg",
+      "published_at": "2026-03-28T09:00:15+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "JICgPmkQnkw",
+      "title": "(음모론주의) 120년 전에 예견된 트럼프의 전쟁",
+      "source_url": "https://www.youtube.com/watch?v=JICgPmkQnkw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/JICgPmkQnkw/hqdefault.jpg",
+      "published_at": "2026-03-28T05:05:08+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCJo6G1u0e_-wS-JQn3T-zEw",
+      "channel_name": "슈카월드"
+    },
+    {
+      "video_id": "ihGKKRya1nM",
+      "title": "매일 꼭 '이 운동을' 하세요, 노화 속도 4배 늦추는 운동법 (김순렬 원장)",
+      "source_url": "https://www.youtube.com/watch?v=ihGKKRya1nM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ihGKKRya1nM/hqdefault.jpg",
+      "published_at": "2024-03-17T01:30:18+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "VjtTdinonqQ",
+      "title": "역류성식도염 사라진다, '이것을' 매일 마시세요 (김순렬 원장)",
+      "source_url": "https://www.youtube.com/shorts/VjtTdinonqQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VjtTdinonqQ/hqdefault.jpg",
+      "published_at": "2024-03-03T01:00:22+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "5RQylVgeBHo",
+      "title": "피로, 두통, 소화 불량 '이 문제' 때문일 수있다 (김순렬 원장)",
+      "source_url": "https://www.youtube.com/shorts/5RQylVgeBHo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5RQylVgeBHo/hqdefault.jpg",
+      "published_at": "2024-03-02T03:00:07+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "h_i0P722XWI",
+      "title": "한국인의 99%가 모르는 암세포 만드는 음식 1가지 (김순렬 원장)",
+      "source_url": "https://www.youtube.com/shorts/h_i0P722XWI",
+      "thumbnail_url": "https://i1.ytimg.com/vi/h_i0P722XWI/hqdefault.jpg",
+      "published_at": "2024-03-01T08:45:02+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "X90QhjsKr2o",
+      "title": "암세포 씨를 말리는 최고의 음식, '이 2가지만큼은' 꼭 챙겨드세요 (김순렬 원장)",
+      "source_url": "https://www.youtube.com/watch?v=X90QhjsKr2o",
+      "thumbnail_url": "https://i1.ytimg.com/vi/X90QhjsKr2o/hqdefault.jpg",
+      "published_at": "2024-02-25T04:00:25+00:00",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "lrXMfAdEqGE",
+      "title": "노화 만드는 최악의 음식, '이 1가지' 제발 먹지마세요 (김순렬 원장)",
+      "source_url": "https://www.youtube.com/shorts/lrXMfAdEqGE",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lrXMfAdEqGE/hqdefault.jpg",
+      "published_at": "2024-02-24T10:35:05+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "g-Elc-gWy8E",
+      "title": "'이것을' 하지 않으면 치매 가능성 높아진다 (김순렬 원장)",
+      "source_url": "https://www.youtube.com/shorts/g-Elc-gWy8E",
+      "thumbnail_url": "https://i4.ytimg.com/vi/g-Elc-gWy8E/hqdefault.jpg",
+      "published_at": "2024-02-21T09:00:24+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "C50bxpbn3nw",
+      "title": "제로콜라는 몸에 괜찮다? 절대 속지 마세요, 진실은 (김순렬 원장)",
+      "source_url": "https://www.youtube.com/shorts/C50bxpbn3nw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/C50bxpbn3nw/hqdefault.jpg",
+      "published_at": "2024-02-19T09:30:02+00:00",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "0dR_jcrvcK0",
+      "title": "노화, 치매 만드는 최악의 음식 '이 1가지' 제발 먹지마세요 (김순렬 원장)",
+      "source_url": "https://www.youtube.com/watch?v=0dR_jcrvcK0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0dR_jcrvcK0/hqdefault.jpg",
+      "published_at": "2024-02-18T07:45:00+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "RJhboIIVeTI",
+      "title": "당근, 양배추, 사과 매일 먹으세요, 다만 꼭 '이렇게' 먹으세요 (조승우 한약사 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=RJhboIIVeTI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/RJhboIIVeTI/hqdefault.jpg",
+      "published_at": "2024-01-07T07:15:01+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "w3rwJ14VRqU",
+      "title": "암세포 때려잡는 최고의 음식, '이 1가지만큼은' 꼭 챙겨드세요 (조승우 한약사)",
+      "source_url": "https://www.youtube.com/watch?v=w3rwJ14VRqU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/w3rwJ14VRqU/hqdefault.jpg",
+      "published_at": "2023-12-23T03:45:01+00:00",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    },
+    {
+      "video_id": "i90FF-huq6U",
+      "title": "채소, 과일의 엄청난 효과, '이렇게' 먹으면 효과가 100배다 (조승우 한약사)",
+      "source_url": "https://www.youtube.com/watch?v=i90FF-huq6U",
+      "thumbnail_url": "https://i2.ytimg.com/vi/i90FF-huq6U/hqdefault.jpg",
+      "published_at": "2023-12-10T05:30:11+00:00",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCcGoGFmRsDVoGLd1577HJWw",
+      "channel_name": "김작가 TV"
+    }
+  ]
+}

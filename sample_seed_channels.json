@@ -1,0 +1,56 @@
+[
+  {
+    "handle": "@syukaworld",
+    "display_name": "슈카월드",
+    "category_primary": "macro",
+    "country": "KR",
+    "language": "ko",
+    "is_interview_heavy": false,
+    "active": true
+  },
+  {
+    "handle": "@3protv",
+    "display_name": "삼프로TV",
+    "category_primary": "macro",
+    "country": "KR",
+    "language": "ko",
+    "is_interview_heavy": true,
+    "active": true
+  },
+  {
+    "handle": "@lucky_tv",
+    "display_name": "김작가 TV",
+    "category_primary": "stocks",
+    "country": "KR",
+    "language": "ko",
+    "is_interview_heavy": true,
+    "active": true
+  },
+  {
+    "handle": "@talentinvestment",
+    "display_name": "달란트투자",
+    "category_primary": "stocks",
+    "country": "KR",
+    "language": "ko",
+    "is_interview_heavy": false,
+    "active": true
+  },
+  {
+    "handle": "@hs_academy",
+    "display_name": "이효석아카데미",
+    "category_primary": "stocks",
+    "country": "KR",
+    "language": "ko",
+    "is_interview_heavy": false,
+    "active": true
+  },
+  {
+    "handle": "@money-multiple",
+    "display_name": "부티플",
+    "category_primary": "macro",
+    "country": "KR",
+    "language": "ko",
+    "is_interview_heavy": false,
+    "active": true
+  }
+]

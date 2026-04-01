@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T13:00:55.167526+00:00",
+  "generated_at": "2026-04-01T14:52:05.061866+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -59,7 +59,7 @@
   "videos": [
     {
       "video_id": "Ef3FnEzCP2s",
-      "title": "삼성전자·SK하이닉스 주가 전망, 정말 솔직히 말씀드릴게요 (박진희 부장)",
+      "title": "삼성전자·SK하이닉스 심상치 않다, 조만간 엄청난 일 터진다 (박진희 부장)",
       "source_url": "https://www.youtube.com/watch?v=Ef3FnEzCP2s",
       "thumbnail_url": "https://i2.ytimg.com/vi/Ef3FnEzCP2s/hqdefault.jpg",
       "published_at": "2026-04-01T12:45:01+00:00",
@@ -159,17 +159,22 @@
     },
     {
       "video_id": "q_ixvEOOus4",
-      "title": "미국 주식 붕괴 신호 터졌다, 2008년 리만브라더스 사태 징조 (이효석 대표)",
+      "title": "미국 주식 위험 징조 터졌다, 지금은 가급적 주식 사지마세요 (이효석 대표)",
       "source_url": "https://www.youtube.com/watch?v=q_ixvEOOus4",
       "thumbnail_url": "https://i2.ytimg.com/vi/q_ixvEOOus4/hqdefault.jpg",
       "published_at": "2026-04-01T11:00:57+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

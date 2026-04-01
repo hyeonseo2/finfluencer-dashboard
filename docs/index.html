@@ -5,87 +5,1637 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>핀플루언서 비교 분석 대시보드</title>
   <style>
-    :root{--bg:#f4f7fb;--panel:#fff;--line:#dbe3eb;--text:#111827;--muted:#5b6472}
-    *{box-sizing:border-box} body{margin:0;background:linear-gradient(180deg,#f6f8fb,#eef3f8);font-family:Pretendard,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--text)}
-    .top{position:sticky;top:0;background:#0f172a;color:#fff;padding:14px 16px;z-index:10}
-    .brand{text-align:center;font-size:24px;font-weight:900;margin-bottom:10px}
-    .nav-row{position:relative;display:flex;justify-content:center;align-items:center;min-height:38px}
-    .nav{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
-    .btn{border-radius:999px;border:1px solid rgba(191,219,254,.36);background:rgba(241,245,249,.14);color:#f8fafc;padding:7px 11px;text-decoration:none;font-size:12px;font-weight:700}
-    .top-search{position:absolute;right:0;top:50%;transform:translateY(-50%);display:flex;gap:6px}
-    .top-search input{width:190px;min-height:34px;border-radius:999px;border:1px solid rgba(191,219,254,.36);background:rgba(241,245,249,.14);color:#f8fafc;padding:7px 12px;font-size:12px;outline:none}
-    .wrap{max-width:1120px;margin:14px auto;padding:0 12px 40px;display:grid;gap:14px}
-    .panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px;box-shadow:0 8px 20px rgba(15,23,42,.08)}
-    h3{margin:0 0 10px} .muted{color:var(--muted);font-size:13px}
-    .chips{display:flex;gap:8px;flex-wrap:wrap}.chip{font-size:12px;padding:6px 10px;border:1px solid #d8e1f0;border-radius:999px;background:#fff}
-    .topics{display:flex;gap:6px;flex-wrap:wrap}
-    .topic{border:1px solid #d0daf0;border-radius:999px;background:#fff;padding:7px 11px;font-size:12px;font-weight:600;cursor:pointer}
-    .topic.active{border-color:#6f8fff;background:#eaf0ff;color:#1738a5}
-    .list{display:grid;gap:10px}
-    .item{display:grid;grid-template-columns:220px 1fr;gap:12px;padding:10px;border:1px solid #e6ebf2;border-radius:12px;background:#fff}
-    .thumb{width:220px;aspect-ratio:16/9;object-fit:cover;border-radius:10px;background:#e5e7eb}
-    .title{font-weight:800;font-size:16px;line-height:1.3;color:#111827;text-decoration:none}
-    .meta{font-size:12px;color:#64748b;margin-top:4px}
-    .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
-    .pill{font-size:11px;padding:4px 8px;border-radius:999px;border:1px solid #d9e2f3;background:#f8fbff}
-    .stance-positive{background:#ebfff3;border-color:#98e2b0;color:#166534}
-    .stance-neutral{background:#eff6ff;border-color:#b6d2ff;color:#1e3a8a}
-    .stance-negative{background:#fff1f2;border-color:#fecdd3;color:#9f1239}
-    @media (max-width:900px){.top-search{position:static;transform:none;width:100%;justify-content:center;margin-top:8px}.top-search input{width:min(62vw,220px)}.item{grid-template-columns:1fr}.thumb{width:100%}}
+    :root {
+      --bg: #f4f7fb;
+      --panel: #ffffff;
+      --line: #dbe3eb;
+      --text: #111827;
+      --muted: #5b6472;
+      --accent: #3556ff;
+      --accent-soft: #eff2ff;
+      --shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+      --radius: 14px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      background: linear-gradient(180deg, #f6f8fb 0%, #eef3f8 72%);
+      color: var(--text);
+      font-family: Pretendard, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      -webkit-font-smoothing: antialiased;
+      text-rendering: optimizeLegibility;
+      line-height: 1.5;
+    }
+
+    a { color: inherit; }
+
+    .top {
+      position: sticky;
+      top: 0;
+      z-index: 20;
+      color: #fff;
+      padding: 14px 18px 12px;
+      background:
+        radial-gradient(120% 140% at 0% -20%, rgba(96, 165, 250, 0.26) 0%, rgba(96, 165, 250, 0) 42%),
+        radial-gradient(120% 120% at 100% -10%, rgba(59, 130, 246, 0.28) 0%, rgba(59, 130, 246, 0) 40%),
+        linear-gradient(120deg, #0b1220 0%, #0f172a 50%, #111f3b 100%);
+      border-bottom: 1px solid rgba(148, 163, 184, 0.22);
+      box-shadow: 0 14px 30px rgba(2, 6, 23, 0.28);
+      backdrop-filter: blur(8px);
+    }
+
+    .brand {
+      font-size: 28px;
+      font-weight: 900;
+      letter-spacing: -0.35px;
+      margin-bottom: 12px;
+      text-align: center;
+      width: 100%;
+      line-height: 1.2;
+      text-shadow: 0 2px 10px rgba(15, 23, 42, 0.35);
+    }
+
+    .nav-row {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 38px;
+    }
+
+    .nav {
+      display: flex;
+      gap: 9px;
+      flex-wrap: wrap;
+      justify-content: center;
+      align-items: center;
+    }
+
+    .top .btn {
+      border-radius: 999px;
+      border: 1px solid rgba(191, 219, 254, 0.30);
+      background: rgba(241, 245, 249, 0.12);
+      color: #f8fafc;
+      padding: 8px 14px;
+      font-size: 12px;
+      font-weight: 700;
+      box-shadow: 0 3px 10px rgba(15, 23, 42, 0.16);
+      backdrop-filter: blur(4px);
+    }
+
+    .top .btn:hover {
+      transform: translateY(-1px);
+      border-color: rgba(191, 219, 254, 0.62);
+      background: rgba(59, 130, 246, 0.20);
+      color: #ffffff;
+    }
+
+
+
+    .top-search {
+      position: absolute;
+      right: 0;
+      top: 50%;
+      transform: translateY(-50%);
+      display: flex;
+      gap: 6px;
+      justify-content: flex-end;
+      align-items: center;
+      flex-wrap: nowrap;
+    }
+
+    .top-search input {
+      width: 190px;
+      min-height: 34px;
+      border-radius: 999px;
+      border: 1px solid rgba(191, 219, 254, 0.36);
+      background: rgba(241, 245, 249, 0.14);
+      color: #f8fafc;
+      padding: 7px 12px;
+      outline: none;
+      font-size: 12px;
+    }
+
+    .top-search input::placeholder { color: rgba(226, 232, 240, 0.86); }
+
+    .top-search input:focus {
+      border-color: rgba(191, 219, 254, 0.8);
+      box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.22);
+    }
+
+    .btn {
+      border-radius: 12px;
+      border: 1px solid #c8d5ee;
+      background: #eef4ff;
+      color: #111827;
+      padding: 9px 12px;
+      font-size: 13px;
+      font-weight: 700;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+      text-decoration: none;
+      transition: all .18s ease;
+      cursor: pointer;
+    }
+
+    .btn:hover {
+      transform: translateY(-1px);
+      border-color: #9ab8ff;
+      background: #dbe7ff;
+    }
+
+    .btn:disabled {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+
+    .container {
+    .btn.icon-only {
+      min-width: 34px;
+      width: 34px;
+      padding: 0;
+      height: 34px;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 16px;
+    }
+
+      max-width: 1120px;
+      margin: 16px auto;
+      padding: 0 14px 48px;
+      width: min(100%, 1120px);
+      display: grid;
+      gap: 14px;
+    }
+
+    .section { margin: 0; }
+    h3 { margin: 0 0 10px; font-size: 17px; letter-spacing: -0.2px; }
+    h4 { margin: 0; }
+
+    .panel {
+      background: var(--panel);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      padding: 14px;
+      box-shadow: var(--shadow);
+    }
+
+    .muted { color: var(--muted); font-size: 13px; }
+    .footer {
+      color: var(--muted);
+      font-size: 12px;
+      margin: 12px 0 0;
+    }
+
+    .toolbar {
+      display: flex;
+      gap: 10px;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-bottom: 10px;
+    }
+
+    .toolbar input,
+    .toolbar select {
+      min-height: 38px;
+      padding: 8px 12px;
+      border-radius: 10px;
+      border: 1px solid #c7d4e1;
+      background: #fff;
+      font-size: 13px;
+      transition: border-color .15s ease, box-shadow .15s ease;
+      outline: none;
+    }
+
+    .toolbar input:focus,
+    .toolbar select:focus {
+      border-color: #94a8ff;
+      box-shadow: 0 0 0 3px rgba(53, 86, 255, 0.12);
+    }
+
+    .filters { display: flex; flex-wrap: wrap; gap: 10px; align-items: flex-start; }
+    .select-wrap { display: flex; flex-direction: column; gap: 4px; }
+    .select-wrap label { font-size: 12px; color: #4b5563; font-weight: 700; }
+
+    .topic-toggle-wrap {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      align-items: center;
+      margin-top: 2px;
+    }
+
+    .video-feed-controls {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      flex-wrap: wrap;
+    }
+
+    .channel-filter-right {
+      margin-left: auto;
+    }
+
+    .topic-toggle {
+      border: 1px solid #d0daf0;
+      border-radius: 999px;
+      background: #fff;
+      color: #2d374b;
+      padding: 7px 11px;
+      font-size: 12px;
+      font-weight: 600;
+      transition: all .15s ease;
+      cursor: pointer;
+      box-shadow: 0 1px 2px rgba(15, 23, 42, 0.06);
+      white-space: nowrap;
+    }
+
+    .topic-toggle:hover {
+      border-color: #9cb5ff;
+      background: #f5f8ff;
+    }
+
+    .topic-toggle.active {
+      border-color: #6f8fff;
+      background: linear-gradient(180deg, #f2f6ff, #e8edff);
+      color: #1738a5;
+      box-shadow: 0 4px 10px rgba(53, 86, 255, 0.18);
+    }
+
+    .topic-toggle.active::after {
+      content: '';
+      width: 6px;
+      height: 6px;
+      border-radius: 50%;
+      background: #3556ff;
+      display: inline-block;
+      margin-left: 6px;
+    }
+
+    .list {
+      display: grid;
+      gap: 10px;
+    }
+
+    .item {
+      border: 1px solid #dce5ee;
+      border-radius: 12px;
+      padding: 12px;
+      background: #fff;
+      transition: transform .16s ease, box-shadow .16s ease, border-color .16s ease;
+    }
+
+    .item:hover {
+      transform: translateY(-2px);
+      border-color: #a7c0ff;
+      box-shadow: 0 14px 28px rgba(15, 23, 42, 0.10);
+    }
+
+    .video-item {
+      display: grid;
+      grid-template-columns: 210px 1fr;
+      gap: 14px;
+      align-items: start;
+    }
+
+    .video-item.channel-list-item {
+      display: flex;
+      grid-template-columns: initial;
+      gap: 8px;
+    }
+
+    .video-thumb-wrap {
+      width: 210px;
+      flex: 0 0 210px;
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
+    }
+
+    .video-thumb,
+    .video-thumb-fallback {
+      width: 210px;
+      height: 118px;
+      border-radius: 10px;
+      border: 1px solid #dce5ee;
+      object-fit: cover;
+      background: #e2e8f0;
+      display: block;
+    }
+
+    .video-thumb-fallback {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      color: #64748b;
+      font-size: 12px;
+      text-align: center;
+      border-radius: 10px;
+    }
+
+    .video-body {
+      min-width: 0;
+      display: grid;
+      gap: 6px;
+    }
+
+    .video-meta-row {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: nowrap;
+      color: #64748b;
+      font-size: 12px;
+      min-width: 0;
+    }
+
+    .video-meta-row .video-channel {
+      margin-right: 2px;
+      flex: 0 0 auto;
+    }
+
+    .video-meta {
+      display: inline-flex;
+      align-items: center;
+      gap: 7px;
+      color: #64748b;
+      font-size: 12px;
+      min-width: 0;
+      white-space: nowrap;
+    }
+
+    .video-title {
+      font-size: 16px;
+      line-height: 1.35;
+      color: #0f172a;
+      font-weight: 700;
+      min-height: 22px;
+      word-break: break-word;
+      overflow-wrap: anywhere;
+    }
+
+    .a.link,
+    a.link { color: #0f172a; text-decoration: none; }
+    a.link:hover { text-decoration: underline; text-underline-offset: 3px; }
+
+    .video-channel {
+      display: flex;
+      align-items: center;
+      gap: 0px;
+    }
+
+    .video-channel-avatar,
+    .video-channel-avatar-fallback {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      flex: 0 0 20px;
+      background: #e2e8f0;
+      border: 1px solid #cbd5e1;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 10px;
+      color: #334155;
+      font-weight: 700;
+    }
+
+    .video-channel-name {
+      font-size: 12px;
+      font-weight: 600;
+      color: #334155;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+      line-height: 1.2;
+    }
+
+    .status-dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 999px;
+      display: inline-block;
+      flex: 0 0 7px;
+      margin-right: 2px;
+    }
+    .status-done { background: #16a34a; }
+    .status-warn { background: #f59e0b; }
+    .status-error { background: #dc2626; }
+
+    .video-extra {
+      color: #334155;
+      font-size: 13px;
+      line-height: 1.5;
+      margin-top: 2px;
+      word-break: keep-all;
+    }
+
+    .mono {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+      font-size: 12px;
+      color: #334155;
+    }
+
+    .video-preview {
+      white-space: pre-wrap;
+      background: #f8fafc;
+      border: 1px dashed #cfe0f5;
+      border-radius: 8px;
+      margin-top: 6px;
+      padding: 8px;
+      font-size: 11px;
+      color: #475569;
+      line-height: 1.45;
+    }
+
+    .topic-sentiment-item {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      gap: 10px;
+      transition: background .15s ease, border-color .15s ease;
+    }
+
+    .topic-sentiment-item:hover,
+    .topic-sentiment-item.active {
+      border-color: #93c5fd;
+      background: #f3f8ff;
+    }
+
+    .video-thumb-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      min-height: 24px;
+      align-items: center;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      border-radius: 999px;
+      border: 1px solid #d6e0f3;
+      font-size: 11px;
+      padding: 4px 9px;
+      color: #27364d;
+      background: #eef4ff;
+      white-space: nowrap;
+    }
+
+    .pill .dot {
+      width: 7px;
+      height: 7px;
+      border-radius: 50%;
+      display: inline-block;
+      flex: 0 0 7px;
+    }
+
+    .stance-pill {
+      color: #0f172a;
+      border-color: rgba(15, 23, 42, 0.18);
+      font-weight: 600;
+    }
+    .stance-pill.positive { background: #d1fae5; border-color: #86efac; color: #166534; }
+    .stance-pill.neutral { background: #f1f5f9; border-color: #cbd5e1; color: #334155; }
+    .stance-pill.negative { background: #fee2e2; border-color: #fecdd3; color: #991b1b; }
+
+    .pill--no-summary {
+      background: #fef2f2;
+      border-color: #fecdd3;
+      color: #991b1b;
+      font-weight: 600;
+    }
+
+    .video-section-more {
+      margin-top: 8px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+    .video-section-more .muted { font-size: 12px; }
+
+    .video-section-more .btn {
+      min-width: 116px;
+      justify-content: center;
+    }
+
+    .channel-list-item {
+      display: flex;
+      gap: 8px;
+      align-items: center;
+    }
+
+    .channel-avatar-wrap {
+      width: 34px !important;
+      flex: 0 0 34px !important;
+      max-width: 34px !important;
+      min-width: 34px !important;
+      height: 34px !important;
+      margin-top: 0;
+    }
+
+    .channel-avatar {
+      width: 34px !important;
+      height: 34px !important;
+      border-radius: 50%;
+      object-fit: cover;
+    }
+
+    .channel-list-item .video-thumb-wrap {
+      width: 34px !important;
+      min-width: 34px !important;
+      max-width: 34px !important;
+      flex: 0 0 34px !important;
+      display: block;
+    }
+
+    .channel-list-item .video-body {
+      min-width: 0;
+      flex: 1;
+      display: grid;
+      gap: 4px;
+    }
+
+    .channel-title-row {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 1px;
+    }
+
+    .channel-actions {
+      margin-top: 0;
+      display: inline-flex;
+      gap: 6px;
+    }
+
+    .channel-action-btn {
+      border: 1px solid #dce5ee;
+      background: #f8fafc;
+      border-radius: 8px;
+      padding: 6px 10px;
+      font-size: 11px;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all .15s ease;
+      color: #0f172a;
+    }
+    .channel-action-btn:hover { border-color: #9cb5ff; background: #edf3ff; }
+    .channel-action-btn:disabled { opacity: 0.55; cursor: not-allowed; }
+
+    .channel-popup-overlay {
+      position: fixed;
+      inset: 0;
+      background: rgba(15, 23, 42, 0.52);
+      z-index: 60;
+      display: none;
+      align-items: stretch;
+      justify-content: center;
+      padding: 20px;
+    }
+
+    .channel-popup-overlay.open { display: flex; }
+
+    .channel-popup {
+      width: min(980px, 96vw);
+      max-height: 92vh;
+      background: #fff;
+      border-radius: 16px;
+      border: 1px solid #d9e3f0;
+      box-shadow: 0 24px 60px rgba(15, 23, 42, 0.28);
+      display: flex;
+      flex-direction: column;
+      overflow: hidden;
+    }
+
+    .channel-popup-header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      padding: 12px 14px;
+      border-bottom: 1px solid var(--line);
+      background: #f8fbff;
+    }
+
+    .channel-popup-title {
+      margin: 0;
+      font-size: 16px;
+      color: #0f172a;
+      overflow-wrap: anywhere;
+      white-space: normal;
+      max-width: calc(100vw - 180px);
+    }
+
+    #channelPopupHint {
+      white-space: normal;
+      overflow-wrap: anywhere;
+      line-height: 1.4;
+    }
+
+    .channel-popup-close {
+      border: 1px solid #cbd5e1;
+      border-radius: 8px;
+      background: #fff;
+      padding: 6px 10px;
+      font-size: 12px;
+      font-weight: 700;
+      cursor: pointer;
+    }
+
+    .channel-popup-body {
+      padding: 12px;
+      flex: 1;
+      overflow-y: auto;
+    }
+
+    .channel-popup-body .list {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      align-items: start;
+    }
+
+    .channel-popup-body .video-item {
+      width: 100%;
+      align-items: start;
+    }
+
+    @media (max-width: 900px) {
+      .top { padding: 12px 10px 10px; }
+      .brand { font-size: 22px; margin-bottom: 10px; }
+      .top .btn { padding: 7px 11px; font-size: 11px; }
+      .nav-row { min-height: auto; }
+      .top-search {
+        position: static;
+        transform: none;
+        width: 100%;
+        justify-content: center;
+        margin-top: 8px;
+      }
+      .top-search input { width: min(62vw, 220px); font-size: 12px; }
+
+      .container { margin-top: 8px; padding: 0 10px 28px; }
+      .video-item { grid-template-columns: 1fr; }
+      .video-thumb-wrap,
+      .video-thumb,
+      .video-thumb-fallback {
+        width: 100%;
+        max-width: 100%;
+        height: auto;
+        aspect-ratio: 16 / 9;
+      }
+      .video-thumb-wrap { flex: 0 0 auto; }
+      .video-title { font-size: 15px; min-height: auto; }
+      .channel-popup-body .list { grid-template-columns: 1fr; }
+    }
   </style>
 </head>
 <body>
-<header class="top">
-  <div class="brand">핀플루언서 비교 분석 대시보드</div>
-  <div class="nav-row">
-    <div class="nav">
-      <a class="btn" href="#channels">채널</a>
-      <a class="btn" href="#videos">영상 피드</a>
-      <a class="btn" href="#topic">토픽 분석 피드</a>
+  <header class="top">
+    <div class="brand">핀플루언서 비교 분석 대시보드</div>
+    <div class="nav-row">
+      <div class="nav">
+        <a class="btn" href="#channels">채널</a>
+        <a class="btn" href="#videos">영상 피드</a>
+        <a class="btn" href="#topicSentimentSection">토픽 분석 피드</a>
+      </div>
+      <div class="top-search">
+        <input id="query" placeholder="영상 검색 (예: 금리)" />
+        <button class="btn" onclick="searchVideos()">검색</button>
+      </div>
     </div>
-    <div class="top-search"><input id="query" placeholder="영상 검색 (예: 금리)"></div>
+  </header>
+  <main class="container">
+    <section id="channels" class="section">
+      <h3>채널</h3>
+      <div class="panel">
+        <div id="channelList" class="list" style="margin-top:12px"></div>
+      </div>
+    </section>
+
+    <section id="videos" class="section">
+      <h3>영상 피드</h3>
+      <div class="panel">
+        <div class="toolbar filters video-feed-controls">
+          <div class="select-wrap">
+            <div id="topicFilterWrap" class="topic-toggle-wrap"></div>
+          </div>
+          <div class="select-wrap channel-filter-right">
+            <select id="videoChannelFilter" onchange="loadVideos()"><option value="">전체 채널</option></select>
+          </div>
+        </div>
+        <div id="videoList" class="list" style="margin-top:12px"></div>
+        <div id="videoListPager" class="toolbar video-section-more"></div>
+      </div>
+    </section>
+
+    <section id="topicSentimentSection" class="section">
+      <h3>토픽 분석 피드</h3>
+      <div class="panel">
+        <div class="toolbar filters video-feed-controls">
+          <div class="select-wrap">
+            <div id="topicAnalysisFilterWrap" class="topic-toggle-wrap"></div>
+          </div>
+        </div>
+        <p id="topicAnalysisEmpty" class="muted">표시할 영상이 없습니다.</p>
+        <div id="topicAnalysisVideoList" class="list" style="margin-top:12px"></div>
+        <div id="topicAnalysisPager" class="toolbar video-section-more"></div>
+      </div>
+    </section>
+
+    <div id="channelPopup" class="channel-popup-overlay" role="dialog" aria-modal="true" aria-hidden="true" onclick="if (event.target === this) closeChannelVideosPopup();">
+    <div class="channel-popup">
+      <div class="channel-popup-header">
+        <h3 class="channel-popup-title" id="channelPopupTitle">채널 영상 보기</h3>
+        <button type="button" class="channel-popup-close" onclick="closeChannelVideosPopup()">닫기 ✕</button>
+      </div>
+      <div class="channel-popup-body">
+        <div class="toolbar" style="margin-bottom: 8px;">
+          <span id="channelPopupHint" class="muted"></span>
+        </div>
+        <div id="channelPopupVideoList" class="list"></div>
+      </div>
+    </div>
   </div>
-</header>
-<main class="wrap">
-  <section id="channels" class="panel"><h3>채널</h3><div id="channelsBox" class="chips"></div></section>
-  <section id="videos" class="panel"><h3>영상 피드</h3><div id="videoList" class="list"></div></section>
-  <section id="topic" class="panel"><h3>토픽 분석 피드</h3><div id="topicBtns" class="topics"></div><div id="topicList" class="list" style="margin-top:10px"></div></section>
-  <div id="status" class="muted">로딩 중...</div>
-</main>
-<script>
-let data={channels:[],videos:[],topics:[]}; let selectedTopic='all';
-const topicKo={stocks:'주식',commodities:'원자재',crypto:'암호화폐',etf:'ETF',fx:'환율/FX',interest_rate:'금리',macro:'거시/경제',policy:'정책',real_estate:'부동산',bonds:'채권'};
-const stanceKo={positive:'긍정',neutral:'중립',negative:'부정'};
-const sCls=s=>s==='positive'?'stance-positive':s==='negative'?'stance-negative':'stance-neutral';
-const tLabel=t=>topicKo[t]||t;
-function item(v,focus){
- const st=(v.topic_stances||[]).find(x=>!focus||x.topic===focus);
- return `<article class='item'>
- <a href='${v.source_url||'#'}' target='_blank' rel='noreferrer'><img class='thumb' src='${v.thumbnail_url||''}'></a>
- <div><a class='title' href='${v.source_url||'#'}' target='_blank' rel='noreferrer'>${v.title||'(제목 없음)'}</a>
- <div class='meta'>${v.channel_name||''} · ${v.published_at||''}</div>
- <div class='tags'>${focus && st?`<span class='pill ${sCls(st.stance)}'>${tLabel(focus)} ${stanceKo[st.stance]||'중립'}</span>`:(v.topic_stances||[]).map(x=>`<span class='pill ${sCls(x.stance)}'>${tLabel(x.topic)} ${stanceKo[x.stance]||'중립'}</span>`).join('')}</div></div></article>`;
-}
-function render(){
- const q=(document.getElementById('query').value||'').toLowerCase().trim();
- const rows=(data.videos||[]).filter(v=>(!q||((v.title||'').toLowerCase().includes(q)||(v.channel_name||'').toLowerCase().includes(q))));
- document.getElementById('videoList').innerHTML=rows.slice(0,60).map(v=>item(v)).join('')||"<div class='muted'>영상이 없습니다.</div>";
- const tr=rows.filter(v=>selectedTopic==='all'||(v.topics||[]).includes(selectedTopic));
- document.getElementById('topicList').innerHTML=tr.slice(0,60).map(v=>item(v,selectedTopic==='all'?'':selectedTopic)).join('')||"<div class='muted'>영상이 없습니다.</div>";
- document.getElementById('status').textContent=`업데이트: ${data.generated_at||'-'} · 채널 ${data.channels.length}개 · 영상 ${data.videos.length}개`;
-}
-function renderTopics(){
- const wrap=document.getElementById('topicBtns');
- const all=['all',...(data.topics||[])];
- wrap.innerHTML=all.map(t=>`<button class='topic ${selectedTopic===t?'active':''}' data-t='${t}'>${t==='all'?'전체':tLabel(t)}</button>`).join('');
- wrap.querySelectorAll('button').forEach(b=>b.onclick=()=>{selectedTopic=b.dataset.t;renderTopics();render();});
-}
-async function init(){
- const r=await fetch('./data/latest.json',{cache:'no-store'}); data=await r.json();
- document.getElementById('channelsBox').innerHTML=(data.channels||[]).map(c=>`<span class='chip'>${c.display_name||c.handle||c.channel_id}</span>`).join('');
- document.getElementById('query').oninput=render; renderTopics(); render();
-}
-init().catch(e=>document.getElementById('status').textContent='데이터 로드 실패: '+e.message);
-</script>
+
+  <p class="footer">본 서비스는 공개된 콘텐츠를 바탕으로 의견을 구조화해 제공하는 정보 서비스이며, 투자 권유 또는 투자자문을 제공하지 않습니다. 투자 판단과 책임은 이용자 본인에게 있습니다.</p>
+  </main>
+
+  <script>
+    async function api(path) {
+      // GitHub Pages static mode: emulate backend endpoints from docs/data/latest.json
+      if (!window.__pagesData) {
+        const r = await fetch('./data/latest.json', { cache: 'no-store' });
+        if (!r.ok) throw new Error(`./data/latest.json ${r.status} ${r.statusText}`);
+        const raw = await r.json();
+        const videos = Array.isArray(raw.videos) ? raw.videos : [];
+        const channels = Array.isArray(raw.channels) ? raw.channels : [];
+
+        // normalize channel map + video aggregates
+        const byCh = new Map();
+        channels.forEach((c) => {
+          byCh.set(String(c.channel_id || ''), {
+            channel_id: c.channel_id || '',
+            display_name: c.display_name || c.handle || c.channel_id || '채널',
+            handle: c.handle || null,
+            category_primary: c.category_primary || 'macro',
+            active: true,
+            channel_avatar_url: c.channel_avatar_url || c.avatar_url || null,
+            video_count: 0,
+            latest_video_published_at: null,
+          });
+        });
+
+        const normalizedVideos = videos.map((v, idx) => {
+          const cid = String(v.channel_id || '');
+          const ch = byCh.get(cid);
+          const channelName = v.channel || v.channel_name || (ch ? ch.display_name : '채널');
+          const published = v.published_at || null;
+
+          if (cid && ch) {
+            ch.video_count += 1;
+            if (!ch.latest_video_published_at || String(published || '') > String(ch.latest_video_published_at || '')) {
+              ch.latest_video_published_at = published;
+            }
+          }
+
+          return {
+            id: idx + 1,
+            video_id: v.video_id || '',
+            title: v.title || '(제목 없음)',
+            source_url: v.source_url || (v.video_id ? `https://www.youtube.com/watch?v=${v.video_id}` : '#'),
+            thumbnail_url: v.thumbnail_url || null,
+            published_at: published,
+            transcript_status: v.transcript_status || 'SKIPPED',
+            summary: v.summary || '',
+            transcript_preview: v.transcript_preview || '',
+            topics: Array.isArray(v.topics) ? v.topics : [],
+            topic_stances: Array.isArray(v.topic_stances) ? v.topic_stances : [],
+            channel_id: cid,
+            channel: channelName,
+            channel_name: channelName,
+            channel_avatar_url: v.channel_avatar_url || null,
+          };
+        }).sort((a,b)=> String(b.published_at||'').localeCompare(String(a.published_at||'')));
+
+        const computedTopics = Array.from(new Set(normalizedVideos.flatMap(v => v.topics || [])));
+
+        window.__pagesData = {
+          raw,
+          channels: Array.from(byCh.values()),
+          videos: normalizedVideos,
+          topics: (Array.isArray(raw.topics) && raw.topics.length) ? raw.topics : computedTopics,
+        };
+      }
+
+      const data = window.__pagesData;
+
+      // endpoint emulation
+      if (path === '/health') return { status: 'ok', mode: 'pages' };
+      if (path === '/channels') return data.channels;
+      if (path === '/topics') return data.topics;
+
+      if (path.startsWith('/search?')) {
+        const u = new URL(path, 'https://pages.local');
+        const q = String(u.searchParams.get('q') || '').trim().toLowerCase();
+        if (!q) return [];
+        return data.videos.filter(v =>
+          String(v.title || '').toLowerCase().includes(q) ||
+          String(v.summary || '').toLowerCase().includes(q) ||
+          String(v.channel || '').toLowerCase().includes(q)
+        );
+      }
+
+      if (path.startsWith('/videos')) {
+        const u = new URL(path, 'https://pages.local');
+        const topic = String(u.searchParams.get('topic') || '').toLowerCase();
+        const channelId = String(u.searchParams.get('channel_id') || '');
+        return data.videos.filter(v => {
+          const okTopic = !topic || (v.topics || []).map(x => String(x).toLowerCase()).includes(topic);
+          const okChannel = !channelId || String(v.channel_id || '') === channelId;
+          return okTopic && okChannel;
+        });
+      }
+
+      throw new Error(`Unsupported local API path: ${path}`);
+    }
+
+    async function refreshHealth() {
+      try {
+        await api('/health');
+      } catch(e) {
+      }
+    }
+
+
+    const TOPIC_META = {
+      macro: { label: '거시/경제', color: '#6366f1', bg: '#eef2ff', border: '#c7d2fe' },
+      real_estate: { label: '부동산', color: '#0891b2', bg: '#ecfeff', border: '#a5f3fc' },
+      stocks: { label: '주식', color: '#2563eb', bg: '#dbeafe', border: '#93c5fd' },
+      etf: { label: 'ETF', color: '#4f46e5', bg: '#ede9fe', border: '#c4b5fd' },
+      crypto: { label: '암호화폐', color: '#db2777', bg: '#fce7f3', border: '#f9a8d4' },
+      fx: { label: '환율/FX', color: '#0d9488', bg: '#dffcf2', border: '#86efac' },
+      bonds: { label: '채권', color: '#ca8a04', bg: '#fef9c3', border: '#fde047' },
+      commodities: { label: '원자재', color: '#a16207', bg: '#fef3c7', border: '#fbbf24' },
+      policy: { label: '정책', color: '#475569', bg: '#f1f5f9', border: '#cbd5e1' },
+      interest_rate: { label: '금리', color: '#dc2626', bg: '#fee2e2', border: '#fecaca' },
+    };
+
+    function topicLabel(t) {
+      return (TOPIC_META[t] || {}).label || t;
+    }
+
+    function topicDotColor(t) {
+      const meta = TOPIC_META[t] || {};
+      return meta.color || '#64748b';
+    }
+
+    let selectedTopic = '';
+    let selectedTopicAnalysis = '';
+    const VIDEO_FEED_LIMIT = 3;
+    const TOPIC_FEED_LIMIT = 3;
+    let videoRows = [];
+    let videoPage = 1;
+    let topicAnalysisRows = [];
+    let topicAnalysisPage = 1;
+
+    function topicStyle(t) {
+      const meta = TOPIC_META[t] || {};
+      if (!meta.label) {
+        return 'background:#eef2ff;border:1px solid #d8e4ff;color:#27364d';
+      }
+      return `background:${meta.bg};border-color:${meta.border};color:${meta.color}`;
+    }
+
+    function renderTopicButtonWrap(containerId, topics, selected, onSelect) {
+      const wrap = document.getElementById(containerId);
+      if (!wrap) return;
+      wrap.innerHTML = '';
+
+      const allBtn = document.createElement('button');
+      allBtn.type = 'button';
+      allBtn.className = `topic-toggle ${selected === '' ? 'active' : ''}`;
+      allBtn.textContent = '전체';
+      allBtn.onclick = () => {
+        onSelect('');
+      };
+      wrap.appendChild(allBtn);
+
+      (topics || []).forEach((t) => {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = `topic-toggle ${selected === t ? 'active' : ''}`;
+        btn.textContent = topicLabel(t);
+        btn.onclick = () => {
+          onSelect(t);
+        };
+        btn.style = topicStyle(t);
+        wrap.appendChild(btn);
+      });
+    }
+
+    function setSelectedTopic(t) {
+      selectedTopic = t || '';
+      const topicData = document.getElementById('topicFilterWrap').dataset.topics || '[]';
+      const topics = JSON.parse(topicData);
+      renderTopicButtonWrap('topicFilterWrap', topics, selectedTopic, setSelectedTopic);
+      loadVideos();
+    }
+
+    function setSelectedTopicAnalysis(t) {
+      selectedTopicAnalysis = t || '';
+      const topicData = document.getElementById('topicAnalysisFilterWrap').dataset.topics || '[]';
+      const topics = JSON.parse(topicData);
+      renderTopicButtonWrap('topicAnalysisFilterWrap', topics, selectedTopicAnalysis, setSelectedTopicAnalysis);
+      loadTopicAnalysisVideos();
+    }
+    function clearTopicFilter() {
+      setSelectedTopic('');
+    }
+
+    function openChannelVideosPopup(channelId, channelName = '') {
+      if (!channelId) return;
+
+      const overlay = document.getElementById('channelPopup');
+      const title = document.getElementById('channelPopupTitle');
+      const hint = document.getElementById('channelPopupHint');
+      if (!overlay || !title || !hint) return;
+
+      window.currentPopupChannelId = channelId;
+      title.textContent = `${channelName || '채널'} 영상 보기`;
+      hint.textContent = '';
+      overlay.classList.add('open');
+
+      loadChannelOnlyVideos(channelId);
+    }
+
+    function closeChannelVideosPopup() {
+      const overlay = document.getElementById('channelPopup');
+      if (!overlay) return;
+      overlay.classList.remove('open');
+      const list = document.getElementById('channelPopupVideoList');
+      if (list) list.innerHTML = '';
+      window.currentPopupChannelId = '';
+    }
+
+    function applyUrlChannelFilter() {
+      const sel = document.getElementById('videoChannelFilter');
+      if (!sel) return;
+      const params = new URLSearchParams(window.location.search);
+      const cid = params.get('channel_id') || '';
+      if (!cid) return;
+
+      // If channel list isn't loaded yet, retry shortly.
+      const tryApply = () => {
+        const exists = Array.from(sel.options).some((o) => o.value === cid);
+        if (!exists) {
+          window.setTimeout(() => {
+            if (sel && sel.options.length > 1) {
+              if (Array.from(sel.options).some((o) => o.value === cid)) {
+                sel.value = cid;
+                loadVideos();
+              }
+            }
+          }, 200);
+          return;
+        }
+        sel.value = cid;
+        loadVideos();
+      };
+
+      if (sel.options.length > 1) {
+        sel.value = cid;
+        loadVideos();
+      } else {
+        window.setTimeout(tryApply, 150);
+      }
+    }
+
+    function escapeHtml(v) {
+      return String(v || '')
+        .replaceAll('&', '&amp;').replaceAll('<', '&lt;')
+        .replaceAll('>', '&gt;').replaceAll('"', '&quot;')
+        .replaceAll("'", '&#39;');
+    }
+
+    function buildItem(title, meta, link) {
+      const d = document.createElement('div');
+      d.className = 'item';
+      d.innerHTML = `<h4>${escapeHtml(title)}</h4><div class="muted">${escapeHtml(meta)}</div>${link ? `<div class="mono"><a class="link" href="${link}" target="_blank">${link}</a></div>` : ''}`;
+      return d;
+    }
+
+    function buildVideoItem(v, highlightTopic = selectedTopic, includeTopicInStanceLabel = true, hideTopicPills = false, showAllTopicStancePills = false) {
+      const title = (v.title && String(v.title).trim()) ? v.title : `영상(${v.video_id})`;
+      const d = document.createElement('div');
+      d.className = 'item video-item';
+
+      const thumbWrap = document.createElement('div');
+      thumbWrap.className = 'video-thumb-wrap';
+      const thumbLink = document.createElement('a');
+      thumbLink.className = 'link';
+      thumbLink.href = v.source_url || '#';
+      thumbLink.target = '_blank';
+      thumbLink.rel = 'noopener noreferrer';
+      thumbLink.onclick = (ev) => ev.stopPropagation();
+
+      if (v.thumbnail_url) {
+        const img = document.createElement('img');
+        img.className = 'video-thumb';
+        img.loading = 'lazy';
+        img.src = v.thumbnail_url;
+        img.alt = title;
+        img.referrerPolicy = 'no-referrer';
+        img.onerror = () => { img.style.display = 'none'; };
+        thumbLink.appendChild(img);
+      } else {
+        const fb = document.createElement('div');
+        fb.className = 'video-thumb-fallback';
+        fb.textContent = '썸네일 없음';
+        thumbLink.appendChild(fb);
+      }
+      thumbWrap.appendChild(thumbLink);
+
+      const body = document.createElement('div');
+      body.className = 'video-body';
+      const h4 = document.createElement('h4');
+      h4.className = 'video-title';
+      const titleA = document.createElement('a');
+      titleA.className = 'link';
+      titleA.href = v.source_url || '#';
+      titleA.target = '_blank';
+      titleA.rel = 'noopener noreferrer';
+      titleA.textContent = title;
+      titleA.onclick = (ev) => ev.stopPropagation();
+      h4.appendChild(titleA);
+
+      const channelWrap = document.createElement('div');
+      channelWrap.className = 'video-channel';
+      if (v.channel_avatar_url) {
+        const av = document.createElement('img');
+        av.className = 'video-channel-avatar';
+        av.loading = 'lazy';
+        av.referrerPolicy = 'no-referrer';
+        av.src = v.channel_avatar_url;
+        av.alt = v.channel || 'channel';
+        av.onerror = () => { av.style.display = 'none'; };
+        channelWrap.appendChild(av);
+      } else {
+        const fb = document.createElement('div');
+        fb.className = 'video-channel-avatar-fallback';
+        fb.textContent = ((v.channel || '채널').slice(0, 1) || '채');
+        channelWrap.appendChild(fb);
+      }
+      const cn = document.createElement('div');
+      cn.className = 'video-channel-name';
+      const channelA = document.createElement('a');
+      channelA.className = 'link';
+      channelA.href = v.channel_id ? `https://www.youtube.com/channel/${v.channel_id}` : '#';
+      channelA.target = '_blank';
+      channelA.rel = 'noopener noreferrer';
+      channelA.textContent = escapeHtml(v.channel);
+      channelA.onclick = (ev) => ev.stopPropagation();
+      cn.appendChild(channelA);
+      channelWrap.appendChild(cn);
+
+      const meta = document.createElement('div');
+      meta.className = 'video-meta';
+      const statusClass = (v.transcript_status || '').toLowerCase() === 'success' ? 'status-done' : ((v.transcript_status || '').toLowerCase() === 'skipped' ? 'status-warn' : 'status-error');
+      const dot = document.createElement('span');
+      dot.className = `status-dot ${statusClass}`;
+      meta.appendChild(dot);
+      const published = document.createElement('span');
+      published.textContent = `${fmtDate(v.published_at)} / ${v.transcript_status || 'UNKNOWN'}`;
+      meta.appendChild(published);
+
+      const extra = document.createElement('div');
+      extra.className = 'video-extra';
+
+      if (v.summary) {
+        extra.textContent = `${(v.summary || '').slice(0, 120)}${(v.summary || '').length > 120 ? '...' : ''}`;
+      } else if (v.transcript_preview) {
+        extra.textContent = '요약 미분석 / 자막 미리보기';
+        const preview = document.createElement('div');
+        preview.className = 'mono video-preview';
+        preview.textContent = `transcript preview:
+${v.transcript_preview}`;
+        extra.appendChild(preview);
+      } else {
+        extra.textContent = '요약 미분석';
+      }
+
+      const tagsWrap = document.createElement('div');
+      tagsWrap.className = 'video-thumb-tags';
+
+      const topics = v.topics || [];
+      if (!hideTopicPills && topics.length) {
+        topics.forEach(t => {
+          const p = document.createElement('span');
+          p.className = 'pill';
+          p.style.cssText = topicStyle(t);
+          const dot = document.createElement('span');
+          dot.className = 'dot';
+          dot.style.background = topicDotColor(t);
+          p.appendChild(dot);
+          p.appendChild(document.createTextNode(topicLabel(t)));
+          tagsWrap.appendChild(p);
+        });
+      }
+
+      if (showAllTopicStancePills) {
+        const stances = Array.isArray(v.topic_stances) ? v.topic_stances : [];
+        stances.forEach((x) => {
+          const t = String(x.topic || '').toLowerCase();
+          const st = x.stance || 'neutral';
+          const p = document.createElement('span');
+          p.className = `pill stance-pill ${stanceClass(st)}`;
+          p.textContent = `${topicLabel(t)} ${stanceLabel(st)}`;
+          tagsWrap.appendChild(p);
+        });
+      } else {
+        const stanceForSelected = (() => {
+          if (!highlightTopic) return null;
+          const hits = (Array.isArray(v.topic_stances) ? v.topic_stances : []).filter(x => String(x.topic || '').toLowerCase() === String(highlightTopic || '').toLowerCase());
+          if (!hits.length) return null;
+          return hits[0].stance || 'neutral';
+        })();
+
+        if (highlightTopic && stanceForSelected) {
+          const p = document.createElement('span');
+          p.className = `pill stance-pill ${stanceClass(stanceForSelected)}`;
+          p.textContent = includeTopicInStanceLabel
+            ? `${topicLabel(highlightTopic)} ${stanceLabel(stanceForSelected)}`
+            : `${stanceLabel(stanceForSelected)}`;
+          tagsWrap.appendChild(p);
+        }
+      }
+
+      if (!topics.length) {
+        const p = document.createElement('span');
+        p.className = 'pill pill--no-summary';
+        p.textContent = '의견 미분류';
+        tagsWrap.appendChild(p);
+      }
+
+      body.appendChild(h4);
+      const metaRow = document.createElement('div');
+      metaRow.className = 'video-meta-row';
+      metaRow.appendChild(channelWrap);
+      metaRow.appendChild(meta);
+      body.appendChild(metaRow);
+      body.appendChild(extra);
+      body.appendChild(tagsWrap);
+      d.appendChild(thumbWrap);
+      d.appendChild(body);
+      return d;
+    }
+
+    function setPopupModeForChannel(channelId) {
+      if (!channelId) return;
+      openChannelVideosPopup(channelId);
+    }
+
+    async function loadChannelOnlyVideos(channelId) {
+      const list = document.getElementById('channelPopupVideoList');
+      if (!list) return;
+      list.innerHTML = '로딩 중...';
+      try {
+        const rows = await api(`/videos?channel_id=${encodeURIComponent(channelId)}`);
+        list.innerHTML = '';
+        if (!rows.length) {
+          list.innerHTML = '해당 채널의 영상이 없습니다.';
+          return;
+        }
+        rows.forEach(v => {
+          list.appendChild(buildVideoItem(v));
+        });
+      } catch (e) {
+        list.innerHTML = `채널 영상 로드 실패: ${e.message}`;
+      }
+    }
+
+    async function loadChannels() {
+      const list = document.getElementById('channelList');
+      const channelSel = document.getElementById('videoChannelFilter');
+      list.innerHTML = '로딩 중...';
+      try {
+        const rows = await api('/channels');
+        if (!rows.length) { list.innerHTML = '등록된 채널이 없습니다.'; return; }
+        list.innerHTML = '';
+
+        const prevChannel = channelSel ? channelSel.value : '';
+        if (channelSel) {
+          channelSel.innerHTML = '<option value="">전체 채널</option>';
+        }
+
+        rows.forEach((r) => {
+          if (channelSel) {
+            const opt = document.createElement('option');
+            opt.value = r.channel_id;
+            opt.textContent = r.display_name;
+            if (r.channel_id) { channelSel.appendChild(opt); }
+          }
+
+          const item = document.createElement('div');
+          item.className = 'video-item channel-list-item';
+
+          const thumbWrap = document.createElement('div');
+          thumbWrap.className = 'video-thumb-wrap channel-avatar-wrap';
+          const avatarUrl = r.channel_avatar_url || r.avatar_url;
+          if (avatarUrl) {
+            const img = document.createElement('img');
+            img.className = 'channel-avatar';
+            img.loading = 'lazy';
+            img.referrerPolicy = 'no-referrer';
+            img.src = avatarUrl;
+            img.alt = r.display_name;
+            img.onerror = () => { img.style.display = 'none'; };
+            thumbWrap.appendChild(img);
+          } else {
+            const fb = document.createElement('div');
+            fb.className = 'video-channel-avatar-fallback';
+            fb.textContent = (r.display_name || '채').slice(0, 1);
+            thumbWrap.appendChild(fb);
+          }
+
+          const meta = document.createElement('div');
+          meta.className = 'video-body';
+          const h4 = document.createElement('h4');
+          h4.className = 'video-title';
+          const a = document.createElement('a');
+          a.className = 'link';
+          a.href = `https://www.youtube.com/channel/${r.channel_id}`;
+          a.target = '_blank';
+          a.rel = 'noopener noreferrer';
+          a.textContent = r.display_name;
+          h4.appendChild(a);
+
+          const titleRow = document.createElement('div');
+          titleRow.className = 'channel-title-row';
+          titleRow.appendChild(h4);
+
+          const actionWrap = document.createElement('div');
+          actionWrap.className = 'channel-actions';
+          const btn = document.createElement('button');
+          btn.type = 'button';
+          btn.className = 'channel-action-btn';
+          btn.textContent = '채널 영상 보기';
+          const cid = r.channel_id || '';
+          const cname = r.display_name || '채널';
+          if (cid) {
+            btn.onclick = () => {
+              openChannelVideosPopup(cid, cname);
+            };
+          } else {
+            btn.disabled = true;
+          }
+          actionWrap.appendChild(btn);
+          titleRow.appendChild(actionWrap);
+          meta.appendChild(titleRow);
+
+          item.appendChild(thumbWrap);
+          item.appendChild(meta);
+          list.appendChild(item);
+        });
+
+        if (channelSel) {
+          channelSel.value = prevChannel;
+          try {
+            loadTopics();
+          } catch(_) {}
+        }
+      } catch (e) {
+        list.innerHTML = `채널 목록 로드 실패: ${e.message}`;
+      }
+    }
+
+    async function loadTopics() {
+      const topics = await api('/topics');
+      const data = JSON.stringify(topics || []);
+      const sortedTopics = [...(topics || [])].sort((a, b) => topicSortKey(a) - topicSortKey(b) || String(a).localeCompare(String(b)));
+      const topicWrapA = document.getElementById('topicFilterWrap');
+      if (topicWrapA) {
+        topicWrapA.dataset.topics = JSON.stringify(sortedTopics);
+      }
+      const topicWrapB = document.getElementById('topicAnalysisFilterWrap');
+      if (topicWrapB) {
+        topicWrapB.dataset.topics = JSON.stringify(sortedTopics);
+      }
+      renderTopicButtonWrap('topicFilterWrap', sortedTopics, selectedTopic, setSelectedTopic);
+      renderTopicButtonWrap('topicAnalysisFilterWrap', sortedTopics, selectedTopicAnalysis, setSelectedTopicAnalysis);
+    }
+
+    function stanceLabel(stance) {
+      const s = String(stance || '').toLowerCase();
+      if (s === 'positive' || s === 'bullish' || s === 'dovish') return '긍정';
+      if (s === 'negative' || s === 'bearish' || s === 'hawkish') return '부정';
+      if (s === 'neutral') return '중립';
+      return '보류';
+    }
+
+    function stanceClass(stance) {
+      const s = String(stance || '').toLowerCase();
+      if (s === 'positive' || s === 'bullish' || s === 'dovish') return 'positive';
+      if (s === 'negative' || s === 'bearish' || s === 'hawkish') return 'negative';
+      return 'neutral';
+    }
+
+    function fmtDate(s) {
+      if (!s) return '날짜 미확인';
+      const d = new Date(s);
+      if (Number.isNaN(d.getTime())) return s;
+      return d.toLocaleString('ko-KR');
+    }
+
+    function topicSortKey(topic) {
+      const ordered = ['bonds', 'commodities', 'crypto', 'etf', 'fx', 'interest_rate', 'macro', 'policy', 'real_estate', 'stocks'];
+      const idx = ordered.indexOf(topic);
+      return idx === -1 ? 999 : idx;
+    }
+
+    function renderTopicAnalysisRows() {
+      const list = document.getElementById('topicAnalysisVideoList');
+      const pager = document.getElementById('topicAnalysisPager');
+      const empty = document.getElementById('topicAnalysisEmpty');
+      if (!list || !pager || !empty) return;
+
+      list.innerHTML = '';
+      pager.innerHTML = '';
+
+      const rows = Array.isArray(topicAnalysisRows) ? topicAnalysisRows : [];
+      if (!rows.length) {
+        empty.textContent = selectedTopicAnalysis
+          ? `${topicLabel(selectedTopicAnalysis)} 토픽 영상이 없습니다.`
+          : '표시할 영상이 없습니다.';
+        return;
+      }
+
+      empty.textContent = '';
+      const end = Math.min(rows.length, topicAnalysisPage * TOPIC_FEED_LIMIT);
+      rows.slice(0, end).forEach(v => {
+        list.appendChild(buildVideoItem(v, selectedTopicAnalysis, true, true, true));
+      });
+
+      const hasMore = end < rows.length;
+      if (!hasMore) return;
+
+      const line = document.createElement('div');
+      line.className = 'muted';
+      line.style.padding = '2px 0';
+      line.textContent = `${Math.min(end, rows.length)} / ${rows.length}개 표시`;
+      pager.appendChild(line);
+
+      const btn = document.createElement('button');
+      btn.type = 'button';
+      btn.className = 'btn icon-only';
+      btn.title = `더보기 (${Math.min(TOPIC_FEED_LIMIT, rows.length - end)}개 더)`;
+      btn.setAttribute('aria-label', `더보기 ${Math.min(TOPIC_FEED_LIMIT, rows.length - end)}개 더`);
+      btn.innerHTML = '↻';
+      btn.onclick = () => {
+        topicAnalysisPage += 1;
+        renderTopicAnalysisRows();
+      };
+      pager.appendChild(btn);
+    }
+
+    async function loadTopicAnalysisVideos() {
+      const list = document.getElementById('topicAnalysisVideoList');
+      const pager = document.getElementById('topicAnalysisPager');
+      const empty = document.getElementById('topicAnalysisEmpty');
+      if (!list || !pager || !empty) return;
+
+      list.innerHTML = '';
+      pager.innerHTML = '';
+      topicAnalysisPage = 1;
+
+      list.innerHTML = '로딩 중...';
+      try {
+        const path = selectedTopicAnalysis
+          ? `/videos?topic=${encodeURIComponent(selectedTopicAnalysis)}`
+          : '/videos';
+        const rows = await api(path);
+        topicAnalysisRows = Array.isArray(rows) ? rows : [];
+        renderTopicAnalysisRows();
+      } catch (e) {
+        list.innerHTML = `토픽 영상 로드 실패: ${e.message}`;
+      }
+    }
+
+  function renderVideoRows() {
+      const list = document.getElementById('videoList');
+      const pager = document.getElementById('videoListPager');
+      if (!list || !pager) return;
+
+      list.innerHTML = '';
+      const rows = Array.isArray(videoRows) ? videoRows : [];
+      if (!rows.length) {
+        list.innerHTML = '영상이 아직 없습니다.';
+        pager.innerHTML = '';
+        return;
+      }
+
+      const end = Math.min(rows.length, videoPage * VIDEO_FEED_LIMIT);
+      rows.slice(0, end).forEach(v => {
+        list.appendChild(buildVideoItem(v));
+      });
+
+      const hasMore = end < rows.length;
+      const hasPrev = videoPage > 1;
+
+      pager.innerHTML = '';
+      if (!rows.length || (!hasMore && !hasPrev)) {
+        return;
+      }
+
+      const line = document.createElement('div');
+      line.className = 'muted';
+      line.style.padding = '2px 0';
+      line.textContent = `${Math.min(end, rows.length)} / ${rows.length}개 표시`;
+      pager.appendChild(line);
+
+      const btnWrap = document.createElement('div');
+      btnWrap.style.display = 'flex';
+      btnWrap.style.gap = '8px';
+
+      if (hasMore) {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'btn icon-only';
+        btn.title = `더보기 (${Math.min(VIDEO_FEED_LIMIT, rows.length - end)}개 더)`;
+        btn.setAttribute('aria-label', `더보기 ${Math.min(VIDEO_FEED_LIMIT, rows.length - end)}개 더`);
+        btn.innerHTML = '↻';
+        btn.onclick = () => {
+          videoPage += 1;
+          renderVideoRows();
+      
+        };
+        btnWrap.appendChild(btn);
+      }
+
+
+      pager.appendChild(btnWrap);
+    }
+
+    async function loadVideos() {
+      const topic = selectedTopic;
+      const channelFilter = document.getElementById('videoChannelFilter').value;
+      const params = new URLSearchParams();
+      if (topic) { params.set('topic', topic); }
+      if (channelFilter) { params.set('channel_id', channelFilter); }
+      const q = params.toString() ? `?${params.toString()}` : '';
+      const list = document.getElementById('videoList');
+      const pager = document.getElementById('videoListPager');
+      list.innerHTML = '로딩 중...';
+      if (pager) pager.innerHTML = '';
+      videoPage = 1;
+      try {
+        const rows = await api(`/videos${q}`);
+        videoRows = Array.isArray(rows) ? rows : [];
+        renderVideoRows();
+      } catch (e) {
+        list.innerHTML = `영상 로드 실패: ${e.message}`;
+      }
+    }
+
+    async function postWithTimeout(path, opts = {}) {
+      const controller = new AbortController();
+      const timeoutMs = opts.timeoutMs ?? 120000;
+      const timer = setTimeout(() => controller.abort(), timeoutMs);
+      try {
+        const r = await fetch(path, {
+          ...opts,
+          signal: controller.signal,
+          headers: {
+            'X-Admin-Token': 'dev-admin-token',
+            ...(opts.headers || {}),
+          },
+        });
+        if (!r.ok) {
+          const t = await r.text().catch(() => '');
+          throw new Error(`${r.status}: ${t}`);
+        }
+        return r.json();
+      } finally {
+        clearTimeout(timer);
+      }
+    }
+
+    async function bootstrapSeed(btn = null) {
+      const btnEl = btn || (typeof event !== "undefined" ? event?.target : null);
+      const btnObj = btnEl;
+      const status = document.getElementById('ingestStatus');
+      if (btnObj) {
+        btnObj.disabled = true;
+      }
+      if (status) {
+        status.textContent = '샘플 채널 동기화 중...';
+      }
+      try {
+        // 1) 채널 시드 동기화(빠르게 끝남)
+        const seedData = await postWithTimeout('/admin/bootstrap', { method: 'POST', timeoutMs: 30000 });
+        if (status) {
+          status.textContent = `샘플 채널 반영 완료: 생성 ${seedData.created || 0}개 / 기존 ${seedData.existed || 0}개`;
+        }
+
+        // 2) 최신 영상 수집은 별도 단계로 분리해서 실패 범위를 줄임
+        const runData = await postWithTimeout('/admin/run_once', { method: 'POST', timeoutMs: 120000 });
+        if (status) {
+          status.textContent = `수집 완료: 채널 ${runData.channels_processed || 0}개, 새영상 ${runData.new_videos || 0}개, 처리job ${runData.jobs_processed || 0}개`;
+        }
+
+        await loadChannels();
+        await loadVideos();
+      } catch (e) {
+        if (status) {
+          status.textContent = '샘플 동기화/수집 실패: ' + e.message + ' (네트워크 안정성/Cloud Run 응답지연을 확인하세요)';
+        }
+        if (String(e).includes('Failed to fetch') || String(e).includes('AbortError')) {
+          console.error('admin request failed', e);
+        }
+      } finally {
+        if (btnObj) {
+          btnObj.disabled = false;
+        }
+      }
+    }
+
+    async function runOnceIngest(btn = null) {
+      const btnEl = btn || (typeof event !== "undefined" ? event?.target : null);
+      const btnObj = btnEl;
+      const status = document.getElementById('ingestStatus');
+      if (btnObj) {
+        btnObj.disabled = true;
+      }
+      if (status) {
+        status.textContent = '수집 시작...';
+      }
+      try {
+        const data = await postWithTimeout('/admin/run_once', { method: 'POST', timeoutMs: 120000 });
+        if (status) {
+          status.textContent = `완료: 채널 ${data.channels_processed || 0}개, 새영상 ${data.new_videos || 0}개, 처리job ${data.jobs_processed || 0}개`;
+        }
+        await loadChannels();
+        await loadVideos();
+      } catch (e) {
+        if (status) {
+          status.textContent = '수집 실패: ' + e.message;
+        }
+      } finally {
+        if (btnObj) {
+          btnObj.disabled = false;
+        }
+      }
+    }
+
+    async function searchVideos() {
+      const q = document.getElementById('query').value.trim();
+      const list = document.getElementById('videoList');
+      const pager = document.getElementById('videoListPager');
+      if (!q) {
+        await loadVideos();
+        return;
+      }
+      list.innerHTML = '로딩 중...';
+      if (pager) pager.innerHTML = '';
+      const rows = await api(`/search?q=${encodeURIComponent(q)}`);
+      list.innerHTML = '';
+      if (!rows.length) { list.innerHTML = '결과가 없습니다.'; return; }
+      rows.forEach(v => {
+        list.appendChild(buildVideoItem(v));
+      });
+    }
+
+    function filterItems(listId) {
+      const list = document.getElementById(listId);
+      const q = (document.getElementById('q-channel').value || '').toLowerCase();
+      [...list.children].forEach((el) => {
+        const t = el.textContent.toLowerCase();
+        el.style.display = t.includes(q) ? '' : 'none';
+      });
+    }
+
+    loadChannels();
+    loadTopics();
+    loadVideos();
+    loadTopicAnalysisVideos();
+
+    const params = new URLSearchParams(window.location.search);
+    const popupChannel = params.get('channel_id');
+    if (params.get('popup') === '1' && popupChannel) {
+      setPopupModeForChannel(popupChannel);
+    } else {
+      applyUrlChannelFilter();
+    }
+    window.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape') {
+        closeChannelVideosPopup();
+      }
+    });
+  </script>
 </body>
 </html>

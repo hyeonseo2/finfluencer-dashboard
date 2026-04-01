@@ -25,7 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install feedparser
+          pip install feedparser requests
 
       - name: Build docs/data/latest.json
         run: python scripts/build_pages_data.py

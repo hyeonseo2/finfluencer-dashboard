@@ -5,114 +5,87 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>핀플루언서 비교 분석 대시보드</title>
   <style>
-    html, body {
-      width: 100%;
-      height: 100%;
-      margin: 0;
-    }
-
-    body {
-      overflow: hidden;
-      font-family: Pretendard, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-      background: #0f172a;
-    }
-
-    .iframe-wrap {
-      position: fixed;
-      inset: 0;
-    }
-
-    #dashboard-frame {
-      width: 100%;
-      height: 100%;
-      border: 0;
-      display: block;
-      background: #ffffff;
-    }
-
-    .fallback {
-      position: fixed;
-      left: 50%;
-      bottom: 14px;
-      transform: translateX(-50%);
-      z-index: 10;
-      margin: 0;
-      padding: 8px 12px;
-      border-radius: 10px;
-      font-size: 13px;
-      line-height: 1.4;
-      color: #f8fafc;
-      background: rgba(15, 23, 42, 0.84);
-      border: 1px solid rgba(148, 163, 184, 0.35);
-      backdrop-filter: blur(4px);
-    }
-
-    .fallback a {
-      color: #93c5fd;
-      font-weight: 600;
-      text-underline-offset: 2px;
-    }
-
-    .fallback[hidden] {
-      display: none;
-    }
+    :root{--bg:#f4f7fb;--panel:#fff;--line:#dbe3eb;--text:#111827;--muted:#5b6472}
+    *{box-sizing:border-box} body{margin:0;background:linear-gradient(180deg,#f6f8fb,#eef3f8);font-family:Pretendard,-apple-system,Segoe UI,Roboto,sans-serif;color:var(--text)}
+    .top{position:sticky;top:0;background:#0f172a;color:#fff;padding:14px 16px;z-index:10}
+    .brand{text-align:center;font-size:24px;font-weight:900;margin-bottom:10px}
+    .nav-row{position:relative;display:flex;justify-content:center;align-items:center;min-height:38px}
+    .nav{display:flex;gap:8px;justify-content:center;flex-wrap:wrap}
+    .btn{border-radius:999px;border:1px solid rgba(191,219,254,.36);background:rgba(241,245,249,.14);color:#f8fafc;padding:7px 11px;text-decoration:none;font-size:12px;font-weight:700}
+    .top-search{position:absolute;right:0;top:50%;transform:translateY(-50%);display:flex;gap:6px}
+    .top-search input{width:190px;min-height:34px;border-radius:999px;border:1px solid rgba(191,219,254,.36);background:rgba(241,245,249,.14);color:#f8fafc;padding:7px 12px;font-size:12px;outline:none}
+    .wrap{max-width:1120px;margin:14px auto;padding:0 12px 40px;display:grid;gap:14px}
+    .panel{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:12px;box-shadow:0 8px 20px rgba(15,23,42,.08)}
+    h3{margin:0 0 10px} .muted{color:var(--muted);font-size:13px}
+    .chips{display:flex;gap:8px;flex-wrap:wrap}.chip{font-size:12px;padding:6px 10px;border:1px solid #d8e1f0;border-radius:999px;background:#fff}
+    .topics{display:flex;gap:6px;flex-wrap:wrap}
+    .topic{border:1px solid #d0daf0;border-radius:999px;background:#fff;padding:7px 11px;font-size:12px;font-weight:600;cursor:pointer}
+    .topic.active{border-color:#6f8fff;background:#eaf0ff;color:#1738a5}
+    .list{display:grid;gap:10px}
+    .item{display:grid;grid-template-columns:220px 1fr;gap:12px;padding:10px;border:1px solid #e6ebf2;border-radius:12px;background:#fff}
+    .thumb{width:220px;aspect-ratio:16/9;object-fit:cover;border-radius:10px;background:#e5e7eb}
+    .title{font-weight:800;font-size:16px;line-height:1.3;color:#111827;text-decoration:none}
+    .meta{font-size:12px;color:#64748b;margin-top:4px}
+    .tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:8px}
+    .pill{font-size:11px;padding:4px 8px;border-radius:999px;border:1px solid #d9e2f3;background:#f8fbff}
+    .stance-positive{background:#ebfff3;border-color:#98e2b0;color:#166534}
+    .stance-neutral{background:#eff6ff;border-color:#b6d2ff;color:#1e3a8a}
+    .stance-negative{background:#fff1f2;border-color:#fecdd3;color:#9f1239}
+    @media (max-width:900px){.top-search{position:static;transform:none;width:100%;justify-content:center;margin-top:8px}.top-search input{width:min(62vw,220px)}.item{grid-template-columns:1fr}.thumb{width:100%}}
   </style>
 </head>
 <body>
-  <div class="iframe-wrap">
-    <iframe
-      id="dashboard-frame"
-      title="핀플루언서 비교 분석 대시보드"
-      src="https://finfluencer-mvp-api-415500942280.asia-northeast3.run.app/"
-      loading="eager"
-      allowfullscreen
-      referrerpolicy="strict-origin-when-cross-origin"
-    ></iframe>
+<header class="top">
+  <div class="brand">핀플루언서 비교 분석 대시보드</div>
+  <div class="nav-row">
+    <div class="nav">
+      <a class="btn" href="#channels">채널</a>
+      <a class="btn" href="#videos">영상 피드</a>
+      <a class="btn" href="#topic">토픽 분석 피드</a>
+    </div>
+    <div class="top-search"><input id="query" placeholder="영상 검색 (예: 금리)"></div>
   </div>
-
-  <p id="fallback" class="fallback" hidden>
-    대시보드가 보이지 않으면
-    <a href="https://finfluencer-mvp-api-415500942280.asia-northeast3.run.app/" target="_blank" rel="noopener noreferrer">여기에서 바로 열기</a>
-  </p>
-
-  <noscript>
-    <p class="fallback">
-      브라우저에서 스크립트를 사용할 수 없어 임베드가 제한됩니다.
-      <a href="https://finfluencer-mvp-api-415500942280.asia-northeast3.run.app/" target="_blank" rel="noopener noreferrer">대시보드 바로가기</a>
-    </p>
-  </noscript>
-
-  <script>
-    (function () {
-      const frame = document.getElementById("dashboard-frame");
-      const fallback = document.getElementById("fallback");
-      let loaded = false;
-
-      const showFallback = function () {
-        fallback.hidden = false;
-      };
-
-      const hideFallback = function () {
-        fallback.hidden = true;
-      };
-
-      const timeoutId = window.setTimeout(function () {
-        if (!loaded) {
-          showFallback();
-        }
-      }, 5000);
-
-      frame.addEventListener("load", function () {
-        loaded = true;
-        window.clearTimeout(timeoutId);
-        hideFallback();
-      });
-
-      frame.addEventListener("error", function () {
-        window.clearTimeout(timeoutId);
-        showFallback();
-      });
-    })();
-  </script>
+</header>
+<main class="wrap">
+  <section id="channels" class="panel"><h3>채널</h3><div id="channelsBox" class="chips"></div></section>
+  <section id="videos" class="panel"><h3>영상 피드</h3><div id="videoList" class="list"></div></section>
+  <section id="topic" class="panel"><h3>토픽 분석 피드</h3><div id="topicBtns" class="topics"></div><div id="topicList" class="list" style="margin-top:10px"></div></section>
+  <div id="status" class="muted">로딩 중...</div>
+</main>
+<script>
+let data={channels:[],videos:[],topics:[]}; let selectedTopic='all';
+const topicKo={stocks:'주식',commodities:'원자재',crypto:'암호화폐',etf:'ETF',fx:'환율/FX',interest_rate:'금리',macro:'거시/경제',policy:'정책',real_estate:'부동산',bonds:'채권'};
+const stanceKo={positive:'긍정',neutral:'중립',negative:'부정'};
+const sCls=s=>s==='positive'?'stance-positive':s==='negative'?'stance-negative':'stance-neutral';
+const tLabel=t=>topicKo[t]||t;
+function item(v,focus){
+ const st=(v.topic_stances||[]).find(x=>!focus||x.topic===focus);
+ return `<article class='item'>
+ <a href='${v.source_url||'#'}' target='_blank' rel='noreferrer'><img class='thumb' src='${v.thumbnail_url||''}'></a>
+ <div><a class='title' href='${v.source_url||'#'}' target='_blank' rel='noreferrer'>${v.title||'(제목 없음)'}</a>
+ <div class='meta'>${v.channel_name||''} · ${v.published_at||''}</div>
+ <div class='tags'>${focus && st?`<span class='pill ${sCls(st.stance)}'>${tLabel(focus)} ${stanceKo[st.stance]||'중립'}</span>`:(v.topic_stances||[]).map(x=>`<span class='pill ${sCls(x.stance)}'>${tLabel(x.topic)} ${stanceKo[x.stance]||'중립'}</span>`).join('')}</div></div></article>`;
+}
+function render(){
+ const q=(document.getElementById('query').value||'').toLowerCase().trim();
+ const rows=(data.videos||[]).filter(v=>(!q||((v.title||'').toLowerCase().includes(q)||(v.channel_name||'').toLowerCase().includes(q))));
+ document.getElementById('videoList').innerHTML=rows.slice(0,60).map(v=>item(v)).join('')||"<div class='muted'>영상이 없습니다.</div>";
+ const tr=rows.filter(v=>selectedTopic==='all'||(v.topics||[]).includes(selectedTopic));
+ document.getElementById('topicList').innerHTML=tr.slice(0,60).map(v=>item(v,selectedTopic==='all'?'':selectedTopic)).join('')||"<div class='muted'>영상이 없습니다.</div>";
+ document.getElementById('status').textContent=`업데이트: ${data.generated_at||'-'} · 채널 ${data.channels.length}개 · 영상 ${data.videos.length}개`;
+}
+function renderTopics(){
+ const wrap=document.getElementById('topicBtns');
+ const all=['all',...(data.topics||[])];
+ wrap.innerHTML=all.map(t=>`<button class='topic ${selectedTopic===t?'active':''}' data-t='${t}'>${t==='all'?'전체':tLabel(t)}</button>`).join('');
+ wrap.querySelectorAll('button').forEach(b=>b.onclick=()=>{selectedTopic=b.dataset.t;renderTopics();render();});
+}
+async function init(){
+ const r=await fetch('./data/latest.json',{cache:'no-store'}); data=await r.json();
+ document.getElementById('channelsBox').innerHTML=(data.channels||[]).map(c=>`<span class='chip'>${c.display_name||c.handle||c.channel_id}</span>`).join('');
+ document.getElementById('query').oninput=render; renderTopics(); render();
+}
+init().catch(e=>document.getElementById('status').textContent='데이터 로드 실패: '+e.message);
+</script>
 </body>
 </html>

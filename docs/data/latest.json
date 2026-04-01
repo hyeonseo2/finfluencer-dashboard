@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T22:43:42.989110+00:00",
+  "generated_at": "2026-04-01T23:41:02.668707+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,8 +58,46 @@
   ],
   "videos": [
     {
+      "video_id": "6Nuf2wXxjX8",
+      "title": "이란 혁명수비대가 조용하다..? 진짜 종전인가 | 삼프로TV 권순우 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=6Nuf2wXxjX8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6Nuf2wXxjX8/hqdefault.jpg",
+      "published_at": "2026-04-01T23:16:36+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "R8dmmv5PeY0",
+      "title": "이란 대통령 발언 속 숨겨진 진짜 메시지 '종전' | 박현도 서강대 유로메나연구소 교수[글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=R8dmmv5PeY0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/R8dmmv5PeY0/hqdefault.jpg",
+      "published_at": "2026-04-01T22:30:52+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "J9Rk18R_WzQ",
-      "title": "\"10시 중대발표!\" 시장은 이미 알고있다!? [월가 뉴스레터]",
+      "title": "\"10시 중대발표!\" 시장은 알고 움직였다 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=J9Rk18R_WzQ",
       "thumbnail_url": "https://i3.ytimg.com/vi/J9Rk18R_WzQ/hqdefault.jpg",
       "published_at": "2026-04-01T22:03:04+00:00",
@@ -78,17 +116,27 @@
     },
     {
       "video_id": "i-hr6c5pAmM",
-      "title": "트럼프 “이란이 휴전 요청” vs 이란 대통령 “대립 무의미” | 17일부터 다주택자 대출연장 불허 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "‘트럼프 입‘ 따라 움직이는 글로벌 증시…환율·유가 다시 제자리 찾나 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=i-hr6c5pAmM",
       "thumbnail_url": "https://i2.ytimg.com/vi/i-hr6c5pAmM/hqdefault.jpg",
       "published_at": "2026-04-01T20:23:00+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "macro"
+        "stocks",
+        "commodities",
+        "fx"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
           "stance": "neutral"
         }
       ],
@@ -278,17 +326,17 @@
     },
     {
       "video_id": "pwXPrdfKybE",
-      "title": "결국 이번에도 '트럼프 풋'...국채 4.5% 깨지면 다 파세요 | 박병창 교보증권 자산관리전략부 이사 [여의도 인사이트]",
+      "title": "하루 8% 급등…진짜 반등의 시작일까 | 박병창 교보증권 자산관리전략부 이사 [여의도 인사이트]",
       "source_url": "https://www.youtube.com/watch?v=pwXPrdfKybE",
       "thumbnail_url": "https://i1.ytimg.com/vi/pwXPrdfKybE/hqdefault.jpg",
       "published_at": "2026-04-01T10:09:59+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "bonds"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "bonds",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -392,17 +440,17 @@
     },
     {
       "video_id": "aQM_qK2S0xA",
-      "title": "강대권 3부전쟁은 언젠가 끝난다, AI는 되돌릴 수 없다… ‘장기 vs 단기’ 프레임을 뒤집어야 하는 이유⎮강대권 라이프자산운용 대표 [3부]",
+      "title": "오를 땐 겁나고, 내릴 땐 더 무섭다… 투자자들이 ‘영원히 못 사는’ 심리의 정체⎮강대권 라이프자산운용 대표 [3부]",
       "source_url": "https://www.youtube.com/watch?v=aQM_qK2S0xA",
       "thumbnail_url": "https://i2.ytimg.com/vi/aQM_qK2S0xA/hqdefault.jpg",
       "published_at": "2026-04-01T09:00:00+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -618,49 +666,6 @@
         },
         {
           "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "n33ZFLPDQ_A",
-      "title": "트럼프, 이란 관련 대국민 연설서 종전 선언?…한국시간 2일 오전 10시 이후 비트코인·이더리움 가상자산 움직임은? l 서동주, 김동환, 박상혁 디지털애셋 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=n33ZFLPDQ_A",
-      "thumbnail_url": "https://i3.ytimg.com/vi/n33ZFLPDQ_A/hqdefault.jpg",
-      "published_at": "2026-04-01T03:21:52+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-N2WzSeFkzQ",
-      "title": "4월 시장 좋을 겁니다! 매수는 언제? 투자는 어디로?_26.04.01. | 박지훈, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=-N2WzSeFkzQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-N2WzSeFkzQ/hqdefault.jpg",
-      "published_at": "2026-04-01T02:54:56+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

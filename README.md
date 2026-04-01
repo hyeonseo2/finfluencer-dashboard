@@ -96,6 +96,39 @@ docs/data/latest.json
 
 ---
 
+## 🔧 Customize: Channels
+
+채널 목록을 변경하려면 `sample_seed_channels.json` 파일을 수정하면 됩니다.
+
+### 수정 방법
+
+1. `sample_seed_channels.json`에서 채널 추가 / 삭제 / 수정
+2. GitHub에 push
+3. GitHub Actions (`data-collection.yml`) 실행
+4. `docs/data/latest.json` 자동 재생성
+5. GitHub Pages에 자동 반영
+
+### 채널 데이터 형식
+
+```json
+{
+  "channel_id": "UCxxxx...",
+  "channel_avatar_url": "https://yt3.googleusercontent.com/....",
+  "handle": "@channelhandle",
+  "display_name": "채널명",
+  "category_primary": "macro",
+  "country": "KR",
+  "language": "ko",
+  "is_interview_heavy": false,
+  "active": true
+}
+```
+
+* `active: false`로 설정하면 목록에는 유지되지만 수집에서는 제외됩니다.
+* `display_name`은 화면에 표시되는 이름입니다.
+
+---
+
 ## Deployment
 
 GitHub Pages 설정:

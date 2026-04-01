@@ -779,7 +779,9 @@
         // normalize channel map + video aggregates
         const byCh = new Map();
         channels.forEach((c) => {
-          byCh.set(String(c.channel_id || ''), {
+          const id = String(c.channel_id || '');
+          if (!id) return;
+          byCh.set(id, {
             channel_id: c.channel_id || '',
             display_name: c.display_name || c.handle || c.channel_id || '채널',
             handle: c.handle || null,
@@ -794,13 +796,27 @@
         const normalizedVideos = videos.map((v, idx) => {
           const cid = String(v.channel_id || '');
           const ch = byCh.get(cid);
-          const channelName = v.channel || v.channel_name || (ch ? ch.display_name : '채널');
+          const channelName = v.channel_name || v.channel || (ch ? ch.display_name : '채널');
           const published = v.published_at || null;
 
-          if (cid && ch) {
-            ch.video_count += 1;
-            if (!ch.latest_video_published_at || String(published || '') > String(ch.latest_video_published_at || '')) {
-              ch.latest_video_published_at = published;
+          if (cid) {
+            if (!ch) {
+              byCh.set(cid, {
+                channel_id: cid,
+                display_name: channelName || cid,
+                handle: null,
+                category_primary: 'macro',
+                active: true,
+                channel_avatar_url: v.channel_avatar_url || null,
+                video_count: 0,
+                latest_video_published_at: null,
+              });
+            }
+            const target = byCh.get(cid);
+            target.video_count += 1;
+            if (channelName) target.display_name = channelName;
+            if (!target.latest_video_published_at || String(published || '') > String(target.latest_video_published_at || '')) {
+              target.latest_video_published_at = published;
             }
           }
 

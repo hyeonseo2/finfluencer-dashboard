@@ -75,6 +75,7 @@ def parse_feed(channel_id: str) -> list[dict]:
         topics = infer_topics(title)
         topic_stances = [{"topic": t, "stance": "neutral"} for t in topics]
 
+        author = e.get("author") or e.get("yt_channelname") or None
         rows.append(
             {
                 "video_id": video_id,
@@ -82,6 +83,7 @@ def parse_feed(channel_id: str) -> list[dict]:
                 "source_url": link,
                 "thumbnail_url": thumb,
                 "published_at": published,
+                "channel_name": author,
                 "topics": topics,
                 "topic_stances": topic_stances,
             }
@@ -116,7 +118,7 @@ def main() -> None:
         feed_rows = parse_feed(cid)
         for row in feed_rows:
             row["channel_id"] = cid
-            row["channel_name"] = s.get("display_name") or s.get("handle") or cid
+            row["channel_name"] = row.get("channel_name") or s.get("display_name") or s.get("handle") or cid
             videos.append(row)
 
     videos.sort(key=lambda x: str(x.get("published_at") or ""), reverse=True)

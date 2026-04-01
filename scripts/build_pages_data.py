@@ -27,23 +27,53 @@ TOPIC_RULES = {
 }
 
 
+def _handle_url(handle: str) -> str:
+    h = handle or ""
+    if not h.startswith("@"):
+        h = f"@{h}"
+    return f"https://www.youtube.com/{h}"
 
 
-def resolve_channel_id_from_handle(handle: str) -> str | None:
+def resolve_channel_meta(handle: str) -> tuple[str | None, str | None]:
+    """Return (channel_id, avatar_url) from handle page/oEmbed when possible."""
     if not handle:
-        return None
-    h = handle if handle.startswith('@') else f'@{handle}'
-    url = f'https://www.youtube.com/{h}'
+        return None, None
+
+    url = _handle_url(handle)
+
+    # 1) oEmbed is often the most reliable on CI
     try:
-        r = requests.get(url, timeout=15, headers={'User-Agent':'Mozilla/5.0'})
-        if not r.ok:
-            return None
-        m = re.search(r'"channelId"\s*:\s*"(UC[\w-]{20,})"', r.text)
-        if m:
-            return m.group(1)
+        r = requests.get(
+            "https://www.youtube.com/oembed",
+            params={"url": url, "format": "json"},
+            timeout=15,
+            headers={"User-Agent": "Mozilla/5.0"},
+        )
+        if r.ok:
+            j = r.json()
+            author_url = str(j.get("author_url") or "")
+            m = re.search(r"/channel/(UC[\w-]{20,})", author_url)
+            cid = m.group(1) if m else None
+            avatar = j.get("thumbnail_url")
+            if cid:
+                return cid, avatar
     except Exception:
-        return None
-    return None
+        pass
+
+    # 2) Handle page fallback
+    try:
+        r = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+        if not r.ok:
+            return None, None
+        text = r.text
+        m = re.search(r'"channelId"\s*:\s*"(UC[\w-]{20,})"', text)
+        cid = m.group(1) if m else None
+        img = re.search(r'<meta[^>]+property="og:image"[^>]+content="([^"]+)"', text)
+        avatar = img.group(1) if img else None
+        return cid, avatar
+    except Exception:
+        return None, None
+
 
 def infer_topics(title: str) -> list[str]:
     text = (title or "").lower()
@@ -100,25 +130,35 @@ def main() -> None:
     videos: list[dict] = []
 
     for s in seeds:
+        handle = s.get("handle")
         cid = s.get("channel_id")
-        if not cid and s.get("handle"):
-            cid = resolve_channel_id_from_handle(s.get("handle"))
-        if not cid:
-            continue
+        avatar = s.get("channel_avatar_url")
+        if not cid and handle:
+            rcid, ravatar = resolve_channel_meta(handle)
+            cid = rcid
+            avatar = avatar or ravatar
+
+        # Keep seed row even when cid resolve fails (so channel count stays stable)
+        key_id = cid or str(handle or s.get("display_name") or "unknown-channel")
 
         channels.append(
             {
-                "channel_id": cid,
-                "display_name": s.get("display_name") or s.get("handle") or cid,
-                "handle": s.get("handle"),
+                "channel_id": key_id,
+                "display_name": s.get("display_name") or handle or key_id,
+                "handle": handle,
                 "category_primary": s.get("category_primary", "macro"),
+                "channel_avatar_url": avatar,
             }
         )
+
+        if not cid:
+            continue
 
         feed_rows = parse_feed(cid)
         for row in feed_rows:
             row["channel_id"] = cid
-            row["channel_name"] = row.get("channel_name") or s.get("display_name") or s.get("handle") or cid
+            row["channel_name"] = row.get("channel_name") or s.get("display_name") or handle or cid
+            row["channel_avatar_url"] = avatar
             videos.append(row)
 
     videos.sort(key=lambda x: str(x.get("published_at") or ""), reverse=True)
@@ -133,7 +173,7 @@ def main() -> None:
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"written: {OUT_PATH} (videos={len(videos)})")
+    print(f"written: {OUT_PATH} (channels={len(channels)}, videos={len(videos)})")
 
 
 if __name__ == "__main__":

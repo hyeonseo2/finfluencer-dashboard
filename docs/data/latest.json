@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T22:37:48.679455+00:00",
+  "generated_at": "2026-04-02T23:40:25.028590+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -52,11 +52,29 @@
     "fx",
     "interest_rate",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "PdJoxpEZzxw",
+      "title": "이란을 석기시대로 돌린다고? 이란 내부 반응은 | 박현도 서강대 유로메나연구소 교수 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=PdJoxpEZzxw",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PdJoxpEZzxw/hqdefault.jpg",
+      "published_at": "2026-04-02T22:59:40+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "NBn0btfth7c",
       "title": "[26.04.03.시황] 호르무즈 프로토콜 기대감에 뉴욕증시 낙폭 축소…루멘텀, 사상 최고가 경신 [월가 뉴스레터]",
@@ -78,17 +96,17 @@
     },
     {
       "video_id": "SgCU5rhYcDY",
-      "title": "트럼프 “2~3주 더 타격하겠다” vs 이란 “호르무즈 통행료 30억” | 미국 철강 쓴 완제품 25% 관세 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "'석기시대' 경고에 종전 기대 산산조각...시장 우울증 언제까지? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=SgCU5rhYcDY",
       "thumbnail_url": "https://i4.ytimg.com/vi/SgCU5rhYcDY/hqdefault.jpg",
       "published_at": "2026-04-02T20:22:48+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "policy"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "policy",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -608,30 +626,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "i-hr6c5pAmM",
-      "title": "[26.04.02 오전 방송 전체보기] 중동전쟁 '종전 기대감'에 뉴욕증시 이틀째 '반등'...국제유가 소폭 하락 / 17일부터 다주택자 대출연장 불허…세입자 계약 끝날때까지 연장",
-      "source_url": "https://www.youtube.com/watch?v=i-hr6c5pAmM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/i-hr6c5pAmM/hqdefault.jpg",
-      "published_at": "2026-04-02T03:16:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Ef3FnEzCP2s",

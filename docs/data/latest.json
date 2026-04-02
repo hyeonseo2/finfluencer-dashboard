@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T19:03:26.243963+00:00",
+  "generated_at": "2026-04-02T20:40:47.521059+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "SgCU5rhYcDY",
+      "title": "호르무즈 프로토콜?! 종전 기대 멀어졌지만 뉴욕증시 보합권 마감_26.04.03 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=SgCU5rhYcDY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SgCU5rhYcDY/hqdefault.jpg",
+      "published_at": "2026-04-02T20:22:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "7LMXFxdTvbE",
       "title": "내일 증시 떨어져도 팔지마세요, 떨어질 때마다 '이 주식' 사세요 (이효석 대표)",
@@ -600,25 +624,6 @@
       "source_url": "https://www.youtube.com/watch?v=yZItt010W3M",
       "thumbnail_url": "https://i2.ytimg.com/vi/yZItt010W3M/hqdefault.jpg",
       "published_at": "2026-04-02T02:30:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zDXuUUJA-lg",
-      "title": "급등락 장은 계속된다, 돈은 누가 벌까? | 고연수 하나증권 리서치센터 연구원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=zDXuUUJA-lg",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zDXuUUJA-lg/hqdefault.jpg",
-      "published_at": "2026-04-02T01:47:31+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

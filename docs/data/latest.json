@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T10:56:58.903295+00:00",
+  "generated_at": "2026-04-02T11:52:39.293531+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
   ],
   "videos": [
     {
+      "video_id": "IspS4AgAtkQ",
+      "title": "중동 전쟁이 결국 종전되면 '이 4가지 주식' 크게 오를 겁니다 (박정호 교수)",
+      "source_url": "https://www.youtube.com/watch?v=IspS4AgAtkQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IspS4AgAtkQ/hqdefault.jpg",
+      "published_at": "2026-04-02T11:00:33+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "VGWAgdbvutk",
       "title": "메모리 가격 하락에 투심 위축...중국 기업들의 추격ㅣ김장열 유니스토리자산운용 본부장 [집중 오늘의 주식]",
       "source_url": "https://www.youtube.com/watch?v=VGWAgdbvutk",
@@ -101,17 +120,17 @@
     },
     {
       "video_id": "CABkNNBV-tU",
-      "title": "\"천무, 천궁 뒤이어 역대급 수출\" KF-21 줄줄이 UAE행 중동국들 발등에 불 떨어졌다  | 이철재 기자 풀버전",
+      "title": "\"한국덕에 겨우 살았다\" UAE의 눈물 젖은 찬사 천궁2에 감동한 현지 상황 | 이철재 기자 풀버전",
       "source_url": "https://www.youtube.com/watch?v=CABkNNBV-tU",
       "thumbnail_url": "https://i4.ytimg.com/vi/CABkNNBV-tU/hqdefault.jpg",
       "published_at": "2026-04-02T10:30:12+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -263,7 +282,7 @@
     },
     {
       "video_id": "eRQPvK1GqS4",
-      "title": "[4월 2일 마감시황] 기대감이 실망감으로 바뀐 시장...이틀 연속 사이드카가 말하는 경고 | 홍선애, 박근형, 이재규 [클로징벨라이브]",
+      "title": "[4월 2일 마감시황] 이제 믿을건 실적뿐? 늘어나는 신용 잔고와 지수의 역행 | 홍선애, 박근형, 이재규 [클로징벨라이브]",
       "source_url": "https://www.youtube.com/watch?v=eRQPvK1GqS4",
       "thumbnail_url": "https://i2.ytimg.com/vi/eRQPvK1GqS4/hqdefault.jpg",
       "published_at": "2026-04-02T08:31:18+00:00",
@@ -1240,25 +1259,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "XvODA5S3exg",
-      "title": "5천만원으로 '이 주식만' 사세요, 조정장만 버티면 정말 큰돈 된다 (이화진 차장)",
-      "source_url": "https://www.youtube.com/watch?v=XvODA5S3exg",
-      "thumbnail_url": "https://i1.ytimg.com/vi/XvODA5S3exg/hqdefault.jpg",
-      "published_at": "2026-03-30T11:00:30+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "iOWp54DugGI",

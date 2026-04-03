@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T11:41:13.577004+00:00",
+  "generated_at": "2026-04-03T13:14:51.484855+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "9RYpCIboM_w",
+      "title": "성동구 공시가격 +29%, 전국 1등 달성",
+      "source_url": "https://www.youtube.com/watch?v=9RYpCIboM_w",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9RYpCIboM_w/hqdefault.jpg",
+      "published_at": "2026-04-03T12:14:08+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "wXxiTQqc44Q",
       "title": "중동 전쟁으로 조정받는 지금 '이 2가지 주식' 계속 사모으세요 (한지영 연구위원)",
@@ -1426,25 +1445,6 @@
       "source_url": "https://www.youtube.com/watch?v=Ll0oAYdzDAk",
       "thumbnail_url": "https://i1.ytimg.com/vi/Ll0oAYdzDAk/hqdefault.jpg",
       "published_at": "2026-03-24T09:25:21+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wkpWWAypwDM",
-      "title": "\"48시간이 지나면, 이란 발전소를 초토화 시킬 것\"",
-      "source_url": "https://www.youtube.com/watch?v=wkpWWAypwDM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wkpWWAypwDM/hqdefault.jpg",
-      "published_at": "2026-03-23T10:03:48+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

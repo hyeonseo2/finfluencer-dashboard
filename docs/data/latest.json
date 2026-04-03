@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T10:49:50.911508+00:00",
+  "generated_at": "2026-04-03T11:41:13.577004+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,7 +45,6 @@
     }
   ],
   "topics": [
-    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -56,6 +55,54 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "wXxiTQqc44Q",
+      "title": "중동 전쟁으로 조정받는 지금 '이 2가지 주식' 계속 사모으세요 (한지영 연구위원)",
+      "source_url": "https://www.youtube.com/watch?v=wXxiTQqc44Q",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wXxiTQqc44Q/hqdefault.jpg",
+      "published_at": "2026-04-03T11:01:33+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "fQ-jY-sGZAI",
+      "title": "기업은 어떤 순서로 외부에서 자금을 조달할까? ㅣ 차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
+      "source_url": "https://www.youtube.com/watch?v=fQ-jY-sGZAI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/fQ-jY-sGZAI/hqdefault.jpg",
+      "published_at": "2026-04-03T11:01:10+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "PNt8r6G-6vk",
       "title": "\"거품 다 터지는 중\" 지금도 급매 쏟아지고 있다. 강남 집값 하락장, 아주 길고 끔찍할 겁니다 | 서동기 박사 2부 #돈쭐남 #김경필",
@@ -115,7 +162,7 @@
     },
     {
       "video_id": "cPLt54tnGWA",
-      "title": "차영주의 주(株) 스토리 | 차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
+      "title": "[26.04.03 오후 방송 전체보기] 미 증시 보합만 되도 우리 코스피는 참지 않지!…3% 급등! [클로징벨 라이브]",
       "source_url": "https://www.youtube.com/watch?v=cPLt54tnGWA",
       "thumbnail_url": "https://i4.ytimg.com/vi/cPLt54tnGWA/hqdefault.jpg",
       "published_at": "2026-04-03T10:07:49+00:00",
@@ -134,17 +181,17 @@
     },
     {
       "video_id": "uDQAwzmA89U",
-      "title": "중동 전쟁은 결국 곧 종전된다, 지금 사 모아가야 할 주도주는? (이선엽 대표)",
+      "title": "삼성전자 심상치 않다, 조만간 엄청난 일 터진다 (이선엽 대표)",
       "source_url": "https://www.youtube.com/watch?v=uDQAwzmA89U",
       "thumbnail_url": "https://i2.ytimg.com/vi/uDQAwzmA89U/hqdefault.jpg",
       "published_at": "2026-04-03T10:01:29+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -447,25 +494,6 @@
       "source_url": "https://www.youtube.com/watch?v=yrcgiJKRbVA",
       "thumbnail_url": "https://i2.ytimg.com/vi/yrcgiJKRbVA/hqdefault.jpg",
       "published_at": "2026-04-03T01:23:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "moYLNA-Q95E",
-      "title": "누른만큼 더 강하고 더 높게 오른다, 어떤 게? | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=moYLNA-Q95E",
-      "thumbnail_url": "https://i2.ytimg.com/vi/moYLNA-Q95E/hqdefault.jpg",
-      "published_at": "2026-04-03T01:22:21+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"
@@ -1163,35 +1191,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VX0ycXgT8-Q",
-      "title": "주식도, 금도, 채권도 다 빠진다, 돈은 전부 다 '여기로' 갔다' (박정호 교수)",
-      "source_url": "https://www.youtube.com/watch?v=VX0ycXgT8-Q",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VX0ycXgT8-Q/hqdefault.jpg",
-      "published_at": "2026-03-31T10:16:44+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "xc6znHjNFOI",

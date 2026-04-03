@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-03T22:39:29.448739+00:00",
+  "generated_at": "2026-04-03T23:39:46.079699+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Ss6ROFA4NNs",
+      "title": "전쟁 이후의 금융시장을 결정지을 유일한 바로미터와 60일의 시나리오 | 빈센트 하나증권 애널리스트 [빈센트의 체크포인트]",
+      "source_url": "https://www.youtube.com/watch?v=Ss6ROFA4NNs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Ss6ROFA4NNs/hqdefault.jpg",
+      "published_at": "2026-04-03T23:00:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "9RYpCIboM_w",
       "title": "성동구 공시가격 +29%, 전국 1등 달성",
@@ -501,25 +520,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "yrcgiJKRbVA",
-      "title": "실적, 심리 모두 다 준비됐다, 이제 움직일 차례 | 권택중 더 센터필드W 과장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=yrcgiJKRbVA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yrcgiJKRbVA/hqdefault.jpg",
-      "published_at": "2026-04-03T01:23:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

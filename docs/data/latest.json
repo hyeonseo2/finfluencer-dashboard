@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-02T23:40:25.028590+00:00",
+  "generated_at": "2026-04-03T02:47:53.472565+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,149 @@
   ],
   "videos": [
     {
+      "video_id": "RnSdbwOEWvY",
+      "title": "요즘처럼 불확실성한 시장에도 누군가는 돈을번다! 어떤 전략으로 다가가야할까?_26.04.03. |  박지훈, 황병진, 여도은, 허재무 [아침N투자]",
+      "source_url": "https://www.youtube.com/watch?v=RnSdbwOEWvY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/RnSdbwOEWvY/hqdefault.jpg",
+      "published_at": "2026-04-03T02:36:56+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "3tKdRiFJ_c8",
+      "title": "바이오 질주는 이것 기준이 될 것, 정부 수술은? | 김선아 하나증권 리서치센터 수석연구위원 [더블 업]",
+      "source_url": "https://www.youtube.com/watch?v=3tKdRiFJ_c8",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3tKdRiFJ_c8/hqdefault.jpg",
+      "published_at": "2026-04-03T01:35:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "yrcgiJKRbVA",
+      "title": "실적, 심리 모두 다 준비됐다, 이제 움직일 차례 | 권택중 더 센터필드W 과장 [더블 크루]",
+      "source_url": "https://www.youtube.com/watch?v=yrcgiJKRbVA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yrcgiJKRbVA/hqdefault.jpg",
+      "published_at": "2026-04-03T01:23:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "moYLNA-Q95E",
+      "title": "누른만큼 더 강하고 더 높게 오른다, 어떤 게? | 장우진 작가 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=moYLNA-Q95E",
+      "thumbnail_url": "https://i2.ytimg.com/vi/moYLNA-Q95E/hqdefault.jpg",
+      "published_at": "2026-04-03T01:22:21+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "0edkyluOmaY",
+      "title": "유가는 급등했지만, 국채수익률·환율은 변동 없는 모습...되돌림 반등 기대해도 되나 | 박병창 교보증권 이사 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=0edkyluOmaY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0edkyluOmaY/hqdefault.jpg",
+      "published_at": "2026-04-03T00:18:27+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jZz_Nk_Nv80",
+      "title": "\"트럼프 발언에 시장 출렁…런던 운용사 매니저 '말보다 현장을 봐라'\"⎮윌리엄 글로벌자산운용사 매니저",
+      "source_url": "https://www.youtube.com/watch?v=jZz_Nk_Nv80",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jZz_Nk_Nv80/hqdefault.jpg",
+      "published_at": "2026-04-03T00:15:00+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Brl0yVM-E1w",
+      "title": "3월 20만원 4월에는 60만원 줄줄이 인상…\"당분간 오름세 확대될 듯\" | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=Brl0yVM-E1w",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Brl0yVM-E1w/hqdefault.jpg",
+      "published_at": "2026-04-02T23:36:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "PdJoxpEZzxw",
       "title": "이란을 석기시대로 돌린다고? 이란 내부 반응은 | 박현도 서강대 유로메나연구소 교수 [글로벌 인터뷰]",
       "source_url": "https://www.youtube.com/watch?v=PdJoxpEZzxw",
@@ -96,17 +239,22 @@
     },
     {
       "video_id": "SgCU5rhYcDY",
-      "title": "'석기시대' 경고에 종전 기대 산산조각...시장 우울증 언제까지? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "중동이 선택한 결제 수단…코인이 달러를 밀어내는 순간일까? | 김동환, 서동주, 박상혁, 최윤영 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=SgCU5rhYcDY",
       "thumbnail_url": "https://i4.ytimg.com/vi/SgCU5rhYcDY/hqdefault.jpg",
       "published_at": "2026-04-02T20:22:48+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "macro"
+        "crypto",
+        "fx"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "crypto",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
           "stance": "neutral"
         }
       ],
@@ -252,35 +400,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "xAWiDiuLdS8",
-      "title": "주식·채권 동반 급락...숨겨진 시장의 진짜 뇌관은 | 송재경 디멘젼투자자문 대표 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=xAWiDiuLdS8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xAWiDiuLdS8/hqdefault.jpg",
-      "published_at": "2026-04-02T10:00:52+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "DvNfk57ABlo",
       "title": "넷플릭스 '쩐의 전쟁'을 시작한다.",
       "source_url": "https://www.youtube.com/watch?v=DvNfk57ABlo",
@@ -376,25 +495,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "eRQPvK1GqS4",
-      "title": "[4월 2일 마감시황] 이제 믿을건 실적뿐? 늘어나는 신용 잔고와 지수의 역행 | 홍선애, 박근형, 이재규 [클로징벨라이브]",
-      "source_url": "https://www.youtube.com/watch?v=eRQPvK1GqS4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/eRQPvK1GqS4/hqdefault.jpg",
-      "published_at": "2026-04-02T08:31:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "UVWa7Dr3LwM",
       "title": "초강대국이 된 한국 현재 상황 일본은 상상도 못 할 압도적 격차 | 호사카유지 교수 3부",
       "source_url": "https://www.youtube.com/watch?v=UVWa7Dr3LwM",
@@ -412,25 +512,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MPa85MqaZkg",
-      "title": "지금 내 계좌에 꼭 담아야 할 것 | 배재원 하나증권 인천지점 PB [더블 크루]",
-      "source_url": "https://www.youtube.com/shorts/MPa85MqaZkg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MPa85MqaZkg/hqdefault.jpg",
-      "published_at": "2026-04-02T07:43:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "yR08KPwU6Kw",
@@ -528,25 +609,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "_Pv696cnmz4",
-      "title": "“압도적 승리”트럼프가 말로만 승리 외치는 이유 | 알파고 시나씨 중동 전문기자 [긴급인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=_Pv696cnmz4",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_Pv696cnmz4/hqdefault.jpg",
-      "published_at": "2026-04-02T06:20:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "mqPmP9-Kc4o",
       "title": "연금 ETF 포트폴리오 '이렇게' 하세요 #은기환",
       "source_url": "https://www.youtube.com/shorts/mqPmP9-Kc4o",
@@ -569,44 +631,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "LDvFyIJG1xo",
-      "title": "보이지 않는 플레이어들…가상자산 시장 뒤에서 움직이는 ‘마켓메이커’ 세력의 정체 ㅣ서동주, 김동환, 김준우 쟁글 대표 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=LDvFyIJG1xo",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LDvFyIJG1xo/hqdefault.jpg",
-      "published_at": "2026-04-02T04:45:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hmyxpiGiOyo",
-      "title": "코인 시장 핵심 이슈 미국의 대국민 연설 끝…트럼프가 엡스타인 ‘전쟁으로 덮었다’ 소문 이유는? ㅣ 서동주, 김동환, 김제이 블록미디어 편집장 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=hmyxpiGiOyo",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hmyxpiGiOyo/hqdefault.jpg",
-      "published_at": "2026-04-02T03:37:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "aj9jZtkUAqA",
@@ -1330,25 +1354,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "LRm_Clo8tp4",
-      "title": "끝이 안나는 미국 이란 전쟁 29일차, 사상 최악의 시나리오",
-      "source_url": "https://www.youtube.com/watch?v=LRm_Clo8tp4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LRm_Clo8tp4/hqdefault.jpg",
-      "published_at": "2026-03-29T14:07:07+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "pBxD9XeokKs",

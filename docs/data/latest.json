@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T04:55:22.365184+00:00",
+  "generated_at": "2026-04-04T06:01:43.845575+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -44,6 +44,255 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     }
   ],
-  "topics": [],
-  "videos": []
+  "topics": [
+    "commodities",
+    "crypto",
+    "macro",
+    "stocks"
+  ],
+  "videos": [
+    {
+      "video_id": "5qCz2ZW1K3g",
+      "title": "대출 받은 돈 갚기 너무 버겁다, 영끌족 결국 초비상 사태 걸렸다 (한문도 교수)",
+      "source_url": "https://www.youtube.com/watch?v=5qCz2ZW1K3g",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5qCz2ZW1K3g/hqdefault.jpg",
+      "published_at": "2026-04-04T05:30:03+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NwYWoaSl1Z0",
+      "title": "비트코인·이더리움 결국 사라진다? 폭락 후 곧 정말 무섭게 오른다 (김창익 대표)",
+      "source_url": "https://www.youtube.com/watch?v=NwYWoaSl1Z0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NwYWoaSl1Z0/hqdefault.jpg",
+      "published_at": "2026-04-04T03:45:01+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "wXxiTQqc44Q",
+      "title": "중동 전쟁 끝난 후 한국이 떼돈 번다, 지금 사 모아가야 할 주식 2가지 (한지영 연구위원)",
+      "source_url": "https://www.youtube.com/watch?v=wXxiTQqc44Q",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wXxiTQqc44Q/hqdefault.jpg",
+      "published_at": "2026-04-03T11:01:33+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "uDQAwzmA89U",
+      "title": "삼성전자 심상치 않다, 조만간 엄청난 일 터진다 (이선엽 대표)",
+      "source_url": "https://www.youtube.com/watch?v=uDQAwzmA89U",
+      "thumbnail_url": "https://i2.ytimg.com/vi/uDQAwzmA89U/hqdefault.jpg",
+      "published_at": "2026-04-03T10:01:29+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "7LMXFxdTvbE",
+      "title": "내일 증시 떨어져도 팔지마세요, 떨어질 때마다 '이 주식' 사세요 (이효석 대표)",
+      "source_url": "https://www.youtube.com/watch?v=7LMXFxdTvbE",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7LMXFxdTvbE/hqdefault.jpg",
+      "published_at": "2026-04-02T12:00:19+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "IspS4AgAtkQ",
+      "title": "중동 전쟁 끝난 후 한국이 떼돈 번다, 지금 사 모아가야 할 주식 4가지 (박정호 교수)",
+      "source_url": "https://www.youtube.com/watch?v=IspS4AgAtkQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IspS4AgAtkQ/hqdefault.jpg",
+      "published_at": "2026-04-02T11:00:33+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "2Nsu5mos0m8",
+      "title": "전쟁은 오래 가지 않을 겁니다, 종전 후 반등하는 주도주 3가지 (이선엽 대표)",
+      "source_url": "https://www.youtube.com/watch?v=2Nsu5mos0m8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2Nsu5mos0m8/hqdefault.jpg",
+      "published_at": "2026-04-02T10:00:06+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "vHTuy6tDEs8",
+      "title": "전쟁보다 더 무서운 것, 잘못하면 계좌가 완전 녹는다 (이선엽 대표)",
+      "source_url": "https://www.youtube.com/watch?v=vHTuy6tDEs8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/vHTuy6tDEs8/hqdefault.jpg",
+      "published_at": "2026-04-02T09:01:07+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Ef3FnEzCP2s",
+      "title": "삼성전자·SK하이닉스 주가 전망, 정말 솔직히 말씀드릴게요 (박진희 부장)",
+      "source_url": "https://www.youtube.com/watch?v=Ef3FnEzCP2s",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Ef3FnEzCP2s/hqdefault.jpg",
+      "published_at": "2026-04-01T12:45:01+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "_q86pERfjQY",
+      "title": "원전주 더 무섭게 오를 겁니다, 현대건설 아닌 '이 주식' 사세요 (박진희 부장)",
+      "source_url": "https://www.youtube.com/watch?v=_q86pERfjQY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_q86pERfjQY/hqdefault.jpg",
+      "published_at": "2026-04-01T11:45:03+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "q_ixvEOOus4",
+      "title": "미국 주식 위험 징조 터졌다, 지금은 가급적 주식 사지마세요 (이효석 대표)",
+      "source_url": "https://www.youtube.com/watch?v=q_ixvEOOus4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/q_ixvEOOus4/hqdefault.jpg",
+      "published_at": "2026-04-01T11:00:57+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "vX7nLJ3Bvkw",
+      "title": "삼성전자 정말 심상치 않다, 조만간 엄청난 일 터질 겁니다 (박정호 교수)",
+      "source_url": "https://www.youtube.com/watch?v=vX7nLJ3Bvkw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/vX7nLJ3Bvkw/hqdefault.jpg",
+      "published_at": "2026-04-01T10:08:09+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    }
+  ]
 }

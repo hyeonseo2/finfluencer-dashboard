@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T10:39:12.656909+00:00",
+  "generated_at": "2026-04-04T11:33:44.377394+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "hUx5XifMZ7w",
+      "title": "\"이제 남은 길은 주식 한방 뿐\"",
+      "source_url": "https://www.youtube.com/watch?v=hUx5XifMZ7w",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hUx5XifMZ7w/hqdefault.jpg",
+      "published_at": "2026-04-04T11:17:52+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "x24gt0YsBdQ",
       "title": "두산 2배 가면 '이 주식' 10배 간다, 두산 말고 '이 주식을' 사세요 (부자티비 이수빈 대표 풀버전, 3월 26일 촬영본)",
@@ -1425,25 +1449,6 @@
       "source_url": "https://www.youtube.com/watch?v=PoDkAgkNOEo",
       "thumbnail_url": "https://i1.ytimg.com/vi/PoDkAgkNOEo/hqdefault.jpg",
       "published_at": "2026-03-25T09:25:06+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Ll0oAYdzDAk",
-      "title": "수 조원이 움직인다. BTS 경제학",
-      "source_url": "https://www.youtube.com/watch?v=Ll0oAYdzDAk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Ll0oAYdzDAk/hqdefault.jpg",
-      "published_at": "2026-03-24T09:25:21+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

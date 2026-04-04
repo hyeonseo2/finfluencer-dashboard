@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T19:35:15.764170+00:00",
+  "generated_at": "2026-04-04T20:38:45.180595+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -403,17 +403,17 @@
     },
     {
       "video_id": "Ss6ROFA4NNs",
-      "title": "코스피 길어야 두달이면 전고점 넘는다 | 빈센트 하나증권 애널리스트 [빈센트의 체크포인트]",
+      "title": "\"길어야 두달?!\" 주도주 재돌파는 시간 문제인 이유 | 빈센트 하나증권 애널리스트 [빈센트의 체크포인트]",
       "source_url": "https://www.youtube.com/watch?v=Ss6ROFA4NNs",
       "thumbnail_url": "https://i4.ytimg.com/vi/Ss6ROFA4NNs/hqdefault.jpg",
       "published_at": "2026-04-03T23:00:37+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

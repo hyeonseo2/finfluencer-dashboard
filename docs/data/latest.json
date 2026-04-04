@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T22:35:21.830139+00:00",
+  "generated_at": "2026-04-04T23:37:05.584858+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "sr7l4MKTsRY",
+      "title": "긴급토론회 l 이기헌,최종건,김정섭,김현일,서주석",
+      "source_url": "https://www.youtube.com/watch?v=sr7l4MKTsRY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/sr7l4MKTsRY/hqdefault.jpg",
+      "published_at": "2026-04-04T23:01:02+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "-fC7lWFyXMc",
       "title": "삼성전자, SK하이닉스 심상치 않다, 조만간 엄청난 일 터진다 (박진희 부장 풀버전, 3월 30일 촬영본)",
@@ -785,30 +804,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "U4AhA-E_6W0",
-      "title": "페트로달러 균열? 중동이 선택한 결제 수단…스테이블코인, 위안화가 주인공 될까? ㅣ서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=U4AhA-E_6W0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/U4AhA-E_6W0/hqdefault.jpg",
-      "published_at": "2026-04-03T04:11:17+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],

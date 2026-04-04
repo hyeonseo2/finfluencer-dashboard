@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-04T09:44:51.506016+00:00",
+  "generated_at": "2026-04-04T10:39:12.656909+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "x24gt0YsBdQ",
+      "title": "두산 2배 가면 '이 주식' 10배 간다, 두산 말고 '이 주식을' 사세요 (부자티비 이수빈 대표 풀버전, 3월 26일 촬영본)",
+      "source_url": "https://www.youtube.com/watch?v=x24gt0YsBdQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/x24gt0YsBdQ/hqdefault.jpg",
+      "published_at": "2026-04-04T10:15:11+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "JOLdfHcOWuI",
+      "title": "서울 살던 몽골인들 싹다 걸렸다 몽골에서 벌어지는 기이한 현상 | 몽골노민 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=JOLdfHcOWuI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/JOLdfHcOWuI/hqdefault.jpg",
+      "published_at": "2026-04-04T10:00:23+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "maaFmqTaQ98",
       "title": "한국주식 지금 역대급 기회인 이유, '이 밑으로' 떨어지면 많이 사세요 (한지영 연구위원)",
@@ -332,22 +370,17 @@
     },
     {
       "video_id": "Ss6ROFA4NNs",
-      "title": "국제 유가가 알려주는 진실, 코스피 회복까지 딱 두 달 걸린다 | 빈센트 하나증권 애널리스트 [빈센트의 체크포인트]",
+      "title": "코스피 길어야 두달이면 전고점 넘는다 | 빈센트 하나증권 애널리스트 [빈센트의 체크포인트]",
       "source_url": "https://www.youtube.com/watch?v=Ss6ROFA4NNs",
       "thumbnail_url": "https://i4.ytimg.com/vi/Ss6ROFA4NNs/hqdefault.jpg",
       "published_at": "2026-04-03T23:00:37+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -950,25 +983,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "UVWa7Dr3LwM",
-      "title": "초강대국이 된 한국 현재 상황 일본은 상상도 못 할 압도적 격차 | 호사카유지 교수 3부",
-      "source_url": "https://www.youtube.com/watch?v=UVWa7Dr3LwM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UVWa7Dr3LwM/hqdefault.jpg",
-      "published_at": "2026-04-02T08:30:11+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "7CY8wh9khKg",
       "title": "(광고x) \"1금융권 이자 7% 적금 떴다\" 매월 35만원만 여기 넣으세요. 목돈 2000만원 순식간에 됩니다 #김경필 #돈쭐남",
       "source_url": "https://www.youtube.com/watch?v=7CY8wh9khKg",
@@ -1081,30 +1095,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "q_ixvEOOus4",
-      "title": "미국 주식 위험 징조 터졌다, 지금은 가급적 주식 사지마세요 (이효석 대표)",
-      "source_url": "https://www.youtube.com/watch?v=q_ixvEOOus4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/q_ixvEOOus4/hqdefault.jpg",
-      "published_at": "2026-04-01T11:00:57+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "fzgZy2gsUwE",

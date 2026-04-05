@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T14:39:01.130370+00:00",
+  "generated_at": "2026-04-05T15:38:33.027712+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
   ],
   "videos": [
     {
+      "video_id": "zA3F0lypQZA",
+      "title": "\"지옥문까지 48시간 남았다\" 트럼프가 이란에 보낸 최후 통첩",
+      "source_url": "https://www.youtube.com/watch?v=zA3F0lypQZA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zA3F0lypQZA/hqdefault.jpg",
+      "published_at": "2026-04-05T15:30:00+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "N7g292ayzyk",
+      "title": "[효친클럽 LIVE] 0405",
+      "source_url": "https://www.youtube.com/watch?v=N7g292ayzyk",
+      "thumbnail_url": "https://i3.ytimg.com/vi/N7g292ayzyk/hqdefault.jpg",
+      "published_at": "2026-04-05T14:57:51+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "IuXHjWSOMLY",
       "title": "[LIVE] 일론 머스크 조만장자 되나? 최초의 트릴리어네어 탄생",
       "source_url": "https://www.youtube.com/watch?v=IuXHjWSOMLY",
@@ -91,25 +129,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Veuo0k9WVH8",
-      "title": "[슈카월드] 삼성전자 실적 발표가 온다 / 이란에 다시 48시간 주겠다 / 벚꽃이 좀 빨리 피네? / 야구 ABS의 나라 / 중도로 가는 유럽",
-      "source_url": "https://www.youtube.com/watch?v=Veuo0k9WVH8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Veuo0k9WVH8/hqdefault.jpg",
-      "published_at": "2026-04-05T11:22:06+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "R95gqV9Ty7w",
@@ -1282,25 +1301,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "TYwJSgiwv-Y",
-      "title": "요동치는 코스피, ‘이것’만 보면 방향이 보입니다⎮강대권 라이프자산운용 대표 [1부]",
-      "source_url": "https://www.youtube.com/watch?v=TYwJSgiwv-Y",
-      "thumbnail_url": "https://i1.ytimg.com/vi/TYwJSgiwv-Y/hqdefault.jpg",
-      "published_at": "2026-04-01T00:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "xc6znHjNFOI",
       "title": "원유 비상, 긴급 대응에 들어간 대한민국",
       "source_url": "https://www.youtube.com/watch?v=xc6znHjNFOI",
@@ -1337,25 +1337,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1iE7KfbYATw",
-      "title": "4월 15일 유동성 위기가 옵니다. 시간은 트럼프의 편이 아닙니다",
-      "source_url": "https://www.youtube.com/watch?v=1iE7KfbYATw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1iE7KfbYATw/hqdefault.jpg",
-      "published_at": "2026-03-31T07:12:27+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "iOWp54DugGI",
@@ -1446,6 +1427,25 @@
       "topic_stances": [
         {
           "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "PoDkAgkNOEo",
+      "title": "이란 전쟁으로 내야 하는 비용들",
+      "source_url": "https://www.youtube.com/watch?v=PoDkAgkNOEo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PoDkAgkNOEo/hqdefault.jpg",
+      "published_at": "2026-03-25T09:25:06+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

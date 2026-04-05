@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T21:37:47.375819+00:00",
+  "generated_at": "2026-04-05T22:37:19.556591+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,18 +55,37 @@
   ],
   "videos": [
     {
+      "video_id": "CKH2pcz90FA",
+      "title": "전쟁 4월까지 지속되면, 끔찍한 결과 예측 나왔다 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=CKH2pcz90FA",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CKH2pcz90FA/hqdefault.jpg",
+      "published_at": "2026-04-05T22:13:39+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "8gV4kD4txs8",
-      "title": "'대폭격 VS 종전' 사이 이번 주 향방은? 비농업 고용 '깜짝 증가'_26.04.06 | 여도은, 박명석, 박현도, 성일광 [월스트리트 모닝브리핑]",
+      "title": "트럼프 “7일 오후 8시! 호르무즈 열지 않으면 모든 발전소 폭격” | 삼성전자 내일 실적 발표 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=8gV4kD4txs8",
       "thumbnail_url": "https://i1.ytimg.com/vi/8gV4kD4txs8/hqdefault.jpg",
       "published_at": "2026-04-05T20:19:36+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -1014,25 +1033,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "M7NpJOe4IEI",
-      "title": "제2의 테슬라? 3천조 괴물 상륙! 스페이스X 상장, 약일까 독일까? | 정의훈 유진투자증권 연구원 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=M7NpJOe4IEI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/M7NpJOe4IEI/hqdefault.jpg",
-      "published_at": "2026-04-03T09:35:23+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "1NtsErSraYo",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T10:40:47.624603+00:00",
+  "generated_at": "2026-04-05T11:35:13.886603+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "IuXHjWSOMLY",
+      "title": "[LIVE] “지옥문까지 48시간 남았다” 트럼프, 이란 전쟁 최후 통첩",
+      "source_url": "https://www.youtube.com/watch?v=IuXHjWSOMLY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IuXHjWSOMLY/hqdefault.jpg",
+      "published_at": "2026-04-05T10:50:11+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "R95gqV9Ty7w",
       "title": "“현무-5 840발 실전배치 완료” 중국 일본이 경악하는 이유 | 이상민 박사, 김대영 군사평론가, 김민석 특파원, 진재일 교수 특집",
@@ -1313,25 +1332,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Jk2NhSFeY9I",
-      "title": "[속보효] 또 다시 급락하는 시장 상황이 점점 심상치 않습니다",
-      "source_url": "https://www.youtube.com/watch?v=Jk2NhSFeY9I",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Jk2NhSFeY9I/hqdefault.jpg",
-      "published_at": "2026-03-31T00:25:25+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

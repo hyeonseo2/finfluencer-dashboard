@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T11:35:13.886603+00:00",
+  "generated_at": "2026-04-05T13:08:56.012918+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,8 +55,27 @@
   ],
   "videos": [
     {
+      "video_id": "Veuo0k9WVH8",
+      "title": "[슈카월드] 삼성전자 실적 발표가 온다 / 이란에 다시 48시간 주겠다 / 벚꽃이 좀 빨리 피네? / 야구 ABS의 나라 / 중도로 가는 유럽",
+      "source_url": "https://www.youtube.com/watch?v=Veuo0k9WVH8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Veuo0k9WVH8/hqdefault.jpg",
+      "published_at": "2026-04-05T11:22:06+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "IuXHjWSOMLY",
-      "title": "[LIVE] “지옥문까지 48시간 남았다” 트럼프, 이란 전쟁 최후 통첩",
+      "title": "[LIVE] 일론 머스크 조만장자 되나? 최초의 트릴리어네어 탄생",
       "source_url": "https://www.youtube.com/watch?v=IuXHjWSOMLY",
       "thumbnail_url": "https://i2.ytimg.com/vi/IuXHjWSOMLY/hqdefault.jpg",
       "published_at": "2026-04-05T10:50:11+00:00",
@@ -194,17 +213,17 @@
     },
     {
       "video_id": "pTNyAqiJPcw",
-      "title": "삼성전자 정말 심상치 않다, 조만간 엄청난 일 터질 겁니다 (이선엽 대표 풀버전)",
+      "title": "중동 전쟁보다 무서운 게 온다, 잘못하면 계좌가 완전 녹는다 (이선엽 대표 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=pTNyAqiJPcw",
       "thumbnail_url": "https://i1.ytimg.com/vi/pTNyAqiJPcw/hqdefault.jpg",
       "published_at": "2026-04-05T04:00:54+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1427,25 +1446,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "PoDkAgkNOEo",
-      "title": "이란 전쟁으로 내야 하는 비용들",
-      "source_url": "https://www.youtube.com/watch?v=PoDkAgkNOEo",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PoDkAgkNOEo/hqdefault.jpg",
-      "published_at": "2026-03-25T09:25:06+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T15:38:33.027712+00:00",
+  "generated_at": "2026-04-05T16:42:24.025140+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -213,17 +213,22 @@
     },
     {
       "video_id": "Pu2pQcZadho",
-      "title": "\"제발 저축하지 마라\" 일론 머스크의 충격 발언, 노후준비 다 필요없고 앞으로 '이것' 가진 사람이 살아 남습니다 | 김규동 이사 #원픽리포트",
+      "title": "원달러 환율 1500원 시대, 예적금 싹다 빼서 현금 '여기로' 옮기세요. 원화 녹고 있습니다 | 김규동 이사 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=Pu2pQcZadho",
       "thumbnail_url": "https://i1.ytimg.com/vi/Pu2pQcZadho/hqdefault.jpg",
       "published_at": "2026-04-05T06:00:14+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "macro"
+        "commodities",
+        "fx"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
           "stance": "neutral"
         }
       ],

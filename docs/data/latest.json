@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T19:37:24.711147+00:00",
+  "generated_at": "2026-04-05T20:39:43.757554+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "8gV4kD4txs8",
+      "title": "'대폭격 VS 종전' 사이 이번 주 향방은? 비농업 고용 '깜짝 증가'_26.04.06 | 여도은, 박명석, 박현도, 성일광 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=8gV4kD4txs8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8gV4kD4txs8/hqdefault.jpg",
+      "published_at": "2026-04-05T20:19:36+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "zA3F0lypQZA",
       "title": "\"지옥문까지 48시간 남았다\" 트럼프가 이란에 보낸 최후 통첩",
@@ -1052,25 +1071,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1_YKwvjtCBY",
-      "title": "[4월 3일 마감시황] 기대감 vs 경계감 폭발! 삼성전자 작년 총이익 1분기 만에 돌파하나 | 홍선애, 김장열, 이재규 [클로징벨라이브]",
-      "source_url": "https://www.youtube.com/watch?v=1_YKwvjtCBY",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1_YKwvjtCBY/hqdefault.jpg",
-      "published_at": "2026-04-03T08:24:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "6486_d8G48I",

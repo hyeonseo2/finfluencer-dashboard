@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T13:08:56.012918+00:00",
+  "generated_at": "2026-04-05T14:39:01.130370+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
   ],
   "videos": [
     {
+      "video_id": "IuXHjWSOMLY",
+      "title": "[LIVE] 일론 머스크 조만장자 되나? 최초의 트릴리어네어 탄생",
+      "source_url": "https://www.youtube.com/watch?v=IuXHjWSOMLY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IuXHjWSOMLY/hqdefault.jpg",
+      "published_at": "2026-04-05T14:31:28+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "klatF3zsyvs",
+      "title": "겉으로만 화려한 1,200조 펀딩. 알고보니 속 빈 강정인 진짜 이유ㅣ이안 실리콘밸리 VC [1부]",
+      "source_url": "https://www.youtube.com/watch?v=klatF3zsyvs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/klatF3zsyvs/hqdefault.jpg",
+      "published_at": "2026-04-05T14:30:00+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "Veuo0k9WVH8",
       "title": "[슈카월드] 삼성전자 실적 발표가 온다 / 이란에 다시 48시간 주겠다 / 벚꽃이 좀 빨리 피네? / 야구 ABS의 나라 / 중도로 가는 유럽",
       "source_url": "https://www.youtube.com/watch?v=Veuo0k9WVH8",
@@ -72,25 +110,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IuXHjWSOMLY",
-      "title": "[LIVE] 일론 머스크 조만장자 되나? 최초의 트릴리어네어 탄생",
-      "source_url": "https://www.youtube.com/watch?v=IuXHjWSOMLY",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IuXHjWSOMLY/hqdefault.jpg",
-      "published_at": "2026-04-05T10:50:11+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "R95gqV9Ty7w",
@@ -1332,25 +1351,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "rvBccAYiI_g",
-      "title": "리스크 관리차 줄여놨었던 주식 비중 이 뉴스 보고 다시 늘렸습니다",
-      "source_url": "https://www.youtube.com/watch?v=rvBccAYiI_g",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rvBccAYiI_g/hqdefault.jpg",
-      "published_at": "2026-03-31T03:40:54+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

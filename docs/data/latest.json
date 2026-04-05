@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-05T22:37:19.556591+00:00",
+  "generated_at": "2026-04-05T23:39:13.018246+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
   ],
   "videos": [
     {
+      "video_id": "5kzVWLXi6n4",
+      "title": "내일 삼성전자 실적 발표, 또 일 내나?! | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=5kzVWLXi6n4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5kzVWLXi6n4/hqdefault.jpg",
+      "published_at": "2026-04-05T23:12:53+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KwT70fFHg4w",
+      "title": "\"쌍욕 발사 트럼프\", 이란은 속으로 웃고 있다? | 박현도, 성일광 교수 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=KwT70fFHg4w",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KwT70fFHg4w/hqdefault.jpg",
+      "published_at": "2026-04-05T22:40:28+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "CKH2pcz90FA",
       "title": "전쟁 4월까지 지속되면, 끔찍한 결과 예측 나왔다 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=CKH2pcz90FA",
@@ -75,17 +113,22 @@
     },
     {
       "video_id": "8gV4kD4txs8",
-      "title": "트럼프 “7일 오후 8시! 호르무즈 열지 않으면 모든 발전소 폭격” | 삼성전자 내일 실적 발표 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "이틀 앞으로 다가온 트럼프 공격 유예 시한…흔들리는 글로벌 증시의 앞날은? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=8gV4kD4txs8",
       "thumbnail_url": "https://i1.ytimg.com/vi/8gV4kD4txs8/hqdefault.jpg",
       "published_at": "2026-04-05T20:19:36+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -976,44 +1019,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "V2Bxtu5lAmU",
-      "title": "반도체는 꽉 쥐고, 조선·원전 비중 확대!..불확실성 속 수익내는 전략 ㅣ 이재규 SK증권 경인지점 PB차장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=V2Bxtu5lAmU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/V2Bxtu5lAmU/hqdefault.jpg",
-      "published_at": "2026-04-03T10:19:22+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cPLt54tnGWA",
-      "title": "[26.04.03 오후 방송 전체보기] 미 증시 보합만 되도 우리 코스피는 참지 않지!…3% 급등! [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=cPLt54tnGWA",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cPLt54tnGWA/hqdefault.jpg",
-      "published_at": "2026-04-03T10:07:49+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "uDQAwzmA89U",

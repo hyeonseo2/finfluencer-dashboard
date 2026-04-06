@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T14:54:34.789817+00:00",
+  "generated_at": "2026-04-06T15:54:24.736278+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -643,6 +643,25 @@
       "source_url": "https://www.youtube.com/watch?v=zA3F0lypQZA",
       "thumbnail_url": "https://i3.ytimg.com/vi/zA3F0lypQZA/hqdefault.jpg",
       "published_at": "2026-04-05T15:30:00+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "N7g292ayzyk",
+      "title": "[효친클럽 LIVE] 0405",
+      "source_url": "https://www.youtube.com/watch?v=N7g292ayzyk",
+      "thumbnail_url": "https://i3.ytimg.com/vi/N7g292ayzyk/hqdefault.jpg",
+      "published_at": "2026-04-05T14:57:51+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "macro"
@@ -1354,25 +1373,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "lXZnPd0I-HM",
-      "title": "[4월 전략] 결국은 롱이 이깁니다",
-      "source_url": "https://www.youtube.com/watch?v=lXZnPd0I-HM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lXZnPd0I-HM/hqdefault.jpg",
-      "published_at": "2026-04-01T01:00:58+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

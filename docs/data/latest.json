@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T19:09:13.479823+00:00",
+  "generated_at": "2026-04-06T20:42:11.490133+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "xVRg_ocBzYY",
+      "title": "미·이란 협상 기대 속 뉴욕증시 상승 마감...WTI는 여전히 112달러_26.04.07 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=xVRg_ocBzYY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xVRg_ocBzYY/hqdefault.jpg",
+      "published_at": "2026-04-06T20:22:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "HkP7VPl-Rfg",
       "title": "증시 바닥인 지금 팔지마세요, 현금으로 '이 2개 주식' 사세요 (이효석 대표 풀버전, 3월 27일 촬영본)",
@@ -593,25 +622,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "m83b-x86CqA",
-      "title": "전 세계가 고통받는 상황, 왜 저럴까? | 김정환 하나증권 Club1WM센터 과장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=m83b-x86CqA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/m83b-x86CqA/hqdefault.jpg",
-      "published_at": "2026-04-06T01:04:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

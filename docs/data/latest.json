@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T22:41:49.684319+00:00",
+  "generated_at": "2026-04-06T23:41:03.016859+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -49,13 +49,50 @@
     "crypto",
     "etf",
     "fx",
-    "interest_rate",
     "macro",
     "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "351fccrXJDA",
+      "title": "이게 가능해요...? 역대급 어닝 떠버렸다 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=351fccrXJDA",
+      "thumbnail_url": "https://i4.ytimg.com/vi/351fccrXJDA/hqdefault.jpg",
+      "published_at": "2026-04-06T23:16:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KgwUOgbFAB8",
+      "title": "'공포의 이지선다' 트럼프의 선택은?  | 박현도 서강대 유로메나연구소 교수 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=KgwUOgbFAB8",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KgwUOgbFAB8/hqdefault.jpg",
+      "published_at": "2026-04-06T22:42:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "7WozwTAiorI",
       "title": "협상 만료 D-1, 숨 죽인 뉴욕증시…마이크론, 삼성전자 실적 앞두고 상승 [월가 뉴스레터]",
@@ -77,15 +114,20 @@
     },
     {
       "video_id": "xVRg_ocBzYY",
-      "title": "트럼프 “45일 휴전 중요한 진전” vs 이란 “영구 종전만 수용” | 한국 내수시장 잠식한 중국 전기차, 보조금 문턱 높여 | 정프로, 이주호, 권순우, 박병창 [오늘아침라이브]",
+      "title": "삼성전자 1분기 영업익 57조...작년 동기 대비 755%↑ 오늘 시장 전망은? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=xVRg_ocBzYY",
       "thumbnail_url": "https://i1.ytimg.com/vi/xVRg_ocBzYY/hqdefault.jpg",
       "published_at": "2026-04-06T20:22:18+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
+        "stocks",
         "commodities"
       ],
       "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -564,54 +606,6 @@
         },
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8gV4kD4txs8",
-      "title": "[26.04.06 오전 방송 전체보기] '대폭격 VS 종전' 사이 이번 주 향방은? 비농업 고용 '깜짝 증가' / 삼성전자 내일 실적 발표, 이익 50조 어닝 서프라이즈 기대",
-      "source_url": "https://www.youtube.com/watch?v=8gV4kD4txs8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8gV4kD4txs8/hqdefault.jpg",
-      "published_at": "2026-04-06T03:16:47+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "D9Ug-wx1nXk",
-      "title": "금리 인하는 이 시점이 될 것 입니다 | 이혁진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=D9Ug-wx1nXk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/D9Ug-wx1nXk/hqdefault.jpg",
-      "published_at": "2026-04-06T02:11:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

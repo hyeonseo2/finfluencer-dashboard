@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-06T21:41:58.187808+00:00",
+  "generated_at": "2026-04-06T22:41:49.684319+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,28 +57,37 @@
   ],
   "videos": [
     {
-      "video_id": "xVRg_ocBzYY",
-      "title": "미·이란 협상 기대 속 뉴욕증시 상승 마감...WTI는 여전히 112달러_26.04.07 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=xVRg_ocBzYY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xVRg_ocBzYY/hqdefault.jpg",
-      "published_at": "2026-04-06T20:22:18+00:00",
+      "video_id": "7WozwTAiorI",
+      "title": "협상 만료 D-1, 숨 죽인 뉴욕증시…마이크론, 삼성전자 실적 앞두고 상승 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=7WozwTAiorI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7WozwTAiorI/hqdefault.jpg",
+      "published_at": "2026-04-06T22:10:41+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "fx"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "xVRg_ocBzYY",
+      "title": "트럼프 “45일 휴전 중요한 진전” vs 이란 “영구 종전만 수용” | 한국 내수시장 잠식한 중국 전기차, 보조금 문턱 높여 | 정프로, 이주호, 권순우, 박병창 [오늘아침라이브]",
+      "source_url": "https://www.youtube.com/watch?v=xVRg_ocBzYY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xVRg_ocBzYY/hqdefault.jpg",
+      "published_at": "2026-04-06T20:22:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],
@@ -603,25 +612,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1uXy-0Yioe0",
-      "title": "고유가라고 투자에 겁낼 필요 없는 이유 | 하나증권 리서치센터 글로벌투자분석실 이재만 실장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=1uXy-0Yioe0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1uXy-0Yioe0/hqdefault.jpg",
-      "published_at": "2026-04-06T01:22:31+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

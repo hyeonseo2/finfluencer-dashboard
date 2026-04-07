@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T22:43:27.354743+00:00",
+  "generated_at": "2026-04-07T23:42:00.398389+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,7 +45,6 @@
     }
   ],
   "topics": [
-    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -56,6 +55,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "INKPNqDQ0Io",
+      "title": "호르무즈 뚫렸다...!! 이란도 동의했다 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=INKPNqDQ0Io",
+      "thumbnail_url": "https://i2.ytimg.com/vi/INKPNqDQ0Io/hqdefault.jpg",
+      "published_at": "2026-04-07T23:22:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "r39dEFxAee8",
+      "title": "[LIVE] 휴전 제안한 미국, 받아들인 이란 이제 정말 끝인걸까?",
+      "source_url": "https://www.youtube.com/watch?v=r39dEFxAee8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/r39dEFxAee8/hqdefault.jpg",
+      "published_at": "2026-04-07T23:11:13+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "duJKGTtnZDI",
+      "title": "드디어 전쟁의 끝이 보인다, 오늘 역사의 날 될까 | 박현도 서강대 유로메나연구소 교수 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=duJKGTtnZDI",
+      "thumbnail_url": "https://i1.ytimg.com/vi/duJKGTtnZDI/hqdefault.jpg",
+      "published_at": "2026-04-07T22:41:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ARxRl73WpOk",
       "title": "협상 만료 D-Day…파키스탄의 중재안이 통할까? [월가 뉴스레터]",
@@ -77,17 +133,17 @@
     },
     {
       "video_id": "wSGZPTlFoh4",
-      "title": "운명의 날 맞이한 미국-이란 전쟁, 2주간 협상기간 연장제안한 파키스탄... 전쟁 전망은? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[속보] 트럼프 \"2주간 이란 폭격 중단 동의\"...\"이란, 휴전 제안 수락\" | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=wSGZPTlFoh4",
       "thumbnail_url": "https://i4.ytimg.com/vi/wSGZPTlFoh4/hqdefault.jpg",
       "published_at": "2026-04-07T20:24:23+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -500,35 +556,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "6eJdDTzpQi0",
-      "title": "중동전쟁과 페트로 달러는 전초전에 불과 미국 국채 수요를 강제로 만드는 달러 패권의 진짜 무기는? 스테이블코인의 목적 l서동주,김동환,성상현 중소기업중앙회 부부장[크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=6eJdDTzpQi0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6eJdDTzpQi0/hqdefault.jpg",
-      "published_at": "2026-04-07T04:15:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "fx",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "OSmHYUo3Ee4",
       "title": "역대급 레전드 매출 찍은 삼성전자. 그런데 왜 주가는 꿈쩍 안할까?",
       "source_url": "https://www.youtube.com/watch?v=OSmHYUo3Ee4",
@@ -551,25 +578,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "yIV9iv5VVNU",
-      "title": "트럼프 \"이란, 석기시대 될 것\" 아들은 미군 구조 두고 베팅?…시장은 어디로? l 서동주, 김동환, 김제이 블록미디어 편집장 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=yIV9iv5VVNU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yIV9iv5VVNU/hqdefault.jpg",
-      "published_at": "2026-04-07T03:24:32+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "QvAvGcYpkZc",
@@ -1379,25 +1387,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "4_KWLnbn5Ng",
-      "title": "[LIVE] “이란 석기시대로 돌려놓겠다” 트럼프 기행에 급락하는 코스피",
-      "source_url": "https://www.youtube.com/watch?v=4_KWLnbn5Ng",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4_KWLnbn5Ng/hqdefault.jpg",
-      "published_at": "2026-04-02T06:36:03+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "nMjBFs6Uoc8",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T13:41:55.110942+00:00",
+  "generated_at": "2026-04-07T15:15:19.412239+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -144,17 +144,17 @@
     },
     {
       "video_id": "iI0dzBLhgDA",
-      "title": "부자 수백명 만나보고 깨달았다, 가장 멀리해야 할 사람 1순위 (김종율 대표)",
+      "title": "부자들은 정말 기가 막히게 '이런 사람을' 끊어냅니다 (김종율 대표)",
       "source_url": "https://www.youtube.com/watch?v=iI0dzBLhgDA",
       "thumbnail_url": "https://i2.ytimg.com/vi/iI0dzBLhgDA/hqdefault.jpg",
       "published_at": "2026-04-07T11:01:15+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -198,25 +198,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "jSisxWCYorw",
-      "title": "트럼프가 이란 침공한 진짜 이유, 뒷통수 맞은 독일과 프랑스 충격 (김창익 대표)",
-      "source_url": "https://www.youtube.com/watch?v=jSisxWCYorw",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jSisxWCYorw/hqdefault.jpg",
-      "published_at": "2026-04-07T10:01:10+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "CFcAJz_HRdg",
@@ -368,17 +349,17 @@
     },
     {
       "video_id": "xNv_1enNEAU",
-      "title": "가난을 물려받은 자식들이, 가난을 벗어나지 못하는 이유 (김종율 대표)",
+      "title": "대놓고 방법을 다 알려줘도, 가난을 못 벗어나는 진짜 이유 (김종율 대표)",
       "source_url": "https://www.youtube.com/watch?v=xNv_1enNEAU",
       "thumbnail_url": "https://i1.ytimg.com/vi/xNv_1enNEAU/hqdefault.jpg",
       "published_at": "2026-04-07T08:00:59+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1294,6 +1275,25 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "x24gt0YsBdQ",
+      "title": "반도체 더 무섭게 오를 겁니다, 삼성전자 말고 ‘이 주식’ 사세요 (부자티비 이수빈 대표 풀버전, 3월 26일 촬영본)",
+      "source_url": "https://www.youtube.com/watch?v=x24gt0YsBdQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/x24gt0YsBdQ/hqdefault.jpg",
+      "published_at": "2026-04-04T10:15:11+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "uOdQb-z-clQ",

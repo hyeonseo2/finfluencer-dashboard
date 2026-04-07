@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T19:12:30.720102+00:00",
+  "generated_at": "2026-04-07T20:54:30.808220+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "wSGZPTlFoh4",
+      "title": "휴전안 검토 소식에 뉴욕증시 보합권 마감...과연 협상될까?_26.04.08 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=wSGZPTlFoh4",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wSGZPTlFoh4/hqdefault.jpg",
+      "published_at": "2026-04-07T20:24:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "TXwueM2hkmA",
       "title": "4. 8(수) 오전 9시 찐찐찐막 최종 시한을 제시한 트럼프",
@@ -556,25 +580,6 @@
         },
         {
           "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cKfz8wlFyiY",
-      "title": "다음 분기는 73조 예상, 근데 왜 조심해요?_26.04.07. | 정우창, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=cKfz8wlFyiY",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cKfz8wlFyiY/hqdefault.jpg",
-      "published_at": "2026-04-07T02:07:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

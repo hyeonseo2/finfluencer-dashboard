@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07T21:49:17.381871+00:00",
+  "generated_at": "2026-04-07T22:43:27.354743+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,21 +57,35 @@
   ],
   "videos": [
     {
+      "video_id": "ARxRl73WpOk",
+      "title": "협상 만료 D-Day…파키스탄의 중재안이 통할까? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=ARxRl73WpOk",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ARxRl73WpOk/hqdefault.jpg",
+      "published_at": "2026-04-07T21:56:10+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "wSGZPTlFoh4",
-      "title": "휴전안 검토 소식에 뉴욕증시 보합권 마감...과연 협상될까?_26.04.08 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "title": "운명의 날 맞이한 미국-이란 전쟁, 2주간 협상기간 연장제안한 파키스탄... 전쟁 전망은? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=wSGZPTlFoh4",
       "thumbnail_url": "https://i4.ytimg.com/vi/wSGZPTlFoh4/hqdefault.jpg",
       "published_at": "2026-04-07T20:24:23+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -551,35 +565,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "xVRg_ocBzYY",
-      "title": "[26.04.07 오전 방송 전체보기] 미·이란 협상 기대 속 뉴욕증시 상승 마감...WTI는 여전히 112달러 / 삼성전자 1분기 영업익 57조…작년 동기 대비 755% ↑",
-      "source_url": "https://www.youtube.com/watch?v=xVRg_ocBzYY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xVRg_ocBzYY/hqdefault.jpg",
-      "published_at": "2026-04-07T03:20:08+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],

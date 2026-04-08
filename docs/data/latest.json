@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T22:48:07.058772+00:00",
+  "generated_at": "2026-04-08T23:42:38.944900+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
   ],
   "videos": [
     {
+      "video_id": "N_lOPWjdCkc",
+      "title": "다시 막힌 호르무즈…휴전 이대로 괜찮은가? | 박현도 서강대 유로메나연구소 교수 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=N_lOPWjdCkc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/N_lOPWjdCkc/hqdefault.jpg",
+      "published_at": "2026-04-08T22:49:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "cV5o5Pq2920",
       "title": "이스라엘, 레바논 헤즈볼라 강력 타격…네타냐후 ”언제든 이란 공격할 준비“ [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=cV5o5Pq2920",
@@ -75,17 +94,17 @@
     },
     {
       "video_id": "EvWTI7O_xIo",
-      "title": "미국-이란 협상 초장부터 흔들, 이스라엘의 공격으로 호르무즈 통행 중단 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "'2주 휴전' 협상에도 다시 '으르렁'...글로벌 증시, 오늘 괜찮을까? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=EvWTI7O_xIo",
       "thumbnail_url": "https://i2.ytimg.com/vi/EvWTI7O_xIo/hqdefault.jpg",
       "published_at": "2026-04-08T20:21:24+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "macro"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -213,7 +232,7 @@
     },
     {
       "video_id": "F7zGW-t0fKY",
-      "title": "\"독도 유사시 도쿄 불바다\" 일본 날벼락 맞고 급변한 이유 | 호사카유지 교수 풀버전 1",
+      "title": "“독도 도발하더니?” 한국에 납작 엎드린 일본 다카이치 땅치고 후회중이다 | 호사카유지 교수 풀버전 1",
       "source_url": "https://www.youtube.com/watch?v=F7zGW-t0fKY",
       "thumbnail_url": "https://i3.ytimg.com/vi/F7zGW-t0fKY/hqdefault.jpg",
       "published_at": "2026-04-08T10:30:19+00:00",
@@ -562,25 +581,6 @@
         },
         {
           "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wSGZPTlFoh4",
-      "title": "[26.04.08 오전 방송 전체보기] 초토화 직전 멈췄다! 협상으로 급선회… 그이유는? / 휴전안 검토 소식에 뉴욕증시 보합권 마감",
-      "source_url": "https://www.youtube.com/watch?v=wSGZPTlFoh4",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wSGZPTlFoh4/hqdefault.jpg",
-      "published_at": "2026-04-08T03:21:06+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

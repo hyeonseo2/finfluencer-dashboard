@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T19:24:31.627903+00:00",
+  "generated_at": "2026-04-08T20:52:19.538782+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "EvWTI7O_xIo",
+      "title": "미국·이란 '2주 휴전' 속 뉴욕증시 2%대 급등...휴전 협상 '아슬아슬'_26.04.09 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=EvWTI7O_xIo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EvWTI7O_xIo/hqdefault.jpg",
+      "published_at": "2026-04-08T20:21:24+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "RCPEmVlmnNE",
       "title": "벚꽃이 벌써 졌다고?",
@@ -567,30 +591,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wyzFnmVmuwM",
-      "title": "'삼전,하이닉스' 미국 ETF 출시의 효과와 예상은? | 이성원 하나증권 네이버그린팩토리점 PB [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=wyzFnmVmuwM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wyzFnmVmuwM/hqdefault.jpg",
-      "published_at": "2026-04-08T01:13:15+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
           "stance": "neutral"
         }
       ],

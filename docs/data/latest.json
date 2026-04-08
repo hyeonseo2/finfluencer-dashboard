@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-08T21:49:33.586503+00:00",
+  "generated_at": "2026-04-08T22:48:07.058772+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,23 +55,37 @@
   ],
   "videos": [
     {
+      "video_id": "cV5o5Pq2920",
+      "title": "이스라엘, 레바논 헤즈볼라 강력 타격…네타냐후 ”언제든 이란 공격할 준비“ [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=cV5o5Pq2920",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cV5o5Pq2920/hqdefault.jpg",
+      "published_at": "2026-04-08T22:10:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "EvWTI7O_xIo",
-      "title": "미국·이란 '2주 휴전' 속 뉴욕증시 2%대 급등...휴전 협상 '아슬아슬'_26.04.09 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "title": "미국-이란 협상 초장부터 흔들, 이스라엘의 공격으로 호르무즈 통행 중단 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=EvWTI7O_xIo",
       "thumbnail_url": "https://i2.ytimg.com/vi/EvWTI7O_xIo/hqdefault.jpg",
       "published_at": "2026-04-08T20:21:24+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -567,30 +581,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IHb-eqnfFkc",
-      "title": "미국-이란 파국 피했다! 국내증시 '매수 사이드카'…이제 어디로 가야할까?_26.04.08. |  박지훈, 김동훈, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=IHb-eqnfFkc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IHb-eqnfFkc/hqdefault.jpg",
-      "published_at": "2026-04-08T02:30:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

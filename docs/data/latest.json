@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T19:15:46.967252+00:00",
+  "generated_at": "2026-04-09T20:57:27.997067+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -49,12 +49,40 @@
     "crypto",
     "etf",
     "fx",
-    "interest_rate",
     "macro",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "mLf3wmOF7oA",
+      "title": "WTI 100달러 '바짝', 그러나 휴전 기대감에 뉴욕증시 3대지수 상승_26.04.10 | 여도은, 박명석, 박현도, 성일광 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=mLf3wmOF7oA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/mLf3wmOF7oA/hqdefault.jpg",
+      "published_at": "2026-04-09T20:29:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "y3NDUbcyQ2U",
       "title": "이란 전쟁 완전 거꾸로 된다, 곧 상상도 못할 일 터진다 (강준영 교수)",
@@ -592,30 +620,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CLIHu8ONXc0",
-      "title": "높은 금리가 불러온 기회? 이럴땐 차라리... | 이경수 하나증권 리서치센터 수석연구원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=CLIHu8ONXc0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CLIHu8ONXc0/hqdefault.jpg",
-      "published_at": "2026-04-09T02:16:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

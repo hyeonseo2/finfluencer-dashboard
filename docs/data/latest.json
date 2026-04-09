@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-09T21:53:12.672107+00:00",
+  "generated_at": "2026-04-09T22:49:19.671313+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,28 +55,37 @@
   ],
   "videos": [
     {
+      "video_id": "7iqIu759uVM",
+      "title": "이스라엘, 협상 합의 후 재폭격...휴전 깨지나? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=7iqIu759uVM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7iqIu759uVM/hqdefault.jpg",
+      "published_at": "2026-04-09T22:11:02+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "mLf3wmOF7oA",
-      "title": "WTI 100달러 '바짝', 그러나 휴전 기대감에 뉴욕증시 3대지수 상승_26.04.10 | 여도은, 박명석, 박현도, 성일광 [월스트리트 모닝브리핑]",
+      "title": "트럼프 “종전협상 매우 낙관”, 이란 “호르무즈 통행 하루 15척 이하” | 이 대통령, 소액주주 배당세 혜택 검토 지시 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=mLf3wmOF7oA",
       "thumbnail_url": "https://i2.ytimg.com/vi/mLf3wmOF7oA/hqdefault.jpg",
       "published_at": "2026-04-09T20:29:22+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "fx"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -601,25 +610,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "kxWqW_Yn3KU",
-      "title": "전쟁 여파를 배제한 투자포인트는?_26.04.09. | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=kxWqW_Yn3KU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/kxWqW_Yn3KU/hqdefault.jpg",
-      "published_at": "2026-04-09T02:48:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

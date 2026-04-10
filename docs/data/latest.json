@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T22:42:24.568133+00:00",
+  "generated_at": "2026-04-10T23:40:42.885110+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "5lm_3Mm5lYo",
+      "title": "“국민들이 넘겼다” 이란 내부 상황, 생각보다 심각하다...  | 호다 니쿠 이란 출신 모델 [긴급인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=5lm_3Mm5lYo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5lm_3Mm5lYo/hqdefault.jpg",
+      "published_at": "2026-04-10T23:00:07+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "NPL-NrvvK_w",
       "title": "ABS 도입 후 대박 난 한국 프로야구",
@@ -615,25 +634,6 @@
       "source_url": "https://www.youtube.com/watch?v=CAWOMPJYwLQ",
       "thumbnail_url": "https://i4.ytimg.com/vi/CAWOMPJYwLQ/hqdefault.jpg",
       "published_at": "2026-04-10T03:00:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "FDa0NAKrgno",
-      "title": "미국에서 '이스라엘, 레바논' 만난다! 또 장은 튀어오를까 | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=FDa0NAKrgno",
-      "thumbnail_url": "https://i3.ytimg.com/vi/FDa0NAKrgno/hqdefault.jpg",
-      "published_at": "2026-04-10T02:40:11+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

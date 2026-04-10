@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-10T11:52:32.439921+00:00",
+  "generated_at": "2026-04-10T13:22:13.629940+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "NPL-NrvvK_w",
+      "title": "ABS 도입 후 대박 난 한국 프로야구",
+      "source_url": "https://www.youtube.com/watch?v=NPL-NrvvK_w",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NPL-NrvvK_w/hqdefault.jpg",
+      "published_at": "2026-04-10T12:27:44+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "9SfO9oWYbC0",
+      "title": "삼성전자 정말 심상치 않다, 조만간 엄청난 일 터질 겁니다 (권효재 대표)",
+      "source_url": "https://www.youtube.com/watch?v=9SfO9oWYbC0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9SfO9oWYbC0/hqdefault.jpg",
+      "published_at": "2026-04-10T12:00:15+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "88MaMSFgiIs",
       "title": "흔들리는 장에서도 버는 사람들의 종목 선택법, 수익과 배당을 함께? l 명민준, 박가영, 박지훈 [주린이 구조대]",
@@ -143,7 +181,7 @@
     },
     {
       "video_id": "K3wKKqgOOXw",
-      "title": "“새로운 한류 등장”4차 한류열풍 또 터졌다 발칵 뒤집힌 일본 현지 분위기 | 호사카유지 교수 풀버전 2",
+      "title": "상상도 못 할 압도적 차이 초강대국 된 한국 일본 발칵 | 호사카유지 교수 풀버전 2",
       "source_url": "https://www.youtube.com/watch?v=K3wKKqgOOXw",
       "thumbnail_url": "https://i4.ytimg.com/vi/K3wKKqgOOXw/hqdefault.jpg",
       "published_at": "2026-04-10T10:30:25+00:00",
@@ -1148,25 +1186,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "tXG86vrh04Q",
-      "title": "끝나지 않는 이란-미국 중동 전쟁, 전쟁의 시대, 세상이 완전 뒤집혔다 (이문영 교수)",
-      "source_url": "https://www.youtube.com/watch?v=tXG86vrh04Q",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tXG86vrh04Q/hqdefault.jpg",
-      "published_at": "2026-04-08T00:45:04+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "r39dEFxAee8",
       "title": "[LIVE] 휴전 제안한 미국, 받아들인 이란 이제 정말 끝인걸까?",
       "source_url": "https://www.youtube.com/watch?v=r39dEFxAee8",
@@ -1493,25 +1512,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "yv1EAg-UwCk",
-      "title": "AI가 발전하면 내 일은 줄어들까?",
-      "source_url": "https://www.youtube.com/shorts/yv1EAg-UwCk",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yv1EAg-UwCk/hqdefault.jpg",
-      "published_at": "2026-03-31T07:42:56+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

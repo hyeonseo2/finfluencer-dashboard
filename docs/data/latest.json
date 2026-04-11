@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T22:37:49.302965+00:00",
+  "generated_at": "2026-04-11T23:40:31.475185+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -50,11 +50,29 @@
     "etf",
     "fx",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "pN7CSWOVvhY",
+      "title": "\"TSMC 원툴인 줄 알았지?\" 한국 GDP 추월한 대만, 대만이 다시 살아난 진짜 이유 | 이은호 (전) 주타이베이 대표 [신과대화]",
+      "source_url": "https://www.youtube.com/watch?v=pN7CSWOVvhY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pN7CSWOVvhY/hqdefault.jpg",
+      "published_at": "2026-04-11T23:00:59+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "NH1MXerNLUg",
       "title": "이란 전쟁 끝나면 더 큰 일 터진다, 동아시아에 곧 피바람이 분다 (강준영 교수)",
@@ -859,35 +877,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "V-B8hpF3_Dc",
-      "title": "코인 규제가 아니라 ‘달러 시스템 재설계’다…스테이블코인 이자 금지의 진짜 의미 l 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=V-B8hpF3_Dc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/V-B8hpF3_Dc/hqdefault.jpg",
-      "published_at": "2026-04-10T05:00:38+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "fx",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "y3NDUbcyQ2U",

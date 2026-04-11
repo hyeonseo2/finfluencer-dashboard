@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T11:36:03.863925+00:00",
+  "generated_at": "2026-04-11T13:09:54.540579+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
   ],
   "videos": [
     {
+      "video_id": "NH1MXerNLUg",
+      "title": "이란 전쟁 끝나면 더 큰 일 터진다, 동아시아에 곧 피바람이 분다 (강준영 교수)",
+      "source_url": "https://www.youtube.com/watch?v=NH1MXerNLUg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NH1MXerNLUg/hqdefault.jpg",
+      "published_at": "2026-04-11T12:00:40+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "hdJxOsDe-28",
       "title": "중국경제 앞으로 끔찍한 게 터진다, 피바람 부는 중국 베이징 분위기 (강준영 교수)",
       "source_url": "https://www.youtube.com/watch?v=hdJxOsDe-28",
@@ -76,7 +95,7 @@
     },
     {
       "video_id": "M078WT-DDtU",
-      "title": "\"반도체 업계에 싹다 퍼졌다\" 삼성전자 미친 듯 성장한다 단 ‘이때’는 꼭 파세요 | 홍춘욱 박사 1부",
+      "title": "삼성전자 분위기 심상치 않다 곧 무시무시한 일 터진다 | 홍춘욱 박사 1부",
       "source_url": "https://www.youtube.com/watch?v=M078WT-DDtU",
       "thumbnail_url": "https://i2.ytimg.com/vi/M078WT-DDtU/hqdefault.jpg",
       "published_at": "2026-04-11T10:00:36+00:00",
@@ -1126,25 +1145,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "I78m6F2zW-c",
-      "title": "명문대 학벌도 전혀 소용없습니다, AI 시대 '이 능력' 있어야 생존한다 (이종범 교수)",
-      "source_url": "https://www.youtube.com/watch?v=I78m6F2zW-c",
-      "thumbnail_url": "https://i2.ytimg.com/vi/I78m6F2zW-c/hqdefault.jpg",
-      "published_at": "2026-04-08T11:00:27+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "OC7EDuJYrc4",

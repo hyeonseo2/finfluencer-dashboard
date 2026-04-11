@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T05:00:01.572067+00:00",
+  "generated_at": "2026-04-11T06:09:21.365979+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
   ],
   "videos": [
     {
+      "video_id": "g-J5ha4Dsks",
+      "title": "미국 '이때부터' 무너진다 \"S&P500 -30% 폭락 보고서 떴다. 현금 싹다 여기로 옮기세요\" | 송민석 이사 #원픽리포트",
+      "source_url": "https://www.youtube.com/watch?v=g-J5ha4Dsks",
+      "thumbnail_url": "https://i4.ytimg.com/vi/g-J5ha4Dsks/hqdefault.jpg",
+      "published_at": "2026-04-11T06:00:37+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "Xu6agB5V1iU",
       "title": "노동 가치가 무너진 시대에 내 자산을 지키는 단 2가지 방법 (김창익 대표)",
       "source_url": "https://www.youtube.com/watch?v=Xu6agB5V1iU",
@@ -76,17 +100,17 @@
     },
     {
       "video_id": "jDRi58Mifgs",
-      "title": "\"나중에 억소리 난다\" 이 3가지 ETF에 묻어둬라. 1억에서 10억 너무 쉽다 l 김민우 3부 폴투TV #돈쭐남 #김경필",
+      "title": "\"숨만 쉬어도 돈이 불어요\" 16.5% 역대급 통장 뜬다. 제발 현금 여기 넣어라 l 김민우 3부 폴투TV #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=jDRi58Mifgs",
       "thumbnail_url": "https://i3.ytimg.com/vi/jDRi58Mifgs/hqdefault.jpg",
       "published_at": "2026-04-11T04:00:44+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "etf"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "etf",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -209,7 +233,7 @@
     },
     {
       "video_id": "5lm_3Mm5lYo",
-      "title": "“국민들이 넘겼다” 이란 내부 상황, 생각보다 심각하다...  | 호다 니쿠 이란 출신 모델 [긴급인터뷰]",
+      "title": "현재 이란 내부 상황… “심상치 않다”  | 호다 니쿠 이란 출신 모델 [긴급인터뷰]",
       "source_url": "https://www.youtube.com/watch?v=5lm_3Mm5lYo",
       "thumbnail_url": "https://i2.ytimg.com/vi/5lm_3Mm5lYo/hqdefault.jpg",
       "published_at": "2026-04-10T23:00:07+00:00",
@@ -1055,30 +1079,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-BtUo04aGBo",
-      "title": "\"S&P500, 나스닥 아니다\" 딱 10만원이라도 이것 사라. 원금 미친듯이 불어나요 l 황금별 2부 #배당투자",
-      "source_url": "https://www.youtube.com/watch?v=-BtUo04aGBo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-BtUo04aGBo/hqdefault.jpg",
-      "published_at": "2026-04-09T07:00:01+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "QN1CEPcyk8Q",

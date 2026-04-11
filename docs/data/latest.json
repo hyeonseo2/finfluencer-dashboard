@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-11T09:49:15.339086+00:00",
+  "generated_at": "2026-04-11T10:41:02.695619+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "M078WT-DDtU",
+      "title": "\"반도체 업계에 싹다 퍼졌다\" 삼성전자 미친 듯 성장한다 단 ‘이때’는 꼭 파세요 | 홍춘욱 박사 1부",
+      "source_url": "https://www.youtube.com/watch?v=M078WT-DDtU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/M078WT-DDtU/hqdefault.jpg",
+      "published_at": "2026-04-11T10:00:36+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "xmmhDepjUQs",
       "title": "\"미국이 이걸 속였다\" 이란 전쟁 휴전은 함정이다. 곧 전쟁보다 끔찍한 게 온다｜조한범 박사 풀버전1",
@@ -1050,25 +1069,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "HYs20BT0cAg",
-      "title": "“푸틴은 지금 미칠지경” 결국 대형사고 쳐버린 김정은. 북러관계 싹 다 파탄났다 | 강철환 북한인권운동가 3부",
-      "source_url": "https://www.youtube.com/watch?v=HYs20BT0cAg",
-      "thumbnail_url": "https://i1.ytimg.com/vi/HYs20BT0cAg/hqdefault.jpg",
-      "published_at": "2026-04-09T08:30:09+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "-FEWdDdohng",

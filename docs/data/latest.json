@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T10:44:29.475630+00:00",
+  "generated_at": "2026-04-12T11:37:56.491814+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "xnRkHeBEvIo",
+      "title": "[슈카월드] 포괄임금제는 폐지되는가 / 한다. 안한다. 한다. 안한다? /  역대 최대 IPO가 온다 / 금겹살 가격을 해결하는 묘수? / 새만금에 부는 새로운 바람",
+      "source_url": "https://www.youtube.com/watch?v=xnRkHeBEvIo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xnRkHeBEvIo/hqdefault.jpg",
+      "published_at": "2026-04-12T11:21:52+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "wc_8rMxsvgc",
+      "title": "[LIVE] 지금 다 팔아야 하나요? 혼란스러운 시장을 정리해 줄 구루 3인방",
+      "source_url": "https://www.youtube.com/watch?v=wc_8rMxsvgc",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wc_8rMxsvgc/hqdefault.jpg",
+      "published_at": "2026-04-12T11:12:10+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "RA--G9d6wLQ",
       "title": "UAE 드디어 일 저질렀다. KF-21 수출 잭팟 터졌다 | 김민석 특파원 3부",
@@ -1359,25 +1397,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "zA3F0lypQZA",
-      "title": "\"지옥문까지 48시간 남았다\" 트럼프가 이란에 보낸 최후 통첩",
-      "source_url": "https://www.youtube.com/watch?v=zA3F0lypQZA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zA3F0lypQZA/hqdefault.jpg",
-      "published_at": "2026-04-05T15:30:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "hUx5XifMZ7w",
       "title": "\"이제 남은 길은 주식 한방 뿐\"",
       "source_url": "https://www.youtube.com/watch?v=hUx5XifMZ7w",
@@ -1452,25 +1471,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "xc6znHjNFOI",
-      "title": "원유 비상, 긴급 대응에 들어간 대한민국",
-      "source_url": "https://www.youtube.com/watch?v=xc6znHjNFOI",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xc6znHjNFOI/hqdefault.jpg",
-      "published_at": "2026-03-31T09:14:16+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

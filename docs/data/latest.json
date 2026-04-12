@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T19:44:32.633685+00:00",
+  "generated_at": "2026-04-12T20:42:34.999219+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "95lIbyRtIhA",
+      "title": "미·이란 첫 협상 '결렬' 인플레이션 우려 속 뉴욕증시 혼조 마감_26.04.13 | 여도은, 박명석, 박현도, 성일광 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=95lIbyRtIhA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/95lIbyRtIhA/hqdefault.jpg",
+      "published_at": "2026-04-12T20:14:10+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "x_xghapjjM4",
       "title": "탈출인가? 기회인가? 월가 최고의 구루 3인의 충격적 메세지",
@@ -1014,25 +1038,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "P26Iu-R_EAY",
-      "title": "미국·이란 임시 휴전 합의 이후, 지금 시장은 어떻게 대응해야 할까? | 이은택 KB증권 자산배분전략 이사 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=P26Iu-R_EAY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/P26Iu-R_EAY/hqdefault.jpg",
-      "published_at": "2026-04-10T08:49:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "E8NUG4xZcDk",

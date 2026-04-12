@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T07:26:47.365113+00:00",
+  "generated_at": "2026-04-12T08:56:32.103694+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "uKT7ehqnr60",
+      "title": "결국 원전에서 텐배거 나온다, 두산과 딱 '이 종목만' 사세요 (이동근 대표)",
+      "source_url": "https://www.youtube.com/watch?v=uKT7ehqnr60",
+      "thumbnail_url": "https://i2.ytimg.com/vi/uKT7ehqnr60/hqdefault.jpg",
+      "published_at": "2026-04-12T08:00:57+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "6bfStgRNRZQ",
+      "title": "이란이 항복한 진짜 이유. 북한 붕괴 초비상 상태 | 강철환 북한인권운동가 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=6bfStgRNRZQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6bfStgRNRZQ/hqdefault.jpg",
+      "published_at": "2026-04-12T08:00:06+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "PC5u1AHH-YU",
       "title": "두산에너 현대건설 아니다. 원전주 딱 '이 주식'만 봐라｜이권희 대표 2부",
@@ -170,17 +208,17 @@
     },
     {
       "video_id": "iCOwAUQc744",
-      "title": "40분에 끝내는 엔비디아. 지금 사도 될까요?",
+      "title": "40분에 끝내는 엔비디아. 매수 매도 고민 날려드립니다",
       "source_url": "https://www.youtube.com/watch?v=iCOwAUQc744",
       "thumbnail_url": "https://i2.ytimg.com/vi/iCOwAUQc744/hqdefault.jpg",
       "published_at": "2026-04-12T03:00:00+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -969,25 +1007,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "7duORQMNb9U",
-      "title": "\"KF-21 양산 1호기 출고\" 슈퍼 KF-21 등장 미국 발칵 전세계는 한국을 조심해야 한다 | 김대영 군사평론가 3부",
-      "source_url": "https://www.youtube.com/watch?v=7duORQMNb9U",
-      "thumbnail_url": "https://i4.ytimg.com/vi/7duORQMNb9U/hqdefault.jpg",
-      "published_at": "2026-04-10T07:30:09+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "oc-hBd1GKJM",
       "title": "\"현금 여기로 옮겨라\" S&P500 -50% 폭락 버틸 수 있을까? l 황금별 4부 #배당",
       "source_url": "https://www.youtube.com/watch?v=oc-hBd1GKJM",
@@ -1062,25 +1081,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "kagFF39aDVc",
-      "title": "러시아가 한국에게 러브콜 보냈다, 한국에게 기술·자원 다 퍼주는 이유 (이문영 교수)",
-      "source_url": "https://www.youtube.com/watch?v=kagFF39aDVc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/kagFF39aDVc/hqdefault.jpg",
-      "published_at": "2026-04-09T11:45:05+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T22:40:21.001811+00:00",
+  "generated_at": "2026-04-12T23:41:08.676961+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,12 +48,68 @@
     "commodities",
     "crypto",
     "etf",
-    "fx",
     "macro",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "521en4KlehA",
+      "title": "성과급 ‘40조’ 요구한 삼성전자 노조…주주들 ‘한숨’ | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=521en4KlehA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/521en4KlehA/hqdefault.jpg",
+      "published_at": "2026-04-12T23:15:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "aT-ZdBwdhKA",
+      "title": "[속보효] 트럼프, 미국이 호르무츠 해협을 봉쇄한다 | 협상 수일내 재개될 듯(WSJ)",
+      "source_url": "https://www.youtube.com/watch?v=aT-ZdBwdhKA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/aT-ZdBwdhKA/hqdefault.jpg",
+      "published_at": "2026-04-12T22:56:54+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ZgVseZIfW7s",
+      "title": "트럼프 \"호르무즈 역봉쇄\"...한국시간 오늘밤 11시부터 | 박현도, 성일광 서강대 유로메나연구소 교수 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=ZgVseZIfW7s",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZgVseZIfW7s/hqdefault.jpg",
+      "published_at": "2026-04-12T22:38:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "gZtnV6adVhg",
       "title": "미·이란 1차 휴전 협상 성과 없이 결렬...TSMC 1분기 매출 호조, 반도체 랠리 지속 [월가 뉴스레터]",
@@ -75,7 +131,7 @@
     },
     {
       "video_id": "95lIbyRtIhA",
-      "title": "미군 “13일 10시부터 해상 교통 봉쇄” vs 이란 “싸움 걸면 싸우겠다” | \"성과급 40조 달라\"는 삼성전자 노조 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "중동 전쟁 종전 불확실성 지속...21시간 협상 빈손에도 글로벌 증시 굳건할까? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=95lIbyRtIhA",
       "thumbnail_url": "https://i2.ytimg.com/vi/95lIbyRtIhA/hqdefault.jpg",
       "published_at": "2026-04-12T20:14:10+00:00",
@@ -839,54 +895,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "n8Zo0AqnyYM",
-      "title": "[26.04.10 오후 방송 전체보기] 운명의 휴전 협상의 날이 온다, 시선은 '파키스탄'으로…환율·물가 분위기 반전될까 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=n8Zo0AqnyYM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/n8Zo0AqnyYM/hqdefault.jpg",
-      "published_at": "2026-04-10T11:11:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MKg5y-PqQh8",
-      "title": "뭘 사야 할지 모르겠다면 여기 봐, ETF에서 좋은 종목 낚는 방법ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=MKg5y-PqQh8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MKg5y-PqQh8/hqdefault.jpg",
-      "published_at": "2026-04-10T10:45:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "v4tFhvlXiSo",
       "title": "수익률 550만%의 전설이 선택한 ETF \"폭락 오든말든 단돈 10만원이라도 이걸 사세요. 숨만 쉬어도 돈이 불어요\" | 송민석 이사 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=v4tFhvlXiSo",
@@ -1357,25 +1365,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Rs_VnhnBG38",
-      "title": "로켓 발사가 목적이 아닌 일론 머스크, 우주판 앱스토어를 만들고 있습니다ㅣ이안 실리콘밸리 VC [2부]",
-      "source_url": "https://www.youtube.com/watch?v=Rs_VnhnBG38",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Rs_VnhnBG38/hqdefault.jpg",
-      "published_at": "2026-04-06T00:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "hUx5XifMZ7w",

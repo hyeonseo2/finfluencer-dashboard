@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T09:53:16.451586+00:00",
+  "generated_at": "2026-04-12T10:44:29.475630+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "RA--G9d6wLQ",
+      "title": "UAE 드디어 일 저질렀다. KF-21 수출 잭팟 터졌다 | 김민석 특파원 3부",
+      "source_url": "https://www.youtube.com/watch?v=RA--G9d6wLQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/RA--G9d6wLQ/hqdefault.jpg",
+      "published_at": "2026-04-12T10:00:39+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Q--tRHPqqd8",
       "title": "전쟁 이후 큰돈 벌 기회 온다, '이 2개 주식을' 사 모으세요 (주식농부 박영옥 대표 풀버전)",
@@ -976,25 +995,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "NIwf8_qY6Xk",
-      "title": "“들고 일어난 이란 국민들” 이란, 사실상 쿠데타 발생 테헤란 정권 붕괴 임박했다 | 김민석 특파원 2부",
-      "source_url": "https://www.youtube.com/watch?v=NIwf8_qY6Xk",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NIwf8_qY6Xk/hqdefault.jpg",
-      "published_at": "2026-04-10T08:30:20+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "E8NUG4xZcDk",

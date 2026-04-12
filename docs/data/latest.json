@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-12T15:40:36.027540+00:00",
+  "generated_at": "2026-04-12T16:47:00.509931+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,17 +56,17 @@
   "videos": [
     {
       "video_id": "x_xghapjjM4",
-      "title": "지금 다 팔아야 하나요? 혼란스러운 시장 구루 3인이 정리해 드립니다",
+      "title": "탈출인가? 기회인가? 월가 최고의 구루 3인의 충격적 메세지",
       "source_url": "https://www.youtube.com/watch?v=x_xghapjjM4",
       "thumbnail_url": "https://i1.ytimg.com/vi/x_xghapjjM4/hqdefault.jpg",
       "published_at": "2026-04-12T14:00:47+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

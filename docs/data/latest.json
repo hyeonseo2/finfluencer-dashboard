@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T21:00:59.512776+00:00",
+  "generated_at": "2026-04-13T22:50:08.002398+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,23 +56,37 @@
   ],
   "videos": [
     {
+      "video_id": "ClzjLSsuKWU",
+      "title": "오라클, AI 자신감에 12% 급등…호르무즈 봉쇄에도 AI는 간다 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=ClzjLSsuKWU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/ClzjLSsuKWU/hqdefault.jpg",
+      "published_at": "2026-04-13T21:55:46+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "o50Bxz2ALfI",
-      "title": "협상 재개 기대감에 뉴욕증시 상승 마감, 써클 급등...왜?_26.04.14 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "title": "트럼프 “이란 간절히 합의 원해” vs 이란 ”국제법 테두리 내에서만“ | K-방산 천궁Ⅱ ‘먼저 달라’ 아우성 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=o50Bxz2ALfI",
       "thumbnail_url": "https://i4.ytimg.com/vi/o50Bxz2ALfI/hqdefault.jpg",
       "published_at": "2026-04-13T20:31:31+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -570,25 +584,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Cp7-zBLtKq4",
-      "title": "현재의 싸이클은 ‘걱정의 벽’…우려의 벽을 타고, 오르는 구간으로_26.04.13. | 이혁진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=Cp7-zBLtKq4",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Cp7-zBLtKq4/hqdefault.jpg",
-      "published_at": "2026-04-13T02:42:52+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "aT-ZdBwdhKA",
       "title": "[속보효] 트럼프, 미국이 호르무츠 해협을 봉쇄한다 | 협상 수일내 재개될 듯(WSJ)",
       "source_url": "https://www.youtube.com/watch?v=aT-ZdBwdhKA",
@@ -932,7 +927,7 @@
     },
     {
       "video_id": "hdJxOsDe-28",
-      "title": "완전히 무너진 중국 경제 상황, 시진핑이 진짜 위태로운 이유 (강준영 교수)",
+      "title": "완전히 무너진 중국 경제 상황, 곧 베이징이 발칵 뒤집힌다 (강준영 교수)",
       "source_url": "https://www.youtube.com/watch?v=hdJxOsDe-28",
       "thumbnail_url": "https://i1.ytimg.com/vi/hdJxOsDe-28/hqdefault.jpg",
       "published_at": "2026-04-11T10:45:03+00:00",

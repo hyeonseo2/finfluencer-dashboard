@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T03:27:39.956830+00:00",
+  "generated_at": "2026-04-13T06:20:03.509631+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,11 +48,79 @@
     "commodities",
     "crypto",
     "etf",
+    "fx",
     "macro",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "vF3Yb9izR3w",
+      "title": "전쟁 공포 속 달러 패권 균열! 브릭스(BRICS)가 비트코인에 눈독을 들이는 이유 l 서동주, 김동환, 백훈종 스매시파이 대표 [크립토PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=vF3Yb9izR3w",
+      "thumbnail_url": "https://i3.ytimg.com/vi/vF3Yb9izR3w/hqdefault.jpg",
+      "published_at": "2026-04-13T05:27:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zGG3gH_D7ok",
+      "title": "[4월 10일 마감시황] 트럼프 \"가을까지 유가 더 높아질수도\" 이란 돈줄 차단...유가 리스크에 글로벌 증시 다시 우울 증세?!ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=zGG3gH_D7ok",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zGG3gH_D7ok/hqdefault.jpg",
+      "published_at": "2026-04-13T05:21:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zy4rQ1S9Y4Y",
+      "title": "WLFI 급락…트럼프, 본인 코인으로 스테이블코인 싹쓸이?ㅣ서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=zy4rQ1S9Y4Y",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zy4rQ1S9Y4Y/hqdefault.jpg",
+      "published_at": "2026-04-13T04:35:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "95lIbyRtIhA",
       "title": "[26.04.13 오전 방송 전체보기] 미·이란 첫 협상 '결렬' 인플레이션 우려 속 뉴욕증시 혼조 마감 / \"성과급 40조 달라\"는 삼성전자 노조…400만 주주들 '한숨'",
@@ -245,7 +313,7 @@
     },
     {
       "video_id": "nik7wZsp8Ys",
-      "title": "2평짜리 고시원에서 시작한, 270만 유튜버 김작가의 집 최초 공개 (김작가TV 김도윤 작가)",
+      "title": "2평짜리 고시원에서 시작한, 270만 유튜버 김작가의 집 최초 공개 (김작가TV 김도윤 작가, 김광석 교수)",
       "source_url": "https://www.youtube.com/watch?v=nik7wZsp8Ys",
       "thumbnail_url": "https://i3.ytimg.com/vi/nik7wZsp8Ys/hqdefault.jpg",
       "published_at": "2026-04-12T12:01:31+00:00",
@@ -491,25 +559,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "W7rLTSoQIpM",
-      "title": "“카데시 전투” 세계 최초 대전… 승자는 따로 있었다? | 주원준 한님성서연구소 수석연구원 [에인션트]",
-      "source_url": "https://www.youtube.com/watch?v=W7rLTSoQIpM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/W7rLTSoQIpM/hqdefault.jpg",
-      "published_at": "2026-04-12T02:00:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "cqyXCuWlMvE",
       "title": "이란 전쟁 오래갈 수 없는 이유, 트럼프의 숨겨진 진짜 속내 (이문영 교수 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=cqyXCuWlMvE",
@@ -565,25 +614,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "pN7CSWOVvhY",
-      "title": "\"TSMC 원툴인 줄 알았지?\" 한국 GDP 추월한 대만, 대만이 다시 살아난 진짜 이유 | 이은호 (전) 주타이베이 대표 [신과대화]",
-      "source_url": "https://www.youtube.com/watch?v=pN7CSWOVvhY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/pN7CSWOVvhY/hqdefault.jpg",
-      "published_at": "2026-04-11T23:00:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "NH1MXerNLUg",
@@ -660,25 +690,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "lXyNF3cPW2g",
-      "title": "[한국어] 아직 주식 사긴 이르다? 월가의 전설적인 약세론자 데이비드 로젠버그가 말하는 종전 후 투자처 | 로젠버그 리서치 CEO [Global Money Talk]",
-      "source_url": "https://www.youtube.com/watch?v=lXyNF3cPW2g",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lXyNF3cPW2g/hqdefault.jpg",
-      "published_at": "2026-04-11T08:00:56+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "g-J5ha4Dsks",

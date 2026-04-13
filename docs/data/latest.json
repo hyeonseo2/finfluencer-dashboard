@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T19:20:39.196616+00:00",
+  "generated_at": "2026-04-13T21:00:59.512776+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "o50Bxz2ALfI",
+      "title": "협상 재개 기대감에 뉴욕증시 상승 마감, 써클 급등...왜?_26.04.14 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=o50Bxz2ALfI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/o50Bxz2ALfI/hqdefault.jpg",
+      "published_at": "2026-04-13T20:31:31+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "6fU8gNYw-Rs",
       "title": "상폐 시즌 다가온다… 주린이들이 꼭 피해야 할 위험 신호 l 명민준, 강아랑, 신영목 [주린이 구조대]",
@@ -558,25 +582,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zEEu8ObXgL4",
-      "title": "반도체 상반기는 좋은데 하반기는…? | 이형수 HSL파트너스 대표 [더블업]",
-      "source_url": "https://www.youtube.com/watch?v=zEEu8ObXgL4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zEEu8ObXgL4/hqdefault.jpg",
-      "published_at": "2026-04-13T01:21:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

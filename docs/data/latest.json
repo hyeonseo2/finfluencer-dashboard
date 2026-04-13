@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13T22:50:08.002398+00:00",
+  "generated_at": "2026-04-13T23:50:54.313787+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
   ],
   "videos": [
     {
+      "video_id": "8CfV9n0rhK8",
+      "title": "미국, 이란에 우라늄 농축 ‘20년 중단’ 요구…이란은 한자릿수 역제안 | 박현도 서강대 유로메나연구소 교수 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=8CfV9n0rhK8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8CfV9n0rhK8/hqdefault.jpg",
+      "published_at": "2026-04-13T22:59:56+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "ClzjLSsuKWU",
       "title": "오라클, AI 자신감에 12% 급등…호르무즈 봉쇄에도 AI는 간다 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=ClzjLSsuKWU",
@@ -76,7 +95,7 @@
     },
     {
       "video_id": "o50Bxz2ALfI",
-      "title": "트럼프 “이란 간절히 합의 원해” vs 이란 ”국제법 테두리 내에서만“ | K-방산 천궁Ⅱ ‘먼저 달라’ 아우성 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[4월 14일 개장시황] 정프로, 빈센트, 장우진, 편다송, 백인재 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=o50Bxz2ALfI",
       "thumbnail_url": "https://i4.ytimg.com/vi/o50Bxz2ALfI/hqdefault.jpg",
       "published_at": "2026-04-13T20:31:31+00:00",
@@ -558,25 +577,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "95lIbyRtIhA",
-      "title": "[26.04.13 오전 방송 전체보기] 미·이란 첫 협상 '결렬' 인플레이션 우려 속 뉴욕증시 혼조 마감 / \"성과급 40조 달라\"는 삼성전자 노조…400만 주주들 '한숨'",
-      "source_url": "https://www.youtube.com/watch?v=95lIbyRtIhA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/95lIbyRtIhA/hqdefault.jpg",
-      "published_at": "2026-04-13T03:21:50+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14T20:08:16.265440+00:00",
+  "generated_at": "2026-04-14T21:55:33.680950+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "NlaK-onvu5E",
+      "title": "2차협상 기대감에 뉴욕증시 일제히 강세...아이온큐·블룸에너지 '급등'_26.04.15 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=NlaK-onvu5E",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NlaK-onvu5E/hqdefault.jpg",
+      "published_at": "2026-04-14T20:23:07+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "-76_xlWxlw4",
       "title": "목표가와 주가의 괴리, 지금 시장에서 벌어지는 일 l 명민준, 강아랑, 차영주 [주린이 구조대]",
@@ -567,25 +591,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "b7IXHrGQIn8",
-      "title": "'적정주가 70만원' 글로벌 유일이라고? | 백인재 하나증권 영업부금융센터 부센터장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=b7IXHrGQIn8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/b7IXHrGQIn8/hqdefault.jpg",
-      "published_at": "2026-04-14T01:17:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

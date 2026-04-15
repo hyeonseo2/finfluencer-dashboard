@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15T19:25:11.636140+00:00",
+  "generated_at": "2026-04-15T20:57:44.167523+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "hya2LCv7SBU",
+      "title": "종전 합의 기대감에 S&P500지수·나스닥 지수 사상 최고치 경신_26.04.16 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=hya2LCv7SBU",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hya2LCv7SBU/hqdefault.jpg",
+      "published_at": "2026-04-15T20:14:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "dH04BRbhBdU",
       "title": "순환매 장세 본격화… 반도체 다음 ETF 어디 봐야 하나 l 명민준, 강아랑, 최창규 [주린이 구조대]",
@@ -559,25 +583,6 @@
         },
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "R9X0WwcPXsQ",
-      "title": "지금, 그리고 아직도 국장이 최고의 기회인 이유 | 강대권 라이프자산운용 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=R9X0WwcPXsQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/R9X0WwcPXsQ/hqdefault.jpg",
-      "published_at": "2026-04-15T01:15:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

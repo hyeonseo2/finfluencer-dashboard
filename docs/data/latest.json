@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16T12:00:57.478962+00:00",
+  "generated_at": "2026-04-16T14:59:39.091527+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,44 @@
   ],
   "videos": [
     {
+      "video_id": "M_r_B_SVInM",
+      "title": "소비 습관만 봐도 보인다, 지금 주목해야 할 업종은? l 명민준, 박가영, 박지훈 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=M_r_B_SVInM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/M_r_B_SVInM/hqdefault.jpg",
+      "published_at": "2026-04-16T13:00:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "kJ3F7SwF7mI",
+      "title": "강한 시장일수록 어려운 매수, 어떻게 접근해야 하나 l 명민준, 박가영, 염승환 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=kJ3F7SwF7mI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kJ3F7SwF7mI/hqdefault.jpg",
+      "published_at": "2026-04-16T12:01:17+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "3abcUC12_xc",
       "title": "[26.04.16 오후 방송 전체보기] 미국 일이 술술 풀린다? 다가오는 종전 협상에 기술주 훈풍까지…덩달아 국내증시도 봄바람 살랑살랑 [클로징벨 라이브]",
       "source_url": "https://www.youtube.com/watch?v=3abcUC12_xc",
@@ -96,27 +134,17 @@
     },
     {
       "video_id": "sE0n03ZAzxM",
-      "title": "\"22조 달러 돈 쓸어 남는 역대급 ETF 떴다\" 반도체, 방산, 우주 아니에요. 앞으로 100배 무섭게 오를 겁니다. ISA에 지금 당장 담으세요 | 김규동 이사 #원픽리포트",
+      "title": "\"3경 돈 몰린다\" 제발 단돈 10만원이라고 이것 사두세요. ISA에 묻어두면 앞으로 100배 오를 ETF 3가지 | 김규동 이사 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=sE0n03ZAzxM",
       "thumbnail_url": "https://i4.ytimg.com/vi/sE0n03ZAzxM/hqdefault.jpg",
       "published_at": "2026-04-16T10:30:37+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities",
-        "etf",
-        "fx"
+        "etf"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
           "topic": "etf",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],
@@ -125,17 +153,17 @@
     },
     {
       "video_id": "8ILUQcj88b4",
-      "title": "43년 만에 금값 대폭락 곧 상상도 못한 일 터진다 | 홍춘욱 박사 풀버전",
+      "title": "금값 수상한 움직임 포착 가진 금 싹다 ‘이렇게’ 하세요 | 홍춘욱 박사 풀버전",
       "source_url": "https://www.youtube.com/watch?v=8ILUQcj88b4",
       "thumbnail_url": "https://i1.ytimg.com/vi/8ILUQcj88b4/hqdefault.jpg",
       "published_at": "2026-04-16T10:30:04+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -551,44 +579,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Ix5xUzTgZdk",
-      "title": "통신·네트워크 병목의 해결책 광학! 이제 시작입니다_26.04.16. | 안정진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=Ix5xUzTgZdk",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Ix5xUzTgZdk/hqdefault.jpg",
-      "published_at": "2026-04-16T02:52:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "uYQZxoKmqmA",
-      "title": "AI 테마는 여전히 초기! 미장은 계속간다_26.04.16. | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=uYQZxoKmqmA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/uYQZxoKmqmA/hqdefault.jpg",
-      "published_at": "2026-04-16T02:40:11+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "WobY56ghVCA",

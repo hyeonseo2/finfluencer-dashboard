@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T16:58:14.384210+00:00",
+  "generated_at": "2026-04-17T17:55:58.157466+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -244,17 +244,22 @@
     },
     {
       "video_id": "W5afG982MhM",
-      "title": "'이 주식' 몽땅 쓸어모아라. 조만간 100만원 황제주 된다｜이권희 대표 풀버전2",
+      "title": "또 한 번 폭락이 올겁니다. 현금 쟁였다가 ‘이 주식’ 사세요｜이권희 대표 풀버전2",
       "source_url": "https://www.youtube.com/watch?v=W5afG982MhM",
       "thumbnail_url": "https://i4.ytimg.com/vi/W5afG982MhM/hqdefault.jpg",
       "published_at": "2026-04-17T09:30:15+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-17T11:54:56.134082+00:00",
+  "generated_at": "2026-04-17T13:42:10.385352+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "AMhCS3niKu8",
+      "title": "변동성 장세 막바지, 지금 내 주식은 어떻게 봐야 할까ㅣ명민준, 박가영, 신얼 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=AMhCS3niKu8",
+      "thumbnail_url": "https://i2.ytimg.com/vi/AMhCS3niKu8/hqdefault.jpg",
+      "published_at": "2026-04-17T13:00:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "tsHC20J-cxw",
+      "title": "지금은 버틸 때, 기회는 살아남은 사람의 몫. 지금 시장에서 중요한 단 하나?ㅣ명민준, 박가영, 유영화 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=tsHC20J-cxw",
+      "thumbnail_url": "https://i1.ytimg.com/vi/tsHC20J-cxw/hqdefault.jpg",
+      "published_at": "2026-04-17T12:31:17+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "7Ypeu7jxR_A",
       "title": "[26.04.17 오후 방송 전체보기] 종전 협상 가능성부터 차익실현까지…차분해진 국내 증시, 다음주는? [클로징벨 라이브]",
@@ -220,17 +263,17 @@
     },
     {
       "video_id": "I3LNyXqsOmQ",
-      "title": "\"제발 이 행동 하지마라\" 현금 ATM에서 뽑아주면 온 가족 세무조사 받습니다 l 이성호 세무사 3부 #세무조사",
+      "title": "\"증여세 없어요\" 매달 100만 원 현금증여 국세청도 이건 봐준다 l 이성호 세무사 3부 #현금증여",
       "source_url": "https://www.youtube.com/watch?v=I3LNyXqsOmQ",
       "thumbnail_url": "https://i2.ytimg.com/vi/I3LNyXqsOmQ/hqdefault.jpg",
       "published_at": "2026-04-17T09:30:09+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -601,44 +644,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Y4CEprihNiI",
-      "title": "“코스피·코스닥 전고점 임박”..동시에 돌파하나? | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=Y4CEprihNiI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Y4CEprihNiI/hqdefault.jpg",
-      "published_at": "2026-04-17T01:06:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "N21TIZBoiig",
-      "title": "왜 계속 오르다 멈췄나… 답은 수급과 유동성? | 박병창 이사 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=N21TIZBoiig",
-      "thumbnail_url": "https://i3.ytimg.com/vi/N21TIZBoiig/hqdefault.jpg",
-      "published_at": "2026-04-17T00:23:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "9a9GunoB6xc",
       "title": "강대국들이 한국 두려워하는 이유, 중국, 일본, 북한이 발칵 뒤집혔다 (문근식 교수)",
       "source_url": "https://www.youtube.com/watch?v=9a9GunoB6xc",
@@ -716,7 +721,7 @@
     },
     {
       "video_id": "wFStfRtaC-U",
-      "title": "중동 전쟁 끝난 후 한국이 떼돈 번다, 지금 사 모아가야 할 주식 2가지 (차영주 소장)",
+      "title": "이란 전쟁 후 한국이 떼돈 번다, 지금 사 모아가야 할 주식 2가지 (차영주 소장)",
       "source_url": "https://www.youtube.com/watch?v=wFStfRtaC-U",
       "thumbnail_url": "https://i4.ytimg.com/vi/wFStfRtaC-U/hqdefault.jpg",
       "published_at": "2026-04-16T10:01:28+00:00",

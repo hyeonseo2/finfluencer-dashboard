@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T10:49:24.551031+00:00",
+  "generated_at": "2026-04-18T11:39:00.072299+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "eGmjD156igw",
+      "title": "원전 다음 '여기서' 텐배거 터진다, 얼마나 오를지 감도 안 와요 (주식장인 이창대 대표 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=eGmjD156igw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eGmjD156igw/hqdefault.jpg",
+      "published_at": "2026-04-18T11:00:59+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Y7aSwhrjcm8",
       "title": "'이 주식' 미련없이 싹다 팔아라. 조만간 끔찍한 일 벌어진다｜성승현 대표 풀버전",
@@ -1202,25 +1221,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "X71KDlo3SHo",
-      "title": "원전 다음 '여기서' 텐배거 나온다, 얼마나 오를지 감도 안 온다 (주식장인 이창대 대표)",
-      "source_url": "https://www.youtube.com/watch?v=X71KDlo3SHo",
-      "thumbnail_url": "https://i1.ytimg.com/vi/X71KDlo3SHo/hqdefault.jpg",
-      "published_at": "2026-04-15T09:00:49+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "bhsdookyQm0",

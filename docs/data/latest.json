@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18T11:39:00.072299+00:00",
+  "generated_at": "2026-04-18T13:13:06.716049+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "3GJDaEmhq-M",
+      "title": "중국 돼지고기 가격 폭락의 비밀",
+      "source_url": "https://www.youtube.com/watch?v=3GJDaEmhq-M",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3GJDaEmhq-M/hqdefault.jpg",
+      "published_at": "2026-04-18T12:39:44+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "eGmjD156igw",
       "title": "원전 다음 '여기서' 텐배거 터진다, 얼마나 오를지 감도 안 와요 (주식장인 이창대 대표 풀버전)",
@@ -1456,25 +1475,6 @@
       "source_url": "https://www.youtube.com/watch?v=sGzu9Mdczfo",
       "thumbnail_url": "https://i4.ytimg.com/vi/sGzu9Mdczfo/hqdefault.jpg",
       "published_at": "2026-04-06T10:02:16+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "N24y6znXREE",
-      "title": "돈 없어도 주식 하는 법",
-      "source_url": "https://www.youtube.com/shorts/N24y6znXREE",
-      "thumbnail_url": "https://i3.ytimg.com/vi/N24y6znXREE/hqdefault.jpg",
-      "published_at": "2026-04-06T05:30:24+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "stocks"

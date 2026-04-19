@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T11:39:41.522435+00:00",
+  "generated_at": "2026-04-19T13:12:49.380481+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -705,17 +705,17 @@
     },
     {
       "video_id": "yviIi4b-RIs",
-      "title": "ChatGPT 쓰는 사람들이 절대 모르는 것, 돈 버는 사람들은 이미 클로드로 갈아탔습니다ㅣ정주용 그래비티벤처스 의장 [3부]",
+      "title": "오픈AI 망하면 AI 버블도 꺼질까요? 절대 아닙니다, 오히려 지금이 기회입니다ㅣ정주용 그래비티벤처스 의장 [3부]",
       "source_url": "https://www.youtube.com/watch?v=yviIi4b-RIs",
       "thumbnail_url": "https://i2.ytimg.com/vi/yviIi4b-RIs/hqdefault.jpg",
       "published_at": "2026-04-18T04:00:00+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1000,22 +1000,17 @@
     },
     {
       "video_id": "8j43-58C9I4",
-      "title": "피같은 내 돈 잃고 싶지 않으시죠? '이것'만 해도 돈냄새 맡을 수 있습니다 [주식주부 리나]",
+      "title": "불장에도 수익 못내셨나요? '이것'만 알면 초등학생도 벌 수 있습니다. [주식주부 리나]",
       "source_url": "https://www.youtube.com/watch?v=8j43-58C9I4",
       "thumbnail_url": "https://i1.ytimg.com/vi/8j43-58C9I4/hqdefault.jpg",
       "published_at": "2026-04-17T11:00:00+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

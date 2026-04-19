@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T08:08:10.601557+00:00",
+  "generated_at": "2026-04-19T09:52:31.405218+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "0AP9ttDrE1g",
+      "title": "한국이 숨겨온 세계 1등 무기, 북한은 전쟁나면 싹다 박살난다 (문근식 교수 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=0AP9ttDrE1g",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0AP9ttDrE1g/hqdefault.jpg",
+      "published_at": "2026-04-19T09:00:02+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "xFfGO1JvnPI",
       "title": "노후준비 이걸로 하세요 #원픽리포트",
@@ -114,7 +133,7 @@
     },
     {
       "video_id": "aMDZNHkKgFI",
-      "title": "환율 1700원까지 갈 수 있다, 초비상, '이것' 알아야 돈 지킨다 (이현훈 교수)",
+      "title": "원화가 휴지조각 될 겁니다, 진짜 심각해진 한국경제 분위기 (이현훈 교수)",
       "source_url": "https://www.youtube.com/watch?v=aMDZNHkKgFI",
       "thumbnail_url": "https://i2.ytimg.com/vi/aMDZNHkKgFI/hqdefault.jpg",
       "published_at": "2026-04-19T06:45:00+00:00",
@@ -1221,25 +1240,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "WobY56ghVCA",
-      "title": "5천만원으로 '이 3개 주식' 사세요, 내년까지 미친듯이 오를 겁니다 (주식장인 이창대 대표)",
-      "source_url": "https://www.youtube.com/watch?v=WobY56ghVCA",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WobY56ghVCA/hqdefault.jpg",
-      "published_at": "2026-04-15T12:15:04+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "FP_zaF6QJdw",

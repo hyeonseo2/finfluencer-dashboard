@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T16:50:05.100808+00:00",
+  "generated_at": "2026-04-19T17:39:52.900400+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -73,25 +73,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "GPylkNcsmUQ",
-      "title": "[효친 LIVE] 0419",
-      "source_url": "https://www.youtube.com/watch?v=GPylkNcsmUQ",
-      "thumbnail_url": "https://i4.ytimg.com/vi/GPylkNcsmUQ/hqdefault.jpg",
-      "published_at": "2026-04-19T14:45:02+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "E7nuGGGoX9w",
@@ -1396,6 +1377,25 @@
       "topic_stances": [
         {
           "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "c9ZWXAIt-5M",
+      "title": "어마무시한 것을 만들어버린 앤트로픽. 개발자들도 무서워서 벌벌 떤다",
+      "source_url": "https://www.youtube.com/watch?v=c9ZWXAIt-5M",
+      "thumbnail_url": "https://i4.ytimg.com/vi/c9ZWXAIt-5M/hqdefault.jpg",
+      "published_at": "2026-04-13T08:00:00+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

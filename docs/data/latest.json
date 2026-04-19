@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T14:46:16.913239+00:00",
+  "generated_at": "2026-04-19T15:41:46.580750+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
   ],
   "videos": [
     {
+      "video_id": "B_K4lAgcTmM",
+      "title": "하늘을 나는 잉어",
+      "source_url": "https://www.youtube.com/shorts/B_K4lAgcTmM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/B_K4lAgcTmM/hqdefault.jpg",
+      "published_at": "2026-04-19T15:04:16+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "GPylkNcsmUQ",
+      "title": "[효친 LIVE] 0419",
+      "source_url": "https://www.youtube.com/watch?v=GPylkNcsmUQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/GPylkNcsmUQ/hqdefault.jpg",
+      "published_at": "2026-04-19T14:45:02+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "E7nuGGGoX9w",
       "title": "이익이 4분의 1 토막났는데 주가는 왜 안 떨어질까, 테슬라 주주라면 반드시 알아야 할 진짜 이유",
       "source_url": "https://www.youtube.com/watch?v=E7nuGGGoX9w",
@@ -73,30 +111,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "rIdGTD8vAR8",
-      "title": "[슈카월드] 중복상장은 금지 될 것인가 / 돌아온 코스피 6000과 하이닉스 실적/ 요즘 뜨는 신흥 부자, 에밀리 / 침팬지들은 왜 동족을 죽였을까 / 바벨탑이 세워지는 X",
-      "source_url": "https://www.youtube.com/watch?v=rIdGTD8vAR8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rIdGTD8vAR8/hqdefault.jpg",
-      "published_at": "2026-04-19T11:22:48+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "kOr-CXrXYqo",
@@ -1382,25 +1396,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "c9ZWXAIt-5M",
-      "title": "어마무시한 것을 만들어버린 앤트로픽. 개발자들도 무서워서 벌벌 떤다",
-      "source_url": "https://www.youtube.com/watch?v=c9ZWXAIt-5M",
-      "thumbnail_url": "https://i4.ytimg.com/vi/c9ZWXAIt-5M/hqdefault.jpg",
-      "published_at": "2026-04-13T08:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

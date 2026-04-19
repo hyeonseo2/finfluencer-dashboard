@@ -29,8 +29,28 @@ def parse_published(entry) -> dt.datetime | None:
 
 def parse_feed(channel_id: str, etag: str | None = None, modified: str | None = None) -> tuple[list[dict], str | None, str | None]:
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    parsed = feedparser.parse(url, etag=etag, modified=modified)
-    if getattr(parsed, "bozo", False):
+    
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"}
+    if etag:
+        headers["If-None-Match"] = etag
+    if modified:
+        headers["If-Modified-Since"] = modified
+        
+    import requests
+    try:
+        r = requests.get(url, headers=headers, timeout=15)
+        # Handle 304 Not Modified
+        if r.status_code == 304:
+            parsed = feedparser.parse("")
+            parsed.status = 304
+        else:
+            parsed = feedparser.parse(r.content)
+            parsed.etag = r.headers.get("etag")
+            parsed.modified = r.headers.get("last-modified")
+    except Exception:
+        parsed = feedparser.parse(url, etag=etag, modified=modified)
+
+    if getattr(parsed, "bozo", False) and r.status_code != 304:
         raise RuntimeError(getattr(parsed, "bozo_exception", "RSS parse error"))
 
     entries = []

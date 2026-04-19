@@ -86,7 +86,16 @@ def infer_topics(title: str) -> list[str]:
 
 def parse_feed(channel_id: str) -> list[dict]:
     url = f"https://www.youtube.com/feeds/videos.xml?channel_id={channel_id}"
-    feed = feedparser.parse(url)
+    try:
+        r = requests.get(
+            url, 
+            headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"},
+            timeout=15
+        )
+        feed = feedparser.parse(r.content)
+    except Exception:
+        feed = feedparser.parse(url)
+        
     rows: list[dict] = []
 
     for e in feed.entries[:12]:

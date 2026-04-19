@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T10:45:34.874978+00:00",
+  "generated_at": "2026-04-19T11:31:19.372975+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "rIdGTD8vAR8",
+      "title": "[슈카월드] 중복상장은 금지 될 것인가 / 돌아온 코스피 6000과 하이닉스 실적/ 요즘 뜨는 신흥 부자, 에밀리 / 침팬지들은 왜 동족을 죽였을까 / 바벨탑이 세워지는 X",
+      "source_url": "https://www.youtube.com/watch?v=rIdGTD8vAR8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rIdGTD8vAR8/hqdefault.jpg",
+      "published_at": "2026-04-19T11:22:48+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "kOr-CXrXYqo",
       "title": "남자, 여자 '이 나이부터' 결혼이 정말 힘들어진다 (결혼정보회사 홍대의 대표)",
@@ -1458,25 +1482,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "sGzu9Mdczfo",
-      "title": "40조? 50조? 삼성전자 1분기 실적, 얼마나 나올까?",
-      "source_url": "https://www.youtube.com/watch?v=sGzu9Mdczfo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/sGzu9Mdczfo/hqdefault.jpg",
-      "published_at": "2026-04-06T10:02:16+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

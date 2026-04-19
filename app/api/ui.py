@@ -16,24 +16,24 @@ _UI_HTML = """<!doctype html>
   <title>핀플루언서 비교 분석 대시보드</title>
   <style>
     :root {
-      --bg: #09090b;
-      --panel: rgba(24, 24, 27, 0.65);
-      --line: rgba(255, 255, 255, 0.1);
-      --text: #fafafa;
-      --muted: #a1a1aa;
-      --accent: #60a5fa;
-      --accent-soft: #1e3a8a;
-      --shadow: 0 8px 32px rgba(0, 0, 0, 0.4);
+      --bg: #f8fafc;
+      --panel: rgba(255, 255, 255, 0.75);
+      --line: rgba(0, 0, 0, 0.06);
+      --text: #0f172a;
+      --muted: #64748b;
+      --accent: #3b82f6;
+      --accent-soft: #eff6ff;
+      --shadow: 0 8px 32px rgba(15, 23, 42, 0.08);
       --radius: 16px;
-      --glass-border: 1px solid rgba(255, 255, 255, 0.08);
+      --glass-border: 1px solid rgba(255, 255, 255, 0.6);
     }
 
     * { box-sizing: border-box; }
 
     body {
       margin: 0;
-      background: radial-gradient(circle at 15% 50%, rgba(29, 78, 216, 0.15) 0%, transparent 50%),
-                  radial-gradient(circle at 85% 30%, rgba(139, 92, 246, 0.15) 0%, transparent 50%),
+      background: radial-gradient(circle at 15% 50%, rgba(59, 130, 246, 0.1) 0%, transparent 50%),
+                  radial-gradient(circle at 85% 30%, rgba(167, 139, 250, 0.1) 0%, transparent 50%),
                   var(--bg);
       background-attachment: fixed;
       color: var(--text);
@@ -50,9 +50,9 @@ _UI_HTML = """<!doctype html>
       top: 0;
       z-index: 20;
       padding: 16px 24px;
-      background: rgba(9, 9, 11, 0.7);
+      background: rgba(255, 255, 255, 0.85);
       border-bottom: var(--glass-border);
-      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+      box-shadow: 0 4px 30px rgba(0, 0, 0, 0.03);
       backdrop-filter: blur(12px);
       -webkit-backdrop-filter: blur(12px);
     }
@@ -64,10 +64,10 @@ _UI_HTML = """<!doctype html>
       margin-bottom: 16px;
       text-align: center;
       width: 100%;
-      background: linear-gradient(135deg, #60a5fa 0%, #c084fc 100%);
+      background: linear-gradient(135deg, #2563eb 0%, #7c3aed 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
-      text-shadow: 0 0 30px rgba(96, 165, 250, 0.3);
+      text-shadow: 0 2px 10px rgba(37, 99, 235, 0.1);
       transition: transform 0.3s ease;
     }
     
@@ -94,21 +94,21 @@ _UI_HTML = """<!doctype html>
     .top .btn {
       border-radius: 999px;
       border: var(--glass-border);
-      background: rgba(255, 255, 255, 0.05);
-      color: #e4e4e7;
+      background: rgba(255, 255, 255, 0.8);
+      color: #334155;
       padding: 8px 18px;
       font-size: 13px;
       font-weight: 600;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      box-shadow: 0 4px 12px rgba(15, 23, 42, 0.05);
       backdrop-filter: blur(8px);
     }
 
     .top .btn:hover {
       transform: translateY(-2px);
-      border-color: rgba(255, 255, 255, 0.2);
-      background: rgba(255, 255, 255, 0.1);
-      color: #ffffff;
-      box-shadow: 0 6px 16px rgba(0, 0, 0, 0.3);
+      border-color: rgba(255, 255, 255, 1);
+      background: #ffffff;
+      color: #0f172a;
+      box-shadow: 0 6px 16px rgba(15, 23, 42, 0.08);
     }
 
     .top-search {
@@ -127,27 +127,28 @@ _UI_HTML = """<!doctype html>
       min-height: 38px;
       border-radius: 999px;
       border: var(--glass-border);
-      background: rgba(0, 0, 0, 0.4);
-      color: #ffffff;
+      background: rgba(241, 245, 249, 0.7);
+      color: #0f172a;
       padding: 8px 16px;
       outline: none;
       font-size: 13px;
       transition: all 0.3s ease;
+      box-shadow: inset 0 2px 4px rgba(15, 23, 42, 0.02);
     }
 
-    .top-search input::placeholder { color: #71717a; }
+    .top-search input::placeholder { color: #64748b; }
 
     .top-search input:focus {
       width: 260px;
       border-color: var(--accent);
-      background: rgba(0, 0, 0, 0.6);
-      box-shadow: 0 0 0 4px rgba(96, 165, 250, 0.15);
+      background: #ffffff;
+      box-shadow: 0 0 0 4px rgba(59, 130, 246, 0.15);
     }
 
     .btn {
       border-radius: 12px;
       border: var(--glass-border);
-      background: rgba(255, 255, 255, 0.08);
+      background: rgba(255, 255, 255, 0.9);
       color: var(--text);
       padding: 10px 16px;
       font-size: 14px;
@@ -157,13 +158,14 @@ _UI_HTML = """<!doctype html>
       gap: 8px;
       transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
       cursor: pointer;
+      box-shadow: 0 2px 6px rgba(15, 23, 42, 0.04);
     }
 
     .btn:hover {
       transform: translateY(-2px) scale(1.02);
-      border-color: rgba(255, 255, 255, 0.2);
-      background: rgba(255, 255, 255, 0.12);
-      box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+      border-color: rgba(255, 255, 255, 1);
+      background: #ffffff;
+      box-shadow: 0 8px 20px rgba(15, 23, 42, 0.08);
     }
 
     .btn:active {
@@ -174,6 +176,7 @@ _UI_HTML = """<!doctype html>
       opacity: 0.5;
       cursor: not-allowed;
       transform: none;
+      box-shadow: none;
     }
 
     .btn.icon-only {
@@ -212,8 +215,8 @@ _UI_HTML = """<!doctype html>
     
     .panel:hover {
       transform: translateY(-4px);
-      box-shadow: 0 12px 40px rgba(0, 0, 0, 0.5);
-      border-color: rgba(255, 255, 255, 0.15);
+      box-shadow: 0 12px 40px rgba(15, 23, 42, 0.12);
+      border-color: rgba(255, 255, 255, 0.9);
     }
 
     .muted { color: var(--muted); font-size: 13px; }
@@ -238,23 +241,24 @@ _UI_HTML = """<!doctype html>
       padding: 8px 16px;
       border-radius: 12px;
       border: var(--glass-border);
-      background: rgba(0, 0, 0, 0.3);
+      background: rgba(255, 255, 255, 0.8);
       color: var(--text);
       font-size: 14px;
       transition: all 0.2s ease;
       outline: none;
+      box-shadow: inset 0 2px 4px rgba(15, 23, 42, 0.02);
     }
 
     .toolbar input:focus,
     .toolbar select:focus {
       border-color: var(--accent);
-      background: rgba(0, 0, 0, 0.5);
-      box-shadow: 0 0 0 3px rgba(96, 165, 250, 0.2);
+      background: #ffffff;
+      box-shadow: 0 0 0 3px rgba(59, 130, 246, 0.15);
     }
 
     .filters { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-start; }
     .select-wrap { display: flex; flex-direction: column; gap: 6px; }
-    .select-wrap label { font-size: 13px; color: #a1a1aa; font-weight: 600; }
+    .select-wrap label { font-size: 13px; color: #475569; font-weight: 600; }
 
     .topic-toggle-wrap {
       display: flex;
@@ -278,8 +282,8 @@ _UI_HTML = """<!doctype html>
     .topic-toggle {
       border: var(--glass-border);
       border-radius: 999px;
-      background: rgba(255, 255, 255, 0.05);
-      color: #d4d4d8;
+      background: rgba(255, 255, 255, 0.6);
+      color: #334155;
       padding: 8px 14px;
       font-size: 13px;
       font-weight: 600;
@@ -293,7 +297,7 @@ _UI_HTML = """<!doctype html>
     .topic-toggle:hover {
       border-color: rgba(96, 165, 250, 0.4);
       background: rgba(96, 165, 250, 0.1);
-      color: #bfdbfe;
+      color: #1e3a8a;
     }
 
     .topic-toggle.active {
@@ -323,7 +327,7 @@ _UI_HTML = """<!doctype html>
       border: var(--glass-border);
       border-radius: var(--radius);
       padding: 16px;
-      background: rgba(255, 255, 255, 0.03);
+      background: rgba(255, 255, 255, 0.7);
       backdrop-filter: blur(8px);
       transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     }
@@ -331,7 +335,7 @@ _UI_HTML = """<!doctype html>
     .item:hover {
       transform: translateY(-4px) scale(1.01);
       border-color: rgba(96, 165, 250, 0.3);
-      background: rgba(255, 255, 255, 0.05);
+      background: rgba(255, 255, 255, 0.6);
       box-shadow: 0 12px 30px rgba(0, 0, 0, 0.4);
     }
 
@@ -365,7 +369,7 @@ _UI_HTML = """<!doctype html>
       border-radius: 12px;
       border: none;
       object-fit: cover;
-      background: rgba(0, 0, 0, 0.5);
+      background: rgba(0, 0, 0, 0.05);
       display: block;
       transition: transform 0.4s ease;
     }
@@ -417,7 +421,7 @@ _UI_HTML = """<!doctype html>
     .video-title {
       font-size: 18px;
       line-height: 1.4;
-      color: #f4f4f5;
+      color: #0f172a;
       font-weight: 700;
       min-height: 24px;
       word-break: break-word;
@@ -429,14 +433,14 @@ _UI_HTML = """<!doctype html>
     a.link { color: inherit; text-decoration: none; }
     
     .item:hover .video-title {
-      color: #93c5fd;
+      color: #2563eb;
     }
 
     .video-channel {
       display: flex;
       align-items: center;
       gap: 6px;
-      background: rgba(255, 255, 255, 0.05);
+      background: rgba(255, 255, 255, 0.6);
       padding: 4px 10px 4px 4px;
       border-radius: 999px;
       border: var(--glass-border);
@@ -444,7 +448,7 @@ _UI_HTML = """<!doctype html>
     }
     
     .video-channel:hover {
-      background: rgba(255, 255, 255, 0.1);
+      background: rgba(0, 0, 0, 0.04);
     }
 
     .video-channel-avatar,
@@ -453,7 +457,7 @@ _UI_HTML = """<!doctype html>
       height: 20px;
       border-radius: 50%;
       flex: 0 0 20px;
-      background: rgba(0, 0, 0, 0.3);
+      background: rgba(0, 0, 0, 0.05);
       border: 1px solid rgba(255, 255, 255, 0.1);
       display: inline-flex;
       align-items: center;
@@ -466,7 +470,7 @@ _UI_HTML = """<!doctype html>
     .video-channel-name {
       font-size: 12px;
       font-weight: 600;
-      color: #e4e4e7;
+      color: #334155;
       overflow: hidden;
       text-overflow: ellipsis;
       white-space: nowrap;
@@ -487,7 +491,7 @@ _UI_HTML = """<!doctype html>
     .status-error { color: #f87171; background: currentColor; }
 
     .video-extra {
-      color: #d4d4d8;
+      color: #334155;
       font-size: 14px;
       line-height: 1.6;
       margin-top: 4px;
@@ -497,13 +501,13 @@ _UI_HTML = """<!doctype html>
     .mono {
       font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
       font-size: 12px;
-      color: #94a3b8;
+      color: #64748b;
     }
 
     .video-preview {
       white-space: pre-wrap;
-      background: rgba(0, 0, 0, 0.3);
-      border: 1px dashed rgba(255, 255, 255, 0.15);
+      background: rgba(0, 0, 0, 0.05);
+      border: 1px dashed rgba(0, 0, 0, 0.1);
       border-radius: 12px;
       margin-top: 10px;
       padding: 12px;
@@ -529,7 +533,7 @@ _UI_HTML = """<!doctype html>
     .topic-sentiment-item:hover,
     .topic-sentiment-item.active {
       border-color: rgba(96, 165, 250, 0.4);
-      background: rgba(255, 255, 255, 0.05);
+      background: rgba(255, 255, 255, 0.6);
     }
 
     .video-thumb-tags {
@@ -549,8 +553,8 @@ _UI_HTML = """<!doctype html>
       font-size: 12px;
       font-weight: 600;
       padding: 4px 12px;
-      color: #e4e4e7;
-      background: rgba(255, 255, 255, 0.05);
+      color: #334155;
+      background: rgba(255, 255, 255, 0.6);
       white-space: nowrap;
       transition: all 0.2s ease;
     }
@@ -574,8 +578,8 @@ _UI_HTML = """<!doctype html>
     .stance-pill.positive { background: rgba(34, 197, 94, 0.15); border-color: rgba(34, 197, 94, 0.3); color: #86efac; }
     .stance-pill.active.positive, .stance-pill.positive:hover { box-shadow: 0 0 12px rgba(34, 197, 94, 0.4); }
     
-    .stance-pill.neutral { background: rgba(255, 255, 255, 0.08); border-color: rgba(255, 255, 255, 0.15); color: #e2e8f0; }
-    .stance-pill.active.neutral, .stance-pill.neutral:hover { box-shadow: 0 0 12px rgba(255, 255, 255, 0.2); }
+    .stance-pill.neutral { background: rgba(255, 255, 255, 0.8); border-color: rgba(0, 0, 0, 0.08); color: #334155; }
+    .stance-pill.active.neutral, .stance-pill.neutral:hover { box-shadow: 0 0 12px rgba(0, 0, 0, 0.05); }
     
     .stance-pill.negative { background: rgba(239, 68, 68, 0.15); border-color: rgba(239, 68, 68, 0.3); color: #fca5a5; }
     .stance-pill.active.negative, .stance-pill.negative:hover { box-shadow: 0 0 12px rgba(239, 68, 68, 0.4); }

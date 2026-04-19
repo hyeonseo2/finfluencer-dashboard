@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19T13:12:49.380481+00:00",
+  "generated_at": "2026-04-19T14:46:16.913239+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "E7nuGGGoX9w",
+      "title": "이익이 4분의 1 토막났는데 주가는 왜 안 떨어질까, 테슬라 주주라면 반드시 알아야 할 진짜 이유",
+      "source_url": "https://www.youtube.com/watch?v=E7nuGGGoX9w",
+      "thumbnail_url": "https://i2.ytimg.com/vi/E7nuGGGoX9w/hqdefault.jpg",
+      "published_at": "2026-04-19T14:02:32+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "rIdGTD8vAR8",
       "title": "[슈카월드] 중복상장은 금지 될 것인가 / 돌아온 코스피 6000과 하이닉스 실적/ 요즘 뜨는 신흥 부자, 에밀리 / 침팬지들은 왜 동족을 죽였을까 / 바벨탑이 세워지는 X",
@@ -119,17 +138,17 @@
     },
     {
       "video_id": "0AP9ttDrE1g",
-      "title": "한국이 숨겨온 세계 1등 무기, 북한은 전쟁나면 싹다 박살난다 (문근식 교수 풀버전)",
+      "title": "핵잠수함보다 무서운 게 온다, 주변 강대국들 속았다 난리난 이유 (문근식 교수 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=0AP9ttDrE1g",
       "thumbnail_url": "https://i1.ytimg.com/vi/0AP9ttDrE1g/hqdefault.jpg",
       "published_at": "2026-04-19T09:00:02+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1375,25 +1394,6 @@
       "source_url": "https://www.youtube.com/watch?v=c9ZWXAIt-5M",
       "thumbnail_url": "https://i4.ytimg.com/vi/c9ZWXAIt-5M/hqdefault.jpg",
       "published_at": "2026-04-13T08:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "aT-ZdBwdhKA",
-      "title": "[속보효] 트럼프, 미국이 호르무츠 해협을 봉쇄한다 | 협상 수일내 재개될 듯(WSJ)",
-      "source_url": "https://www.youtube.com/watch?v=aT-ZdBwdhKA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aT-ZdBwdhKA/hqdefault.jpg",
-      "published_at": "2026-04-12T22:56:54+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "macro"

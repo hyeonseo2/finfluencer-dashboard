@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T11:21:55.768198+00:00",
+  "generated_at": "2026-04-20T13:54:14.700076+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,11 +56,11 @@
   ],
   "videos": [
     {
-      "video_id": "x-4lCdvsoWw",
-      "title": "윤여민, 명민준, 유정ㅣ악재에도 버틴 오늘 장, 초보 투자자는 뭘 봐야 할까? [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=x-4lCdvsoWw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/x-4lCdvsoWw/hqdefault.jpg",
-      "published_at": "2026-04-20T11:11:20+00:00",
+      "video_id": "CprbulbwgDo",
+      "title": "국민성장펀드, 이름값 할까? 돈 되는지 따져봤습니다ㅣ명민준, 유정, 윤여민 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=CprbulbwgDo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CprbulbwgDo/hqdefault.jpg",
+      "published_at": "2026-04-20T13:00:23+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"
@@ -75,8 +75,65 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
+      "video_id": "XKL1ebMR7L4",
+      "title": "아직 끝난 게 아니다, 기대보다 경계가 필요한 이유ㅣ명민준, 유정, 이권희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=XKL1ebMR7L4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/XKL1ebMR7L4/hqdefault.jpg",
+      "published_at": "2026-04-20T12:00:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "FDokLu2JNS0",
+      "title": "\"저희 자녀도 하고 있어요\" 매달 50만원씩 이것 사세요. 1억 만들기 너무 쉽습니다  #원픽리포트 #이슈드링크",
+      "source_url": "https://www.youtube.com/watch?v=FDokLu2JNS0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FDokLu2JNS0/hqdefault.jpg",
+      "published_at": "2026-04-20T11:30:20+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "x-4lCdvsoWw",
+      "title": "[26.04.20 오후 방송 전체보기] 미국-이란 '기싸움' 언제까지? 그럼에도 시장은 달린다! [클로징벨 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=x-4lCdvsoWw",
+      "thumbnail_url": "https://i1.ytimg.com/vi/x-4lCdvsoWw/hqdefault.jpg",
+      "published_at": "2026-04-20T11:11:20+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "U9LoomCG-qo",
-      "title": "러시아 원유 한국행 충격. 캐나다 일본 배아파 미칠지경｜조현승 박사, 홍대선 작가, 김민석 특파원 특집",
+      "title": "러시아 원유 돌연 한국행. 일본 미친듯이 속타는 이유｜조현승 박사, 홍대선 작가, 김민석 특파원 특집",
       "source_url": "https://www.youtube.com/watch?v=U9LoomCG-qo",
       "thumbnail_url": "https://i2.ytimg.com/vi/U9LoomCG-qo/hqdefault.jpg",
       "published_at": "2026-04-20T10:30:18+00:00",
@@ -133,17 +190,17 @@
     },
     {
       "video_id": "a5yqLuxVrx0",
-      "title": "가난하면 불행할 수밖에 없다, 부자와 가난한 자의 결정적 차이 (최명기 원장)",
+      "title": "가난은 생각보다 훨씬 잔인하다, 부자와 가난한 자의 결정적 차이 (최명기 원장)",
       "source_url": "https://www.youtube.com/watch?v=a5yqLuxVrx0",
       "thumbnail_url": "https://i2.ytimg.com/vi/a5yqLuxVrx0/hqdefault.jpg",
       "published_at": "2026-04-20T10:00:02+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -190,17 +247,17 @@
     },
     {
       "video_id": "5ff3bRXyQMY",
-      "title": "\"우린 싫어하면서 왜 한국은..\" 몽골인들이 중국인을 싫어하는 진짜 이유 | 모노미 3부",
+      "title": "\"한국인이 하는 건 다 좋다\" 최근 몽골에 퍼진 이상 기류 | 모노미 3부",
       "source_url": "https://www.youtube.com/watch?v=5ff3bRXyQMY",
       "thumbnail_url": "https://i2.ytimg.com/vi/5ff3bRXyQMY/hqdefault.jpg",
       "published_at": "2026-04-20T09:30:03+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -209,7 +266,7 @@
     },
     {
       "video_id": "M52zO4v45A8",
-      "title": "이재규가 짚은 오늘 시장의 핵심, 왜 지금은 ‘신고가’를 봐야 하나ㅣ이재규 SK증권 차장 [집중, 오늘의 주식]",
+      "title": "이재규가 짚은 오늘 시장의 핵심, 왜 지금은 ‘신고가’를 봐야 하나ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
       "source_url": "https://www.youtube.com/watch?v=M52zO4v45A8",
       "thumbnail_url": "https://i2.ytimg.com/vi/M52zO4v45A8/hqdefault.jpg",
       "published_at": "2026-04-20T09:25:30+00:00",
@@ -535,44 +592,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IWPphMUeKd4",
-      "title": "시장의 중심에 있어라…주도주가 답이다! | 김정환 하나증권 Club1WM센터 과장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=IWPphMUeKd4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IWPphMUeKd4/hqdefault.jpg",
-      "published_at": "2026-04-20T01:59:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8qc4bLaiPyM",
-      "title": "배터리 다시 간다…진짜 이유는? | 김현수 하나증권 리서치센터 연구위원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=8qc4bLaiPyM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8qc4bLaiPyM/hqdefault.jpg",
-      "published_at": "2026-04-20T01:55:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "pT49yY-Auy8",
@@ -1044,25 +1063,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6iuANr_ENz0",
-      "title": "예적금 말고 여기에 돈 모으세요 #송민석",
-      "source_url": "https://www.youtube.com/shorts/6iuANr_ENz0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6iuANr_ENz0/hqdefault.jpg",
-      "published_at": "2026-04-18T08:00:04+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "6IcDLSl7WaA",

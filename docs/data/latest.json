@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T21:52:54.344913+00:00",
+  "generated_at": "2026-04-20T22:51:36.841145+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,23 +56,37 @@
   ],
   "videos": [
     {
-      "video_id": "8WV_JPoKyP0",
-      "title": "미·이란 2차협상 앞두고 뉴욕증시 하락 마감...휴전 깨질까?_26.04.21 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=8WV_JPoKyP0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8WV_JPoKyP0/hqdefault.jpg",
-      "published_at": "2026-04-20T20:31:47+00:00",
+      "video_id": "k8_5H2WGcrk",
+      "title": "나스닥, 14일 만에 하락 마감…다시 파키스탄으로 향하는 시선 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=k8_5H2WGcrk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/k8_5H2WGcrk/hqdefault.jpg",
+      "published_at": "2026-04-20T22:02:42+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8WV_JPoKyP0",
+      "title": "미국-이란 휴전 만료 D-1 | 한국-인도 정상회담, 포스코 인도에 10조 합작투자 제철소 건립 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=8WV_JPoKyP0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8WV_JPoKyP0/hqdefault.jpg",
+      "published_at": "2026-04-20T20:31:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -549,25 +563,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "DEVJ-Yo_-J0",
-      "title": "[26.04.20 오전 방송 전체보기] '호르무즈 다시 봉쇄' 개방 기대감에 급등한 시장의 향방은?",
-      "source_url": "https://www.youtube.com/watch?v=DEVJ-Yo_-J0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DEVJ-Yo_-J0/hqdefault.jpg",
-      "published_at": "2026-04-20T03:23:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

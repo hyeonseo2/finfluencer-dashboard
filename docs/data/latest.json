@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T15:20:12.919274+00:00",
+  "generated_at": "2026-04-20T17:10:45.241028+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -495,20 +495,15 @@
     },
     {
       "video_id": "MDgO7DCTnfo",
-      "title": "적자 코인 시대는 끝! 매출 내고 자사주까지 매입하는 디파이 프로토콜, 주식처럼 실적으로 고르는 법 l 서동주, 김동환, 언디파인랩스 조동현 대표 [크립토PLUS]",
+      "title": "코인도 매출과 이익보고 가치에 투자하세요. 수익 내고 자사주 매입까지 하는 디파이 생태계 l 서동주, 김동환, e디파이 농부 조선생 [크립토PLUS]",
       "source_url": "https://www.youtube.com/watch?v=MDgO7DCTnfo",
       "thumbnail_url": "https://i2.ytimg.com/vi/MDgO7DCTnfo/hqdefault.jpg",
       "published_at": "2026-04-20T05:15:03+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "crypto"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "crypto",
           "stance": "neutral"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T12:01:58.823451+00:00",
+  "generated_at": "2026-04-21T14:48:50.488689+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "VMo-W6g7HLg",
+      "title": "뉴스 뜨기 전에 움직인다, 전자공시 읽는 사람만 아는 신호 | 명민준, 여도은, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=VMo-W6g7HLg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VMo-W6g7HLg/hqdefault.jpg",
+      "published_at": "2026-04-21T13:00:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "w6-hQfkW5JM",
+      "title": "조선주 드디어 출항… 지금 타도 될까?ㅣ명민준, 여도은, 염승환 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=w6-hQfkW5JM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/w6-hQfkW5JM/hqdefault.jpg",
+      "published_at": "2026-04-21T12:01:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "GDEZnxMZBQ8",
       "title": "\"\"대한민국 진짜 상위 1%는 이것합니다. 부동산, 연금 아니에요\" 이 4가지 ETF 있으면 평생 놀고 먹을 수 있습니다 #원픽리포트 #이슈드링크",
@@ -180,17 +218,17 @@
     },
     {
       "video_id": "6vow_Z2qTRg",
-      "title": "SK하이닉스 120만원마저 돌파, 지금 사도 정말 괜찮은 걸까? (이형수 대표)",
+      "title": "SK하이닉스 2일 뒤 충격 전망, 월가에 싹다 퍼진 기막힌 소문 (이형수 대표)",
       "source_url": "https://www.youtube.com/watch?v=6vow_Z2qTRg",
       "thumbnail_url": "https://i3.ytimg.com/vi/6vow_Z2qTRg/hqdefault.jpg",
       "published_at": "2026-04-21T09:45:01+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -565,44 +603,6 @@
       "source_url": "https://www.youtube.com/watch?v=4YH7O9Lkekg",
       "thumbnail_url": "https://i1.ytimg.com/vi/4YH7O9Lkekg/hqdefault.jpg",
       "published_at": "2026-04-21T01:19:47+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "aAVeRFwIodE",
-      "title": "이란 전쟁으로 180도 바뀐 미중 정상회담 구도 | 김경환 하나증권 리서치센터 팀장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=aAVeRFwIodE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aAVeRFwIodE/hqdefault.jpg",
-      "published_at": "2026-04-21T01:05:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qdXszlAXM84",
-      "title": "“수급으로 오른 시장… 돌파 전 마지막 흔들림 온다” | 박병창 이사 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=qdXszlAXM84",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qdXszlAXM84/hqdefault.jpg",
-      "published_at": "2026-04-21T00:59:40+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"

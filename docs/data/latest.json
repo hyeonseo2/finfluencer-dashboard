@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T20:08:05.219186+00:00",
+  "generated_at": "2026-04-22T21:54:20.928428+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "lbal-bBGE6k",
+      "title": "'반도체주 급등' 속 뉴욕증시 최고가 마감...테슬라 실적발표 '급등'_26.04.23 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=lbal-bBGE6k",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lbal-bBGE6k/hqdefault.jpg",
+      "published_at": "2026-04-22T20:20:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ZzFZPRXiSmU",
       "title": "반도체 ETF 자금 흐름 분석, 진짜 몰리는 곳은 따로 있다?ㅣ명민준, 박가영, 최창규 [주린이 구조대]",
@@ -631,25 +655,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "A9Fpxg1e6Ko",
-      "title": "이 패턴 모르면 주식 평생 손해봅니다 | 김태연 하나증권 ﻿용산WM센터 과장 [더블 크루]",
-      "source_url": "https://www.youtube.com/shorts/A9Fpxg1e6Ko",
-      "thumbnail_url": "https://i2.ytimg.com/vi/A9Fpxg1e6Ko/hqdefault.jpg",
-      "published_at": "2026-04-22T03:05:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

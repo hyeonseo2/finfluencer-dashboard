@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T12:01:15.082088+00:00",
+  "generated_at": "2026-04-22T14:48:54.689190+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,68 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ZzFZPRXiSmU",
+      "title": "반도체 ETF 자금 흐름 분석, 진짜 몰리는 곳은 따로 있다?ㅣ명민준, 박가영, 최창규 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=ZzFZPRXiSmU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZzFZPRXiSmU/hqdefault.jpg",
+      "published_at": "2026-04-22T13:30:49+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KFb9otg0Acw",
+      "title": "모든 게시물 자동번역을 도입한 X",
+      "source_url": "https://www.youtube.com/watch?v=KFb9otg0Acw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KFb9otg0Acw/hqdefault.jpg",
+      "published_at": "2026-04-22T13:08:00+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "VTmGq3vnrds",
+      "title": "반도체 조정인가 휴식인가, 삼전·하닉 다음 자리 찾기ㅣ명민준, 박가영, 이권희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=VTmGq3vnrds",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VTmGq3vnrds/hqdefault.jpg",
+      "published_at": "2026-04-22T12:00:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "uyesJSREXCk",
       "title": "\"17% 수익 찍었다. 나스닥, 커버드콜 ETF 아니에요\" ISA에 이 ETF 죽어라 담으세요. 무섭게 오를 겁니다 | 김규동 이사 #원픽리포트",
@@ -158,25 +220,15 @@
     },
     {
       "video_id": "l01bglDmRX4",
-      "title": "“모르면 10년 늦게 은퇴합니다” 당장 이 ETF 죽어라 사모으세요. 지금 S&P500 할 때가 아닙니다 | 김승현 본부장 25분 요약",
+      "title": "“부자 될 마지막 기회입니다” 폭락 오든말든 이 ETF 죽어라 사모으세요. 앞으로 3배, 4배, 5배, 10배 오릅니다 | 김승현 본부장 25분 요약",
       "source_url": "https://www.youtube.com/watch?v=l01bglDmRX4",
       "thumbnail_url": "https://i1.ytimg.com/vi/l01bglDmRX4/hqdefault.jpg",
       "published_at": "2026-04-22T10:30:33+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "stocks",
-        "commodities",
         "etf"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
         {
           "topic": "etf",
           "stance": "neutral"
@@ -206,7 +258,7 @@
     },
     {
       "video_id": "DW1eB2zwSqM",
-      "title": "“미사일고 거덜났다” 이란이 갑자기 항복한 이유 혁명수비대 초비상 걸렸다 | 채승병 박사 1부",
+      "title": "호르무즈 봉쇄는 함정이다. 곧 이란에 터질 끔찍한 일 | 채승병 박사 1부",
       "source_url": "https://www.youtube.com/watch?v=DW1eB2zwSqM",
       "thumbnail_url": "https://i1.ytimg.com/vi/DW1eB2zwSqM/hqdefault.jpg",
       "published_at": "2026-04-22T10:30:15+00:00",
@@ -225,7 +277,7 @@
     },
     {
       "video_id": "5-vPm84t6JM",
-      "title": "20년간 천대받던 제조업이 드디어 복수합니다…반도체 질주가 지금부터인 이유",
+      "title": "팀쿡이 사직서를 냈습니다…애플이 뒤처지는 동안 삼성·하이닉스에 돈이 몰리는 충격적 이유",
       "source_url": "https://www.youtube.com/watch?v=5-vPm84t6JM",
       "thumbnail_url": "https://i2.ytimg.com/vi/5-vPm84t6JM/hqdefault.jpg",
       "published_at": "2026-04-22T10:14:38+00:00",
@@ -268,7 +320,7 @@
     },
     {
       "video_id": "NVkDHK04cCU",
-      "title": "한국 금융위기 터지기 직전, '이것' 알아야 내 돈 지킨다 (이현훈 교수)",
+      "title": "경제 대공황 터지기 전에 무조건 '이 1가지' 하세요 (이현훈 교수)",
       "source_url": "https://www.youtube.com/watch?v=NVkDHK04cCU",
       "thumbnail_url": "https://i3.ytimg.com/vi/NVkDHK04cCU/hqdefault.jpg",
       "published_at": "2026-04-22T10:00:43+00:00",
@@ -605,25 +657,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "NOuMnfrQlPk",
-      "title": "“그 선택 후회 안 하세요? 못 이기면 올라타야 합니다”_26.04.22. | 노영래, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=NOuMnfrQlPk",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NOuMnfrQlPk/hqdefault.jpg",
-      "published_at": "2026-04-22T02:46:15+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "1jt_kRaoS18",
       "title": "배당+성장 다 잡으려면 이 3가지만 주목하세요 #송민석",
       "source_url": "https://www.youtube.com/shorts/1jt_kRaoS18",
@@ -641,25 +674,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "sxgdmuaYSvo",
-      "title": "주가보다 중요한 건 실적…반도체 사이클 체크포인트는? |  김록호 하나증권 리서치센터 팀장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=sxgdmuaYSvo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/sxgdmuaYSvo/hqdefault.jpg",
-      "published_at": "2026-04-22T02:22:57+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "GDEZnxMZBQ8",
@@ -1437,25 +1451,6 @@
       "source_url": "https://www.youtube.com/watch?v=NPL-NrvvK_w",
       "thumbnail_url": "https://i3.ytimg.com/vi/NPL-NrvvK_w/hqdefault.jpg",
       "published_at": "2026-04-10T12:27:44+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "4DQ4pVkjt10",
-      "title": "급락하는 지지율에, 다급한 트럼프 손절",
-      "source_url": "https://www.youtube.com/watch?v=4DQ4pVkjt10",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4DQ4pVkjt10/hqdefault.jpg",
-      "published_at": "2026-04-09T09:55:35+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

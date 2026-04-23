@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T19:19:32.038890+00:00",
+  "generated_at": "2026-04-23T20:57:38.596218+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "lsuppnmcWq8",
+      "title": "미·이란 긴장 고조 속 유가 상승·증시 하락...인텔, 시간 외 급등_26.04.24 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=lsuppnmcWq8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lsuppnmcWq8/hqdefault.jpg",
+      "published_at": "2026-04-23T20:33:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "fAUVcm46rnw",
       "title": "2분기 필수 생존템! 화장품, 절대 하차하지 마세요ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
@@ -584,25 +608,6 @@
       "source_url": "https://www.youtube.com/watch?v=sM2rGaXW6Js",
       "thumbnail_url": "https://i4.ytimg.com/vi/sM2rGaXW6Js/hqdefault.jpg",
       "published_at": "2026-04-23T03:09:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zmGUUMOZC-U",
-      "title": "반도체 많이 늦었나요? 진짜 마지막 기회 드립니다_26.04.23. | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=zmGUUMOZC-U",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zmGUUMOZC-U/hqdefault.jpg",
-      "published_at": "2026-04-23T02:47:38+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

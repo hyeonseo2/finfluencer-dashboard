@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T22:53:14.744409+00:00",
+  "generated_at": "2026-04-23T23:53:08.322106+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,12 +48,49 @@
     "commodities",
     "crypto",
     "etf",
-    "fx",
     "macro",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ME2w92_osJY",
+      "title": "베트남에 한국 철도 깔린다...원전·공급망 협력  | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=ME2w92_osJY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ME2w92_osJY/hqdefault.jpg",
+      "published_at": "2026-04-23T23:44:36+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "rWHAL--3PFU",
+      "title": "미국이 굽히지 않으면 다시 최악의 상황 고려해야… | 박현도 서강대 유로메나연구소 교수  [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=rWHAL--3PFU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rWHAL--3PFU/hqdefault.jpg",
+      "published_at": "2026-04-23T23:06:43+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "UExjT4sfLTo",
       "title": "인텔, CPU 호실적에 시간외 급등…다시 전쟁을 신경 쓰는 시장 [월가 뉴스레터]",
@@ -75,7 +112,7 @@
     },
     {
       "video_id": "lsuppnmcWq8",
-      "title": "SK하이닉스 \"최소 3년간 호황\"…반도체의 힘, GDP 1.7% 깜짝 증가 | 두산에너빌 베트남 원전 협력 확대 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[4월 24일 개장시황] 정프로, 빈센트, 장우진, 권택중, 편다송, 이건규 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=lsuppnmcWq8",
       "thumbnail_url": "https://i1.ytimg.com/vi/lsuppnmcWq8/hqdefault.jpg",
       "published_at": "2026-04-23T20:33:58+00:00",
@@ -562,54 +599,6 @@
         },
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "lbal-bBGE6k",
-      "title": "[26.04.23 오전 방송 전체보기] '반도체주 급등' 속 뉴욕증시 최고가 마감...시장의 시선은 '실적'으로",
-      "source_url": "https://www.youtube.com/watch?v=lbal-bBGE6k",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lbal-bBGE6k/hqdefault.jpg",
-      "published_at": "2026-04-23T03:45:07+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "4YQvmSTYIlw",
-      "title": "비트코인 8만 달러 코앞에 덮친 악재들... 전쟁·북한 해킹·클래리티 연기·저스틴 선 고소 총정리ㅣ서동주,김동환,김제이 블록미디어 편집장 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=4YQvmSTYIlw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4YQvmSTYIlw/hqdefault.jpg",
-      "published_at": "2026-04-23T03:23:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],

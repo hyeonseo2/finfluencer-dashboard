@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T03:21:45.988645+00:00",
+  "generated_at": "2026-04-23T06:09:13.664780+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -44,6 +44,238 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     }
   ],
-  "topics": [],
-  "videos": []
+  "topics": [
+    "commodities",
+    "macro"
+  ],
+  "videos": [
+    {
+      "video_id": "KFb9otg0Acw",
+      "title": "모든 게시물 자동번역을 도입한 X",
+      "source_url": "https://www.youtube.com/watch?v=KFb9otg0Acw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KFb9otg0Acw/hqdefault.jpg",
+      "published_at": "2026-04-22T13:08:00+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "rdtfqfSPmu0",
+      "title": "중복 상장, 쪼개기 상장 원칙적으로 금지된다",
+      "source_url": "https://www.youtube.com/watch?v=rdtfqfSPmu0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rdtfqfSPmu0/hqdefault.jpg",
+      "published_at": "2026-04-21T10:54:19+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "iaC6mXFeCEE",
+      "title": "SK하이닉스 성과급, 얼마나 나올까?",
+      "source_url": "https://www.youtube.com/watch?v=iaC6mXFeCEE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iaC6mXFeCEE/hqdefault.jpg",
+      "published_at": "2026-04-20T10:29:25+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "B_K4lAgcTmM",
+      "title": "하늘을 나는 잉어",
+      "source_url": "https://www.youtube.com/shorts/B_K4lAgcTmM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/B_K4lAgcTmM/hqdefault.jpg",
+      "published_at": "2026-04-19T15:04:16+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "3GJDaEmhq-M",
+      "title": "중국 돼지고기 가격 폭락의 비밀",
+      "source_url": "https://www.youtube.com/watch?v=3GJDaEmhq-M",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3GJDaEmhq-M/hqdefault.jpg",
+      "published_at": "2026-04-18T12:39:44+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KXnaKXMAiyc",
+      "title": "새만금 사업의 부활은 가능할 것인가",
+      "source_url": "https://www.youtube.com/watch?v=KXnaKXMAiyc",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KXnaKXMAiyc/hqdefault.jpg",
+      "published_at": "2026-04-17T10:06:50+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "JwWBJJbV7VU",
+      "title": "부모님도 속으실 듯",
+      "source_url": "https://www.youtube.com/shorts/JwWBJJbV7VU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/JwWBJJbV7VU/hqdefault.jpg",
+      "published_at": "2026-04-17T08:41:07+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "iPIDN70Njg8",
+      "title": "주 5회 10년, 딸깍으로 PPT 만드는 법",
+      "source_url": "https://www.youtube.com/watch?v=iPIDN70Njg8",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iPIDN70Njg8/hqdefault.jpg",
+      "published_at": "2026-04-16T10:07:59+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "FP_zaF6QJdw",
+      "title": "스페이스X의 시가총액은 얼마가 적절할까?",
+      "source_url": "https://www.youtube.com/watch?v=FP_zaF6QJdw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FP_zaF6QJdw/hqdefault.jpg",
+      "published_at": "2026-04-15T10:49:13+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "bhsdookyQm0",
+      "title": "'야근한 만큼 돈 줘라', 포괄임금 오남용방지 지침 발표",
+      "source_url": "https://www.youtube.com/watch?v=bhsdookyQm0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/bhsdookyQm0/hqdefault.jpg",
+      "published_at": "2026-04-14T12:15:00+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "WPkQYdXbqHw",
+      "title": "왔노라 보았노라 이겼노라 - 트럼프",
+      "source_url": "https://www.youtube.com/watch?v=WPkQYdXbqHw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WPkQYdXbqHw/hqdefault.jpg",
+      "published_at": "2026-04-13T10:08:58+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NPL-NrvvK_w",
+      "title": "ABS 도입 후 대박 난 한국 프로야구",
+      "source_url": "https://www.youtube.com/watch?v=NPL-NrvvK_w",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NPL-NrvvK_w/hqdefault.jpg",
+      "published_at": "2026-04-10T12:27:44+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    }
+  ]
 }

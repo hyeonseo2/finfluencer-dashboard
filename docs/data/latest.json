@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-23T21:55:12.458868+00:00",
+  "generated_at": "2026-04-23T22:53:14.744409+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,23 +55,37 @@
   ],
   "videos": [
     {
+      "video_id": "UExjT4sfLTo",
+      "title": "인텔, CPU 호실적에 시간외 급등…다시 전쟁을 신경 쓰는 시장 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=UExjT4sfLTo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/UExjT4sfLTo/hqdefault.jpg",
+      "published_at": "2026-04-23T21:58:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "lsuppnmcWq8",
-      "title": "미·이란 긴장 고조 속 유가 상승·증시 하락...인텔, 시간외서 급등_26.04.24 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "title": "SK하이닉스 \"최소 3년간 호황\"…반도체의 힘, GDP 1.7% 깜짝 증가 | 두산에너빌 베트남 원전 협력 확대 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=lsuppnmcWq8",
       "thumbnail_url": "https://i1.ytimg.com/vi/lsuppnmcWq8/hqdefault.jpg",
       "published_at": "2026-04-23T20:33:58+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -596,25 +610,6 @@
         },
         {
           "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "sM2rGaXW6Js",
-      "title": "AI시대에서의 반도체 투자…이제는 선택의 싸움_26.04.23. | 박정우, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=sM2rGaXW6Js",
-      "thumbnail_url": "https://i4.ytimg.com/vi/sM2rGaXW6Js/hqdefault.jpg",
-      "published_at": "2026-04-23T03:09:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

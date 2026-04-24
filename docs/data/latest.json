@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T22:44:09.259308+00:00",
+  "generated_at": "2026-04-24T23:44:58.054910+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "lbjrIEIuQ1c",
+      "title": "6500 돌파 이유? 진짜 원인은 따로 있습니다 | 장우진 금시공 대표 [신과함께]",
+      "source_url": "https://www.youtube.com/watch?v=lbjrIEIuQ1c",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lbjrIEIuQ1c/hqdefault.jpg",
+      "published_at": "2026-04-24T23:00:52+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "K6JLSYKJ18g",
       "title": "애매한 종목 말고 확실한 쪽으로, 리포트 홍수 속 투자 전략ㅣ명민준, 박가영, 김장열 [주린이 구조대]",
@@ -563,25 +582,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Mcd7tm7fdDI",
-      "title": "일본 신고가, 중국 반등…글로벌 자금 흐름은?_26.04.24. | 소진웅, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=Mcd7tm7fdDI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Mcd7tm7fdDI/hqdefault.jpg",
-      "published_at": "2026-04-24T02:44:14+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "cqd__EqwORk",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T22:42:36.819430+00:00",
+  "generated_at": "2026-04-25T23:44:09.316289+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "HFnV3yvzRAo",
+      "title": "우리가 잘못 배운 고구려 역사 | 윤명철 사마르칸트 대학 교수 [푸른한국사]",
+      "source_url": "https://www.youtube.com/watch?v=HFnV3yvzRAo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/HFnV3yvzRAo/hqdefault.jpg",
+      "published_at": "2026-04-25T23:00:27+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "zrBNR-55jeI",
       "title": "중동 전쟁 끝난 후 가장 많이, 가장 빠르게 오르는 주도주는 (박진희 부장)",
@@ -785,25 +804,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "gPOfFnj2v0g",
-      "title": "[4월 24일 마감시황] 개미들 멘붕할 때 큰손은 웃었다? 오늘 장 주인공 '이 종목' 정체ㅣ홍선애, 이재규, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=gPOfFnj2v0g",
-      "thumbnail_url": "https://i4.ytimg.com/vi/gPOfFnj2v0g/hqdefault.jpg",
-      "published_at": "2026-04-24T08:24:07+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Kr-cP4_zmA8",

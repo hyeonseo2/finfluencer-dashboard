@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25T07:25:37.701202+00:00",
+  "generated_at": "2026-04-25T08:59:57.911375+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "QiTYrI3xihU",
+      "title": "\"트럼프 지상 공격 시작\" 발칵 뒤집힌 쿠바 초비상 상황 | 김민석 특파원 4부",
+      "source_url": "https://www.youtube.com/watch?v=QiTYrI3xihU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QiTYrI3xihU/hqdefault.jpg",
+      "published_at": "2026-04-25T08:00:26+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "EHmECgsGFCA",
       "title": "제약·바이오 주도주 3개 주식, 어마어마한 상승 임박했다 (원리버 강하나 연구원 풀버전)",
@@ -137,17 +156,17 @@
     },
     {
       "video_id": "9PfMNypC3c0",
-      "title": "“중산층 희생시켰다” 은행 줄파산 임박했습니다. 빚지옥에 빠진 한국 부동산 큰일났다 | 박은정 감정평가사 3부 #돈쭐남 #김경필",
+      "title": "“은행 줄파산 신호 포착됐다” 뱅크런 신호 떴습니다. 지금 당장 현금 확보하세요 | 박은정 감정평가사 3부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=9PfMNypC3c0",
       "thumbnail_url": "https://i2.ytimg.com/vi/9PfMNypC3c0/hqdefault.jpg",
       "published_at": "2026-04-25T04:00:08+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "real_estate"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "real_estate",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -996,25 +1015,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MpNj633tm_0",
-      "title": "또 한 번 폭락이 올 겁니다. 삼성전자 정확히 '이때' 사세요｜김선형 대표 1부",
-      "source_url": "https://www.youtube.com/watch?v=MpNj633tm_0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MpNj633tm_0/hqdefault.jpg",
-      "published_at": "2026-04-23T08:30:19+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "99lbF969jJo",

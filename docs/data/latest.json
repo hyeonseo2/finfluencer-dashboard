@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T14:51:34.174949+00:00",
+  "generated_at": "2026-04-26T15:48:55.121207+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,17 +55,22 @@
   "videos": [
     {
       "video_id": "g0L2SXG0PD4",
-      "title": "만찬장에서 '탕'하고 울려퍼진 총성, 부축 받으며 피신한 트럼프! 미국에서 무슨 일이 벌어지고 있는 걸까?",
+      "title": "골드만삭스가 한국 주식 실적 전망을 두 배 올린 이유, 지금 알아야 주식 계좌가 버틸 수 있습니다",
       "source_url": "https://www.youtube.com/watch?v=g0L2SXG0PD4",
       "thumbnail_url": "https://i4.ytimg.com/vi/g0L2SXG0PD4/hqdefault.jpg",
       "published_at": "2026-04-26T13:36:20+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "macro"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

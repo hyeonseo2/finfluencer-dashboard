@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T10:55:31.723992+00:00",
+  "generated_at": "2026-04-26T11:43:25.304481+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,54 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Yh0VvFx64gw",
+      "title": "[슈카월드] 현실화하는 삼성전자 파업 / 민원 전성시대 / 한일 경제공동체가 가능할까? / 신임 연준의장 케빈 워시 청문회 / 티라노는 왜 No1 공룡이 되었나",
+      "source_url": "https://www.youtube.com/watch?v=Yh0VvFx64gw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Yh0VvFx64gw/hqdefault.jpg",
+      "published_at": "2026-04-26T11:21:20+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "6nFAtoNmL84",
+      "title": "현금 5천만원 있다면 지금부터 '이 4개 주식' 계속 모아가세요 (박진희 부장)",
+      "source_url": "https://www.youtube.com/watch?v=6nFAtoNmL84",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6nFAtoNmL84/hqdefault.jpg",
+      "published_at": "2026-04-26T11:00:20+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "dQLz1mp3MQc",
       "title": "이란 전쟁보다 끔찍한 대참사. 중국 지금 쫄딱 망할 판이다｜홍대선 작가 풀버전2",
@@ -1143,25 +1191,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "-iYg_G0ySG8",
-      "title": "반도체 업계 무서운 일 일어난다, '이 2개 주식' 꼭 사 모으세요 (이형수 대표)",
-      "source_url": "https://www.youtube.com/watch?v=-iYg_G0ySG8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-iYg_G0ySG8/hqdefault.jpg",
-      "published_at": "2026-04-22T11:00:00+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "jB2KQmB7snA",
       "title": "스페이스X 상장 즉시 편입되는 ETF가 있다? #스페이스x #일론머스크 #etf",
       "source_url": "https://www.youtube.com/shorts/jB2KQmB7snA",
@@ -1426,25 +1455,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "FP_zaF6QJdw",
-      "title": "스페이스X의 시가총액은 얼마가 적절할까?",
-      "source_url": "https://www.youtube.com/watch?v=FP_zaF6QJdw",
-      "thumbnail_url": "https://i3.ytimg.com/vi/FP_zaF6QJdw/hqdefault.jpg",
-      "published_at": "2026-04-15T10:49:13+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

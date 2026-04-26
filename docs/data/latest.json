@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T13:17:24.323864+00:00",
+  "generated_at": "2026-04-26T14:51:34.174949+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,28 +54,23 @@
   ],
   "videos": [
     {
-      "video_id": "Yh0VvFx64gw",
-      "title": "[슈카월드] 현실화하는 삼성전자 파업 / 민원 전성시대 / 한일 경제공동체가 가능할까? / 신임 연준의장 케빈 워시 청문회 / 티라노는 왜 No1 공룡이 되었나",
-      "source_url": "https://www.youtube.com/watch?v=Yh0VvFx64gw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Yh0VvFx64gw/hqdefault.jpg",
-      "published_at": "2026-04-26T11:21:20+00:00",
-      "channel_name": "슈카월드",
+      "video_id": "g0L2SXG0PD4",
+      "title": "만찬장에서 '탕'하고 울려퍼진 총성, 부축 받으며 피신한 트럼프! 미국에서 무슨 일이 벌어지고 있는 걸까?",
+      "source_url": "https://www.youtube.com/watch?v=g0L2SXG0PD4",
+      "thumbnail_url": "https://i4.ytimg.com/vi/g0L2SXG0PD4/hqdefault.jpg",
+      "published_at": "2026-04-26T13:36:20+00:00",
+      "channel_name": "이효석아카데미",
       "topics": [
-        "stocks",
-        "interest_rate"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "6nFAtoNmL84",
@@ -1367,25 +1362,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "E7nuGGGoX9w",
-      "title": "이익이 4분의 1 토막났는데 주가는 왜 안 떨어질까, 테슬라 주주라면 반드시 알아야 할 진짜 이유",
-      "source_url": "https://www.youtube.com/watch?v=E7nuGGGoX9w",
-      "thumbnail_url": "https://i2.ytimg.com/vi/E7nuGGGoX9w/hqdefault.jpg",
-      "published_at": "2026-04-19T14:02:32+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "3GJDaEmhq-M",
       "title": "중국 돼지고기 가격 폭락의 비밀",
       "source_url": "https://www.youtube.com/watch?v=3GJDaEmhq-M",
@@ -1455,6 +1431,25 @@
       "topic_stances": [
         {
           "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "FP_zaF6QJdw",
+      "title": "스페이스X의 시가총액은 얼마가 적절할까?",
+      "source_url": "https://www.youtube.com/watch?v=FP_zaF6QJdw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FP_zaF6QJdw/hqdefault.jpg",
+      "published_at": "2026-04-15T10:49:13+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T21:43:51.925744+00:00",
+  "generated_at": "2026-04-26T22:45:28.371975+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,23 +54,37 @@
   ],
   "videos": [
     {
-      "video_id": "ZO-4mji2Xgg",
-      "title": "중동 긴장 완화 기대에 S&P500·나스닥 '최고가'...SOX 18일 연속 상승_26.04.27 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=ZO-4mji2Xgg",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZO-4mji2Xgg/hqdefault.jpg",
-      "published_at": "2026-04-26T20:19:18+00:00",
+      "video_id": "naBKnMh_avA",
+      "title": "S&P500·나스닥 또 사상 최고…반도체 지수, 18일 연속 상승 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=naBKnMh_avA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/naBKnMh_avA/hqdefault.jpg",
+      "published_at": "2026-04-26T22:26:50+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ZO-4mji2Xgg",
+      "title": "트럼프 노린 3번째 테러…총격범 ‘트럼프 살해 계획 암시’ | OECD \"한국 잠재성장률 내년 1.5%대로 하락\" | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=ZO-4mji2Xgg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZO-4mji2Xgg/hqdefault.jpg",
+      "published_at": "2026-04-26T20:19:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -870,25 +884,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "09GT4vz_aP4",
-      "title": "[26.04.24 오후 방송 전체보기] 코스닥, 25년여만 1,200선 돌파 마감!",
-      "source_url": "https://www.youtube.com/watch?v=09GT4vz_aP4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/09GT4vz_aP4/hqdefault.jpg",
-      "published_at": "2026-04-24T11:11:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

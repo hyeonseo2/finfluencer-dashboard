@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26T22:45:28.371975+00:00",
+  "generated_at": "2026-04-26T23:45:47.176844+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
   ],
   "videos": [
     {
+      "video_id": "GaWkxvMelek",
+      "title": "미·이란 2차협상 무산, 트럼프 \"파키스탄에 협상단 안보내..원하면 전화해라\" | 박현도 서강대 유로메나연구소 교수  [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=GaWkxvMelek",
+      "thumbnail_url": "https://i4.ytimg.com/vi/GaWkxvMelek/hqdefault.jpg",
+      "published_at": "2026-04-26T23:30:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "naBKnMh_avA",
       "title": "S&P500·나스닥 또 사상 최고…반도체 지수, 18일 연속 상승 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=naBKnMh_avA",
@@ -74,7 +93,7 @@
     },
     {
       "video_id": "ZO-4mji2Xgg",
-      "title": "트럼프 노린 3번째 테러…총격범 ‘트럼프 살해 계획 암시’ | OECD \"한국 잠재성장률 내년 1.5%대로 하락\" | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[4월 27일 개장시황] 정프로, 빈센트, 장우진, 김정환, 편다송, 유재선 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=ZO-4mji2Xgg",
       "thumbnail_url": "https://i3.ytimg.com/vi/ZO-4mji2Xgg/hqdefault.jpg",
       "published_at": "2026-04-26T20:19:18+00:00",
@@ -872,25 +891,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "uAHkGpGEicI",
-      "title": "현대차 투자자라면 꼭 봐야 할 ‘모아갈 타이밍’ㅣ명민준, 박가영, 곽영훈 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=uAHkGpGEicI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/uAHkGpGEicI/hqdefault.jpg",
-      "published_at": "2026-04-24T12:01:38+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "njiD5VLjPbw",
       "title": "아무리 가깝고 친해도 절대 말하면 안되는 1가지 (최명기 원장)",
       "source_url": "https://www.youtube.com/watch?v=njiD5VLjPbw",
@@ -1097,7 +1097,7 @@
     },
     {
       "video_id": "ioxp7AL0BSU",
-      "title": "유리기판 대장주 '이 주식' 보세요, 앞으로 정말 무섭게 오를 겁니다 (이형수 대표)",
+      "title": "세계 1위 유리기판 대장주, '이 주식' 사면 떼돈 벌 겁니다 (이형수 대표)",
       "source_url": "https://www.youtube.com/watch?v=ioxp7AL0BSU",
       "thumbnail_url": "https://i2.ytimg.com/vi/ioxp7AL0BSU/hqdefault.jpg",
       "published_at": "2026-04-23T12:01:18+00:00",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T11:48:41.390719+00:00",
+  "generated_at": "2026-04-27T14:06:41.067818+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "WZjac7DhlCM",
+      "title": "상승장 맞는데 수익 안 난다면? 주도주가 답입니다ㅣ명민준, 강아랑, 유영화 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=WZjac7DhlCM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WZjac7DhlCM/hqdefault.jpg",
+      "published_at": "2026-04-27T13:30:36+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "iGcLqBo247s",
+      "title": "국민성장펀드 나온다… 바이오 어디를 봐야 하나?ㅣ명민준, 강아랑, 이권희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=iGcLqBo247s",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iGcLqBo247s/hqdefault.jpg",
+      "published_at": "2026-04-27T12:01:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "t7LwAUFNe-M",
       "title": "\"99%가 이걸 몰라 세금폭탄 맞는다\" 55세에 무조건 연금수령 시작 해야하는 진짜 이유 | 김규동 이사 #원픽리포트",
@@ -344,7 +382,7 @@
     },
     {
       "video_id": "fA9U96h4uig",
-      "title": "이란 전쟁으로 조선주 호재 터졌다, K-조선 전성 시대 계속됩니다 (엄경아 연구원)",
+      "title": "한국 조선 돈 잔치 시작입니다, 조선주 무섭게 오를 겁니다 (엄경아 연구원)",
       "source_url": "https://www.youtube.com/watch?v=fA9U96h4uig",
       "thumbnail_url": "https://i3.ytimg.com/vi/fA9U96h4uig/hqdefault.jpg",
       "published_at": "2026-04-27T08:00:44+00:00",
@@ -551,44 +589,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "EzhazXUhQEI",
-      "title": "계좌 좀 먹고 있는 소외주 특징 | 김정환 하나증권 Club1WM센터 과장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=EzhazXUhQEI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/EzhazXUhQEI/hqdefault.jpg",
-      "published_at": "2026-04-27T01:12:35+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "t9DR0-zO5q4",
-      "title": "지칠줄 모르는 코스피, 반도체는 어디까지? | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=t9DR0-zO5q4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/t9DR0-zO5q4/hqdefault.jpg",
-      "published_at": "2026-04-27T01:03:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

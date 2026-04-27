@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T20:11:42.426021+00:00",
+  "generated_at": "2026-04-27T21:57:09.910625+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "IbSyveCcgl4",
+      "title": "WTI 96달러 돌파 속 S&P500·나스닥 사상 최고, 필·반지수 하락_26.04.28 | 여도은, 박명석, 성일광 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=IbSyveCcgl4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IbSyveCcgl4/hqdefault.jpg",
+      "published_at": "2026-04-27T20:33:57+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "WZjac7DhlCM",
       "title": "상승장 맞는데 수익 안 난다면? 주도주가 답입니다ㅣ명민준, 강아랑, 유영화 [주린이 구조대]",
@@ -568,25 +597,6 @@
           "topic": "stocks",
           "stance": "neutral"
         },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "y_IvAEjbNQU",
-      "title": "'쏟아지는 전력 수요' 수혜 받을 곳은? | 유재선 하나증권 리서치센터 수석연구위원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=y_IvAEjbNQU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/y_IvAEjbNQU/hqdefault.jpg",
-      "published_at": "2026-04-27T01:29:02+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T20:20:54.677809+00:00",
+  "generated_at": "2026-04-28T22:03:02.512326+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ByU_ChW-5zQ",
+      "title": "오픈AI 우려 속 반도체주 중심 하락...WTI 또 100달러 육박_26.04.29 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=ByU_ChW-5zQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ByU_ChW-5zQ/hqdefault.jpg",
+      "published_at": "2026-04-28T20:34:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "_U2_0bKVvDs",
       "title": "주식 투자할 때 연준 뉴스를 봐야 하는 진짜 이유?ㅣ명민준, 강아랑, 신얼 [주린이 구조대]",
@@ -647,25 +671,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "NKwPwn8TDoY",
-      "title": "왜 SK하이닉스가 더 가파르게 오를까? | 강관우 더프레미어 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=NKwPwn8TDoY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NKwPwn8TDoY/hqdefault.jpg",
-      "published_at": "2026-04-28T01:31:10+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

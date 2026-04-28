@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T11:49:28.580867+00:00",
+  "generated_at": "2026-04-28T16:56:30.291020+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,15 +57,15 @@
   ],
   "videos": [
     {
-      "video_id": "QEJlmtAAD08",
-      "title": "\"S&P500, 나스닥 아닙니다\" 모르면 무조건 손해봅니다. 현금 싹다 여기로 옮기세요 | 송민석 이사 #원픽리포트",
-      "source_url": "https://www.youtube.com/watch?v=QEJlmtAAD08",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QEJlmtAAD08/hqdefault.jpg",
-      "published_at": "2026-04-28T11:30:18+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
+      "video_id": "_U2_0bKVvDs",
+      "title": "주식 투자할 때 연준 뉴스를 봐야 하는 진짜 이유?ㅣ명민준, 강아랑, 신얼 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=_U2_0bKVvDs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_U2_0bKVvDs/hqdefault.jpg",
+      "published_at": "2026-04-28T14:01:06+00:00",
+      "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities"
+        "interest_rate"
       ],
       "topic_stances": [
         {
@@ -73,7 +73,64 @@
           "stance": "neutral"
         },
         {
-          "topic": "commodities",
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "oiGTiHBFvIU",
+      "title": "국장 반도체주와 엔비디아, 수익률 차이는 어디서 갈렸나ㅣ명민준, 강아랑, 정태근 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=oiGTiHBFvIU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/oiGTiHBFvIU/hqdefault.jpg",
+      "published_at": "2026-04-28T13:01:29+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "wU8DLFpfXtY",
+      "title": "샘 올트먼, 일론 머스크 법정에서 붙는다. 180조 원이 걸린 단판 승부 [Z1뉴스]",
+      "source_url": "https://www.youtube.com/watch?v=wU8DLFpfXtY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wU8DLFpfXtY/hqdefault.jpg",
+      "published_at": "2026-04-28T12:34:31+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "QEJlmtAAD08",
+      "title": "\"앞으로 평생 돈걱정 없다\" 1억으로 5가지 ETF 죽어라 사세요. 곧 상상못할 미친 상승옵니다 | 송민석 이사 #원픽리포트",
+      "source_url": "https://www.youtube.com/watch?v=QEJlmtAAD08",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QEJlmtAAD08/hqdefault.jpg",
+      "published_at": "2026-04-28T11:30:18+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -120,17 +177,17 @@
     },
     {
       "video_id": "xeaQzX_r9t0",
-      "title": "\"이때 오는 폭등장 기다려라\" 1억 이렇게 하면 10억까지 금방입니다 | 윤타 3부",
+      "title": "\"저는 월배당ETF 안해요\" 그냥 이 1가지 ETF 사 모으세요. 노후 월 300씩 평생 씁니다 | 윤타 3부",
       "source_url": "https://www.youtube.com/watch?v=xeaQzX_r9t0",
       "thumbnail_url": "https://i1.ytimg.com/vi/xeaQzX_r9t0/hqdefault.jpg",
       "published_at": "2026-04-28T10:30:39+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "macro"
+        "etf"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -139,17 +196,22 @@
     },
     {
       "video_id": "VmAlnZH-QbE",
-      "title": "포스코와 '이 주식' 사둬라. 2차전지 곧 무섭게 오른다｜김선형 대표 풀버전",
+      "title": "삼성전자 포스코 지금 난리 난 이유. 곧 상상 못한 일 터진다｜김선형 대표 풀버전",
       "source_url": "https://www.youtube.com/watch?v=VmAlnZH-QbE",
       "thumbnail_url": "https://i3.ytimg.com/vi/VmAlnZH-QbE/hqdefault.jpg",
       "published_at": "2026-04-28T10:30:19+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -177,17 +239,22 @@
     },
     {
       "video_id": "b5RFYZz6D7s",
-      "title": "삼성전자와 '이 주식' 묻어두세요, 반도체 곧 꼭대기까지 갑니다 (염승환 이사)",
+      "title": "현금 5천만원 갖고 있으면, 삼성전자와 '이 주식' 함께 사세요 (염승환 이사)",
       "source_url": "https://www.youtube.com/watch?v=b5RFYZz6D7s",
       "thumbnail_url": "https://i3.ytimg.com/vi/b5RFYZz6D7s/hqdefault.jpg",
       "published_at": "2026-04-28T10:01:04+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -406,17 +473,17 @@
     },
     {
       "video_id": "9yQSkTBKvcU",
-      "title": "\"드론, 로봇만으로 진지 점령\" 우크라 대반격에 러시아 발칵 전쟁 판도 완전 뒤집혔다 | 이춘근 박사 3부",
+      "title": "이란 전쟁보다 끔찍한 대참사. 중국 지금 쫄딱 망할 판이다 | 이춘근 박사 3부",
       "source_url": "https://www.youtube.com/watch?v=9yQSkTBKvcU",
       "thumbnail_url": "https://i2.ytimg.com/vi/9yQSkTBKvcU/hqdefault.jpg",
       "published_at": "2026-04-28T07:30:10+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -592,49 +659,6 @@
       "source_url": "https://www.youtube.com/watch?v=NKwPwn8TDoY",
       "thumbnail_url": "https://i3.ytimg.com/vi/NKwPwn8TDoY/hqdefault.jpg",
       "published_at": "2026-04-28T01:31:10+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "pOpWEdYyWdQ",
-      "title": "삼성전자 파운드리, 그리고 K-엔비디아의 운명은? | 백인재 하나증권 영업부금융센터 부센터장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=pOpWEdYyWdQ",
-      "thumbnail_url": "https://i1.ytimg.com/vi/pOpWEdYyWdQ/hqdefault.jpg",
-      "published_at": "2026-04-28T01:09:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "D66oTXRsl6M",
-      "title": "마르지 않는 샘, 전력시장 여기가 포인트다! | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=D66oTXRsl6M",
-      "thumbnail_url": "https://i1.ytimg.com/vi/D66oTXRsl6M/hqdefault.jpg",
-      "published_at": "2026-04-28T00:57:29+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"
@@ -1017,7 +1041,7 @@
     },
     {
       "video_id": "NWPxLPz8ORg",
-      "title": "외국인 삼성전자 싹다 쓸어담는다, 앞으로 더 무섭게 오를 겁니다 (이형수 대표 풀버전)",
+      "title": "세계 1위 유리기판 대장주 '이 주식', 앞으로 정말 무섭게 오를 겁니다 (이형수 대표 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=NWPxLPz8ORg",
       "thumbnail_url": "https://i3.ytimg.com/vi/NWPxLPz8ORg/hqdefault.jpg",
       "published_at": "2026-04-26T10:00:27+00:00",
@@ -1375,25 +1399,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "RC36wjqPkec",
-      "title": "지구 단위의 투자는 이제 너무 작습니다! 우주로 투자하는 TIGER 미국우주테크 #스페이스x #etf #일론머스크",
-      "source_url": "https://www.youtube.com/shorts/RC36wjqPkec",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RC36wjqPkec/hqdefault.jpg",
-      "published_at": "2026-04-22T10:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "etf",
           "stance": "neutral"
         }
       ],

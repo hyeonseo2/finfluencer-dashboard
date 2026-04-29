@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T20:13:19.312452+00:00",
+  "generated_at": "2026-04-29T22:03:03.026652+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "WRrqa2lm5NM",
+      "title": "WTI 107달러 돌파 속 뉴욕증시 혼조 마감...빅테크 실적발표, 결과는?_26.04.30 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=WRrqa2lm5NM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WRrqa2lm5NM/hqdefault.jpg",
+      "published_at": "2026-04-29T20:22:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "VhdWSCVV73c",
       "title": "전력주 투자 타이밍 왔다… ETF로 담는 법과 절세 포인트!ㅣ명민준, 강아랑, 최창규 [주린이 구조대]",
@@ -615,7 +644,7 @@
     },
     {
       "video_id": "a_wKx14_HAc",
-      "title": "\"애덤 백은 사토시가 아니다\", 사토시가 없다면, 비트코인은 망한다? NYT를 뒤집는 오태민의 통찰 l 서동주, 김동환 , 오태민 한양대 교수 [ 크립토PLUS]",
+      "title": "\"애덤 백은 사토시가 아니다\", 사토시가 없다면, 비트코인은 망한다? NYT를 뒤집는 오태민의 통찰 | 서동주, 김동환, 오태민 한양대 교수 [ 크립토PLUS]",
       "source_url": "https://www.youtube.com/watch?v=a_wKx14_HAc",
       "thumbnail_url": "https://i2.ytimg.com/vi/a_wKx14_HAc/hqdefault.jpg",
       "published_at": "2026-04-29T05:00:02+00:00",
@@ -698,25 +727,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VOJ54FaHqEs",
-      "title": "우리가 겪었던 반도체 장세랑 무엇이 다를까? | 김홍범 유경PSG자산운용 본부장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=VOJ54FaHqEs",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VOJ54FaHqEs/hqdefault.jpg",
-      "published_at": "2026-04-29T02:01:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

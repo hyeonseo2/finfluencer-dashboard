@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29T22:03:03.026652+00:00",
+  "generated_at": "2026-04-29T23:59:01.611210+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -51,34 +51,104 @@
     "fx",
     "interest_rate",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
     {
-      "video_id": "WRrqa2lm5NM",
-      "title": "WTI 107달러 돌파 속 뉴욕증시 혼조 마감...빅테크 실적발표, 결과는?_26.04.30 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=WRrqa2lm5NM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WRrqa2lm5NM/hqdefault.jpg",
-      "published_at": "2026-04-29T20:22:13+00:00",
+      "video_id": "NH5dPK8Zm5I",
+      "title": "공정위 \"쿠팡 총수는 김범석\"…쿠팡 \"행정소송\" 반발 | 삼성전자 오늘 1분기 성적표 공개 | LG전자, 1분기 매출 23.7조 '최대' | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=NH5dPK8Zm5I",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NH5dPK8Zm5I/hqdefault.jpg",
+      "published_at": "2026-04-29T23:37:39+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "fx"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "IWJJ3WQCiSc",
+      "title": "고유가·고금리인데…시장 이렇게 오르는게 맞나? | 김효진 신영증권 박사 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=IWJJ3WQCiSc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IWJJ3WQCiSc/hqdefault.jpg",
+      "published_at": "2026-04-29T23:13:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"
         },
         {
-          "topic": "fx",
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "g1Ju6ZXKVpk",
+      "title": "[LIVE] 깜짝 호실적 터진 구글(알파벳) 미국 주식 부활의 신호탄일까?",
+      "source_url": "https://www.youtube.com/watch?v=g1Ju6ZXKVpk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/g1Ju6ZXKVpk/hqdefault.jpg",
+      "published_at": "2026-04-29T22:54:59+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "5jor-uD7CLs",
+      "title": "알파벳, 슈퍼위크의 최종 승자…파월 \"연준 이사로 남겠다\" 선언 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=5jor-uD7CLs",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5jor-uD7CLs/hqdefault.jpg",
+      "published_at": "2026-04-29T22:15:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "WRrqa2lm5NM",
+      "title": "[4월 30일 개장시황] 정프로, 빈센트, 장우진, 편다송, 김선아 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=WRrqa2lm5NM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WRrqa2lm5NM/hqdefault.jpg",
+      "published_at": "2026-04-29T20:22:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -368,7 +438,7 @@
     },
     {
       "video_id": "OmJhgdvLvCY",
-      "title": "유워런버핏이 주식을 매도하고 현금을 왕창 쌓기 시작한 진짜 이유, 지금 내 계좌 점검해야 합니다 [에릭의 먼슬리 구루 4월 2부]",
+      "title": "워런버핏이 주식을 매도하고 현금을 왕창 쌓기 시작한 진짜 이유, 지금 내 계좌 점검해야 합니다 [에릭의 먼슬리 구루 4월 2부]",
       "source_url": "https://www.youtube.com/watch?v=OmJhgdvLvCY",
       "thumbnail_url": "https://i4.ytimg.com/vi/OmJhgdvLvCY/hqdefault.jpg",
       "published_at": "2026-04-29T09:00:00+00:00",
@@ -660,73 +730,6 @@
         },
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ByU_ChW-5zQ",
-      "title": "[26.04.29 오전 방송 전체보기] 오픈AI 우려 속 반도체주 중심 하락...WTI 또 100달러 육박",
-      "source_url": "https://www.youtube.com/watch?v=ByU_ChW-5zQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ByU_ChW-5zQ/hqdefault.jpg",
-      "published_at": "2026-04-29T03:19:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QXVGpX58sqo",
-      "title": "트럼프의 '비트코인 전략 비축' 선언과 멈춰선 클래리티 법안, 전쟁 공포 속 혼돈의 시장 l 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=QXVGpX58sqo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QXVGpX58sqo/hqdefault.jpg",
-      "published_at": "2026-04-29T03:12:10+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "fY7Avq7UFXc",
-      "title": "시장의 순환매는 어디로? 조선? 전력반도체? 전력기기? 바이오?_26.04.29. | 박지훈, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=fY7Avq7UFXc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fY7Avq7UFXc/hqdefault.jpg",
-      "published_at": "2026-04-29T02:21:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1375,25 +1378,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "99lbF969jJo",
-      "title": "전직원 PC, 마우스까지 훔쳐보는 메타. 저커버그가 진짜 원하는 것 [Z1 뉴스]",
-      "source_url": "https://www.youtube.com/watch?v=99lbF969jJo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/99lbF969jJo/hqdefault.jpg",
-      "published_at": "2026-04-23T08:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "KFb9otg0Acw",

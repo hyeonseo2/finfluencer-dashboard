@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T09:04:19.493267+00:00",
+  "generated_at": "2026-05-01T11:11:17.983828+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "sJiqflTHkzI",
+      "title": "또 한 번 폭락이 올 겁니다. 가진 현금 '이렇게' 하세요｜김경록 고문 1부",
+      "source_url": "https://www.youtube.com/watch?v=sJiqflTHkzI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/sJiqflTHkzI/hqdefault.jpg",
+      "published_at": "2026-05-01T10:01:27+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "EiYA1eC3l6c",
+      "title": "삼성전자가 지금 심상치 않다, 증권가에 소문 싹다 퍼졌다 (김동엽 대표)",
+      "source_url": "https://www.youtube.com/watch?v=EiYA1eC3l6c",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EiYA1eC3l6c/hqdefault.jpg",
+      "published_at": "2026-05-01T10:00:19+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "uGidI02M_0U",
       "title": "\"호르무즈 열겠다\" 이란이 갑자기 꼬리내린 이유. 북한 붕괴 초비상 걸렸다 | 이춘근 박사 5부",
@@ -1048,25 +1091,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "F-ZMUFG4J5o",
-      "title": "\"호르무즈 해협 먼저 열겠다\" 이란이 갑자기 항복한 이유 곧 중동 전역이 발칵 뒤집힌다 | 문근식 교수 1부",
-      "source_url": "https://www.youtube.com/watch?v=F-ZMUFG4J5o",
-      "thumbnail_url": "https://i3.ytimg.com/vi/F-ZMUFG4J5o/hqdefault.jpg",
-      "published_at": "2026-04-29T08:30:08+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "7a_Ic8mx_JE",
       "title": "반도체 결국 황제주가 된다, '진짜 1등 주식' 죽어라 사세요 (빈센트 위원)",
       "source_url": "https://www.youtube.com/watch?v=7a_Ic8mx_JE",
@@ -1289,25 +1313,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zmIAkFkYet8",
-      "title": "한국 조선주 초대형 호재 터졌다, 한화오션 아닌 ‘이 주식’ 사세요 (엄경아 연구원)",
-      "source_url": "https://www.youtube.com/watch?v=zmIAkFkYet8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zmIAkFkYet8/hqdefault.jpg",
-      "published_at": "2026-04-27T10:30:39+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

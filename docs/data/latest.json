@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T22:50:40.631463+00:00",
+  "generated_at": "2026-05-02T23:51:50.730478+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "KgMvkwk0-Lk",
+      "title": "전쟁은 왜 항상 ‘신의 이름’으로 시작될까? | 김학철 연세대학교 학부대학 교수 [더 릴리전]",
+      "source_url": "https://www.youtube.com/watch?v=KgMvkwk0-Lk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KgMvkwk0-Lk/hqdefault.jpg",
+      "published_at": "2026-05-02T23:00:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "IHFeByVghoE",
       "title": "삼성전자, SK하이닉스 '이 가격 밑으로는' 정말 많이 사도 됩니다 (하창봉 대표)",
@@ -1010,25 +1029,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "M1y8boY4uIo",
-      "title": "[4월 30일 마감시황] 신고가 찍고 숨 고르기 들어간 코스피… 셀 인 메이 앞둔 5월 장 승자는?ㅣ홍선애, 박근형, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=M1y8boY4uIo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/M1y8boY4uIo/hqdefault.jpg",
-      "published_at": "2026-04-30T08:17:46+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "SOVnSELt0vM",

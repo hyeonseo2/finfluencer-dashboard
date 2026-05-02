@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T14:53:34.744505+00:00",
+  "generated_at": "2026-05-02T15:52:58.184363+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,22 +57,17 @@
   "videos": [
     {
       "video_id": "IHFeByVghoE",
-      "title": "삼성전자가 지금 심상치 않다, 지금 말고, '이때' 주식 사세요 (하창봉 대표)",
+      "title": "삼성전자, SK하이닉스 '이 가격 밑으로는' 정말 많이 사도 됩니다 (하창봉 대표)",
       "source_url": "https://www.youtube.com/watch?v=IHFeByVghoE",
       "thumbnail_url": "https://i2.ytimg.com/vi/IHFeByVghoE/hqdefault.jpg",
       "published_at": "2026-05-02T11:30:29+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -81,7 +76,7 @@
     },
     {
       "video_id": "QNfc7jSiHm0",
-      "title": "의사가 추천하는 건강검진 방법, '이 검사는' 함부로 찍지마세요 (오수연 교수)",
+      "title": "건강검진 '이 나이부터' 받지마세요, 건강을 해치고, 위험할 수 있다 (오수연 교수)",
       "source_url": "https://www.youtube.com/watch?v=QNfc7jSiHm0",
       "thumbnail_url": "https://i2.ytimg.com/vi/QNfc7jSiHm0/hqdefault.jpg",
       "published_at": "2026-05-02T10:30:26+00:00",
@@ -138,17 +133,17 @@
     },
     {
       "video_id": "DVRopOn0DzU",
-      "title": "두산에너빌리티 지금 심상치않다, 폭발하는 원전주에 탑승하세요 (하창봉 대표)",
+      "title": "두산보다 미친듯이 오를 '이 주식', 숨도 안 쉬고 미친 듯이 오른다 (하창봉 대표)",
       "source_url": "https://www.youtube.com/watch?v=DVRopOn0DzU",
       "thumbnail_url": "https://i1.ytimg.com/vi/DVRopOn0DzU/hqdefault.jpg",
       "published_at": "2026-05-02T08:45:01+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],

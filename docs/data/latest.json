@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T08:23:10.520340+00:00",
+  "generated_at": "2026-05-02T10:01:16.139264+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,18 +56,56 @@
   ],
   "videos": [
     {
+      "video_id": "nxsKiXP32yI",
+      "title": "제 자식에게 돈이 있으면 '이 1개 주식' 사라고 할 겁니다 (빈센트 위원)",
+      "source_url": "https://www.youtube.com/watch?v=nxsKiXP32yI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nxsKiXP32yI/hqdefault.jpg",
+      "published_at": "2026-05-02T09:30:35+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "DVRopOn0DzU",
+      "title": "전쟁 끝난 후 진짜 폭등 섹터, '이 주식' 예상치못한 폭등 온다 (하창봉 대표)",
+      "source_url": "https://www.youtube.com/watch?v=DVRopOn0DzU",
+      "thumbnail_url": "https://i1.ytimg.com/vi/DVRopOn0DzU/hqdefault.jpg",
+      "published_at": "2026-05-02T08:45:01+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "JANSvy55UwI",
-      "title": "제발 원유 받아달라 난리. 러시아가 한국에 안달난 이유｜김정호 교수 풀버전1",
+      "title": "주한미군 철수 폭탄 발언. 한국은 콧방귀도 안뀌는 이유｜김정호 교수 풀버전1",
       "source_url": "https://www.youtube.com/watch?v=JANSvy55UwI",
       "thumbnail_url": "https://i3.ytimg.com/vi/JANSvy55UwI/hqdefault.jpg",
       "published_at": "2026-05-02T08:00:30+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1241,30 +1279,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "8FB3d7z5IdY",
-      "title": "현금 있으면 '딱 2개 주식' 사세요, 전쟁 끝난 후 정말 무섭게 오른다 (염승환 이사)",
-      "source_url": "https://www.youtube.com/watch?v=8FB3d7z5IdY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8FB3d7z5IdY/hqdefault.jpg",
-      "published_at": "2026-04-28T08:30:03+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "ndKyAcBDuE4",
       "title": "엔비디아가 20억 달러 베팅한 회사가 한국에 있다…이수페타시스·삼성전기 지금 어디까지 갈 수 있나 [월간아신 4월호 - 1부]",
       "source_url": "https://www.youtube.com/watch?v=ndKyAcBDuE4",
@@ -1306,25 +1320,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "i1ybZ19EnbU",
-      "title": "한국이 폭삭 망하기 직전이다, 한국경제 IMF 전조 증상 나왔다 (이현훈 교수 풀버전)",
-      "source_url": "https://www.youtube.com/watch?v=i1ybZ19EnbU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/i1ybZ19EnbU/hqdefault.jpg",
-      "published_at": "2026-04-27T11:01:11+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "c9yU5WJPL8E",

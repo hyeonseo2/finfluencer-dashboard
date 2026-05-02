@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T21:49:53.490413+00:00",
+  "generated_at": "2026-05-02T22:50:40.631463+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -1275,22 +1275,17 @@
     },
     {
       "video_id": "ndKyAcBDuE4",
-      "title": "엔비디아가 20억 달러 베팅한 회사가 한국에 있다…이수페타시스·삼성전기 지금 어디까지 갈 수 있나 [월간아신 4월호 - 1부]",
+      "title": "젠슨황도 줄 서서 기다리는 국내 기판 회사…공장 증설 끝나면 이수페타시스·삼성전기에 벌어질 일 [월간아신 4월호 - 1부]",
       "source_url": "https://www.youtube.com/watch?v=ndKyAcBDuE4",
       "thumbnail_url": "https://i3.ytimg.com/vi/ndKyAcBDuE4/hqdefault.jpg",
       "published_at": "2026-04-28T08:00:05+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities",
-        "fx"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

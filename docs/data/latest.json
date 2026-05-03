@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T19:07:08.797865+00:00",
+  "generated_at": "2026-05-03T20:52:26.633049+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "4q96shAowMk",
+      "title": "빅테크 호실적 속 S&P500·나스닥지수 또 사상 최고가 경신_26.05.04 | 여도은, 박명석, 이춘광 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=4q96shAowMk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4q96shAowMk/hqdefault.jpg",
+      "published_at": "2026-05-03T20:19:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "9qgpuUvzWSg",
       "title": "2차전지 급등 나온 진짜 이유, 삼성SDI와 '이 주식' 무섭게 오른다 (이안나 부센터장)",
@@ -1086,25 +1110,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "3qsbGqZjOso",
-      "title": "흔들린 증시, 끝난 걸까? 이재규가 말한 다음 대응 전략 | 이재규 SK증권 PB 차장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=3qsbGqZjOso",
-      "thumbnail_url": "https://i4.ytimg.com/vi/3qsbGqZjOso/hqdefault.jpg",
-      "published_at": "2026-04-30T11:00:06+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

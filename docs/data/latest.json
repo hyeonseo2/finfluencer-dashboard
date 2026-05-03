@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T08:50:11.403057+00:00",
+  "generated_at": "2026-05-03T10:10:06.829762+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,11 +56,11 @@
   ],
   "videos": [
     {
-      "video_id": "haJy93aqS_o",
-      "title": "주한미군 분위기 심상치 않다. 곧 무시무시한 일 일어난다 | 김민석 특파원 3부",
-      "source_url": "https://www.youtube.com/watch?v=haJy93aqS_o",
-      "thumbnail_url": "https://i1.ytimg.com/vi/haJy93aqS_o/hqdefault.jpg",
-      "published_at": "2026-05-03T08:00:52+00:00",
+      "video_id": "pNOSVMN6aVY",
+      "title": "우크라이나 역사적인 승리. 러시아 내부 발칵 뒤집혔다｜김정호 교수 풀버전2",
+      "source_url": "https://www.youtube.com/watch?v=pNOSVMN6aVY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pNOSVMN6aVY/hqdefault.jpg",
+      "published_at": "2026-05-03T10:01:15+00:00",
       "channel_name": "달란트투자",
       "topics": [
         "macro"
@@ -68,6 +68,25 @@
       "topic_stances": [
         {
           "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "haJy93aqS_o",
+      "title": "심상치 않은 주한미군 분위기. 한국 군사력 진짜 무서워진다 | 김민석 특파원 3부",
+      "source_url": "https://www.youtube.com/watch?v=haJy93aqS_o",
+      "thumbnail_url": "https://i1.ytimg.com/vi/haJy93aqS_o/hqdefault.jpg",
+      "published_at": "2026-05-03T08:00:52+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -739,25 +758,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wYMQjcG-gwU",
-      "title": "UAE 기습 폭탄 선언. 한국에 엄청난 일 생긴다 | 김민석 특파원 2부",
-      "source_url": "https://www.youtube.com/watch?v=wYMQjcG-gwU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wYMQjcG-gwU/hqdefault.jpg",
-      "published_at": "2026-05-01T06:00:48+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "r7ZN2l-_680",

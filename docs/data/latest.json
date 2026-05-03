@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T22:51:06.418176+00:00",
+  "generated_at": "2026-05-03T23:53:48.311471+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,73 @@
   ],
   "videos": [
     {
+      "video_id": "_rzTj7LNn1Y",
+      "title": "트럼프 “호르무즈 선박 탈출 개시” | 김용범 \"신용등급 보이지 않는 계급장\" | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=_rzTj7LNn1Y",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_rzTj7LNn1Y/hqdefault.jpg",
+      "published_at": "2026-05-03T23:12:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "VdR-kZdS1Co",
+      "title": "쟁과 AI 버블이 동시에 터진 지금 버핏과 그랜섬이 조용히 쓸어담은 자산의 정체 [에릭의 먼슬리 구루 4월 풀영상]",
+      "source_url": "https://www.youtube.com/watch?v=VdR-kZdS1Co",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VdR-kZdS1Co/hqdefault.jpg",
+      "published_at": "2026-05-03T23:00:00+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "39Ovfcuaoug",
+      "title": "미국증시 랠리 부담? 유가 100달러 수준에도 오를 수밖에 없는 이유 | 이춘광 레그넘투자자문 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=39Ovfcuaoug",
+      "thumbnail_url": "https://i4.ytimg.com/vi/39Ovfcuaoug/hqdefault.jpg",
+      "published_at": "2026-05-03T22:48:16+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "rFVvO8anvxs",
       "title": "S&P500·나스닥, 동반 사상 최고치...샌디스크, 호실적에 신고가 경신 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=rFVvO8anvxs",
@@ -76,17 +143,22 @@
     },
     {
       "video_id": "4q96shAowMk",
-      "title": "트럼프 \"호르무즈 선박 탈출 작전 4일 개시\" | 김용범 \"신용등급 보이지 않는 계급장\" | 값싼 중국 전기차 몰려온다 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "수익률 1위 코스피, 5월에는 달라진다? 칠천피 기대감 vs 숨 고르기 대비...국내증시의 앞날은? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=4q96shAowMk",
       "thumbnail_url": "https://i1.ytimg.com/vi/4q96shAowMk/hqdefault.jpg",
       "published_at": "2026-05-03T20:19:05+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "macro"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1012,25 +1084,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "WI0uWAJZ0t8",
-      "title": "기아도 로봇 시장 참전… 지금 투자자들이 봐야 할 이유 | 명민준, 박가영, 염승환 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=WI0uWAJZ0t8",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WI0uWAJZ0t8/hqdefault.jpg",
-      "published_at": "2026-04-30T13:01:02+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "mV8RHxfe2xU",
       "title": "민원 우려로 축구도 금지된 요즘 학교",
       "source_url": "https://www.youtube.com/watch?v=mV8RHxfe2xU",
@@ -1072,25 +1125,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "jgXWtDLE1sg",
-      "title": "“수천억 손실?” 삼성 노조 파업의 현실",
-      "source_url": "https://www.youtube.com/shorts/jgXWtDLE1sg",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jgXWtDLE1sg/hqdefault.jpg",
-      "published_at": "2026-04-30T11:40:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "KSQm9fQk6CY",
@@ -1291,25 +1325,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "p7FCw2OncZI",
-      "title": "SK하이닉스 1분기 영업이익 37조인데 2분기가 더 크다…HBM 가격 인상 본격 반영되면 벌어지는 일 [월간아신 4월호 - 2부]",
-      "source_url": "https://www.youtube.com/watch?v=p7FCw2OncZI",
-      "thumbnail_url": "https://i1.ytimg.com/vi/p7FCw2OncZI/hqdefault.jpg",
-      "published_at": "2026-04-28T09:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "c9yU5WJPL8E",

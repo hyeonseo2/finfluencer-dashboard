@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T21:50:47.695893+00:00",
+  "generated_at": "2026-05-03T22:51:06.418176+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,23 +56,37 @@
   ],
   "videos": [
     {
-      "video_id": "4q96shAowMk",
-      "title": "빅테크 호실적 속 S&P500·나스닥지수 또 사상 최고가 경신_26.05.04 | 여도은, 박명석, 이춘광 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=4q96shAowMk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4q96shAowMk/hqdefault.jpg",
-      "published_at": "2026-05-03T20:19:05+00:00",
+      "video_id": "rFVvO8anvxs",
+      "title": "S&P500·나스닥, 동반 사상 최고치...샌디스크, 호실적에 신고가 경신 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=rFVvO8anvxs",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rFVvO8anvxs/hqdefault.jpg",
+      "published_at": "2026-05-03T22:12:40+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "4q96shAowMk",
+      "title": "트럼프 \"호르무즈 선박 탈출 작전 4일 개시\" | 김용범 \"신용등급 보이지 않는 계급장\" | 값싼 중국 전기차 몰려온다 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=4q96shAowMk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4q96shAowMk/hqdefault.jpg",
+      "published_at": "2026-05-03T20:19:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1096,25 +1110,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ETGIqBhrDcI",
-      "title": "[26.04.30 오후 방송 전체보기] 7천피 도약을 위한 눈치보기 장세…5월 셀 인 메이, 현실화 되나 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=ETGIqBhrDcI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ETGIqBhrDcI/hqdefault.jpg",
-      "published_at": "2026-04-30T11:12:38+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "MsUEIBSN_2c",

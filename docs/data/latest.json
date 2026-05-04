@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T11:54:12.296658+00:00",
+  "generated_at": "2026-05-04T16:51:32.099324+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,87 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "y0AOwi3_7f0",
+      "title": "피지컬 AI 본격화되나? 로봇주에서 봐야 할 핵심 종목ㅣ명민준, 강아랑, 길건우 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=y0AOwi3_7f0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/y0AOwi3_7f0/hqdefault.jpg",
+      "published_at": "2026-05-04T13:31:06+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ROEhnPlZeiM",
+      "title": "반도체 정말 무섭게 오를 겁니다, 삼성전자 아닌 '이 주식' 사세요 (김동엽 대표)",
+      "source_url": "https://www.youtube.com/watch?v=ROEhnPlZeiM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ROEhnPlZeiM/hqdefault.jpg",
+      "published_at": "2026-05-04T12:30:37+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "9Lzh1KUQU2A",
+      "title": "삼성전자 상승폭 크지 않은 이유, 이제 살 수도, 팔 수도 없는 시장이다 (윤지호 경제평론가)",
+      "source_url": "https://www.youtube.com/watch?v=9Lzh1KUQU2A",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9Lzh1KUQU2A/hqdefault.jpg",
+      "published_at": "2026-05-04T12:14:06+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "EF-Nxzl3H4A",
+      "title": "외국인 수급이 몰린 반도체주… 이제 삼전닉스 중 어디를 봐야 하나ㅣ명민준, 강아랑, 이권희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=EF-Nxzl3H4A",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EF-Nxzl3H4A/hqdefault.jpg",
+      "published_at": "2026-05-04T12:00:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "wi5KOxGk_e8",
       "title": "\"ISA에 당장 담아라. 코스피200, S&P500 아니다\" 지금 사두면 무조건 부자되는 ETF 3가지 찍어드릴게요 | 송민석 이사 #원픽리포트",
@@ -182,7 +263,7 @@
     },
     {
       "video_id": "ff4Yuj7cmkU",
-      "title": "부동산 시장 장특공 폐지 논란, 집 한 채 있는 게 투기입니까? (김인만 소장)",
+      "title": "올스톱 부동산 거래 절벽 온다, 양도세 중과 후 뒤집힐 집값 전망 (김인만 소장)",
       "source_url": "https://www.youtube.com/watch?v=ff4Yuj7cmkU",
       "thumbnail_url": "https://i3.ytimg.com/vi/ff4Yuj7cmkU/hqdefault.jpg",
       "published_at": "2026-05-04T09:45:04+00:00",
@@ -548,49 +629,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "wsfzH1yqDNc",
-      "title": "코스피가 올해 8,500 갈 수 있는 조건은? | 황승택 하나증권 리서치센터장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=wsfzH1yqDNc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wsfzH1yqDNc/hqdefault.jpg",
-      "published_at": "2026-05-04T01:42:08+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "XOvnNoOONfo",
-      "title": "\"모멘텀이 쏟아지는 5월\" 이래도 파실 건가요? | 손수연 하나증권 용산 WM 센터 사원 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=XOvnNoOONfo",
-      "thumbnail_url": "https://i1.ytimg.com/vi/XOvnNoOONfo/hqdefault.jpg",
-      "published_at": "2026-05-04T01:22:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "VdR-kZdS1Co",
       "title": "버핏이 현금 546조를 쌓아두는 동안 그랜섬은 폭락을 경고했다, 내 자산 어떻게 지켜야 하는지 알려주는 거장들 [에릭의 먼슬리 구루 4월 풀영상]",
       "source_url": "https://www.youtube.com/watch?v=VdR-kZdS1Co",
@@ -882,7 +920,7 @@
     },
     {
       "video_id": "0UWbAvMCgjc",
-      "title": "S&P500으로 돈 잘 벌고도 99%는 돈을 못버는 충격적인 이유가 있습니다",
+      "title": "S&P500이 아무리 올라도 99%는 돈을 못버는 충격적인 이유가 있습니다",
       "source_url": "https://www.youtube.com/watch?v=0UWbAvMCgjc",
       "thumbnail_url": "https://i1.ytimg.com/vi/0UWbAvMCgjc/hqdefault.jpg",
       "published_at": "2026-05-03T00:00:00+00:00",
@@ -1143,25 +1181,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "2gaF74Cu1ZQ",
-      "title": "현금 있으면 '딱 2개' 사세요, 전쟁 끝난 후 무섭게 오른다 (염승환 이사 풀버전)",
-      "source_url": "https://www.youtube.com/watch?v=2gaF74Cu1ZQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2gaF74Cu1ZQ/hqdefault.jpg",
-      "published_at": "2026-05-01T06:00:03+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "A7--8jFQcxw",
       "title": "학원비 150만원 쓰는 동안 월 18만원으로 2억 만드는 부모들이 있다…자녀 자산 지금 시작해야 하는 이유",
       "source_url": "https://www.youtube.com/watch?v=A7--8jFQcxw",
@@ -1198,30 +1217,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "_D2R0JZPXiM",
-      "title": "현금 5천만원 있다면 '이 4개 주식' 모아가세요 (박진희 부장 풀버전)",
-      "source_url": "https://www.youtube.com/watch?v=_D2R0JZPXiM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_D2R0JZPXiM/hqdefault.jpg",
-      "published_at": "2026-04-30T12:01:07+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "MsUEIBSN_2c",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T20:11:18.800901+00:00",
+  "generated_at": "2026-05-05T22:04:10.013724+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,7 +46,6 @@
   ],
   "topics": [
     "commodities",
-    "crypto",
     "etf",
     "interest_rate",
     "macro",
@@ -55,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "UENDLW5mjeU",
+      "title": "필·반지수 '최고가' 속 뉴욕증시 상승 마감...팔란티어 급락, 왜?_26.05.06 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=UENDLW5mjeU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/UENDLW5mjeU/hqdefault.jpg",
+      "published_at": "2026-05-05T20:28:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "cXrkvHVAiUg",
       "title": "늘어나는 재정 지출, 개선안은 있나",
@@ -892,25 +915,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Bozi_tLxSno",
-      "title": "온체인 데이터가 보여주는 비트코인 매수 타이밍. 핵심 바닥 지표 'MVRV' | 서동주, 김동환, 조재우 한성대학교 부교수 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=Bozi_tLxSno",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Bozi_tLxSno/hqdefault.jpg",
-      "published_at": "2026-05-04T05:30:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "l19fwaTQaJ8",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T11:19:06.668251+00:00",
+  "generated_at": "2026-05-05T16:27:48.469816+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -50,10 +50,54 @@
     "etf",
     "interest_rate",
     "macro",
+    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "cXrkvHVAiUg",
+      "title": "늘어나는 재정 지출, 개선안은 있나",
+      "source_url": "https://www.youtube.com/watch?v=cXrkvHVAiUg",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cXrkvHVAiUg/hqdefault.jpg",
+      "published_at": "2026-05-05T11:54:31+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities",
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "_dCLhK7ihmU",
+      "title": "5월에 사야 한 단 1가지 주식, 27년까지 무섭게 오를 겁니다 (빈센트 위원 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=_dCLhK7ihmU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_dCLhK7ihmU/hqdefault.jpg",
+      "published_at": "2026-05-05T11:30:35+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ZXpyO4miJx0",
       "title": "코스피 8000 간다는데, 반도체 외 오를 수 있는 섹터 (윤지호 경제평론가)",
@@ -1126,25 +1170,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "QNfc7jSiHm0",
-      "title": "건강검진 '이 나이부터' 받지마세요, 건강을 해치고, 위험할 수 있다 (오수연 교수)",
-      "source_url": "https://www.youtube.com/watch?v=QNfc7jSiHm0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QNfc7jSiHm0/hqdefault.jpg",
-      "published_at": "2026-05-02T10:30:26+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "MQ9IpmVoW_4",
       "title": "NVIDIA·아마존·구글이 역대급으로 돈을 쏟아붓는 지금, 조용히 수혜를 독점하는 기업의 정체 [월간아신 4월호 - 풀영상]",
       "source_url": "https://www.youtube.com/watch?v=MQ9IpmVoW_4",
@@ -1445,25 +1470,6 @@
       "source_url": "https://www.youtube.com/watch?v=rdtfqfSPmu0",
       "thumbnail_url": "https://i3.ytimg.com/vi/rdtfqfSPmu0/hqdefault.jpg",
       "published_at": "2026-04-21T10:54:19+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "iaC6mXFeCEE",
-      "title": "SK하이닉스 성과급, 얼마나 나올까?",
-      "source_url": "https://www.youtube.com/watch?v=iaC6mXFeCEE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/iaC6mXFeCEE/hqdefault.jpg",
-      "published_at": "2026-04-20T10:29:25+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

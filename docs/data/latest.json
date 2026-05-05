@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05T09:10:10.577899+00:00",
+  "generated_at": "2026-05-05T11:19:06.668251+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,63 @@
   ],
   "videos": [
     {
+      "video_id": "ZXpyO4miJx0",
+      "title": "코스피 8000 간다는데, 반도체 외 오를 수 있는 섹터 (윤지호 경제평론가)",
+      "source_url": "https://www.youtube.com/watch?v=ZXpyO4miJx0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZXpyO4miJx0/hqdefault.jpg",
+      "published_at": "2026-05-05T10:30:16+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Up6NGdFbvu4",
+      "title": "2차전지 폭등 임박했습니다. '이 주식' 앞으로 죽어라 사세요. \"하늘이 주신 기회가 왔다\" | 민재기 팀장 3부",
+      "source_url": "https://www.youtube.com/watch?v=Up6NGdFbvu4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Up6NGdFbvu4/hqdefault.jpg",
+      "published_at": "2026-05-05T10:00:58+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "_DP1jLyq_cs",
+      "title": "삼성전기 팔고 '이 주식' 사세요, 27년까지 무섭게 오를 겁니다 (김동엽 대표)",
+      "source_url": "https://www.youtube.com/watch?v=_DP1jLyq_cs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_DP1jLyq_cs/hqdefault.jpg",
+      "published_at": "2026-05-05T09:40:17+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "tsROImp13mU",
       "title": "코스피 5월에 다 팔아라? 고수들은 이때 판다 \"사상 첫 6900선 돌파한 한국주식 앞으로 이렇게 될 겁니다\" | 김규동 이사 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=tsROImp13mU",
@@ -80,17 +137,17 @@
     },
     {
       "video_id": "AGvpFLs6p7M",
-      "title": "이란, 기습 호르무즈 개방. 북한 붕괴 초비상 걸렸다 | 이춘근 박사 풀버전2",
+      "title": "\"이란 사태에 줄줄이 탈북\" 당황한 김정은 초비상 걸렸다 | 이춘근 박사 풀버전2",
       "source_url": "https://www.youtube.com/watch?v=AGvpFLs6p7M",
       "thumbnail_url": "https://i2.ytimg.com/vi/AGvpFLs6p7M/hqdefault.jpg",
       "published_at": "2026-05-05T08:00:17+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -137,17 +194,17 @@
     },
     {
       "video_id": "iiUDBvoTxD4",
-      "title": "삼성전자 난리난 진짜 이유. 가진 주식 싹다 '이렇게' 해라｜김경록 고문 2부",
+      "title": "금값 43년 만에 대폭락. 곧 상상못할 일 벌어진다｜김경록 고문 2부",
       "source_url": "https://www.youtube.com/watch?v=iiUDBvoTxD4",
       "thumbnail_url": "https://i2.ytimg.com/vi/iiUDBvoTxD4/hqdefault.jpg",
       "published_at": "2026-05-05T06:00:37+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -983,25 +1040,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "z_2p8LB9ORA",
-      "title": "UAE 사우디에 싹다 퍼졌다. 한국에 대한 놀라운 소문｜박현도 교수, 김민석 특파원 특집",
-      "source_url": "https://www.youtube.com/watch?v=z_2p8LB9ORA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/z_2p8LB9ORA/hqdefault.jpg",
-      "published_at": "2026-05-03T06:00:55+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "5neGpzdM2t8",
       "title": "\"노후 평생 놀고 먹는다\" ISA에 담아야 할 ETF 우선순위 TOP4 #원픽리포트 #이슈드링크",
       "source_url": "https://www.youtube.com/watch?v=5neGpzdM2t8",
@@ -1100,44 +1138,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "nxsKiXP32yI",
-      "title": "제 자식에게 돈이 있으면 '이 1개 주식' 사라고 할 겁니다 (빈센트 위원)",
-      "source_url": "https://www.youtube.com/watch?v=nxsKiXP32yI",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nxsKiXP32yI/hqdefault.jpg",
-      "published_at": "2026-05-02T09:30:35+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "DVRopOn0DzU",
-      "title": "로봇주 '이 주식' 죽어라 사세요, 무서운 상승의 초입 시작됐다 (하창봉 대표)",
-      "source_url": "https://www.youtube.com/watch?v=DVRopOn0DzU",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DVRopOn0DzU/hqdefault.jpg",
-      "published_at": "2026-05-02T08:45:01+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

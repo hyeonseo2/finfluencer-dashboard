@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06T14:26:42.266448+00:00",
+  "generated_at": "2026-05-06T16:46:24.063558+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -511,15 +511,20 @@
     },
     {
       "video_id": "ZoQ4dejhOE4",
-      "title": "영업이익으로 비트코인 매수한다. 월스트리트의 테더 자본, 채굴 과 송금결제 기업의 합병 | 서동주, 김동환, 백훈종 스매시파이 대표 [크립토PLUS]",
+      "title": "'빚' 대신 '영업이익'으로 비트코인 매수, 채굴 과 송금 기업의 합병. 생태계 흐름이 바뀌고 있다 | 서동주, 김동환, 백훈종 스매시파이 대표 [크립토PLUS]",
       "source_url": "https://www.youtube.com/watch?v=ZoQ4dejhOE4",
       "thumbnail_url": "https://i3.ytimg.com/vi/ZoQ4dejhOE4/hqdefault.jpg",
       "published_at": "2026-05-06T05:16:15+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
+        "commodities",
         "crypto"
       ],
       "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
         {
           "topic": "crypto",
           "stance": "neutral"

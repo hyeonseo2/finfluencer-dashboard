@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T14:27:21.101178+00:00",
+  "generated_at": "2026-05-07T16:55:45.860992+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -282,17 +282,17 @@
     },
     {
       "video_id": "Nue_1_IHSuc",
-      "title": "우주항공 더 무섭게 오를 겁니다, '이 2개 주식' 단연코 탑픽입니다 (정의훈 연구원)",
+      "title": "스페이스X 인공위성 100만개 목표, 우주 알박기, 부의 지도가 바뀐다 (정의훈 연구원)",
       "source_url": "https://www.youtube.com/watch?v=Nue_1_IHSuc",
       "thumbnail_url": "https://i3.ytimg.com/vi/Nue_1_IHSuc/hqdefault.jpg",
       "published_at": "2026-05-07T09:45:02+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

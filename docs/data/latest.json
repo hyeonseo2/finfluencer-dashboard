@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T20:18:15.267214+00:00",
+  "generated_at": "2026-05-07T22:04:54.033511+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "x9RFoL_6teY",
+      "title": "전쟁 협상 불확실성·차익실현 매물 속 뉴욕증시 하락 마감_26.05.08 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=x9RFoL_6teY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/x9RFoL_6teY/hqdefault.jpg",
+      "published_at": "2026-05-07T20:25:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "SenVIZXji38",
       "title": "반도체 보유자도 고민하는 지금, 진짜 승부는 '시기'에 달렸다ㅣ명민준, 박가영, 정태근 [주린이 구조대]",
@@ -628,25 +652,6 @@
         },
         {
           "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "pkQopECmSDs",
-      "title": "반도체 오를 때 소외당한 바이오, 이제 다시 주목할 때!_26.05.07. | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=pkQopECmSDs",
-      "thumbnail_url": "https://i1.ytimg.com/vi/pkQopECmSDs/hqdefault.jpg",
-      "published_at": "2026-05-07T01:53:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

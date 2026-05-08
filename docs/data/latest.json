@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T22:01:43.939271+00:00",
+  "generated_at": "2026-05-08T23:59:16.256435+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "krwejavc95w",
+      "title": "[모닝효] 반도체 다음은 반도체 | 미국은 어떻게 게임의 룰을 바꿀까?",
+      "source_url": "https://www.youtube.com/watch?v=krwejavc95w",
+      "thumbnail_url": "https://i4.ytimg.com/vi/krwejavc95w/hqdefault.jpg",
+      "published_at": "2026-05-08T23:33:24+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "EXQDSkuZVKM",
       "title": "AI 반도체, 이제 시작이다… “7년 더 간다” ㅣ김장열 유니스토리자산운용 본부장, 이세철 씨티그룹 리서치부문 전무 [칩썰]",
@@ -1326,30 +1345,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "0UWbAvMCgjc",
-      "title": "S&P500이 아무리 올라도 99%는 돈을 못버는 충격적인 이유가 있습니다",
-      "source_url": "https://www.youtube.com/watch?v=0UWbAvMCgjc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/0UWbAvMCgjc/hqdefault.jpg",
-      "published_at": "2026-05-03T00:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

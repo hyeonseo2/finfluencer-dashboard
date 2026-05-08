@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T12:11:04.239046+00:00",
+  "generated_at": "2026-05-08T14:55:14.582966+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,116 @@
   ],
   "videos": [
     {
+      "video_id": "NuPa3gcdn1c",
+      "title": "트럼프 \"관세 환급 신청하지 않으면 내 편\"",
+      "source_url": "https://www.youtube.com/watch?v=NuPa3gcdn1c",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NuPa3gcdn1c/hqdefault.jpg",
+      "published_at": "2026-05-08T13:27:23+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "RC0PymwWRbY",
+      "title": "외국인 5조원 매도폭탄에도 최고가 찍은 '괴물 체력' 한국 증시ㅣ명민준, 강아랑, 김장열 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=RC0PymwWRbY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/RC0PymwWRbY/hqdefault.jpg",
+      "published_at": "2026-05-08T13:01:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "14qbPL5HF84",
+      "title": "거래대금 5배 대폭발! 삼성전자 하이닉스 다음은 바로 이 ETF입니다 [주식주부]",
+      "source_url": "https://www.youtube.com/watch?v=14qbPL5HF84",
+      "thumbnail_url": "https://i2.ytimg.com/vi/14qbPL5HF84/hqdefault.jpg",
+      "published_at": "2026-05-08T12:47:59+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks",
+        "commodities",
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "dJwnaLmDMi8",
+      "title": "내 계좌의 닉스통(?)을 치유할 다음 ’주도주‘는ㅣ명민준, 강아랑, 박지훈 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=dJwnaLmDMi8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/dJwnaLmDMi8/hqdefault.jpg",
+      "published_at": "2026-05-08T12:31:02+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "gmtSMlw0R3Y",
+      "title": "빈센트 여주사...오늘도 연전 연승, 결국 또 올랐다 | 빈센트  feat.정프로 [더블 체크]",
+      "source_url": "https://www.youtube.com/shorts/gmtSMlw0R3Y",
+      "thumbnail_url": "https://i4.ytimg.com/vi/gmtSMlw0R3Y/hqdefault.jpg",
+      "published_at": "2026-05-08T12:07:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "Smk3xOu0Zko",
       "title": "\"건물주보다 낫다\" 월급보다 더 많이 받는 괴물 월배당 ETF 3가지 떴다 | 김규동 이사 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=Smk3xOu0Zko",
@@ -96,7 +206,7 @@
     },
     {
       "video_id": "lOEvH0FJkNw",
-      "title": "월가에 싹다 퍼진 테슬라에 대한 충격적인 소문. “곧 엄청난 일 벌어진다” | 강정수 박사 2부",
+      "title": "미국 월가에 싹다 퍼진 테슬라에 대한 엄청난 소문 | 강정수 박사 2부",
       "source_url": "https://www.youtube.com/watch?v=lOEvH0FJkNw",
       "thumbnail_url": "https://i1.ytimg.com/vi/lOEvH0FJkNw/hqdefault.jpg",
       "published_at": "2026-05-08T10:30:35+00:00",
@@ -115,17 +225,17 @@
     },
     {
       "video_id": "kbPqbpQ32SY",
-      "title": "조선·방산·원전 텐배거 종목 공개, 현금 있다면 '이 종목부터' 사세요 (효라클 작가)",
+      "title": "반도체 다음 4번 타자 확실해졌다, 더 무섭게 오를 '이 주식' 사세요 (효라클 작가)",
       "source_url": "https://www.youtube.com/watch?v=kbPqbpQ32SY",
       "thumbnail_url": "https://i4.ytimg.com/vi/kbPqbpQ32SY/hqdefault.jpg",
       "published_at": "2026-05-08T10:30:26+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -495,63 +605,6 @@
       "source_url": "https://www.youtube.com/watch?v=-LhQ0_zh1B0",
       "thumbnail_url": "https://i2.ytimg.com/vi/-LhQ0_zh1B0/hqdefault.jpg",
       "published_at": "2026-05-08T02:30:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "oSjUCZ-BCQw",
-      "title": "\"역대급 실적 폭발\" 반도체 쉴 때 화장품을 꼭 보세요 | 김문정 하나증권 대구중앙WM센터 PB [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=oSjUCZ-BCQw",
-      "thumbnail_url": "https://i4.ytimg.com/vi/oSjUCZ-BCQw/hqdefault.jpg",
-      "published_at": "2026-05-08T01:52:52+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "GXoXFkMopmo",
-      "title": "반도체, 쉬는 동안 이걸 봐라 | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=GXoXFkMopmo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/GXoXFkMopmo/hqdefault.jpg",
-      "published_at": "2026-05-08T01:18:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Mxz89oGv_f0",
-      "title": "아직도 쉬는 말 붙잡고 계신가요? “달리는 말에 올라타라”…지금 시장의 핵심 전략 | 박병창 MP파트너스 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=Mxz89oGv_f0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Mxz89oGv_f0/hqdefault.jpg",
-      "published_at": "2026-05-08T00:40:01+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"
@@ -1304,25 +1357,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "MQ9IpmVoW_4",
-      "title": "NVIDIA·아마존·구글이 역대급으로 돈을 쏟아붓는 지금, 조용히 수혜를 독점하는 기업의 정체 [월간아신 4월호 - 풀영상]",
-      "source_url": "https://www.youtube.com/watch?v=MQ9IpmVoW_4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MQ9IpmVoW_4/hqdefault.jpg",
-      "published_at": "2026-05-02T00:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "n7Z2vUJDgPU",
       "title": "티라노사우루스의 비밀",
       "source_url": "https://www.youtube.com/watch?v=n7Z2vUJDgPU",
@@ -1447,25 +1481,6 @@
       "source_url": "https://www.youtube.com/watch?v=NwNvW0lLVtc",
       "thumbnail_url": "https://i3.ytimg.com/vi/NwNvW0lLVtc/hqdefault.jpg",
       "published_at": "2026-04-24T09:56:30+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "_7CfYef7PUw",
-      "title": "크게 증가하는 '평범한 부자들'",
-      "source_url": "https://www.youtube.com/watch?v=_7CfYef7PUw",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_7CfYef7PUw/hqdefault.jpg",
-      "published_at": "2026-04-23T12:59:10+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

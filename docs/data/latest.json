@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T10:10:38.752024+00:00",
+  "generated_at": "2026-05-09T11:54:22.687543+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "t3lFO1Jwj5w",
+      "title": "반도체 더 무섭게 오를 겁니다, 삼성전자 아닌 '이 주식' 사세요 (김동엽 대표 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=t3lFO1Jwj5w",
+      "thumbnail_url": "https://i1.ytimg.com/vi/t3lFO1Jwj5w/hqdefault.jpg",
+      "published_at": "2026-05-09T10:30:36+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "EcfHwq7DObw",
+      "title": "이때부터 미국이 무너진다. 가진 현금 싹다 '이렇게' 해라｜김경록 고문 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=EcfHwq7DObw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EcfHwq7DObw/hqdefault.jpg",
+      "published_at": "2026-05-09T10:00:31+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "LeUdF2NRVPI",
       "title": "결국 10000 포인트 시대 온다, 지금 안 사면 평생 후회할 '이 주식' (소현철 박사)",
@@ -619,7 +657,7 @@
     },
     {
       "video_id": "kbPqbpQ32SY",
-      "title": "반도체 다음 4번 타자 확실해졌다, 더 무섭게 오를 '이 주식' 사세요 (효라클 작가)",
+      "title": "원전주 판도가 완전히 뒤집힌다, 삼성전자보다 크게 오를 '이 주식' (효라클 작가)",
       "source_url": "https://www.youtube.com/watch?v=kbPqbpQ32SY",
       "thumbnail_url": "https://i4.ytimg.com/vi/kbPqbpQ32SY/hqdefault.jpg",
       "published_at": "2026-05-08T10:30:26+00:00",
@@ -1075,25 +1113,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "uvAXjmxOqGg",
-      "title": "\"안팔면 그만!\" KF-21 꿀꺽하려던 인니 초비상. 한국은 콧방귀도 안뀌는 이유｜김대영 군사평론가 4부",
-      "source_url": "https://www.youtube.com/watch?v=uvAXjmxOqGg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/uvAXjmxOqGg/hqdefault.jpg",
-      "published_at": "2026-05-07T08:30:28+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "-NjndBUsltw",
       "title": "[모닝효라이브] - 미래를 예측하는 가장 좋은 방법은 미래를 만드는 것! #앤트로픽",
       "source_url": "https://www.youtube.com/watch?v=-NjndBUsltw",
@@ -1242,25 +1261,6 @@
       "source_url": "https://www.youtube.com/watch?v=_dCLhK7ihmU",
       "thumbnail_url": "https://i4.ytimg.com/vi/_dCLhK7ihmU/hqdefault.jpg",
       "published_at": "2026-05-05T11:30:35+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ZXpyO4miJx0",
-      "title": "코스피 8000 간다는데, 반도체 외 오를 수 있는 섹터 (윤지호 경제평론가)",
-      "source_url": "https://www.youtube.com/watch?v=ZXpyO4miJx0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZXpyO4miJx0/hqdefault.jpg",
-      "published_at": "2026-05-05T10:30:16+00:00",
       "channel_name": "김작가 TV",
       "topics": [
         "stocks"

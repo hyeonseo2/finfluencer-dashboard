@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T08:44:18.171693+00:00",
+  "generated_at": "2026-05-09T10:10:38.752024+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
   ],
   "videos": [
     {
+      "video_id": "LeUdF2NRVPI",
+      "title": "결국 10000 포인트 시대 온다, 지금 안 사면 평생 후회할 '이 주식' (소현철 박사)",
+      "source_url": "https://www.youtube.com/watch?v=LeUdF2NRVPI",
+      "thumbnail_url": "https://i1.ytimg.com/vi/LeUdF2NRVPI/hqdefault.jpg",
+      "published_at": "2026-05-09T09:30:12+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "d9I521pGOGw",
       "title": "\"다음은 코스닥\" 곧 나스닥처럼 만들 것입니다 | 김태년 국회의원 [더 피플]",
       "source_url": "https://www.youtube.com/watch?v=d9I521pGOGw",
@@ -81,7 +105,7 @@
     },
     {
       "video_id": "TlodVfaY0Ac",
-      "title": "프랑스가 마침내 저질렀다 한국 핵잠 완성 코앞인 이유 | 문근식 교수 풀버전",
+      "title": "\"미국도 못 막는 이유\" 프랑스 최후의 결단 한국 핵잠 이미 준비 끝냈다 | 문근식 교수 풀버전",
       "source_url": "https://www.youtube.com/watch?v=TlodVfaY0Ac",
       "thumbnail_url": "https://i1.ytimg.com/vi/TlodVfaY0Ac/hqdefault.jpg",
       "published_at": "2026-05-09T08:00:29+00:00",
@@ -214,17 +238,17 @@
     },
     {
       "video_id": "a3UKAwAmbAw",
-      "title": "고기 먹어도 혈관 멀쩡한 사람 비밀, '이것' 안 먹으면 혈관 싹다 터진다 (오수연 교수)",
+      "title": "항산화 식품 '이 음식' 꼭 드세요, 지금 당장 냉장고에 채우세요 (오수연 교수)",
       "source_url": "https://www.youtube.com/watch?v=a3UKAwAmbAw",
       "thumbnail_url": "https://i2.ytimg.com/vi/a3UKAwAmbAw/hqdefault.jpg",
       "published_at": "2026-05-09T06:00:00+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1237,25 +1261,6 @@
       "source_url": "https://www.youtube.com/watch?v=ZXpyO4miJx0",
       "thumbnail_url": "https://i3.ytimg.com/vi/ZXpyO4miJx0/hqdefault.jpg",
       "published_at": "2026-05-05T10:30:16+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "_DP1jLyq_cs",
-      "title": "삼성전기 팔고 '이 주식' 사세요, 27년까지 무섭게 오를 겁니다 (김동엽 대표)",
-      "source_url": "https://www.youtube.com/watch?v=_DP1jLyq_cs",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_DP1jLyq_cs/hqdefault.jpg",
-      "published_at": "2026-05-05T09:40:17+00:00",
       "channel_name": "김작가 TV",
       "topics": [
         "stocks"

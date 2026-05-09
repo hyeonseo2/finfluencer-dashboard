@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T17:06:21.676284+00:00",
+  "generated_at": "2026-05-09T19:10:31.952787+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -671,17 +671,17 @@
     },
     {
       "video_id": "kbPqbpQ32SY",
-      "title": "반도체 다음 4번 타자 확실해졌다, 더 무섭게 오를 '이 주식' 사세요 (효라클 작가)",
+      "title": "결국 원전에서 텐배거 나온다, 두산 말고 '이 1개 종목을' 사세요 (효라클 작가)",
       "source_url": "https://www.youtube.com/watch?v=kbPqbpQ32SY",
       "thumbnail_url": "https://i4.ytimg.com/vi/kbPqbpQ32SY/hqdefault.jpg",
       "published_at": "2026-05-08T10:30:26+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T19:12:02.765101+00:00",
+  "generated_at": "2026-05-10T20:54:39.904394+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "6DFovFs9bYU",
+      "title": "반도체 또 불 뿜었다! 마이크론 +15%, 인텔 +13% 뉴욕증시에 무슨 일이?_26.05.11 | 여도은, 박명석, 박현도 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=6DFovFs9bYU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6DFovFs9bYU/hqdefault.jpg",
+      "published_at": "2026-05-10T20:25:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Wkqsv207-M0",
       "title": "다음주, 강세장의 한 복판에 큰 변곡점들이 다가옵니다",
@@ -957,25 +981,6 @@
       "source_url": "https://www.youtube.com/watch?v=dJwnaLmDMi8",
       "thumbnail_url": "https://i1.ytimg.com/vi/dJwnaLmDMi8/hqdefault.jpg",
       "published_at": "2026-05-08T12:31:02+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "gmtSMlw0R3Y",
-      "title": "빈센트 여주사...오늘도 연전 연승, 결국 또 올랐다 | 빈센트  feat.정프로 [더블 체크]",
-      "source_url": "https://www.youtube.com/shorts/gmtSMlw0R3Y",
-      "thumbnail_url": "https://i4.ytimg.com/vi/gmtSMlw0R3Y/hqdefault.jpg",
-      "published_at": "2026-05-08T12:07:47+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"

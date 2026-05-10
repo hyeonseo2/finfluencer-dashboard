@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T22:53:58.688709+00:00",
+  "generated_at": "2026-05-10T23:57:12.555122+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
   ],
   "videos": [
     {
+      "video_id": "zO41RcRoS9M",
+      "title": "나무호 때린 ’미상 비행체’…과연 누구의 소행인가? | 박현도 서강대 유로메나연구소 교수 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=zO41RcRoS9M",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zO41RcRoS9M/hqdefault.jpg",
+      "published_at": "2026-05-10T23:09:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "yr6XUR-vC5Q",
       "title": "마이크론, 샌디스크, 인텔 또 폭등...로켓랩, 우주 관련주 랠리 시동 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=yr6XUR-vC5Q",
@@ -76,17 +95,17 @@
     },
     {
       "video_id": "6DFovFs9bYU",
-      "title": "트럼프 \"종전안 이란 답변, 완전히 용납불가\"…이란, 호르무즈에 잠수함 배치 | 현대차 로봇, 군 최전방 정찰에 투입 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[5월 11일 개장시황] 정프로, 빈센트, 이지은, 권택중, 이권희 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=6DFovFs9bYU",
       "thumbnail_url": "https://i3.ytimg.com/vi/6DFovFs9bYU/hqdefault.jpg",
       "published_at": "2026-05-10T20:25:11+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -935,30 +954,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "RC0PymwWRbY",
-      "title": "외국인 5조원 매도폭탄에도 최고가 찍은 '괴물 체력' 한국 증시ㅣ명민준, 강아랑, 김장열 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=RC0PymwWRbY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RC0PymwWRbY/hqdefault.jpg",
-      "published_at": "2026-05-08T13:01:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "14qbPL5HF84",

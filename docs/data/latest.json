@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T11:56:22.466150+00:00",
+  "generated_at": "2026-05-10T13:45:59.558216+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
   ],
   "videos": [
     {
+      "video_id": "Wkqsv207-M0",
+      "title": "다음주, 강세장의 한 복판에 큰 변곡점들이 다가옵니다",
+      "source_url": "https://www.youtube.com/watch?v=Wkqsv207-M0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Wkqsv207-M0/hqdefault.jpg",
+      "published_at": "2026-05-10T13:32:44+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "DzNwMcIyPJE",
       "title": "[슈카월드] 코스피 8000가나요? / 반도체, 반도체, 반도체 / 인터넷은 무관세인가 / AI 짤을 가장 많이 만드는 나라 / 세계를 뒤흔든 K-바이러스",
       "source_url": "https://www.youtube.com/watch?v=DzNwMcIyPJE",
@@ -86,7 +105,7 @@
     },
     {
       "video_id": "tnP-OZjX5jo",
-      "title": "코스피 8000 전망까지 나온 지금, 반도체 다음 좋게 보는 유망섹터 (윤지호 경제평론가 풀버전)",
+      "title": "지금 '이 주식' 단 1주도 없다면, 포트폴리오 당장 바꿔야 한다 (윤지호 경제평론가 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=tnP-OZjX5jo",
       "thumbnail_url": "https://i1.ytimg.com/vi/tnP-OZjX5jo/hqdefault.jpg",
       "published_at": "2026-05-10T10:15:04+00:00",
@@ -1393,25 +1412,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "BuQfgXM4XDM",
-      "title": "SK하이닉스 매수, 매도 하시기 전에 이 영상 꼭 보세요! 반도체 총정리 해드립니다",
-      "source_url": "https://www.youtube.com/watch?v=BuQfgXM4XDM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/BuQfgXM4XDM/hqdefault.jpg",
-      "published_at": "2026-05-04T06:04:54+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "n7Z2vUJDgPU",

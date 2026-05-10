@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T13:45:59.558216+00:00",
+  "generated_at": "2026-05-10T14:57:55.739033+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -75,52 +75,18 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "DzNwMcIyPJE",
-      "title": "[슈카월드] 코스피 8000가나요? / 반도체, 반도체, 반도체 / 인터넷은 무관세인가 / AI 짤을 가장 많이 만드는 나라 / 세계를 뒤흔든 K-바이러스",
-      "source_url": "https://www.youtube.com/watch?v=DzNwMcIyPJE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DzNwMcIyPJE/hqdefault.jpg",
-      "published_at": "2026-05-10T11:21:44+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks",
-        "commodities",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "tnP-OZjX5jo",
-      "title": "지금 '이 주식' 단 1주도 없다면, 포트폴리오 당장 바꿔야 한다 (윤지호 경제평론가 풀버전)",
+      "title": "코스피 8000 간다는데, 반도체 다음 주목할 유망섹터 (윤지호 경제평론가 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=tnP-OZjX5jo",
       "thumbnail_url": "https://i1.ytimg.com/vi/tnP-OZjX5jo/hqdefault.jpg",
       "published_at": "2026-05-10T10:15:04+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1507,6 +1473,25 @@
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "5oKUsCNKCdg",
+      "title": "침팬지들은  왜 어제의 동료를 죽였을까",
+      "source_url": "https://www.youtube.com/watch?v=5oKUsCNKCdg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5oKUsCNKCdg/hqdefault.jpg",
+      "published_at": "2026-04-25T12:09:03+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

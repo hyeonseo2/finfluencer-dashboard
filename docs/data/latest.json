@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T08:57:52.930111+00:00",
+  "generated_at": "2026-05-10T10:21:39.397089+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "tnP-OZjX5jo",
+      "title": "코스피 8000 전망까지 나온 지금, 반도체 다음 좋게 보는 유망섹터 (윤지호 경제평론가 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=tnP-OZjX5jo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/tnP-OZjX5jo/hqdefault.jpg",
+      "published_at": "2026-05-10T10:15:04+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "pmoMDeg1qFE",
+      "title": "\"일주일도 안남았다\" 금값 43년만의 대폭락. 곧 무시무시한 일 터진다｜금남일 대표 1부",
+      "source_url": "https://www.youtube.com/watch?v=pmoMDeg1qFE",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pmoMDeg1qFE/hqdefault.jpg",
+      "published_at": "2026-05-10T10:01:16+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ePaaN-3W-io",
       "title": "\"미국마저 하락했다\" 러시아 천연가스 한국행 충격. 곧 한국에 엄청난 일 벌어진다｜류한수 교수 풀버전",
@@ -1066,25 +1109,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "_Mn46M-Wdb0",
-      "title": "이 주식에 인생 걸어라. 반도체보다 무섭게 오른다 | 박세익 대표, 이권희 대표, 존리 대표 특집",
-      "source_url": "https://www.youtube.com/watch?v=_Mn46M-Wdb0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_Mn46M-Wdb0/hqdefault.jpg",
-      "published_at": "2026-05-08T08:30:28+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "HSruC4cikVE",
       "title": "서클이 디지털 달러 시장을 독점한 이유, 지금 투자자가 점검해야 할 것들ㅣ디파이 농부 조선생",
       "source_url": "https://www.youtube.com/watch?v=HSruC4cikVE",
@@ -1259,25 +1283,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1sRSt4E1s8c",
-      "title": "스페이스X 곧 상장합니다, 테슬라 주주라면 무조건 보세요 (정의훈 연구원)",
-      "source_url": "https://www.youtube.com/watch?v=1sRSt4E1s8c",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1sRSt4E1s8c/hqdefault.jpg",
-      "published_at": "2026-05-06T11:45:00+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "hmh8o9rhNZw",

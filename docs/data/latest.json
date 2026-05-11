@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T18:01:34.925236+00:00",
+  "generated_at": "2026-05-11T20:48:52.709882+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "6UonZpYu9uo",
+      "title": "유가 상승보단 AI다! 마이크론 +6%...뉴욕증시 상승 마감_26.05.12 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=6UonZpYu9uo",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6UonZpYu9uo/hqdefault.jpg",
+      "published_at": "2026-05-11T20:34:44+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "9L_ekMF9S5E",
       "title": "같은 하락장에도 누구는 버티고 누구는 손절한다… 종목 공부가 계좌를 지키는 결정적 차이ㅣ정프로, 명민준, 강아랑, 차영주 [주린이 구조대]",
@@ -559,25 +583,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "34fhiy-U5-E",
-      "title": "시총 10위 '메타'를 삼성전자가 넘어서는 방법 | 권택중 더 센터필드W 과장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=34fhiy-U5-E",
-      "thumbnail_url": "https://i4.ytimg.com/vi/34fhiy-U5-E/hqdefault.jpg",
-      "published_at": "2026-05-11T02:29:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

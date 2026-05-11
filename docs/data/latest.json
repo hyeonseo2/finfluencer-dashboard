@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T15:59:08.651011+00:00",
+  "generated_at": "2026-05-11T18:01:34.925236+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -267,17 +267,22 @@
     },
     {
       "video_id": "JkrMaXo3lpM",
-      "title": "삼성전자, SK하이닉스 주가 전망, 단 한 주라도 들고 있으면 보세요 (권영화 교수)",
+      "title": "삼성전자 10년 슈퍼사이클 온다, 전 재산 넣어도 아깝지 않은 기회다 (권영화 교수)",
       "source_url": "https://www.youtube.com/watch?v=JkrMaXo3lpM",
       "thumbnail_url": "https://i3.ytimg.com/vi/JkrMaXo3lpM/hqdefault.jpg",
       "published_at": "2026-05-11T09:45:01+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

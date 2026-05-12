@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T20:47:25.636531+00:00",
+  "generated_at": "2026-05-12T22:15:44.302467+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ViEmbihcHb8",
+      "title": "반도체주 차익 매물, 인플레 우려 속 뉴욕증시 혼조 마감_26.05.13 | 여도은, 박명석, 이건규 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=ViEmbihcHb8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ViEmbihcHb8/hqdefault.jpg",
+      "published_at": "2026-05-12T20:27:06+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "QJzH3LVGtrM",
       "title": "조선 빅3, 드디어 돈 벌기 시작했다… 슈퍼사이클 기대감은 과열일까 기회일까ㅣ명민준, 강아랑, 엄경아 [주린이 구조대]",
@@ -650,25 +674,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qCnUP8w4soY",
-      "title": "레버리지 출시 눈 앞, 진짜 조심해야 하는 이유 | 백인재 하나증권 영업부금융센터 부센터장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=qCnUP8w4soY",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qCnUP8w4soY/hqdefault.jpg",
-      "published_at": "2026-05-12T03:51:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "w1tBqpSlZqI",

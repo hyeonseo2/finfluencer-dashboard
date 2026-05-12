@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T22:10:42.568312+00:00",
+  "generated_at": "2026-05-12T00:02:23.022112+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,23 +57,56 @@
   ],
   "videos": [
     {
-      "video_id": "6UonZpYu9uo",
-      "title": "유가 상승보단 AI다! 마이크론 +6%...뉴욕증시 상승 마감_26.05.12 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=6UonZpYu9uo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6UonZpYu9uo/hqdefault.jpg",
-      "published_at": "2026-05-11T20:34:44+00:00",
+      "video_id": "xH8CMUidE0k",
+      "title": "반도체 놓쳤다면 아직 기회 있습니다...다음은 ‘피지컬 AI’ | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=xH8CMUidE0k",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xH8CMUidE0k/hqdefault.jpg",
+      "published_at": "2026-05-11T23:00:24+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "9_7DpI1EGsI",
+      "title": "뉴욕 증시, 사상 최고치 랠리 속 과열 논란…마이클 버리 ”기술주 팔아라“ [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=9_7DpI1EGsI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9_7DpI1EGsI/hqdefault.jpg",
+      "published_at": "2026-05-11T22:15:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "6UonZpYu9uo",
+      "title": "[5월 12일 개장시황] 정프로, 빈센트, 장우진, 백인재, 편다송, 박성봉 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=6UonZpYu9uo",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6UonZpYu9uo/hqdefault.jpg",
+      "published_at": "2026-05-11T20:34:44+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -540,49 +573,6 @@
         },
         {
           "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6DFovFs9bYU",
-      "title": "[26.05.11 오전 방송 전체보기] 반도체 또 불 뿜었다! 마이크론 +15%, 인텔 +13% 뉴욕증시에 무슨 일이?",
-      "source_url": "https://www.youtube.com/watch?v=6DFovFs9bYU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6DFovFs9bYU/hqdefault.jpg",
-      "published_at": "2026-05-11T03:20:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "58KdKUoEhzs",
-      "title": "삼성전자·하이닉스 이후…다음 순환매 어디로 가나_26.05.11. | 이혁진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=58KdKUoEhzs",
-      "thumbnail_url": "https://i2.ytimg.com/vi/58KdKUoEhzs/hqdefault.jpg",
-      "published_at": "2026-05-11T02:39:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

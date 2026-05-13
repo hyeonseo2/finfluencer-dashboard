@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T20:51:48.975582+00:00",
+  "generated_at": "2026-05-13T22:17:44.561983+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "HIP4BVL9Uvs",
+      "title": "트럼프 \"중국과 사업 거래 희망\"…엔비디아, 젠슨황 합류에 사상 최고가 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=HIP4BVL9Uvs",
+      "thumbnail_url": "https://i1.ytimg.com/vi/HIP4BVL9Uvs/hqdefault.jpg",
+      "published_at": "2026-05-13T22:03:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "p_fv9w3RTIs",
       "title": "PPI·국채금리 올라도 AI 믿고 간다! 나스닥 +1.2% 마감_26.05.14 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
@@ -698,30 +717,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "4hD1RtnIZAk",
-      "title": "고점부담? 단기적 조정? 그럼에도 코스피 9,000 본다! 이유는?_26.05.13. | 박지훈, 김영환, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=4hD1RtnIZAk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4hD1RtnIZAk/hqdefault.jpg",
-      "published_at": "2026-05-13T02:34:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

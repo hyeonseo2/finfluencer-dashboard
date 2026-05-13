@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T18:59:29.414799+00:00",
+  "generated_at": "2026-05-13T20:51:48.975582+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,6 +45,7 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -55,6 +56,40 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "p_fv9w3RTIs",
+      "title": "PPI·국채금리 올라도 AI 믿고 간다! 나스닥 +1.2% 마감_26.05.14 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=p_fv9w3RTIs",
+      "thumbnail_url": "https://i1.ytimg.com/vi/p_fv9w3RTIs/hqdefault.jpg",
+      "published_at": "2026-05-13T20:24:28+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "JEJu1q6GudI",
       "title": "[존투라이브] 주식으로 마음이 흔들릴 때 저는 항상 달립니다",
@@ -133,17 +168,17 @@
     },
     {
       "video_id": "oD72LAaYwAQ",
-      "title": "한국 정치가 수렁에 빠진 진짜 이유, 뉴스에서 말하지 않는 냉혹한 진실 (김진 앵커)",
+      "title": "미국이 김정은 살려두는 속사정, 뉴스에서 말하지않는 냉혹한 진실 (김진 앵커)",
       "source_url": "https://www.youtube.com/watch?v=oD72LAaYwAQ",
       "thumbnail_url": "https://i4.ytimg.com/vi/oD72LAaYwAQ/hqdefault.jpg",
       "published_at": "2026-05-13T12:01:23+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -711,30 +746,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "l3wPF6-kRcM",
-      "title": "미중 회담의 핵심은 이것입니다, 코스피 영향은? | 김경환 하나증권 리서치센터 팀장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=l3wPF6-kRcM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/l3wPF6-kRcM/hqdefault.jpg",
-      "published_at": "2026-05-13T01:56:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "1EIhYFycNjc",

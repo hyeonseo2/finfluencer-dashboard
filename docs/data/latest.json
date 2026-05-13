@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T22:15:44.302467+00:00",
+  "generated_at": "2026-05-13T00:04:49.119557+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,15 +57,35 @@
   ],
   "videos": [
     {
-      "video_id": "ViEmbihcHb8",
-      "title": "반도체주 차익 매물, 인플레 우려 속 뉴욕증시 혼조 마감_26.05.13 | 여도은, 박명석, 이건규 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=ViEmbihcHb8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ViEmbihcHb8/hqdefault.jpg",
-      "published_at": "2026-05-12T20:27:06+00:00",
+      "video_id": "Sh0OGj4-Xds",
+      "title": "삼성전자, SK하이닉스 투자 '6대4'를 권하는 이유 | 이건규 르네상스자산운용 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=Sh0OGj4-Xds",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Sh0OGj4-Xds/hqdefault.jpg",
+      "published_at": "2026-05-12T23:30:02+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "1EIhYFycNjc",
+      "title": "[모닝효라이브] 인플레 우려 때문에 금리인상한다고?? 반도체 주식은 어쩌지?",
+      "source_url": "https://www.youtube.com/watch?v=1EIhYFycNjc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/1EIhYFycNjc/hqdefault.jpg",
+      "published_at": "2026-05-12T23:03:26+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
         "stocks",
-        "commodities"
+        "commodities",
+        "interest_rate"
       ],
       "topic_stances": [
         {
@@ -74,6 +94,48 @@
         },
         {
           "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Cx5vZpDnd0g",
+      "title": "마이크론, 인텔 등 반도체주 급락…엔비디아의 희망 메시지 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=Cx5vZpDnd0g",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Cx5vZpDnd0g/hqdefault.jpg",
+      "published_at": "2026-05-12T22:25:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ViEmbihcHb8",
+      "title": "[5월 13일 개장시황] 정프로, 빈센트, 장우진, 이종원, 편다송, 김경환 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=ViEmbihcHb8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ViEmbihcHb8/hqdefault.jpg",
+      "published_at": "2026-05-12T20:27:06+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -597,59 +659,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5coBG3atwhc",
-      "title": "서클 주가 16% 폭등은 단순 반등이 아니다. 클래리티 법안과, AI 에이전트 코인시장에 불어오는 훈풍 | 서동주, 김동환 ,박상혁 디지털애셋 편집장 [클립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=5coBG3atwhc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5coBG3atwhc/hqdefault.jpg",
-      "published_at": "2026-05-12T04:26:11+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "R_JaJsvExzQ",
-      "title": "8000P 가는데, 철강 주식의 향방은? | 박성봉 하나증권 리서치센터 팀장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=R_JaJsvExzQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/R_JaJsvExzQ/hqdefault.jpg",
-      "published_at": "2026-05-12T04:21:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1331,25 +1340,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KK-dZZuEWDg",
-      "title": "최근 불장에서 돈 번 사람들의 공통점. 다 이렇게 하고 있었습니다",
-      "source_url": "https://www.youtube.com/watch?v=KK-dZZuEWDg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KK-dZZuEWDg/hqdefault.jpg",
-      "published_at": "2026-05-07T10:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "1I2OuuhHH8c",

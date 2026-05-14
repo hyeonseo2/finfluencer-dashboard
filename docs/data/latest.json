@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T21:17:15.748062+00:00",
+  "generated_at": "2026-05-14T23:00:59.546916+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,7 +45,6 @@
     }
   ],
   "topics": [
-    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -56,23 +55,37 @@
   ],
   "videos": [
     {
+      "video_id": "jwF4axJsLm8",
+      "title": "엔비디아, 미중 정상회담 최고 수혜주…클래리티 법안 상원 은행위원회 통과 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=jwF4axJsLm8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jwF4axJsLm8/hqdefault.jpg",
+      "published_at": "2026-05-14T22:39:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "kZeYh5D-Bs0",
-      "title": "미중회담 기대 속 뉴욕증시 상승 마감...반도체 주가 '혼조'_26.05.15 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "미중 정상회담에 쏠린 눈, 다우도 5만 넘었다! 오늘 코스피도 신기록 세우나 | 이주호, 빈센트, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=kZeYh5D-Bs0",
       "thumbnail_url": "https://i4.ytimg.com/vi/kZeYh5D-Bs0/hqdefault.jpg",
       "published_at": "2026-05-14T20:21:40+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -631,35 +644,6 @@
         },
         {
           "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "p_fv9w3RTIs",
-      "title": "[26.05.14 오전 방송 전체보기] PPI·국채금리 올라도 AI 믿고 간다! 나스닥 +1.2% 마감",
-      "source_url": "https://www.youtube.com/watch?v=p_fv9w3RTIs",
-      "thumbnail_url": "https://i1.ytimg.com/vi/p_fv9w3RTIs/hqdefault.jpg",
-      "published_at": "2026-05-14T03:36:20+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],

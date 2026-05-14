@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-13T22:17:44.561983+00:00",
+  "generated_at": "2026-05-14T00:05:52.670506+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,7 +45,6 @@
     }
   ],
   "topics": [
-    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -56,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "9MjvE8js9I8",
+      "title": "5060개미가 2030이겨…역대급 불장, 성공 비결은 우직함 | '매운맛은 한국맛' 신라면·불닭 '역대급' 기록  | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=9MjvE8js9I8",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9MjvE8js9I8/hqdefault.jpg",
+      "published_at": "2026-05-13T23:59:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "kubLHEMYqUY",
+      "title": "반도체 쏠림, 괜찮나? 삼성전자, 현대차가 기대되는 이유 | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=kubLHEMYqUY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kubLHEMYqUY/hqdefault.jpg",
+      "published_at": "2026-05-13T23:05:02+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "HIP4BVL9Uvs",
       "title": "트럼프 \"중국과 사업 거래 희망\"…엔비디아, 젠슨황 합류에 사상 최고가 [월가 뉴스레터]",
@@ -77,32 +114,17 @@
     },
     {
       "video_id": "p_fv9w3RTIs",
-      "title": "PPI·국채금리 올라도 AI 믿고 간다! 나스닥 +1.2% 마감_26.05.14 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "[5월 14일 개장시황] 빈센트, 김기은, 장우진, 김정환, 편다송, 김록호 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=p_fv9w3RTIs",
       "thumbnail_url": "https://i1.ytimg.com/vi/p_fv9w3RTIs/hqdefault.jpg",
       "published_at": "2026-05-13T20:24:28+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate",
-        "bonds"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -657,35 +679,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "J5-8DNR0UJg",
-      "title": "클래리티 법안 통과 D-1 앞두고 꼬여버린 진짜 이유. 상회한 CPI, 인플레이션 공포에 흔들리는 주식시장  | 서동주, 김동환, 김제이 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=J5-8DNR0UJg",
-      "thumbnail_url": "https://i3.ytimg.com/vi/J5-8DNR0UJg/hqdefault.jpg",
-      "published_at": "2026-05-13T04:02:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "macro",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "xVSiCKuufzs",
       "title": "ISA에서 노후준비 끝내세요 #원픽리포트",
       "source_url": "https://www.youtube.com/shorts/xVSiCKuufzs",
@@ -703,25 +696,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ViEmbihcHb8",
-      "title": "[26.05.13 오전 방송 전체보기] 반도체주 차익 매물, 인플레 우려 속 뉴욕증시 혼조 마감",
-      "source_url": "https://www.youtube.com/watch?v=ViEmbihcHb8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ViEmbihcHb8/hqdefault.jpg",
-      "published_at": "2026-05-13T03:45:35+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "MUL0xwQ6hBQ",

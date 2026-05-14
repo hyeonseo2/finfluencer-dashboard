@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-14T19:57:10.014477+00:00",
+  "generated_at": "2026-05-14T21:17:15.748062+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
   ],
   "videos": [
     {
+      "video_id": "kZeYh5D-Bs0",
+      "title": "미중회담 기대 속 뉴욕증시 상승 마감...반도체 주가 '혼조'_26.05.15 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=kZeYh5D-Bs0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kZeYh5D-Bs0/hqdefault.jpg",
+      "published_at": "2026-05-14T20:21:40+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "b0SGZQWvPC8",
       "title": "세계에서 가장 AI에 진심인 나라",
       "source_url": "https://www.youtube.com/watch?v=b0SGZQWvPC8",
@@ -76,7 +100,7 @@
     },
     {
       "video_id": "HZnIDDLzpCU",
-      "title": "LG를 둘러싼 고정관념이 깨진다…저평가 프레임 벗어날까ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
+      "title": "욕하면서도 못 팔았던 LG...이번에 '진짜' 사고칩니다ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=HZnIDDLzpCU",
       "thumbnail_url": "https://i1.ytimg.com/vi/HZnIDDLzpCU/hqdefault.jpg",
       "published_at": "2026-05-14T13:30:16+00:00",
@@ -429,7 +453,7 @@
     },
     {
       "video_id": "AfpmVNmkk7Y",
-      "title": "4년 넘게 안 끝나는 러시아, 우크라이나 전쟁, 푸틴이 끝까지 버티는 소름돋는 이유 (지구본 연구소 최준영 박사)",
+      "title": "러시아, 우크라이나 전쟁 전황 완전 뒤집혔다, 결국 '이렇게' 될 겁니다 (지구본 연구소 최준영 박사)",
       "source_url": "https://www.youtube.com/watch?v=AfpmVNmkk7Y",
       "thumbnail_url": "https://i2.ytimg.com/vi/AfpmVNmkk7Y/hqdefault.jpg",
       "published_at": "2026-05-14T08:00:17+00:00",
@@ -636,35 +660,6 @@
         },
         {
           "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "3g3Ne81-qZU",
-      "title": "삼성전자, SK하이닉스 레버리지ETF 출시 임박...투자는 어떻게?_26.05.14. | 김희중, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=3g3Ne81-qZU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/3g3Ne81-qZU/hqdefault.jpg",
-      "published_at": "2026-05-14T02:47:15+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
           "stance": "neutral"
         }
       ],

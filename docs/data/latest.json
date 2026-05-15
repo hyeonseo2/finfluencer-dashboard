@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T12:57:08.119359+00:00",
+  "generated_at": "2026-05-15T15:22:36.832095+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Df_qxMZaJqw",
+      "title": "AI 다음 타자는 로봇주? 지금부터 갈아탈 종목과 나눠 담는 전략 정리ㅣ명민준, 박가영, 곽영훈 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=Df_qxMZaJqw",
+      "thumbnail_url": "https://i1.ytimg.com/vi/Df_qxMZaJqw/hqdefault.jpg",
+      "published_at": "2026-05-15T13:30:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "uihPc2ymbyU",
       "title": "다음 주 반등이 와도 무작정 따라가면 위험…지금은 현금 비중을 챙겨야 하는 이유ㅣ명민준, 박가영, 이재규 [주린이 구조대]",
@@ -290,25 +309,15 @@
     },
     {
       "video_id": "hQP95iBiIbM",
-      "title": "\"코스피 8천 찍자 마자 폭락한 충격적 이유. 지금 더 사도 될까?\" 1억 있다면 여기 묻어라. 수익률 400%까지 난다 | 홍순빈 기자 1부 #etf투자",
+      "title": "\"올해 절대 놓치지마라\" 매달 50만 원씩 이 ETF 사라. 1억에서 8억까지 순식간에 간다 | 홍순빈 기자 1부 #etf",
       "source_url": "https://www.youtube.com/watch?v=hQP95iBiIbM",
       "thumbnail_url": "https://i1.ytimg.com/vi/hQP95iBiIbM/hqdefault.jpg",
       "published_at": "2026-05-15T08:30:18+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "stocks",
-        "commodities",
         "etf"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
         {
           "topic": "etf",
           "stance": "neutral"
@@ -633,25 +642,6 @@
       "source_url": "https://www.youtube.com/watch?v=_Kg9q3CAcqY",
       "thumbnail_url": "https://i4.ytimg.com/vi/_Kg9q3CAcqY/hqdefault.jpg",
       "published_at": "2026-05-15T01:16:14+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OUl54UiqyWc",
-      "title": "현대차 4개 중에 주목해야 할 것은 \"이겁니다\" | 조희진 하나증권 압구정금융센터 대리 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=OUl54UiqyWc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OUl54UiqyWc/hqdefault.jpg",
-      "published_at": "2026-05-15T01:16:00+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

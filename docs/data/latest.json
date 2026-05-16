@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T09:45:25.870604+00:00",
+  "generated_at": "2026-05-16T11:05:34.860942+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
   ],
   "videos": [
     {
+      "video_id": "zsn4SjSZIK8",
+      "title": "삼성전자 이번달 못 넘긴다. 가진 주식 싹다 '이렇게' 해라｜박진희 부장 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=zsn4SjSZIK8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zsn4SjSZIK8/hqdefault.jpg",
+      "published_at": "2026-05-16T10:01:31+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jQmKJCYJPv8",
+      "title": "증시 큰 조정 받을 겁니다, 주식시장 정말 위험신호 터졌다 (슈퍼개미 이정윤 세무사)",
+      "source_url": "https://www.youtube.com/watch?v=jQmKJCYJPv8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jQmKJCYJPv8/hqdefault.jpg",
+      "published_at": "2026-05-16T10:01:08+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "r8LO3xljxEg",
       "title": "\"지금 안사면 늦는다\" IPARK현대산업개발 앞으로 5만원까지 갑니다 | 김규동 이사 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=r8LO3xljxEg",
@@ -76,7 +114,7 @@
     },
     {
       "video_id": "UFNdUsYG-8I",
-      "title": "이란 전쟁보다 끔찍한 게 터졌다. 중국 공산당 초비상 걸린 이유｜김진 앵커 3부",
+      "title": "시진핑의 극단적 선택. 곧 대륙이 수십개로 쪼개진다｜김진 앵커 3부",
       "source_url": "https://www.youtube.com/watch?v=UFNdUsYG-8I",
       "thumbnail_url": "https://i2.ytimg.com/vi/UFNdUsYG-8I/hqdefault.jpg",
       "published_at": "2026-05-16T08:00:33+00:00",
@@ -976,25 +1014,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "ITVdTo2bGpk",
-      "title": "UAE 기습 폭탄 선언 한국에 역대급 기회가 온다 | 조의준 대표 2부",
-      "source_url": "https://www.youtube.com/watch?v=ITVdTo2bGpk",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ITVdTo2bGpk/hqdefault.jpg",
-      "published_at": "2026-05-14T10:30:17+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "HXYi2gRWSIc",
       "title": "\"앞으로 1년 돈이 몰린다\" 지금은 S&P500 말고 ISA계좌에 이 1가지 ETF 담으세요 | 오기석 대표 15분 요약",
       "source_url": "https://www.youtube.com/watch?v=HXYi2gRWSIc",
@@ -1300,25 +1319,6 @@
       "source_url": "https://www.youtube.com/watch?v=eTpiD737ztM",
       "thumbnail_url": "https://i2.ytimg.com/vi/eTpiD737ztM/hqdefault.jpg",
       "published_at": "2026-05-12T10:00:59+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "JmcAQcfEiZc",
-      "title": "삼성전자가 SK하이닉스 따라잡는다, 삼성전자 살 수 있는 마지막 기회다 (권영화 교수)",
-      "source_url": "https://www.youtube.com/watch?v=JmcAQcfEiZc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JmcAQcfEiZc/hqdefault.jpg",
-      "published_at": "2026-05-12T08:30:08+00:00",
       "channel_name": "김작가 TV",
       "topics": [
         "stocks"

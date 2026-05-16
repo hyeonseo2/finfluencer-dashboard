@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-16T11:05:34.860942+00:00",
+  "generated_at": "2026-05-16T13:42:20.976525+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,8 +56,46 @@
   ],
   "videos": [
     {
+      "video_id": "3AEHCHyIldI",
+      "title": "국민성장펀드 나에게 맞는지 확인하는 꿀팁",
+      "source_url": "https://www.youtube.com/shorts/3AEHCHyIldI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3AEHCHyIldI/hqdefault.jpg",
+      "published_at": "2026-05-16T12:00:34+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ppxlCP-Y5Vc",
+      "title": "국민성장펀드 역대급 혜택 세 가지!",
+      "source_url": "https://www.youtube.com/shorts/ppxlCP-Y5Vc",
+      "thumbnail_url": "https://i1.ytimg.com/vi/ppxlCP-Y5Vc/hqdefault.jpg",
+      "published_at": "2026-05-16T11:00:34+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "zsn4SjSZIK8",
-      "title": "삼성전자 이번달 못 넘긴다. 가진 주식 싹다 '이렇게' 해라｜박진희 부장 풀버전",
+      "title": "삼성전자 분위기 심상치 않다. 곧 무시무시한 일 벌어진다｜박진희 부장 풀버전",
       "source_url": "https://www.youtube.com/watch?v=zsn4SjSZIK8",
       "thumbnail_url": "https://i3.ytimg.com/vi/zsn4SjSZIK8/hqdefault.jpg",
       "published_at": "2026-05-16T10:01:31+00:00",
@@ -76,7 +114,7 @@
     },
     {
       "video_id": "jQmKJCYJPv8",
-      "title": "증시 큰 조정 받을 겁니다, 주식시장 정말 위험신호 터졌다 (슈퍼개미 이정윤 세무사)",
+      "title": "증시 위험 신호 마지막 경고입니다, 고점에 물리면 계좌 싹다 녹는다 (슈퍼개미 이정윤 세무사 3부)",
       "source_url": "https://www.youtube.com/watch?v=jQmKJCYJPv8",
       "thumbnail_url": "https://i3.ytimg.com/vi/jQmKJCYJPv8/hqdefault.jpg",
       "published_at": "2026-05-16T10:01:08+00:00",
@@ -1271,30 +1309,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "1EIhYFycNjc",
-      "title": "[모닝효라이브] 인플레 우려 때문에 금리인상??? 삼성전자, 하이닉스 어떻게???",
-      "source_url": "https://www.youtube.com/watch?v=1EIhYFycNjc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1EIhYFycNjc/hqdefault.jpg",
-      "published_at": "2026-05-13T00:15:11+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "dwY_s50Hw3g",
       "title": "죽은 기업도 살리는 '반도체 붐'",
       "source_url": "https://www.youtube.com/watch?v=dwY_s50Hw3g",
@@ -1331,25 +1345,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CQZ6MyHpFZs",
-      "title": "“이정도면 공포다” 서클이 완성한 스테이블코인 제국…이제 시장이 겁내는 진짜 이유 [디파이 농부 조선생 풀영상]",
-      "source_url": "https://www.youtube.com/watch?v=CQZ6MyHpFZs",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CQZ6MyHpFZs/hqdefault.jpg",
-      "published_at": "2026-05-12T08:00:12+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "dgCTXeegLIM",

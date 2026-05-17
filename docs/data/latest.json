@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T19:15:33.449259+00:00",
+  "generated_at": "2026-05-17T20:59:11.679699+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ymKNp8glmnM",
+      "title": "금리·유가 우려감에 기술주 랠리 멈췄다! 뉴욕증시 3대지수 하락_26.05.18 | 여도은, 박명석, 박현도, 성일광 교수  [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=ymKNp8glmnM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ymKNp8glmnM/hqdefault.jpg",
+      "published_at": "2026-05-17T20:21:52+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "augku0CAsSQ",
       "title": "지금 조정이 무서운 분들 주목! 이 숫자 보고 나서 결정해도 늦지 않습니다",
@@ -1019,25 +1048,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "JzpuCEs8FVM",
-      "title": "\"올 것이 왔다\" 삼성 vs 하이닉스 | 윤정식 상무 feat.빈센트 [더블 업]",
-      "source_url": "https://www.youtube.com/shorts/JzpuCEs8FVM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JzpuCEs8FVM/hqdefault.jpg",
-      "published_at": "2026-05-15T06:44:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

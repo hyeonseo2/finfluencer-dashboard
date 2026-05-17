@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T11:13:05.273420+00:00",
+  "generated_at": "2026-05-17T13:41:16.715440+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,8 +55,37 @@
   ],
   "videos": [
     {
+      "video_id": "jt0AHas-lfQ",
+      "title": "[슈카월드] 총파업 D-3 삼성전자 대타협은 가능할까 / 트럼프 중국 방문 결과는? / 스승 없는 스승의 날 / 대이변이 발생한 영국 지방선거 / 다가오는 금리 쇼크",
+      "source_url": "https://www.youtube.com/watch?v=jt0AHas-lfQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jt0AHas-lfQ/hqdefault.jpg",
+      "published_at": "2026-05-17T11:22:09+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "1nv6ZYwM17Y",
-      "title": "이란이 바짝 꼬리내린 이유. 북한 붕괴 초비상 걸렸다｜박원곤 교수 풀버전",
+      "title": "김정은의 극단적 선택. 북한 붕괴 초비상 걸렸다｜박원곤 교수 풀버전",
       "source_url": "https://www.youtube.com/watch?v=1nv6ZYwM17Y",
       "thumbnail_url": "https://i2.ytimg.com/vi/1nv6ZYwM17Y/hqdefault.jpg",
       "published_at": "2026-05-17T10:00:05+00:00",
@@ -232,7 +261,7 @@
     },
     {
       "video_id": "oCmmFKr8Qkk",
-      "title": "정말 많이 무섭게 오를 겁니다, '이 2개 주식' 돈 쓸어담는다 (김진 이사)",
+      "title": "앞으로 큰돈 벌 수 있는 주식 '딱 2개만' 알려드릴게요 (김진 이사)",
       "source_url": "https://www.youtube.com/watch?v=oCmmFKr8Qkk",
       "thumbnail_url": "https://i4.ytimg.com/vi/oCmmFKr8Qkk/hqdefault.jpg",
       "published_at": "2026-05-17T03:15:04+00:00",
@@ -351,17 +380,17 @@
     },
     {
       "video_id": "6Wp2Ni4q7nQ",
-      "title": "삼성전자 말고 '이 주식' 사라. 남몰래 조용히 떼돈 번다｜김정수 대표 2부",
+      "title": "포스코에 대한 충격 소문. 곧 상상못할 일 벌어진다｜김정수 대표 2부",
       "source_url": "https://www.youtube.com/watch?v=6Wp2Ni4q7nQ",
       "thumbnail_url": "https://i3.ytimg.com/vi/6Wp2Ni4q7nQ/hqdefault.jpg",
       "published_at": "2026-05-17T00:00:05+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1452,25 +1481,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "n7Z2vUJDgPU",
-      "title": "티라노사우루스의 비밀",
-      "source_url": "https://www.youtube.com/watch?v=n7Z2vUJDgPU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/n7Z2vUJDgPU/hqdefault.jpg",
-      "published_at": "2026-05-01T11:35:16+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T13:41:16.715440+00:00",
+  "generated_at": "2026-05-17T15:00:42.209405+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,33 +55,23 @@
   ],
   "videos": [
     {
-      "video_id": "jt0AHas-lfQ",
-      "title": "[슈카월드] 총파업 D-3 삼성전자 대타협은 가능할까 / 트럼프 중국 방문 결과는? / 스승 없는 스승의 날 / 대이변이 발생한 영국 지방선거 / 다가오는 금리 쇼크",
-      "source_url": "https://www.youtube.com/watch?v=jt0AHas-lfQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jt0AHas-lfQ/hqdefault.jpg",
-      "published_at": "2026-05-17T11:22:09+00:00",
-      "channel_name": "슈카월드",
+      "video_id": "augku0CAsSQ",
+      "title": "지금 조정이 무서운 분들 주목! 이 숫자 보고 나서 결정해도 늦지 않습니다",
+      "source_url": "https://www.youtube.com/watch?v=augku0CAsSQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/augku0CAsSQ/hqdefault.jpg",
+      "published_at": "2026-05-17T13:40:45+00:00",
+      "channel_name": "이효석아카데미",
       "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "1nv6ZYwM17Y",
@@ -1312,25 +1302,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "QC3WqtyiMDs",
-      "title": "AI 제국을 거의 다 완성한 구글의 밸류체인 #구글 #AI투자 #구글etf",
-      "source_url": "https://www.youtube.com/shorts/QC3WqtyiMDs",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QC3WqtyiMDs/hqdefault.jpg",
-      "published_at": "2026-05-13T11:00:14+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "dwY_s50Hw3g",
       "title": "죽은 기업도 살리는 '반도체 붐'",
       "source_url": "https://www.youtube.com/watch?v=dwY_s50Hw3g",
@@ -1481,6 +1452,25 @@
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "n7Z2vUJDgPU",
+      "title": "티라노사우루스의 비밀",
+      "source_url": "https://www.youtube.com/watch?v=n7Z2vUJDgPU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/n7Z2vUJDgPU/hqdefault.jpg",
+      "published_at": "2026-05-01T11:35:16+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

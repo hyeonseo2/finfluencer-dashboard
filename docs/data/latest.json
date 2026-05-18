@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T17:31:20.208362+00:00",
+  "generated_at": "2026-05-18T19:49:37.303885+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -134,17 +134,17 @@
     },
     {
       "video_id": "Zf6lrrh0sms",
-      "title": "강대국들이 한국 무서워하는 이유, 중국, 일본, 러시아 미칠 지경이다 (김진 앵커)",
+      "title": "강대국들이 한국 두려워하는 이유, 중국, 일본은 미칠 지경이다 (김진 앵커)",
       "source_url": "https://www.youtube.com/watch?v=Zf6lrrh0sms",
       "thumbnail_url": "https://i3.ytimg.com/vi/Zf6lrrh0sms/hqdefault.jpg",
       "published_at": "2026-05-18T11:15:08+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -201,17 +201,17 @@
     },
     {
       "video_id": "tlrlaczAwQw",
-      "title": "부자들은 모두 알고 있지만, 가난한 자는 죽어도 모르는 사실 (김진 앵커)",
+      "title": "미친듯이 돈을 찍어내고 있다, 무조건 사야 할 자산 1가지 (김진 앵커)",
       "source_url": "https://www.youtube.com/watch?v=tlrlaczAwQw",
       "thumbnail_url": "https://i1.ytimg.com/vi/tlrlaczAwQw/hqdefault.jpg",
       "published_at": "2026-05-18T10:30:35+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

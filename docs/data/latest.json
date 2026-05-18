@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-18T19:49:37.303885+00:00",
+  "generated_at": "2026-05-18T21:16:12.090769+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "6p271ejFxCg",
+      "title": "유가·금리 '부담' 속 뉴욕증시 소폭 하락...마이크론 -6% 마감_26.05.19 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=6p271ejFxCg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6p271ejFxCg/hqdefault.jpg",
+      "published_at": "2026-05-18T20:25:40+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "oJUlQGkr3BE",
       "title": "개미들 빚투 몰렸다… 상승장 뒤에 숨은 진짜 리스크ㅣ명민준, 강아랑, 차영주 [주린이 구조대]",
@@ -628,25 +657,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OP5CvCyWa0Q",
-      "title": "현대차 주가는 지금, 다른 걸 반영하고 있다 | 송선재 하나증권 리서치센터 팀장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=OP5CvCyWa0Q",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OP5CvCyWa0Q/hqdefault.jpg",
-      "published_at": "2026-05-18T02:12:10+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

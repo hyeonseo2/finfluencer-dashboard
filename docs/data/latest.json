@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-17T22:01:53.948421+00:00",
+  "generated_at": "2026-05-18T00:01:08.383065+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,15 +55,33 @@
   ],
   "videos": [
     {
-      "video_id": "ymKNp8glmnM",
-      "title": "금리·유가 우려감에 기술주 랠리 멈췄다! 뉴욕증시 3대지수 하락_26.05.18 | 여도은, 박명석, 박현도, 성일광 교수  [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=ymKNp8glmnM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ymKNp8glmnM/hqdefault.jpg",
-      "published_at": "2026-05-17T20:21:52+00:00",
+      "video_id": "oHmOwvanFGo",
+      "title": "“전쟁 가능성이 더 높다”… 중동 리스크 폭발 직전 | 박현도, 성일광 서강대 유로메나연구소 교수 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=oHmOwvanFGo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/oHmOwvanFGo/hqdefault.jpg",
+      "published_at": "2026-05-17T23:26:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NlHg7Kads8k",
+      "title": "뉴욕 증시, 금리 급등에 대거 매물 출회...엔비디아 실적 발표만 믿어야 하나 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=NlHg7Kads8k",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NlHg7Kads8k/hqdefault.jpg",
+      "published_at": "2026-05-17T22:15:01+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities",
         "interest_rate"
       ],
       "topic_stances": [
@@ -72,11 +90,26 @@
           "stance": "neutral"
         },
         {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
           "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ymKNp8glmnM",
+      "title": "[5월 18일 개장시황] 빈센트, 정프로, 이지은, 권택중, 편다송, 송선재 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=ymKNp8glmnM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ymKNp8glmnM/hqdefault.jpg",
+      "published_at": "2026-05-17T20:21:52+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -280,17 +313,17 @@
     },
     {
       "video_id": "oCmmFKr8Qkk",
-      "title": "앞으로 큰돈 벌 수 있는 주식 '딱 2개만' 알려드릴게요 (김진 이사)",
+      "title": "반도체 다음 돈벼락 터질 섹터, 지금 안 사면 결국 후회한다 (김진 이사)",
       "source_url": "https://www.youtube.com/watch?v=oCmmFKr8Qkk",
       "thumbnail_url": "https://i4.ytimg.com/vi/oCmmFKr8Qkk/hqdefault.jpg",
       "published_at": "2026-05-17T03:15:04+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1010,49 +1043,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "NltJTdKfgOw",
-      "title": "삼전닉스 급락에 불안한 개미들, 지금 봐야 할 건 조정보다 반도체의 구조적 성장ㅣ김장열 유니스토리자산운용 본부장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=NltJTdKfgOw",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NltJTdKfgOw/hqdefault.jpg",
-      "published_at": "2026-05-15T09:45:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "seQZkhItER0",
-      "title": "[5월 15일 마감시황] 팔천피 찍고 와르르…삼성전자·하이닉스만 보고 달려든 시장, 지금부터는 추격매수보다 대응이 먼저ㅣ홍선애, 이재규, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=seQZkhItER0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/seQZkhItER0/hqdefault.jpg",
-      "published_at": "2026-05-15T08:09:00+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "kKt6JX9D874",

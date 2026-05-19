@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T19:05:04.186393+00:00",
+  "generated_at": "2026-05-19T21:24:01.550073+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "4WgJaE7bEuQ",
+      "title": "높은 금리 부담 속 뉴욕증시 하락 마감...마이크론·인텔 '상승', 왜?_26.05.20 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=4WgJaE7bEuQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4WgJaE7bEuQ/hqdefault.jpg",
+      "published_at": "2026-05-19T20:32:06+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "jMze4x6rI3g",
       "title": "시장은 아직 흔들리지만 차트는 반등을 말한다? 조정 마무리 가능성과 대응 전략ㅣ명민준, 강아랑, 이지환 [주린이 구조대]",
@@ -655,35 +684,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6p271ejFxCg",
-      "title": "[26.05.19 오전 방송 전체보기] 유가·금리 '부담' 속 뉴욕증시 소폭 하락...마이크론 -6% 마감",
-      "source_url": "https://www.youtube.com/watch?v=6p271ejFxCg",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6p271ejFxCg/hqdefault.jpg",
-      "published_at": "2026-05-19T03:15:47+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

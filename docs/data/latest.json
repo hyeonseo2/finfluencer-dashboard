@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T21:24:01.550073+00:00",
+  "generated_at": "2026-05-19T23:08:06.093639+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,16 +57,58 @@
   ],
   "videos": [
     {
+      "video_id": "0NF_GnW5oco",
+      "title": "고금리, 고유가 속 시장의 불안...혹시 도망쳐야 하나요? | 김효진 신영증권 박사 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=0NF_GnW5oco",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0NF_GnW5oco/hqdefault.jpg",
+      "published_at": "2026-05-19T22:54:16+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "eS0la03Iv0A",
+      "title": "엔비디아 실적 발표 앞둔 숨 고르기…반도체의 운명은? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=eS0la03Iv0A",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eS0la03Iv0A/hqdefault.jpg",
+      "published_at": "2026-05-19T22:11:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "4WgJaE7bEuQ",
-      "title": "높은 금리 부담 속 뉴욕증시 하락 마감...마이크론·인텔 '상승', 왜?_26.05.20 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "title": "이란 전쟁은 피했지만 물가는 못피했다…복잡해지는 글로벌 증시 속 해법은? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=4WgJaE7bEuQ",
       "thumbnail_url": "https://i1.ytimg.com/vi/4WgJaE7bEuQ/hqdefault.jpg",
       "published_at": "2026-05-19T20:32:06+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities",
-        "interest_rate"
+        "commodities"
       ],
       "topic_stances": [
         {
@@ -75,10 +117,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
@@ -468,7 +506,7 @@
     },
     {
       "video_id": "DCsugwnM4kQ",
-      "title": "\"개발 완료됐다\" 국산엔진 수준 상상초월 한국 중심으로 판이 바뀐다 | 김민석 특파원 풀버전 2",
+      "title": "\"조립 다 됐다\" 국산엔진 상상초월 수준 조만간 수십조 원 쓸어 담는다 | 김민석 특파원 풀버전 2",
       "source_url": "https://www.youtube.com/watch?v=DCsugwnM4kQ",
       "thumbnail_url": "https://i1.ytimg.com/vi/DCsugwnM4kQ/hqdefault.jpg",
       "published_at": "2026-05-19T08:00:23+00:00",
@@ -624,35 +662,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "1vtdHRugRHc",
-      "title": "주식 팔아 사채 갚고 비트코인 산다. 금리 인상 공포에도 계속되는 MSTR의 매집 | 서동주, 김동환 김제이 블록미디어 편집장 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=1vtdHRugRHc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1vtdHRugRHc/hqdefault.jpg",
-      "published_at": "2026-05-19T04:10:16+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "crypto",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "Lk5xOpzOtT0",
       "title": "[속보효] 본격적인 조정의 신호탄? 변동성 커진 코스피 여기가 진짜 분기점입니다",
       "source_url": "https://www.youtube.com/watch?v=Lk5xOpzOtT0",
@@ -670,25 +679,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "RJHQTR12GYo",
-      "title": "이번주 엔비디아 실적을 긍정적으로 보는 이유! _26.05.19. | 정우창, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=RJHQTR12GYo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RJHQTR12GYo/hqdefault.jpg",
-      "published_at": "2026-05-19T03:19:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "i-8ociNpAGs",

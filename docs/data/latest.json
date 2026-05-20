@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T08:28:38.242355+00:00",
+  "generated_at": "2026-05-20T11:50:48.278746+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,16 +56,302 @@
   ],
   "videos": [
     {
+      "video_id": "PLFzeCMXzFg",
+      "title": "HD현대마린솔루션 결국 50만원까지 간다 | 김규동 이사 #원픽리포트",
+      "source_url": "https://www.youtube.com/watch?v=PLFzeCMXzFg",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PLFzeCMXzFg/hqdefault.jpg",
+      "published_at": "2026-05-20T11:30:12+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "LRAnys9J6cE",
+      "title": "[26.05.20 오후 방송 전체보기] 삼성전자 총파업, 긴급조정권 변수 부상…국내증시의 내일은? [클로징벨 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=LRAnys9J6cE",
+      "thumbnail_url": "https://i1.ytimg.com/vi/LRAnys9J6cE/hqdefault.jpg",
+      "published_at": "2026-05-20T11:03:14+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "OdrWUq2xcic",
+      "title": "삼성전자, SK하이닉스 고점 징조, '이때' 안 팔면 땅치고 후회한다 (효라클 작가 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=OdrWUq2xcic",
+      "thumbnail_url": "https://i4.ytimg.com/vi/OdrWUq2xcic/hqdefault.jpg",
+      "published_at": "2026-05-20T11:00:37+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "OB5HuJbGcoM",
+      "title": "희망회로 돌릴 때 아니다...수익 못 내는 종목은 결단해야 합니다ㅣ차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
+      "source_url": "https://www.youtube.com/watch?v=OB5HuJbGcoM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/OB5HuJbGcoM/hqdefault.jpg",
+      "published_at": "2026-05-20T11:00:27+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "M9p4VPTzurg",
+      "title": "“또 다시 불바다” 미군 휴전 깨고 기습작전 초토화 된 이란 현재 상황  | 조의준 대표 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=M9p4VPTzurg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/M9p4VPTzurg/hqdefault.jpg",
+      "published_at": "2026-05-20T10:30:06+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Ax3liAT7tOc",
+      "title": "\"연 400% 수익\" 이 ETF 반드시 사 모으세요. 앞으로 3년간 돈이 몰립니다 | 이소영 기자 1부",
+      "source_url": "https://www.youtube.com/watch?v=Ax3liAT7tOc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Ax3liAT7tOc/hqdefault.jpg",
+      "published_at": "2026-05-20T10:30:04+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "sel-s4AP0kU",
+      "title": "2026년 하반기 이 ETF 주목하세요 #김정란",
+      "source_url": "https://www.youtube.com/shorts/sel-s4AP0kU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/sel-s4AP0kU/hqdefault.jpg",
+      "published_at": "2026-05-20T10:20:25+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "rrRpj_KLiMQ",
+      "title": "한국 출격에 급 태세전환. 이란 내부 초비상 걸렸다｜김민석 특파원 1부",
+      "source_url": "https://www.youtube.com/watch?v=rrRpj_KLiMQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rrRpj_KLiMQ/hqdefault.jpg",
+      "published_at": "2026-05-20T09:30:24+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "C-Wz8-IAFT0",
+      "title": "\"이 2가지 반드시 담아라\" 8천피 찍고 조정 시작됐다. 현금 쟁였다가 이때 쓸어담으세요 | 김정란 대표 15분 요약 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=C-Wz8-IAFT0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/C-Wz8-IAFT0/hqdefault.jpg",
+      "published_at": "2026-05-20T09:30:10+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KHLSwzlaW54",
+      "title": "\"아침에 사면 물려요\" 약세장 진입한 한국 증시, 고금리 씹어 먹을 '진짜 주도주' 구별법ㅣ홍선애, 박병창 MP파트너스 대표 [여의도 인사이트]",
+      "source_url": "https://www.youtube.com/watch?v=KHLSwzlaW54",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KHLSwzlaW54/hqdefault.jpg",
+      "published_at": "2026-05-20T09:12:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Rpu7KjTTHAM",
+      "title": "[LIVE] 삼성전자 파업 어떻게 되는 걸까?",
+      "source_url": "https://www.youtube.com/watch?v=Rpu7KjTTHAM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Rpu7KjTTHAM/hqdefault.jpg",
+      "published_at": "2026-05-20T09:00:58+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NHoV3giM_eI",
+      "title": "외국인 매도는 착시일 뿐, 더 담고 있다고?| 백인재 하나증권 영업부금융센터 부센터장 [더블 크루]",
+      "source_url": "https://www.youtube.com/shorts/NHoV3giM_eI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NHoV3giM_eI/hqdefault.jpg",
+      "published_at": "2026-05-20T08:41:50+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "YMRMvXPp0Dk",
+      "title": "“이런 나라는 처음 본다” 탈북녀가 한국 오자마자 입이 떡 벌어진 이유 | 한송이 2부",
+      "source_url": "https://www.youtube.com/watch?v=YMRMvXPp0Dk",
+      "thumbnail_url": "https://i2.ytimg.com/vi/YMRMvXPp0Dk/hqdefault.jpg",
+      "published_at": "2026-05-20T08:30:25+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "gybWhEMDPio",
+      "title": "\"역사상 처음 보는 신호\" 곧 부동산 쑥대밭 된다. 상상 못할 집값 올 겁니다 | 박원갑 박사 4부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=gybWhEMDPio",
+      "thumbnail_url": "https://i4.ytimg.com/vi/gybWhEMDPio/hqdefault.jpg",
+      "published_at": "2026-05-20T08:30:13+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "hnFC4cgD_ZE",
-      "title": "[5월 20일 마감시황] 전 종목 흔들렸다...지금은 작은 종목 보다 대형주를 봐야 합니다ㅣ홍선애, 이권희, 이재규 [클로징벨 라이브]",
+      "title": "[5월 20일 마감시황] 삼성전자가 뒤흔든 하루...외국인 매도 사실은 ‘이 신호’ 였다?ㅣ홍선애, 이권희, 이재규 [클로징벨 라이브]",
       "source_url": "https://www.youtube.com/watch?v=hnFC4cgD_ZE",
       "thumbnail_url": "https://i1.ytimg.com/vi/hnFC4cgD_ZE/hqdefault.jpg",
       "published_at": "2026-05-20T08:12:56+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
+        "stocks",
         "commodities"
       ],
       "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -130,25 +416,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "LRAnys9J6cE",
-      "title": "차영주의 주(株)스토리ㅣ차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=LRAnys9J6cE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LRAnys9J6cE/hqdefault.jpg",
-      "published_at": "2026-05-20T05:20:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "9cqwXKfLBko",
@@ -290,68 +557,6 @@
       "source_url": "https://www.youtube.com/watch?v=tSEteDHE1tw",
       "thumbnail_url": "https://i1.ytimg.com/vi/tSEteDHE1tw/hqdefault.jpg",
       "published_at": "2026-05-20T02:26:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "EZPi9IKGpHk",
-      "title": "하반기 더 흔들린다? 지금 체크해야 할 변수는 | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=EZPi9IKGpHk",
-      "thumbnail_url": "https://i2.ytimg.com/vi/EZPi9IKGpHk/hqdefault.jpg",
-      "published_at": "2026-05-20T01:11:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VtQmT68-6Ms",
-      "title": "“지금은 종목 늘리면 안 됩니다”...이제는 집중의 시간 | 박병창 MP파트너스 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=VtQmT68-6Ms",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VtQmT68-6Ms/hqdefault.jpg",
-      "published_at": "2026-05-20T00:15:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "lDv36qbgvHM",
-      "title": "쟁점 하나 남은 삼성전자 노사, 오늘 오전 10시 최종 담판 | 권순우 삼프로TV 취재팀장 [뉴스3]",
-      "source_url": "https://www.youtube.com/watch?v=lDv36qbgvHM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lDv36qbgvHM/hqdefault.jpg",
-      "published_at": "2026-05-19T23:38:14+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
@@ -761,25 +966,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "arxqbIJIAYU",
-      "title": "파미셀 결국 10만원 갈 수밖에 없는 이유 | 김규동 이사 #원픽리포트",
-      "source_url": "https://www.youtube.com/watch?v=arxqbIJIAYU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/arxqbIJIAYU/hqdefault.jpg",
-      "published_at": "2026-05-18T11:29:34+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "Zf6lrrh0sms",
       "title": "강대국들이 한국 두려워하는 이유, 중국, 일본은 미칠 지경이다 (김진 앵커)",
       "source_url": "https://www.youtube.com/watch?v=Zf6lrrh0sms",
@@ -837,63 +1023,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "1Jgfgh7RLR0",
-      "title": "\"총 수익률 400%\" 매달 50만 원씩 이 ETF 사라. 1억에서 8억까지 무섭게 오른다 | 홍순빈 기자 풀버전 #김경필 #돈쭐남",
-      "source_url": "https://www.youtube.com/watch?v=1Jgfgh7RLR0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1Jgfgh7RLR0/hqdefault.jpg",
-      "published_at": "2026-05-18T10:30:00+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "i6ivD8XAu1Y",
-      "title": "\"압도적 군사력 차이\" 청해부대 이란에 파견하면 벌어질 무시무시한 일 | 김민석 특파원 풀버전 1",
-      "source_url": "https://www.youtube.com/watch?v=i6ivD8XAu1Y",
-      "thumbnail_url": "https://i2.ytimg.com/vi/i6ivD8XAu1Y/hqdefault.jpg",
-      "published_at": "2026-05-18T10:01:05+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "YEc-bGYM_KM",
-      "title": "강남 집주인은 싹 다 현금없는 반백수 노인, 집값 강남부터 초토화 될 겁니다 | 박원갑 박사 2부 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=YEc-bGYM_KM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/YEc-bGYM_KM/hqdefault.jpg",
-      "published_at": "2026-05-18T09:30:27+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "WzAAT7JdU9A",
       "title": "부자가 지금 '은'만 죽어라 사는 이유, 가진 금, 은 싹다 '이렇게' 하세요 (금남일 대표)",
       "source_url": "https://www.youtube.com/watch?v=WzAAT7JdU9A",
@@ -913,25 +1042,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Cl2vTnmYAYY",
-      "title": "\"주한미군 뺄 테면 빼라!\" 철수하면 하루만에 벌어질 일｜김종대 교수 2부",
-      "source_url": "https://www.youtube.com/watch?v=Cl2vTnmYAYY",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Cl2vTnmYAYY/hqdefault.jpg",
-      "published_at": "2026-05-18T09:00:23+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "3HFp_XpwNrY",
       "title": "대부분이 모르고 계십니다. 금리가 오르면 주가는 '무조건' 하락한다?",
       "source_url": "https://www.youtube.com/watch?v=3HFp_XpwNrY",
@@ -949,63 +1059,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "naI9r0r6SCo",
-      "title": "“정부의 새빨간 거짓말” 99%가 언론에 속고 있습니다. 부동산 시장 곧 상상도 못할 일 터집니다 | 김영록 대표 1부",
-      "source_url": "https://www.youtube.com/watch?v=naI9r0r6SCo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/naI9r0r6SCo/hqdefault.jpg",
-      "published_at": "2026-05-18T08:30:33+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5cZvQGRJA3I",
-      "title": "\"두 눈을 의심했죠\" 한국 와서 이걸 보고100년 후인줄 알았어요 | 한송이 1부",
-      "source_url": "https://www.youtube.com/watch?v=5cZvQGRJA3I",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5cZvQGRJA3I/hqdefault.jpg",
-      "published_at": "2026-05-18T08:00:10+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "mzm9eSaU-gc",
-      "title": "\"과거 영광 제발 버려라\" 앞으로 10년 한국 아파트의 충격적 변화가 옵니다 | 박원갑 박사 1부 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=mzm9eSaU-gc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/mzm9eSaU-gc/hqdefault.jpg",
-      "published_at": "2026-05-18T07:00:45+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "augku0CAsSQ",
@@ -1251,25 +1304,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "dpn3pS9uwU8",
-      "title": "역대급 혜택이라는 국민성장펀드. 해도 되는지 딱 정해드립니다. [주식주부 리나]",
-      "source_url": "https://www.youtube.com/watch?v=dpn3pS9uwU8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dpn3pS9uwU8/hqdefault.jpg",
-      "published_at": "2026-05-15T10:00:39+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "G7Q0AmxVB_4",
       "title": "한국 주식 대부분 싹다 팔았어요, 하락장 오기 전 마지막 경고입니다 (윤타 대표)",
       "source_url": "https://www.youtube.com/watch?v=G7Q0AmxVB_4",
@@ -1282,25 +1316,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "kKt6JX9D874",
-      "title": "금값, 은값 떨어진 진짜 이유, 단기 조정 끝, 곧 무섭게 폭등한다 (금남일 대표)",
-      "source_url": "https://www.youtube.com/watch?v=kKt6JX9D874",
-      "thumbnail_url": "https://i4.ytimg.com/vi/kKt6JX9D874/hqdefault.jpg",
-      "published_at": "2026-05-15T06:00:24+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

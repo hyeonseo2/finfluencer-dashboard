@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T18:22:21.771989+00:00",
+  "generated_at": "2026-05-20T21:00:35.054282+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Ln0W_6wpQc8",
+      "title": "엔비디아 실적 발표! 종전 기대감에 뉴욕증시 상승 마감_26.05.21 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=Ln0W_6wpQc8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/Ln0W_6wpQc8/hqdefault.jpg",
+      "published_at": "2026-05-20T20:25:57+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "10Y6V_vBmCE",
       "title": "엔비디아 실적에 달린 반도체 미래. 과연 어떻게 될까? [Z1뉴스]",
@@ -611,30 +635,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "oLKVa6xbPCM",
-      "title": "주도주는 결국 반도체! 삼성전자 파업…주가와 별개로 봐야한다?!_26.05.20. | 노영래, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=oLKVa6xbPCM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/oLKVa6xbPCM/hqdefault.jpg",
-      "published_at": "2026-05-20T02:49:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

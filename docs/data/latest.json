@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T21:39:31.135724+00:00",
+  "generated_at": "2026-05-21T23:06:04.412260+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,28 +55,37 @@
   ],
   "videos": [
     {
+      "video_id": "EOUjeAko-B0",
+      "title": "엔비디아 호실적, AI H/W 대거 랠리…트럼프 ”아들 결혼식보다 이란“ [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=EOUjeAko-B0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EOUjeAko-B0/hqdefault.jpg",
+      "published_at": "2026-05-21T22:15:21+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "qesBL-s2ESU",
-      "title": "종전, 이번엔 정말?! 유가•금리 하락 속 뉴욕증시 상승 마감_26.05.22 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "불확실성 걷어내고 회복했던 국내증시, 이번주 마지막 거래일의 시나리오는? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=qesBL-s2ESU",
       "thumbnail_url": "https://i2.ytimg.com/vi/qesBL-s2ESU/hqdefault.jpg",
       "published_at": "2026-05-21T20:23:54+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
@@ -458,35 +467,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "dWH6n4hhrk4",
-      "title": "삼성전자, SK하이닉스 레버리지 ETF 출시 임박...이렇게 투자하면 망합니다_26.05.21. | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=dWH6n4hhrk4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dWH6n4hhrk4/hqdefault.jpg",
-      "published_at": "2026-05-21T03:03:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
           "stance": "neutral"
         }
       ],

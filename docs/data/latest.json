@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-21T19:00:35.251764+00:00",
+  "generated_at": "2026-05-21T21:39:31.135724+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "qesBL-s2ESU",
+      "title": "종전, 이번엔 정말?! 유가•금리 하락 속 뉴욕증시 상승 마감_26.05.22 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=qesBL-s2ESU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/qesBL-s2ESU/hqdefault.jpg",
+      "published_at": "2026-05-21T20:23:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "XSTdeCkj_HU",
       "title": "\"단순 타결이 아닙니다\" 삼전 합의안이 불러올 역대급 나비효과 시나리오ㅣ정프로, 명민준, 박가영, 정태근 [주린이 구조대]",
@@ -458,25 +487,6 @@
         },
         {
           "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "HH96i-SWuuw",
-      "title": "\"AI시대 완전히 다른 국면\", 토큰 결제가 좌지우지할 것 | 고태훈 에셋플러스자산운용 본부장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=HH96i-SWuuw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/HH96i-SWuuw/hqdefault.jpg",
-      "published_at": "2026-05-21T01:34:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

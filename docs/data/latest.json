@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T11:16:41.371925+00:00",
+  "generated_at": "2026-05-23T15:04:59.290396+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
   ],
   "videos": [
     {
+      "video_id": "0WUPWKa4TYw",
+      "title": "삼성전자, SK하이닉스 역대급 이변 터진다, 지금 무조건 사 모아야 할 진짜 이유 (이영훈 이사)",
+      "source_url": "https://www.youtube.com/watch?v=0WUPWKa4TYw",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0WUPWKa4TYw/hqdefault.jpg",
+      "published_at": "2026-05-23T12:30:01+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "QHG7nZB8Obw",
       "title": "이란 전쟁보다 끔찍한 게 터진다, 곧 아시아가 발칵 뒤집힌다 (지구본 연구소 최준영 박사 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=QHG7nZB8Obw",
@@ -76,7 +100,7 @@
     },
     {
       "video_id": "L4KsCP-FawE",
-      "title": "43년 만에 금값 대폭락. 곧 상상도 못할 일 터진다 | 금남일 대표 풀버전",
+      "title": "\"금값 일주일도 안 남았다\" 월가에 싹다 퍼진 충격 소문 | 금남일 대표 풀버전",
       "source_url": "https://www.youtube.com/watch?v=L4KsCP-FawE",
       "thumbnail_url": "https://i1.ytimg.com/vi/L4KsCP-FawE/hqdefault.jpg",
       "published_at": "2026-05-23T10:00:20+00:00",
@@ -1258,25 +1282,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "tlrlaczAwQw",
-      "title": "미친듯이 돈을 찍어내고 있다, 무조건 사야 할 자산 1가지 (김진 앵커)",
-      "source_url": "https://www.youtube.com/watch?v=tlrlaczAwQw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tlrlaczAwQw/hqdefault.jpg",
-      "published_at": "2026-05-18T10:30:35+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

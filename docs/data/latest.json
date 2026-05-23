@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T17:05:49.876144+00:00",
+  "generated_at": "2026-05-23T19:17:59.652320+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -138,7 +138,7 @@
     },
     {
       "video_id": "sopWz_aPDpE",
-      "title": "양자컴 시대가 곧 다가오면, 이 주식들만 뜰 겁니다ㅣ정지훈 박사 [풀영상]",
+      "title": "양자컴퓨터 시대가 곧 다가오게 되면, \"이 주식들만\" 뜰 겁니다ㅣ정지훈 박사 [풀영상]",
       "source_url": "https://www.youtube.com/watch?v=sopWz_aPDpE",
       "thumbnail_url": "https://i4.ytimg.com/vi/sopWz_aPDpE/hqdefault.jpg",
       "published_at": "2026-05-23T08:00:17+00:00",
@@ -471,17 +471,22 @@
     },
     {
       "video_id": "buZE7PMQdFg",
-      "title": "미중 정상회담에서 어떤 이야기가 오갔을까? [Z1뉴스]",
+      "title": "미중 갈등이 심해질수록 AI 주식은 폭등합니다, 전쟁 직전까지 간 미중 회담이 오히려 투자자한테 호재인 진짜 이유 [Z1뉴스]",
       "source_url": "https://www.youtube.com/watch?v=buZE7PMQdFg",
       "thumbnail_url": "https://i3.ytimg.com/vi/buZE7PMQdFg/hqdefault.jpg",
       "published_at": "2026-05-22T09:00:18+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "macro"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

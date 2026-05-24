@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T10:43:52.534831+00:00",
+  "generated_at": "2026-05-24T12:02:40.121281+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
   ],
   "videos": [
     {
+      "video_id": "fIuoyKl6MdI",
+      "title": "[슈카월드] 삼성전자 전격 노사 합의, 그래서 얼마 나와요? / 화제의 국민성장펀드 / 노조가 없는 사회주의 국가 / 역사상 가장 뜨거운 해가 온다. / 모두가 착해지는 세상?",
+      "source_url": "https://www.youtube.com/watch?v=fIuoyKl6MdI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/fIuoyKl6MdI/hqdefault.jpg",
+      "published_at": "2026-05-24T11:22:11+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "bmPmYTS8ZGM",
       "title": "산산조각 난 오커스 동맹. 초대박 난 한국 핵잠수함 상황 | 김민석 특파원 4부",
       "source_url": "https://www.youtube.com/watch?v=bmPmYTS8ZGM",
@@ -75,7 +94,7 @@
     },
     {
       "video_id": "SsWO39BCD7U",
-      "title": "서울 아파트 전세 씨가 말랐다, 무주택자 가능한 빨리 집 사세요 (부동산 전문가 아기곰)",
+      "title": "노원구, 도봉구, 강북구 다음 '이 지역' 폭등한다, 곧 서울 집값 완전히 뒤집힌다 (부동산 전문가 아기곰)",
       "source_url": "https://www.youtube.com/watch?v=SsWO39BCD7U",
       "thumbnail_url": "https://i4.ytimg.com/vi/SsWO39BCD7U/hqdefault.jpg",
       "published_at": "2026-05-24T10:00:24+00:00",
@@ -476,25 +495,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "_ajPPr3dj8Q",
-      "title": "이효석아카데미 라이브 방송",
-      "source_url": "https://www.youtube.com/watch?v=_ajPPr3dj8Q",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_ajPPr3dj8Q/hqdefault.jpg",
-      "published_at": "2026-05-22T22:38:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "aD_K49LwobI",
@@ -1335,6 +1335,25 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
+      "video_id": "3HFp_XpwNrY",
+      "title": "대부분이 모르고 계십니다. 금리가 오르면 주가는 '무조건' 하락한다?",
+      "source_url": "https://www.youtube.com/watch?v=3HFp_XpwNrY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3HFp_XpwNrY/hqdefault.jpg",
+      "published_at": "2026-05-18T09:00:09+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "iV1IOGlFHiw",
       "title": "미국 주식 사면 관세 내야되나요?",
       "source_url": "https://www.youtube.com/watch?v=iV1IOGlFHiw",
@@ -1447,25 +1466,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "NuPa3gcdn1c",
-      "title": "트럼프 \"관세 환급 신청하지 않으면 내 편\"",
-      "source_url": "https://www.youtube.com/watch?v=NuPa3gcdn1c",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NuPa3gcdn1c/hqdefault.jpg",
-      "published_at": "2026-05-08T13:27:23+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
           "stance": "neutral"
         }
       ],

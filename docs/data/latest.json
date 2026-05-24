@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T08:35:44.316517+00:00",
+  "generated_at": "2026-05-24T10:43:52.534831+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "bmPmYTS8ZGM",
+      "title": "산산조각 난 오커스 동맹. 초대박 난 한국 핵잠수함 상황 | 김민석 특파원 4부",
+      "source_url": "https://www.youtube.com/watch?v=bmPmYTS8ZGM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/bmPmYTS8ZGM/hqdefault.jpg",
+      "published_at": "2026-05-24T10:00:34+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "SsWO39BCD7U",
+      "title": "서울 아파트 전세 씨가 말랐다, 무주택자 가능한 빨리 집 사세요 (부동산 전문가 아기곰)",
+      "source_url": "https://www.youtube.com/watch?v=SsWO39BCD7U",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SsWO39BCD7U/hqdefault.jpg",
+      "published_at": "2026-05-24T10:00:24+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "mACCnSlOW0s",
       "title": "\"직접 타봤습니다\" 북한 잠수함 싹다 거짓말. 전쟁 나면 평양 쑥대밭 된다｜채설향 탈북 잠수함부대원 풀버전",
@@ -645,25 +683,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "_AgNrgVd0OU",
-      "title": "한국 전차 개무시하던 대만. 미국 믿다 초비상 걸린 이유｜김종대 교수 4부",
-      "source_url": "https://www.youtube.com/watch?v=_AgNrgVd0OU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_AgNrgVd0OU/hqdefault.jpg",
-      "published_at": "2026-05-22T08:30:21+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "I9dRaNpbkGs",
       "title": "[5월 22일 마감시황] 코스피만 달린 장이 아니었다...국민성장펀드 완판 이후 코스닥까지 불붙은 이유ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
       "source_url": "https://www.youtube.com/watch?v=I9dRaNpbkGs",
@@ -1124,25 +1143,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "EhIlcJD5J8Y",
-      "title": "반도체 정말 무섭게 오를 겁니다, 삼성전자 말고 '이 주식' 사세요 (김진 이사)",
-      "source_url": "https://www.youtube.com/watch?v=EhIlcJD5J8Y",
-      "thumbnail_url": "https://i2.ytimg.com/vi/EhIlcJD5J8Y/hqdefault.jpg",
-      "published_at": "2026-05-19T10:00:15+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "7mcWGBlapEE",

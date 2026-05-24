@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T14:26:13.244633+00:00",
+  "generated_at": "2026-05-24T16:04:22.142052+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,25 +55,6 @@
   ],
   "videos": [
     {
-      "video_id": "fIuoyKl6MdI",
-      "title": "[슈카월드] 삼성전자 전격 노사 합의, 그래서 얼마 나와요? / 화제의 국민성장펀드 / 노조가 없는 사회주의 국가 / 역사상 가장 뜨거운 해가 온다. / 모두가 착해지는 세상?",
-      "source_url": "https://www.youtube.com/watch?v=fIuoyKl6MdI",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fIuoyKl6MdI/hqdefault.jpg",
-      "published_at": "2026-05-24T11:22:11+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "bmPmYTS8ZGM",
       "title": "산산조각 난 오커스 동맹. 초대박 난 한국 핵잠수함 상황 | 김민석 특파원 4부",
       "source_url": "https://www.youtube.com/watch?v=bmPmYTS8ZGM",
@@ -113,7 +94,7 @@
     },
     {
       "video_id": "mACCnSlOW0s",
-      "title": "\"직접 타봤습니다\" 북한 잠수함 싹다 거짓말. 전쟁 나면 평양 쑥대밭 된다｜채설향 탈북 잠수함부대원 풀버전",
+      "title": "장마당 내부에 싹다 퍼졌다. 한국에 대한 무시무시한 소문｜채설향 탈북 잠수함부대원 풀버전",
       "source_url": "https://www.youtube.com/watch?v=mACCnSlOW0s",
       "thumbnail_url": "https://i2.ytimg.com/vi/mACCnSlOW0s/hqdefault.jpg",
       "published_at": "2026-05-24T08:00:39+00:00",
@@ -1466,6 +1447,25 @@
       "topic_stances": [
         {
           "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NuPa3gcdn1c",
+      "title": "트럼프 \"관세 환급 신청하지 않으면 내 편\"",
+      "source_url": "https://www.youtube.com/watch?v=NuPa3gcdn1c",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NuPa3gcdn1c/hqdefault.jpg",
+      "published_at": "2026-05-08T13:27:23+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
           "stance": "neutral"
         }
       ],

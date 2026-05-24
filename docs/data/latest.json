@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T00:01:00.863276+00:00",
+  "generated_at": "2026-05-24T05:04:00.746483+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,7 +46,6 @@
   ],
   "topics": [
     "commodities",
-    "crypto",
     "etf",
     "interest_rate",
     "macro",
@@ -55,6 +54,82 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "TASsmK3mQAw",
+      "title": "\"저도 직접 봤어요\" 요즘 평양 장마당에 싹다 퍼졌다 한국의 이것에 완전히 중독됐다 | 한송이 3부",
+      "source_url": "https://www.youtube.com/watch?v=TASsmK3mQAw",
+      "thumbnail_url": "https://i1.ytimg.com/vi/TASsmK3mQAw/hqdefault.jpg",
+      "published_at": "2026-05-24T03:00:11+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "14l8gSoOUc4",
+      "title": "\"AI 시대 최대 리스크 등장\" 조심하셔야 합니다 | 윤지호 경제평론가 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=14l8gSoOUc4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/14l8gSoOUc4/hqdefault.jpg",
+      "published_at": "2026-05-24T02:00:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "OmN9bbs24BI",
+      "title": "스페이스X, 테슬라 합병 평생 다시 안 올 기회 왔다 | 정주용 의장 2부",
+      "source_url": "https://www.youtube.com/watch?v=OmN9bbs24BI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/OmN9bbs24BI/hqdefault.jpg",
+      "published_at": "2026-05-24T00:00:21+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "BpJin6l-G7k",
+      "title": "엔비디아 GPU가격이  2배로 올랐는데도 더 미친듯이 팔리는 이유",
+      "source_url": "https://www.youtube.com/watch?v=BpJin6l-G7k",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BpJin6l-G7k/hqdefault.jpg",
+      "published_at": "2026-05-24T00:00:13+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "u1149WZIShI",
       "title": "\"지금 반도체만 보면 놓친다\" 외국인들이 향한 곳 | 박명석 큐레이터 [주말인터뷰]",
@@ -271,7 +346,7 @@
     },
     {
       "video_id": "1MHkxswoxZc",
-      "title": "유치원생도 10분안에 이해하는 주식 차트의 양봉과 음봉 기초",
+      "title": "주식 캔들차트 10분안에 완전 정복하기",
       "source_url": "https://www.youtube.com/watch?v=1MHkxswoxZc",
       "thumbnail_url": "https://i2.ytimg.com/vi/1MHkxswoxZc/hqdefault.jpg",
       "published_at": "2026-05-23T00:00:19+00:00",
@@ -651,30 +726,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "1qhRTVNB-5s",
-      "title": "비트코인 전략자산 비축, 남은 건 의회 승인뿐! 트럼프가 원하는대로 흘러갈까? | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=1qhRTVNB-5s",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1qhRTVNB-5s/hqdefault.jpg",
-      "published_at": "2026-05-22T04:44:23+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "VHusaK5Uj4M",
       "title": "삼성전자·SK하이닉스, 지금 ‘꽉’ 잡아야 하는 한 가지 변화",
       "source_url": "https://www.youtube.com/watch?v=VHusaK5Uj4M",
@@ -718,25 +769,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "bae4-6hmyIY",
-      "title": "한국 주식 대폭락 신호 포착. 곧 무시무시한 일 벌어진다 | 김민수 대표 1부",
-      "source_url": "https://www.youtube.com/watch?v=bae4-6hmyIY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/bae4-6hmyIY/hqdefault.jpg",
-      "published_at": "2026-05-21T10:30:01+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "TT8gw34Ohrc",
       "title": "반도체 다음 텐배거 터질 '이 주식', 무서운 상승의 초입이 시작됐다 (빈센트 위원)",
       "source_url": "https://www.youtube.com/watch?v=TT8gw34Ohrc",
@@ -754,25 +786,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "vBIIhAmfp8c",
-      "title": "한국의 역대급 희토류 확보 발칵 뒤집힌 중국 초비상 상태 | 강준영 교수 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=vBIIhAmfp8c",
-      "thumbnail_url": "https://i3.ytimg.com/vi/vBIIhAmfp8c/hqdefault.jpg",
-      "published_at": "2026-05-21T09:30:34+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "sZbpMZ38FIM",
@@ -1320,25 +1333,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "3HFp_XpwNrY",
-      "title": "대부분이 모르고 계십니다. 금리가 오르면 주가는 '무조건' 하락한다?",
-      "source_url": "https://www.youtube.com/watch?v=3HFp_XpwNrY",
-      "thumbnail_url": "https://i4.ytimg.com/vi/3HFp_XpwNrY/hqdefault.jpg",
-      "published_at": "2026-05-18T09:00:09+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "iV1IOGlFHiw",

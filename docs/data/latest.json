@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-23T22:01:44.730373+00:00",
+  "generated_at": "2026-05-24T00:01:00.863276+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "u1149WZIShI",
+      "title": "\"지금 반도체만 보면 놓친다\" 외국인들이 향한 곳 | 박명석 큐레이터 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=u1149WZIShI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/u1149WZIShI/hqdefault.jpg",
+      "published_at": "2026-05-23T23:00:45+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "0WUPWKa4TYw",
       "title": "삼성전자, SK하이닉스 역대급 이변 터진다, 지금 무조건 사 모아야 할 진짜 이유 (이영훈 이사)",
@@ -649,35 +668,6 @@
         },
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qesBL-s2ESU",
-      "title": "[26.05.22 오전 방송 전체보기] 종전, 이번엔 정말?!유가•금리 하락 속뉴욕증시 상승 마감",
-      "source_url": "https://www.youtube.com/watch?v=qesBL-s2ESU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qesBL-s2ESU/hqdefault.jpg",
-      "published_at": "2026-05-22T03:21:35+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

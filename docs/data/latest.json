@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-25T19:48:11.311548+00:00",
+  "generated_at": "2026-05-25T21:15:03.049031+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "09M-PzvE0qU",
+      "title": "호르무즈 해협 개방 기대감에 뉴욕증시 상승세 지속... 다우지수 또 최고치_26.05.26 | 여도은, 박명석, 손정우 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=09M-PzvE0qU",
+      "thumbnail_url": "https://i1.ytimg.com/vi/09M-PzvE0qU/hqdefault.jpg",
+      "published_at": "2026-05-25T20:25:51+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "2IP_USGFCa8",
       "title": "현금 1억으로 '이 3가지 주식' 사세요, 반도체, 로봇 다음 무섭게 폭등한다 (이영훈 이사)",
@@ -848,30 +872,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "I9dRaNpbkGs",
-      "title": "[5월 22일 마감시황] 코스피만 달린 장이 아니었다...국민성장펀드 완판 이후 코스닥까지 불붙은 이유ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=I9dRaNpbkGs",
-      "thumbnail_url": "https://i2.ytimg.com/vi/I9dRaNpbkGs/hqdefault.jpg",
-      "published_at": "2026-05-22T08:25:44+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Uw9tFjzkbTI",

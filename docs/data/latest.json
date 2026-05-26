@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-26T19:22:31.112884+00:00",
+  "generated_at": "2026-05-26T21:48:55.473634+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "MpYcJ6JmMyI",
+      "title": "마이크론 +19% 급등! 시총 1조달러 돌파…S&P500 신고가 경신 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=MpYcJ6JmMyI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/MpYcJ6JmMyI/hqdefault.jpg",
+      "published_at": "2026-05-26T20:29:16+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "-qqC6Yypm0k",
       "title": "지금 갈아타야 할까, 버텨야 할까? 자산 레벨업을 위한 주도주 전략ㅣ명민준, 강아랑, 유영화 [주린이 구조대]",
@@ -460,25 +489,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qLtID2LmUE4",
-      "title": "기판 이렇게 올랐는데 더 보라고요? | 김민수 레몬리서치 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=qLtID2LmUE4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qLtID2LmUE4/hqdefault.jpg",
-      "published_at": "2026-05-26T01:28:52+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

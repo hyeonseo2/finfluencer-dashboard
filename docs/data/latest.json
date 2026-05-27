@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T19:28:33.074740+00:00",
+  "generated_at": "2026-05-27T22:00:26.897285+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "MN0b4FYdHKM",
+      "title": "\"반도체는 더 간다!\" 유가·금리 하락 속 뉴욕증시 상승 마감_26.05.28 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=MN0b4FYdHKM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/MN0b4FYdHKM/hqdefault.jpg",
+      "published_at": "2026-05-27T20:21:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "w636k5EZGLM",
       "title": "액면분할 왜 안 할까? '본업 집중' 오너의 뚝심 뒤에 숨은 전략ㅣ정프로, 명민준, 강아랑, 이다솔 [주린이 구조대]",
@@ -507,25 +536,6 @@
           "topic": "stocks",
           "stance": "neutral"
         },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "fXlQ_SyL1lM",
-      "title": "중국의 칩 경쟁력...이제 볼만한가요?_26.05.27. | 소진웅, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=fXlQ_SyL1lM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fXlQ_SyL1lM/hqdefault.jpg",
-      "published_at": "2026-05-27T02:50:12+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"

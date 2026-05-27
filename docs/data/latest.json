@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-27T12:24:09.166045+00:00",
+  "generated_at": "2026-05-27T16:40:06.281409+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "w636k5EZGLM",
+      "title": "액면분할 왜 안 할까? '본업 집중' 오너의 뚝심 뒤에 숨은 전략ㅣ정프로, 명민준, 강아랑, 이다솔 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=w636k5EZGLM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/w636k5EZGLM/hqdefault.jpg",
+      "published_at": "2026-05-27T13:30:24+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "XjHpvUYFM7s",
+      "title": "빠질 이유 없는데 왜 빠졌나…반등 종목 고르는 기준ㅣ정프로, 명민준, 강아랑, 이권희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=XjHpvUYFM7s",
+      "thumbnail_url": "https://i1.ytimg.com/vi/XjHpvUYFM7s/hqdefault.jpg",
+      "published_at": "2026-05-27T12:30:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "9afQfEAJduU",
       "title": "미친듯이 돈을 찍어내고 있다, 무조건 사야 할 자산 1가지 (부동산 전문가 아기곰)",
@@ -121,7 +159,7 @@
     },
     {
       "video_id": "pKPeaajoCyA",
-      "title": "삼성전자 50만원, 하이닉스 400만원, 엄청난 주가 전망 곧 달성한다 (조진표 대표)",
+      "title": "삼성전자, SK하이닉스 1주도 없으면, 반도체 덜 오른 '이 주식' 사세요 (조진표 대표)",
       "source_url": "https://www.youtube.com/watch?v=pKPeaajoCyA",
       "thumbnail_url": "https://i1.ytimg.com/vi/pKPeaajoCyA/hqdefault.jpg",
       "published_at": "2026-05-27T11:00:06+00:00",
@@ -490,49 +528,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VHlrxbixPtY",
-      "title": "코스피 1만 포인트 시대...어설픈 매매 타이밍으로 후회하지 마세요 | 이재만 하나증권 리서치센터 글로벌투자분석실장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=VHlrxbixPtY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VHlrxbixPtY/hqdefault.jpg",
-      "published_at": "2026-05-27T02:14:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "88NrGjbgZrY",
-      "title": "SK하이닉스, 시총 '1조달러 클럽' 진입...삼전닉스 레버리지, 불난집에 기름 붓는다? | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=88NrGjbgZrY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/88NrGjbgZrY/hqdefault.jpg",
-      "published_at": "2026-05-27T01:32:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T18:18:32.919112+00:00",
+  "generated_at": "2026-05-28T21:11:04.624373+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "l68tRiSRA8U",
+      "title": "'휴전 60일 연장 합의' 뉴욕증시 최고가 랠리...소프트웨어주 동반 '강세'_26.05.29 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=l68tRiSRA8U",
+      "thumbnail_url": "https://i1.ytimg.com/vi/l68tRiSRA8U/hqdefault.jpg",
+      "published_at": "2026-05-28T20:36:45+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "oBFwMGreq08",
       "title": "\"논스톱 재개발 시작한다\" 공급의 심장 뛰게할 것  | 정원오 서울시장 후보 [더 피플]",
@@ -592,35 +616,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MN0b4FYdHKM",
-      "title": "[26.05.28 오전 방송 전체보기] \"반도체는 더 간다!\" 유가·금리 하락 속 뉴욕증시 상승 마감",
-      "source_url": "https://www.youtube.com/watch?v=MN0b4FYdHKM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MN0b4FYdHKM/hqdefault.jpg",
-      "published_at": "2026-05-28T03:23:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

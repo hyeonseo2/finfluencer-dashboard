@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-28T21:11:04.624373+00:00",
+  "generated_at": "2026-05-28T23:21:14.161812+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,7 +46,6 @@
   ],
   "topics": [
     "commodities",
-    "crypto",
     "etf",
     "interest_rate",
     "macro",
@@ -56,8 +55,46 @@
   ],
   "videos": [
     {
+      "video_id": "f6ELtz5Zoo8",
+      "title": "삼전닉스 레버리지 괜찮아요?….피지컬AI 속도 더 빨라진다?!  | 이선엽 AFW파트너스 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=f6ELtz5Zoo8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/f6ELtz5Zoo8/hqdefault.jpg",
+      "published_at": "2026-05-28T23:14:15+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "kiRn7UG4wL0",
+      "title": "미국-이란, 60일 휴전안 합의…델, 호실적에 시간외 급등 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=kiRn7UG4wL0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kiRn7UG4wL0/hqdefault.jpg",
+      "published_at": "2026-05-28T22:00:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "l68tRiSRA8U",
-      "title": "'휴전 60일 연장 합의' 뉴욕증시 최고가 랠리...소프트웨어주 동반 '강세'_26.05.29 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "국민연금, 올해 국내증시 비중 확대…170조 매도 폭탄 피했다! 팔천피 불안함은 끝났나? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=l68tRiSRA8U",
       "thumbnail_url": "https://i1.ytimg.com/vi/l68tRiSRA8U/hqdefault.jpg",
       "published_at": "2026-05-28T20:36:45+00:00",
@@ -583,44 +620,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6FmXxPkyIE4",
-      "title": "출범 12년 이더리움.... 바뀐 로드맵에 떠나는 개발자들 | 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=6FmXxPkyIE4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6FmXxPkyIE4/hqdefault.jpg",
-      "published_at": "2026-05-28T05:03:50+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "FkJ6G_nIv4Y",
-      "title": "AI·반도체에 몰린 유동성. 철저히 소외된 비트코인, 거래량 마르고 횡보 중 | 서동주, 김동환 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=FkJ6G_nIv4Y",
-      "thumbnail_url": "https://i3.ytimg.com/vi/FkJ6G_nIv4Y/hqdefault.jpg",
-      "published_at": "2026-05-28T03:55:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "zsXXU-t47gw",

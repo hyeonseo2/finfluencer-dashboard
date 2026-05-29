@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T21:55:12.215783+00:00",
+  "generated_at": "2026-05-29T23:17:47.211521+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "GiOf7oF0h9o",
+      "title": "반도체는 신호탄일 뿐, 연쇄 성장 시킬 것입니다 | 구윤철 부총리 겸 기획재정부 장관 [특별인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=GiOf7oF0h9o",
+      "thumbnail_url": "https://i4.ytimg.com/vi/GiOf7oF0h9o/hqdefault.jpg",
+      "published_at": "2026-05-29T23:00:35+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "pGaCJgwX_7c",
       "title": "주가를 움직이는 건 결국 실적…6월 장세 핵심은 섹터 확장! 투자 포인트 점검ㅣ강성호, 박가영, 박지훈 [주린이 구조대]",
@@ -744,25 +763,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ad-_ZMcDA5M",
-      "title": "전월세 시장 불안 언제까지 갈까, 하반기 부동산 변수는?_26.05.29. | 정보현 NH투자증권 Tax센터 부장 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=ad-_ZMcDA5M",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ad-_ZMcDA5M/hqdefault.jpg",
-      "published_at": "2026-05-29T02:35:22+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "C2cNVDal3p4",

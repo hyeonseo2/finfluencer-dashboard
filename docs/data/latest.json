@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T06:50:35.549055+00:00",
+  "generated_at": "2026-05-30T09:22:22.830582+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,18 +56,104 @@
   ],
   "videos": [
     {
+      "video_id": "a8QjUZXO0ME",
+      "title": "\"5년 간 돈이 몰린다\" 이 ETF만 미친듯이 오를 겁니다. 앞으로 2배, 5배,10배 간다 | 김규동 이사 #원픽리포트",
+      "source_url": "https://www.youtube.com/watch?v=a8QjUZXO0ME",
+      "thumbnail_url": "https://i2.ytimg.com/vi/a8QjUZXO0ME/hqdefault.jpg",
+      "published_at": "2026-05-30T08:00:36+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "EA1714zxVOs",
+      "title": "노후 자금 5억 모아도 74세이면 전부 바닥난다, '이것' 안 하면 파산한다 (김경필 머니트레이너)",
+      "source_url": "https://www.youtube.com/watch?v=EA1714zxVOs",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EA1714zxVOs/hqdefault.jpg",
+      "published_at": "2026-05-30T07:00:27+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "dsCscPI2CuI",
+      "title": "ISA에서 이걸 주목하세요 #이소영",
+      "source_url": "https://www.youtube.com/shorts/dsCscPI2CuI",
+      "thumbnail_url": "https://i1.ytimg.com/vi/dsCscPI2CuI/hqdefault.jpg",
+      "published_at": "2026-05-30T07:00:23+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "E9jdL1_COmI",
+      "title": "\"앞으로 집값 진짜 무섭습니다\" 부동산 시장 송두리째 뒤집어질 법안 또 나옵니다 | 김영록 대표 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=E9jdL1_COmI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/E9jdL1_COmI/hqdefault.jpg",
+      "published_at": "2026-05-30T07:00:04+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "policy",
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "_3Ufrq3g1-Y",
-      "title": "PER 6배짜리 삼성전자가 싼지 비싼지 모르면 주식 하면 안 됩니다. ROE, PER, PBR 이 세 개만 알면 어떤 종목도 20분 안에 꿰뚫립니다",
+      "title": "1억 버는 치킨집을 10억에 사라고 하면 바보입니까? 근데 삼성전자는 지금 그 논리로 보면 역대급으로 싼 주식입니다",
       "source_url": "https://www.youtube.com/watch?v=_3Ufrq3g1-Y",
       "thumbnail_url": "https://i4.ytimg.com/vi/_3Ufrq3g1-Y/hqdefault.jpg",
       "published_at": "2026-05-30T06:30:08+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -76,7 +162,7 @@
     },
     {
       "video_id": "ClX5BtyapJ4",
-      "title": "이란 사실상 쿠데타 발생 테헤란 정권 붕괴 임박했다 | 조한범 박사 1부",
+      "title": "“또 다시 불바다\" 미군 휴전 깨고 기습작전 초토화 된 이란 현재 상황 | 조한범 박사 1부",
       "source_url": "https://www.youtube.com/watch?v=ClX5BtyapJ4",
       "thumbnail_url": "https://i4.ytimg.com/vi/ClX5BtyapJ4/hqdefault.jpg",
       "published_at": "2026-05-30T06:00:36+00:00",
@@ -214,7 +300,7 @@
     },
     {
       "video_id": "KeuwWSO5wWQ",
-      "title": "서울 아파트 매물 씨가 말랐다, 집값 안타깝지만 '이렇게' 된다 (부동산 투자자 진와이스 대표)",
+      "title": "이제 집 사고 싶어도 못 산다, 폭등 직전 마지막 기회 잡으세요 (부동산 투자자 진와이스 대표)",
       "source_url": "https://www.youtube.com/watch?v=KeuwWSO5wWQ",
       "thumbnail_url": "https://i4.ytimg.com/vi/KeuwWSO5wWQ/hqdefault.jpg",
       "published_at": "2026-05-30T04:00:34+00:00",
@@ -489,25 +575,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "j9PBm6b4hOs",
-      "title": "\"제발 여기 돈 쓰지마라\" 은퇴한 중년을 노린다. 요즘 5060 노후 파산 폭증하는 충격적인 이유 | 김규동 이사 #원픽리포트",
-      "source_url": "https://www.youtube.com/watch?v=j9PBm6b4hOs",
-      "thumbnail_url": "https://i3.ytimg.com/vi/j9PBm6b4hOs/hqdefault.jpg",
-      "published_at": "2026-05-29T12:00:37+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "tX55NGQo7jU",
       "title": "\"지금 사야 하나?\" 포모 견디는 사람이 6월 기회를 잡습니다ㅣ강성호, 박가영, 염승환 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=tX55NGQo7jU",
@@ -570,25 +637,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "X7PYM_OU-SE",
-      "title": "\"지금이 일생일대의 기회\" 1억 있으면 이렇게 하세요. 10억 금방인데 왜 안하죠? | 아기곰 대표 3부",
-      "source_url": "https://www.youtube.com/watch?v=X7PYM_OU-SE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/X7PYM_OU-SE/hqdefault.jpg",
-      "published_at": "2026-05-29T11:00:31+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "a5rGBkM4hn4",
       "title": "평양에 싹다 퍼졌다 한국에 대한 충격적인 소문 | 한송이 풀버전",
       "source_url": "https://www.youtube.com/watch?v=a5rGBkM4hn4",
@@ -625,25 +673,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "UAUBapGtWJQ",
-      "title": "\"다들 몰라서 못받는다\" 5060 지금 당장 신청하세요. 매달 300씩 평생 나옵니다 | 前 MBC PD 김민식 작가 30분 요약 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=UAUBapGtWJQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UAUBapGtWJQ/hqdefault.jpg",
-      "published_at": "2026-05-29T10:00:31+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "vuTrfXkUApo",
@@ -1189,30 +1218,6 @@
       "source_url": "https://www.youtube.com/watch?v=t_Qpy0Izq4Y",
       "thumbnail_url": "https://i1.ytimg.com/vi/t_Qpy0Izq4Y/hqdefault.jpg",
       "published_at": "2026-05-26T10:00:50+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2IP_USGFCa8",
-      "title": "현금 1억으로 '이 3가지 주식' 사세요, 반도체, 로봇 다음 무섭게 폭등한다 (이영훈 이사)",
-      "source_url": "https://www.youtube.com/watch?v=2IP_USGFCa8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2IP_USGFCa8/hqdefault.jpg",
-      "published_at": "2026-05-25T12:15:00+00:00",
       "channel_name": "김작가 TV",
       "topics": [
         "stocks",

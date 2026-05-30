@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-30T09:22:22.830582+00:00",
+  "generated_at": "2026-05-30T11:25:06.581731+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "E5Ue34SvIcw",
+      "title": "비판의 종말",
+      "source_url": "https://www.youtube.com/watch?v=E5Ue34SvIcw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/E5Ue34SvIcw/hqdefault.jpg",
+      "published_at": "2026-05-30T10:41:54+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "bo926KAdVWo",
+      "title": "보복 타격 시작한 걸프국들. 테헤란 완전히 초토화 됐다｜이춘근 박사 풀버전1",
+      "source_url": "https://www.youtube.com/watch?v=bo926KAdVWo",
+      "thumbnail_url": "https://i3.ytimg.com/vi/bo926KAdVWo/hqdefault.jpg",
+      "published_at": "2026-05-30T10:00:39+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "xfyWJI8a3wg",
+      "title": "100% 착즙 주스가 몸 망치는 이유, 당장 멈춰야 몸속 염증 사라진다 (오수연 교수)",
+      "source_url": "https://www.youtube.com/watch?v=xfyWJI8a3wg",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xfyWJI8a3wg/hqdefault.jpg",
+      "published_at": "2026-05-30T10:00:18+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "a8QjUZXO0ME",
       "title": "\"5년 간 돈이 몰린다\" 이 ETF만 미친듯이 오를 겁니다. 앞으로 2배, 5배,10배 간다 | 김규동 이사 #원픽리포트",
@@ -114,20 +171,15 @@
     },
     {
       "video_id": "E9jdL1_COmI",
-      "title": "\"앞으로 집값 진짜 무섭습니다\" 부동산 시장 송두리째 뒤집어질 법안 또 나옵니다 | 김영록 대표 풀버전",
+      "title": "\"정부의 새빨간 거짓말\" 부동산 곧 상상못할 일 터집니다. 큰일입니다. 99%는 언론에 속고 있어요 | 김영록 대표 풀버전",
       "source_url": "https://www.youtube.com/watch?v=E9jdL1_COmI",
       "thumbnail_url": "https://i2.ytimg.com/vi/E9jdL1_COmI/hqdefault.jpg",
       "published_at": "2026-05-30T07:00:04+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "policy",
         "real_estate"
       ],
       "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        },
         {
           "topic": "real_estate",
           "stance": "neutral"
@@ -219,7 +271,7 @@
     },
     {
       "video_id": "fy4c5VrZdlM",
-      "title": "\"신혼부부 특히 주의해라\" 이곳 아파트 절대 사지마세요. 평생 모은 돈 날려 먹습니다 | 한애란 기자 3부 #돈쭐남 #김경필",
+      "title": "\"소름돋는 평행이론\" 한국 부동산은 결국 무너진다? 일본보다 무시무시할 겁니다 | 한애란 기자 3부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=fy4c5VrZdlM",
       "thumbnail_url": "https://i3.ytimg.com/vi/fy4c5VrZdlM/hqdefault.jpg",
       "published_at": "2026-05-30T06:00:03+00:00",
@@ -851,30 +903,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "z8K0ovqg2Fs",
-      "title": "삼성전자 수상한 조짐 포착 가진 현금 싹다 이렇게 해라 | 우종필 매니저",
-      "source_url": "https://www.youtube.com/watch?v=z8K0ovqg2Fs",
-      "thumbnail_url": "https://i3.ytimg.com/vi/z8K0ovqg2Fs/hqdefault.jpg",
-      "published_at": "2026-05-29T06:00:00+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "UDV8Ese7Jos",
       "title": "이더・솔라나 모으는 DAT 기업들의 전통 금융권 진입! AI로 코인 거래까지? 꿈틀대는 신호들 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=UDV8Ese7Jos",
@@ -1213,30 +1241,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "t_Qpy0Izq4Y",
-      "title": "지금 가장 저평가된 '주식 2개', 허를 찌르는 상승 나올 겁니다 (서준식 교수)",
-      "source_url": "https://www.youtube.com/watch?v=t_Qpy0Izq4Y",
-      "thumbnail_url": "https://i1.ytimg.com/vi/t_Qpy0Izq4Y/hqdefault.jpg",
-      "published_at": "2026-05-26T10:00:50+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "gOC0yZ7tr34",
       "title": "그래서 결국 얼마예요?",
       "source_url": "https://www.youtube.com/watch?v=gOC0yZ7tr34",
@@ -1461,25 +1465,6 @@
       "source_url": "https://www.youtube.com/watch?v=b0SGZQWvPC8",
       "thumbnail_url": "https://i3.ytimg.com/vi/b0SGZQWvPC8/hqdefault.jpg",
       "published_at": "2026-05-14T13:56:27+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "gqOaifULb_8",
-      "title": "치사율 최대 50% 한타바이러스, 세계를 떨게 하다.",
-      "source_url": "https://www.youtube.com/watch?v=gqOaifULb_8",
-      "thumbnail_url": "https://i4.ytimg.com/vi/gqOaifULb_8/hqdefault.jpg",
-      "published_at": "2026-05-13T13:11:06+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

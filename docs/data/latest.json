@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T19:23:28.804185+00:00",
+  "generated_at": "2026-05-31T21:05:13.840824+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "iKttL2ZyFRY",
+      "title": "AI·휴전 기대 속 뉴욕증시 또 최고가...SW관련주 연일 상승_26.06.01 | 여도은, 박명석, 김한진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=iKttL2ZyFRY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iKttL2ZyFRY/hqdefault.jpg",
+      "published_at": "2026-05-31T20:22:31+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "j4IrWune1LA",
       "title": "카페에서도, 유튜브에서도 모두가 이 말을 하기 시작하면 그때는 주식 팔아야 합니다",
@@ -976,25 +1000,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "eJ4SH5WGbrQ",
-      "title": "목표가는 의미 없다. 지금 안 사면 후회할 '화려한 피날레'ㅣ이경민 대신증권 FICC 리서치 부장 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=eJ4SH5WGbrQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/eJ4SH5WGbrQ/hqdefault.jpg",
-      "published_at": "2026-05-29T09:10:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "P8QNpS2wjk4",

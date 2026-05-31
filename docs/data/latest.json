@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T13:55:03.951716+00:00",
+  "generated_at": "2026-05-31T15:20:07.460640+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -72,30 +72,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "asuJVjGiAxA",
-      "title": "[슈카월드] 코스피 10000 가능할까? / 커지는 부동산 상승 우려 / 왜 페라리를 이따위로 만들었을까? / 가격 폭락 중인 비만치료제 / 한중일 3국이 뭉친 분야",
-      "source_url": "https://www.youtube.com/watch?v=asuJVjGiAxA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/asuJVjGiAxA/hqdefault.jpg",
-      "published_at": "2026-05-31T11:23:46+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks",
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "WdqfnKG0Eg0",
@@ -1476,6 +1452,25 @@
         },
         {
           "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "b0SGZQWvPC8",
+      "title": "세계에서 가장 AI에 진심인 나라",
+      "source_url": "https://www.youtube.com/watch?v=b0SGZQWvPC8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/b0SGZQWvPC8/hqdefault.jpg",
+      "published_at": "2026-05-14T13:56:27+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

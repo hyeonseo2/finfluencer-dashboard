@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T20:57:36.880610+00:00",
+  "generated_at": "2026-06-01T23:05:39.920492+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,23 +56,37 @@
   ],
   "videos": [
     {
+      "video_id": "_92MG_AYnVI",
+      "title": "엔비디아, 젠슨황 GTC 연설에 급등…마이크론 주당 $1,000 돌파 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=_92MG_AYnVI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_92MG_AYnVI/hqdefault.jpg",
+      "published_at": "2026-06-01T22:00:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "zHPHd3rkUQ8",
-      "title": "젠슨황이 쏘아올린 공! 뉴욕증시 최고치 랠리...엔비디아 +6% 강세_26.06.02 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "title": "젠슨 황 효과 더해진 코스피, 반도체 힘으로 오늘도 새역사 쓸까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=zHPHd3rkUQ8",
       "thumbnail_url": "https://i3.ytimg.com/vi/zHPHd3rkUQ8/hqdefault.jpg",
       "published_at": "2026-06-01T20:27:11+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -568,25 +582,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "gz0nE5fOzkA",
-      "title": "삼전닉스 끌고 LG·두산 밀고...AI발 급등장, 두려워만 할 게 아닙니다_26.06.01. |  이혁진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=gz0nE5fOzkA",
-      "thumbnail_url": "https://i4.ytimg.com/vi/gz0nE5fOzkA/hqdefault.jpg",
-      "published_at": "2026-06-01T02:36:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

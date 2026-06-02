@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T18:43:46.241354+00:00",
+  "generated_at": "2026-06-02T21:52:01.951606+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ooyhI2HDUY8",
+      "title": "AI발 상승세 지속, 뉴욕증시 5일째 최고가...마벨 +33% 급등, 왜?_26.06.03 | 여도은, 박명석, 박병창, 장우진, 김장열 [특집 월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=ooyhI2HDUY8",
+      "thumbnail_url": "https://i4.ytimg.com/vi/ooyhI2HDUY8/hqdefault.jpg",
+      "published_at": "2026-06-02T20:32:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "se4eS4BFoHQ",
       "title": "코스닥 반등 신호 켜졌다…제약·바이오, 다시 주도주 될까?ㅣ명민준, 강아랑, 이화진 [주린이 구조대]",
@@ -650,30 +674,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "gtvJOXxC99Y",
-      "title": "지방선거 끝나면 증시 폭락? 진짜 변수는 따로있다_26.06.02. | 정우창, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=gtvJOXxC99Y",
-      "thumbnail_url": "https://i4.ytimg.com/vi/gtvJOXxC99Y/hqdefault.jpg",
-      "published_at": "2026-06-02T02:38:44+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

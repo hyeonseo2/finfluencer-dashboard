@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T21:52:01.951606+00:00",
+  "generated_at": "2026-06-02T23:50:11.647005+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,21 +57,73 @@
   ],
   "videos": [
     {
+      "video_id": "ttnmPY9P_1k",
+      "title": "[속보효] Computing is Revenue 관점에서 본 BTC 급락과 Optical 급등",
+      "source_url": "https://www.youtube.com/watch?v=ttnmPY9P_1k",
+      "thumbnail_url": "https://i1.ytimg.com/vi/ttnmPY9P_1k/hqdefault.jpg",
+      "published_at": "2026-06-02T23:26:45+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "eNNcin54184",
+      "title": "젠슨 황이 한국에 또 오는 이유, 결국 삼전 닉스가 만드는 K-반도체가 필요하기 때문입니다",
+      "source_url": "https://www.youtube.com/watch?v=eNNcin54184",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eNNcin54184/hqdefault.jpg",
+      "published_at": "2026-06-02T23:00:30+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "mSNwUslXGBI",
+      "title": "마벨테크놀로지, 젠슨황 언급에 급등…루멘텀, 코히어런트 동반 강세 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=mSNwUslXGBI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/mSNwUslXGBI/hqdefault.jpg",
+      "published_at": "2026-06-02T22:06:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "ooyhI2HDUY8",
-      "title": "AI발 상승세 지속, 뉴욕증시 5일째 최고가...마벨 +33% 급등, 왜?_26.06.03 | 여도은, 박명석, 박병창, 장우진, 김장열 [특집 월스트리트 모닝브리핑]",
+      "title": "반도체 쏠림 심화, 지금 투자해도 돼요? 뭘 보고 결정해야하나?_26.06.03 | 여도은, 박명석, 박병창, 장우진, 김장열 [월스트리트 모닝브리핑]",
       "source_url": "https://www.youtube.com/watch?v=ooyhI2HDUY8",
       "thumbnail_url": "https://i4.ytimg.com/vi/ooyhI2HDUY8/hqdefault.jpg",
       "published_at": "2026-06-02T20:32:12+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -655,25 +707,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zHPHd3rkUQ8",
-      "title": "[26.06.02 오전 방송 전체보기] 젠슨황이 쏘아올린 공! 뉴욕증시 최고치 랠리...엔비디아 +6% 강세",
-      "source_url": "https://www.youtube.com/watch?v=zHPHd3rkUQ8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zHPHd3rkUQ8/hqdefault.jpg",
-      "published_at": "2026-06-02T03:18:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -1288,44 +1321,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ksD8OQd4Y1c",
-      "title": "바람에 흔들리지 말고 꽉 붙잡으세요!",
-      "source_url": "https://www.youtube.com/watch?v=ksD8OQd4Y1c",
-      "thumbnail_url": "https://i4.ytimg.com/vi/ksD8OQd4Y1c/hqdefault.jpg",
-      "published_at": "2026-05-28T00:00:07+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "GM-C5D6Yldc",
-      "title": "종전 수혜주·재건주·페라리까지 다 맛있어 보이는 지금, 메인 디쉬 SK하이닉스 놓치면 후회합니다 [Z1뉴스 - 2부]",
-      "source_url": "https://www.youtube.com/watch?v=GM-C5D6Yldc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/GM-C5D6Yldc/hqdefault.jpg",
-      "published_at": "2026-05-27T22:00:31+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "lFyS7x4BmZ0",

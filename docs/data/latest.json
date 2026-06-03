@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T21:53:19.635899+00:00",
+  "generated_at": "2026-06-03T23:48:08.826582+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,23 +55,61 @@
   ],
   "videos": [
     {
+      "video_id": "hnjYNLrj-p4",
+      "title": "젠슨 황 방한 디데이! 진짜 수혜는요... | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=hnjYNLrj-p4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hnjYNLrj-p4/hqdefault.jpg",
+      "published_at": "2026-06-03T23:26:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KdLZthSQ_kA",
+      "title": "금리 인상 우려 속 사모신용 불안…비트코인 급락세, 유동성 이슈 부각 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=KdLZthSQ_kA",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KdLZthSQ_kA/hqdefault.jpg",
+      "published_at": "2026-06-03T22:20:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "G7_bg5hIg8c",
-      "title": "중동 긴장 재고조 속 뉴욕증시 하락 마감...브로드컴 실적 발표_26.06.04 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "[6월 4일 개장시황] 빈센트, 정프로, 장우진, 이학주, 편다송, 김록호 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=G7_bg5hIg8c",
       "thumbnail_url": "https://i4.ytimg.com/vi/G7_bg5hIg8c/hqdefault.jpg",
       "published_at": "2026-06-03T20:26:53+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -256,22 +294,17 @@
     },
     {
       "video_id": "rAshDjV20Gg",
-      "title": "\"여기에 돈 넣었다\" 코스피 8천인데 노후자금 싹 다 날리고 있는 5060 은퇴세대 특징 | 강창희 대표 풀버전 #돈쭐남 #김경필",
+      "title": "\"은퇴한 5060 평균 자산\" 3억 있으면 빈곤층이에요. 통장에 이정도는 있어야 노후 평균입니다 | 강창희 대표 풀버전 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=rAshDjV20Gg",
       "thumbnail_url": "https://i3.ytimg.com/vi/rAshDjV20Gg/hqdefault.jpg",
       "published_at": "2026-06-03T07:00:01+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -783,25 +816,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "S9F_KAIGTY4",
-      "title": "하이닉스가 200만원에서 더 갈 거라는 완벽한 근거 | 빈센트 [빈센트의 체크포인트]",
-      "source_url": "https://www.youtube.com/shorts/S9F_KAIGTY4",
-      "thumbnail_url": "https://i4.ytimg.com/vi/S9F_KAIGTY4/hqdefault.jpg",
-      "published_at": "2026-06-02T09:03:50+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "_E9zaAlYpfo",
       "title": "현금 5천만원 있다면 여기 맘편히 묻어두세요. 10억 순식간에 됩니다 | 송민석 이사 3부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=_E9zaAlYpfo",
@@ -838,30 +852,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hdZKfBQIspw",
-      "title": "지금은 주식으로 돈 벌기 너무 좋은 장ㅣ홍선애, 박세익 체슬리투자자문 대표 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=hdZKfBQIspw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hdZKfBQIspw/hqdefault.jpg",
-      "published_at": "2026-06-02T08:56:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "XIo21QZoM-U",
@@ -903,7 +893,7 @@
     },
     {
       "video_id": "wieaUTwTpiY",
-      "title": "AI 사이클 투자 막차는 어떻게 타냐고요? 배타고 가시면 됩니다ㅣ엄경아 신영증권 연구위원 [1부]",
+      "title": "부족해도 너무 부족한 AI발 전력난, 조선업에 해결의 실마리가 있습니다ㅣ엄경아 신영증권 연구위원 [1부]",
       "source_url": "https://www.youtube.com/watch?v=wieaUTwTpiY",
       "thumbnail_url": "https://i4.ytimg.com/vi/wieaUTwTpiY/hqdefault.jpg",
       "published_at": "2026-06-02T08:00:13+00:00",

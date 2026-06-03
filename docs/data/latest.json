@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T09:56:37.014742+00:00",
+  "generated_at": "2026-06-03T14:50:10.346707+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,82 @@
   ],
   "videos": [
     {
+      "video_id": "WNZobKrNGYM",
+      "title": "주식시장 곧 큰 조정 올 겁니다, 삼성전자 팔고 당장 '이 주식' 사세요 (무극선생 이승조 대표)",
+      "source_url": "https://www.youtube.com/watch?v=WNZobKrNGYM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WNZobKrNGYM/hqdefault.jpg",
+      "published_at": "2026-06-03T13:00:02+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "_X-CkhCHOZg",
+      "title": "드디어 페라리가 미친 것일까?",
+      "source_url": "https://www.youtube.com/watch?v=_X-CkhCHOZg",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_X-CkhCHOZg/hqdefault.jpg",
+      "published_at": "2026-06-03T11:42:23+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Uf98v4R7ryY",
+      "title": "현대차 로봇 완전 미쳤습니다, 현대차 말고 '이 주식' 꼭 사세요 (무극선생 이승조 대표)",
+      "source_url": "https://www.youtube.com/watch?v=Uf98v4R7ryY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Uf98v4R7ryY/hqdefault.jpg",
+      "published_at": "2026-06-03T11:30:21+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "36fliA15r7s",
+      "title": "거래소 금 싹다 사라졌다. 곧 무시무시한 일 터진다｜조규원 대표 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=36fliA15r7s",
+      "thumbnail_url": "https://i4.ytimg.com/vi/36fliA15r7s/hqdefault.jpg",
+      "published_at": "2026-06-03T10:00:30+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "vd9ERx-XbZU",
       "title": "서울대 나와도 백수 되는 이유, 내 자녀에게 '이것' 가르치세요 (스타강사 김미경 원장)",
       "source_url": "https://www.youtube.com/watch?v=vd9ERx-XbZU",
@@ -94,7 +170,7 @@
     },
     {
       "video_id": "QeT-DeK5L2c",
-      "title": "머스크가 드디어 판을 뒤집습니다, 테슬라와 스페이스X 합병설이 무서운 이유ㅣ정주용 의장 [풀영상]",
+      "title": "신이 주신 기회가 올 수 있습니다, 테슬라·스페이스X 합병이 무서운 이유ㅣ정주용 의장 [풀영상]",
       "source_url": "https://www.youtube.com/watch?v=QeT-DeK5L2c",
       "thumbnail_url": "https://i2.ytimg.com/vi/QeT-DeK5L2c/hqdefault.jpg",
       "published_at": "2026-06-03T08:00:21+00:00",
@@ -893,7 +969,7 @@
     },
     {
       "video_id": "8zLo5Bfp7Pc",
-      "title": "구글과 애플의 비밀 동맹 터졌다, 스마트폰 시장 판도가 뒤집힌다 (AI 권위자 김덕진 교수)",
+      "title": "구글, 아마존, 메타 AI 전쟁, 3년 뒤 진짜 세상 뒤집힌다 (AI 권위자 김덕진 교수)",
       "source_url": "https://www.youtube.com/watch?v=8zLo5Bfp7Pc",
       "thumbnail_url": "https://i1.ytimg.com/vi/8zLo5Bfp7Pc/hqdefault.jpg",
       "published_at": "2026-06-01T13:00:12+00:00",
@@ -1009,25 +1085,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "h86olPwyh04",
-      "title": "제2의 삼성전기 찾았다. 반도체 앞으로 '이 주식'만 봐라｜민재기 팀장 3부",
-      "source_url": "https://www.youtube.com/watch?v=h86olPwyh04",
-      "thumbnail_url": "https://i1.ytimg.com/vi/h86olPwyh04/hqdefault.jpg",
-      "published_at": "2026-06-01T08:30:06+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "EQU5ILPATf4",
@@ -1230,44 +1287,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "PAfNSNBg_2Y",
-      "title": "삼성전자 분위기 예사롭지않다, 조만간 엄청난 일 터질 겁니다 (안석현 기자)",
-      "source_url": "https://www.youtube.com/watch?v=PAfNSNBg_2Y",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PAfNSNBg_2Y/hqdefault.jpg",
-      "published_at": "2026-05-30T01:00:03+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "X06lcRKoDtg",
-      "title": "세계 1위 한국 유리기판 대장주, '이 주식' 사면 떼돈 벌 겁니다 (박진희 부장)",
-      "source_url": "https://www.youtube.com/watch?v=X06lcRKoDtg",
-      "thumbnail_url": "https://i1.ytimg.com/vi/X06lcRKoDtg/hqdefault.jpg",
-      "published_at": "2026-05-29T13:00:01+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "P8QNpS2wjk4",
       "title": "테슬라 주주가 스페이스X 상장을 두려워할 수밖에 없는 이유…머스크 의결권 테슬라 12% vs 스페이스X 79%, 합병되면 내 지분에 벌어질 일ㅣ정주용 의장 [2부]",
       "source_url": "https://www.youtube.com/watch?v=P8QNpS2wjk4",
@@ -1432,25 +1451,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "i-8ociNpAGs",
-      "title": "삼성전자 총파업 초읽기, 협상 마지막 하루",
-      "source_url": "https://www.youtube.com/watch?v=i-8ociNpAGs",
-      "thumbnail_url": "https://i2.ytimg.com/vi/i-8ociNpAGs/hqdefault.jpg",
-      "published_at": "2026-05-18T12:51:59+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

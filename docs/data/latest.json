@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T14:50:10.346707+00:00",
+  "generated_at": "2026-06-03T18:49:07.704143+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,17 +56,22 @@
   "videos": [
     {
       "video_id": "WNZobKrNGYM",
-      "title": "주식시장 곧 큰 조정 올 겁니다, 삼성전자 팔고 당장 '이 주식' 사세요 (무극선생 이승조 대표)",
+      "title": "삼성전자, SK하이닉스 지금 당장 도망치세요, 폭락 시작되면 계좌 녹는다 (무극선생 이승조 대표)",
       "source_url": "https://www.youtube.com/watch?v=WNZobKrNGYM",
       "thumbnail_url": "https://i4.ytimg.com/vi/WNZobKrNGYM/hqdefault.jpg",
       "published_at": "2026-06-03T13:00:02+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

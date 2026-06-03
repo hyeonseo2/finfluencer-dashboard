@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T18:49:07.704143+00:00",
+  "generated_at": "2026-06-03T21:53:19.635899+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "G7_bg5hIg8c",
+      "title": "중동 긴장 재고조 속 뉴욕증시 하락 마감...브로드컴 실적 발표_26.06.04 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=G7_bg5hIg8c",
+      "thumbnail_url": "https://i4.ytimg.com/vi/G7_bg5hIg8c/hqdefault.jpg",
+      "published_at": "2026-06-03T20:26:53+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "WNZobKrNGYM",
       "title": "삼성전자, SK하이닉스 지금 당장 도망치세요, 폭락 시작되면 계좌 녹는다 (무극선생 이승조 대표)",
@@ -370,7 +394,7 @@
     },
     {
       "video_id": "pcx-b_l2bQQ",
-      "title": "만스피 가능하다? 핵심은 반도체 투자전쟁 | 김장열 유니스토리자산운용 리서치센터 센터장",
+      "title": "만스피 가능하다? 핵심은 반도체 투자전쟁 | 김장열 유니스토리자산운용 리서치센터장",
       "source_url": "https://www.youtube.com/watch?v=pcx-b_l2bQQ",
       "thumbnail_url": "https://i1.ytimg.com/vi/pcx-b_l2bQQ/hqdefault.jpg",
       "published_at": "2026-06-03T01:21:12+00:00",
@@ -427,17 +451,17 @@
     },
     {
       "video_id": "ooyhI2HDUY8",
-      "title": "반도체 쏠림 심화, 지금 투자해도 돼요? 뭘 보고 결정해야하나?_26.06.03 | 여도은, 박명석, 박병창, 장우진, 김장열 [월스트리트 모닝브리핑]",
+      "title": "[26.06.03 오전 방송 전체보기] AI발 상승세 지속, 뉴욕증시 5일째 최고가...마벨 +33% 급등, 왜?",
       "source_url": "https://www.youtube.com/watch?v=ooyhI2HDUY8",
       "thumbnail_url": "https://i4.ytimg.com/vi/ooyhI2HDUY8/hqdefault.jpg",
       "published_at": "2026-06-03T00:08:36+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -831,25 +855,6 @@
           "topic": "stocks",
           "stance": "neutral"
         },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5_10jQAOZCM",
-      "title": "[6월 2일 마감시황] 변동성은 피할 수 없습니다. 지금은 현금을 만들고 시장 흐름에 올라타야 할 때ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=5_10jQAOZCM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5_10jQAOZCM/hqdefault.jpg",
-      "published_at": "2026-06-02T08:48:16+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"

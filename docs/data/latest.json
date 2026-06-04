@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T19:24:36.245561+00:00",
+  "generated_at": "2026-06-04T21:44:58.864525+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "kIvD6ef83as",
+      "title": "엔비디아 상승 속 반도체주 하락...다우지수 '사상 최고'_26.06.05 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=kIvD6ef83as",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kIvD6ef83as/hqdefault.jpg",
+      "published_at": "2026-06-04T20:35:36+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "uBjyIom3kOA",
       "title": "스페이스X 때문에 들썩이는 우주항공주, 지금 주목해야 할 종목은?ㅣ정프로, 박가영, 최창규 [주린이 구조대]",
@@ -563,25 +587,6 @@
         },
         {
           "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "G7_bg5hIg8c",
-      "title": "[26.06.04 오전 방송 전체보기] 중동 긴장 재고조 속 뉴욕증시 하락 마감...브로드컴 실적 발표",
-      "source_url": "https://www.youtube.com/watch?v=G7_bg5hIg8c",
-      "thumbnail_url": "https://i4.ytimg.com/vi/G7_bg5hIg8c/hqdefault.jpg",
-      "published_at": "2026-06-04T03:19:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

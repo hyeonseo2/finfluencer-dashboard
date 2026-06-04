@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T16:21:32.174135+00:00",
+  "generated_at": "2026-06-04T19:24:36.245561+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -119,22 +119,17 @@
     },
     {
       "video_id": "_Z9FMacSwbE",
-      "title": "코스피 추세는 아직 살아있다! 코스닥 투자는 지금 신중해야 하는 이유ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
+      "title": "젠승 황 호재에도 급락한 LG그룹주-네이버...그렇다면 오히려 지금이 '역대급 매수 타이밍'?ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
       "source_url": "https://www.youtube.com/watch?v=_Z9FMacSwbE",
       "thumbnail_url": "https://i4.ytimg.com/vi/_Z9FMacSwbE/hqdefault.jpg",
       "published_at": "2026-06-04T11:30:13+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

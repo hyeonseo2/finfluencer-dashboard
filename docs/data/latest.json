@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T10:09:22.918973+00:00",
+  "generated_at": "2026-06-06T12:08:11.527071+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "eui6mSgeoh0",
+      "title": "전쟁 안 끝났는데 주가 폭등한 이유, 아무도 말해주지 않는 숨은 진실 (김광석 교수)",
+      "source_url": "https://www.youtube.com/watch?v=eui6mSgeoh0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eui6mSgeoh0/hqdefault.jpg",
+      "published_at": "2026-06-06T12:00:22+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "4giHXpB8ajk",
+      "title": "장어 80%를 수입하는 일본 초비상!",
+      "source_url": "https://www.youtube.com/watch?v=4giHXpB8ajk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4giHXpB8ajk/hqdefault.jpg",
+      "published_at": "2026-06-06T10:18:04+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "9Sn1C2RqFI4",
       "title": "역사상 가장 빠른 대폭락 올 수 있다, 잘못하면 계좌 통째로 녹아내린다 (전인구 소장)",
@@ -1291,25 +1329,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "8zLo5Bfp7Pc",
-      "title": "구글, 아마존, 메타 AI 전쟁, 3년 뒤 진짜 세상 뒤집힌다 (AI 권위자 김덕진 교수)",
-      "source_url": "https://www.youtube.com/watch?v=8zLo5Bfp7Pc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8zLo5Bfp7Pc/hqdefault.jpg",
-      "published_at": "2026-06-01T13:00:12+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "-nXLqdgNHho",
       "title": "\"전국민이 주식에 취해있다.\"",
       "source_url": "https://www.youtube.com/watch?v=-nXLqdgNHho",
@@ -1498,25 +1517,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "mz9Sl1Id4Fg",
-      "title": "이럴바에 '스승의 날을 차라리 없애자'는 선생님들",
-      "source_url": "https://www.youtube.com/watch?v=mz9Sl1Id4Fg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/mz9Sl1Id4Fg/hqdefault.jpg",
-      "published_at": "2026-05-21T10:51:40+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-06T16:10:20.742972+00:00",
+  "generated_at": "2026-06-06T18:10:45.665216+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -281,22 +281,17 @@
     },
     {
       "video_id": "A9RAQfF3NEY",
-      "title": "\"코스피 조정 오든말든\" 이 1가지 ETF 사 모으세요. 앞으로 돈이 무섭게 몰릴 겁니다 | 홍춘욱 박사 풀버전",
+      "title": "\"S&P500 할 때 아니다\" 1억 있으면 제발 이렇게 하세요. 10억까지 순식간에 불어납니다 | 홍춘욱 박사 풀버전",
       "source_url": "https://www.youtube.com/watch?v=A9RAQfF3NEY",
       "thumbnail_url": "https://i2.ytimg.com/vi/A9RAQfF3NEY/hqdefault.jpg",
       "published_at": "2026-06-06T05:00:15+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "stocks",
-        "etf"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
           "stance": "neutral"
         }
       ],

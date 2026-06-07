@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T20:16:09.816448+00:00",
+  "generated_at": "2026-06-07T22:08:47.723892+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "jldDqabBa8U",
+      "title": "비트맥시 오태민, 이더리움 10배 폭등하거나, 아예 세상에서 사라지거나 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/shorts/jldDqabBa8U",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jldDqabBa8U/hqdefault.jpg",
+      "published_at": "2026-06-07T20:30:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "uNkjc-JNaN4",
+      "title": "테크주 동반 '급락' 속 나스닥 지수 -4% 하락...반도체 패닉, 언제까지?_26.06.08 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=uNkjc-JNaN4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/uNkjc-JNaN4/hqdefault.jpg",
+      "published_at": "2026-06-07T20:27:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Z4AK-YksrJU",
       "title": "외국인이 삼성전자·하이닉스를 미친 듯이 팔아도 겁먹을 필요가 없는 이유",
@@ -1132,44 +1175,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KEriHGR21zM",
-      "title": "대한민국 크립토의 미래, CIS 2026에서 만나다",
-      "source_url": "https://www.youtube.com/watch?v=KEriHGR21zM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KEriHGR21zM/hqdefault.jpg",
-      "published_at": "2026-06-05T04:38:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OhwJCAkbRdE",
-      "title": "떨어진다 떨지 말고  \"고개 들어 7월을 봐라\" | 빈센트 & 편다송 [더블 업]",
-      "source_url": "https://www.youtube.com/shorts/OhwJCAkbRdE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OhwJCAkbRdE/hqdefault.jpg",
-      "published_at": "2026-06-05T04:20:06+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

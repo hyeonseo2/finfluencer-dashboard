@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T11:52:26.294093+00:00",
+  "generated_at": "2026-06-07T14:03:52.686198+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Z4AK-YksrJU",
+      "title": "외국인 100조 폭풍매도? 저는 오히려 지금이 기회라고 봅니다",
+      "source_url": "https://www.youtube.com/watch?v=Z4AK-YksrJU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Z4AK-YksrJU/hqdefault.jpg",
+      "published_at": "2026-06-07T12:47:57+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "DTJV0ddwcjE",
+      "title": "[주말 LIVE] 공포의 월요일 될까? 지금 주목해야할 두가지 포인트 (다시보기 X)",
+      "source_url": "https://www.youtube.com/watch?v=DTJV0ddwcjE",
+      "thumbnail_url": "https://i1.ytimg.com/vi/DTJV0ddwcjE/hqdefault.jpg",
+      "published_at": "2026-06-07T12:11:07+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Ukn71Furgtk",
+      "title": "삼성전자, SK하이닉스 단 한 주라도 있으면, 지금부터 빨리 주식 파세요 (주식 전문가 올투)",
+      "source_url": "https://www.youtube.com/watch?v=Ukn71Furgtk",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Ukn71Furgtk/hqdefault.jpg",
+      "published_at": "2026-06-07T12:00:02+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "RLo1TQbG-LM",
       "title": "한국 주식 '이때부터' 꺾인다, 증시 가장 위험한 3가지 트리거 (김광석 교수)",
@@ -174,25 +231,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "DTJV0ddwcjE",
-      "title": "[주말 LIVE] 공포의 월요일 될까? 지금 주목해야할 두가지 포인트 (다시보기 X)",
-      "source_url": "https://www.youtube.com/watch?v=DTJV0ddwcjE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DTJV0ddwcjE/hqdefault.jpg",
-      "published_at": "2026-06-07T07:30:05+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "7KjJSkZQLqo",
@@ -1239,30 +1277,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "WNZobKrNGYM",
-      "title": "삼성전자, SK하이닉스 지금 당장 도망치세요, 폭락 시작되면 계좌 녹는다 (무극선생 이승조 대표)",
-      "source_url": "https://www.youtube.com/watch?v=WNZobKrNGYM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WNZobKrNGYM/hqdefault.jpg",
-      "published_at": "2026-06-03T13:00:02+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "_X-CkhCHOZg",
       "title": "드디어 페라리가 미친 것일까?",
       "source_url": "https://www.youtube.com/watch?v=_X-CkhCHOZg",
@@ -1368,25 +1382,6 @@
       "source_url": "https://www.youtube.com/watch?v=3sRr0JbdCaU",
       "thumbnail_url": "https://i4.ytimg.com/vi/3sRr0JbdCaU/hqdefault.jpg",
       "published_at": "2026-06-02T09:00:03+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wieaUTwTpiY",
-      "title": "부족해도 너무 부족한 AI발 전력난, 조선업에 해결의 실마리가 있습니다ㅣ엄경아 신영증권 연구위원 [1부]",
-      "source_url": "https://www.youtube.com/watch?v=wieaUTwTpiY",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wieaUTwTpiY/hqdefault.jpg",
-      "published_at": "2026-06-02T08:00:13+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "macro"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T16:21:01.564501+00:00",
+  "generated_at": "2026-06-07T18:07:59.837714+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -306,22 +306,17 @@
     },
     {
       "video_id": "rUWrj6xeJ5c",
-      "title": "현금 있으면 '딱 3개 주식' 사세요, 27년까지 미친듯이 오를 겁니다 (조진표 대표 풀버전)",
+      "title": "결국 원전주 10배 넘게 오른다, 두산이 아닌 '이 주식' 꼭 사세요 (조진표 대표 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=rUWrj6xeJ5c",
       "thumbnail_url": "https://i3.ytimg.com/vi/rUWrj6xeJ5c/hqdefault.jpg",
       "published_at": "2026-06-07T04:00:14+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

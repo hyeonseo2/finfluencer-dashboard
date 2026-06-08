@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T19:23:18.254163+00:00",
+  "generated_at": "2026-06-08T21:53:19.363322+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "_GX5cLjGB3w",
+      "title": "SOX +5.6% 반등 속 뉴욕증시 혼조 마감...이스라엘·이란 '공격 중단'_26.06.09 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=_GX5cLjGB3w",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_GX5cLjGB3w/hqdefault.jpg",
+      "published_at": "2026-06-08T20:27:57+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "FyfpfRP0Y28",
       "title": "삼전닉스 공포장에도 버틸 이유 있다...변수 앞에서는 한 번에 사지 마세요ㅣ명민준, 강아랑, 길건우 [주린이 구조대]",
@@ -668,25 +692,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "p8WLQp4Bz90",
-      "title": "피바람 부는 글로벌 시장, 미국 고용 지표 쇼크에 금리 인상, 전쟁 공포까지 | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=p8WLQp4Bz90",
-      "thumbnail_url": "https://i1.ytimg.com/vi/p8WLQp4Bz90/hqdefault.jpg",
-      "published_at": "2026-06-08T03:13:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "lMMxxWJ4srE",
       "title": "[속보효] 현실이 된 블랙먼데이, 어떻게 해야 할까?",
       "source_url": "https://www.youtube.com/watch?v=lMMxxWJ4srE",
@@ -1222,7 +1227,7 @@
     },
     {
       "video_id": "kcD3aO8iZDg",
-      "title": "젠슨 황이 한국에 온 진짜 이유, 방한 후 대체 어떤 주식이 오를까? (전인구 소장)",
+      "title": "반도체 다음 텐배거 터질 '이 주식', 무서운 상승의 초입이 시작됐다 (전인구 소장)",
       "source_url": "https://www.youtube.com/watch?v=kcD3aO8iZDg",
       "thumbnail_url": "https://i4.ytimg.com/vi/kcD3aO8iZDg/hqdefault.jpg",
       "published_at": "2026-06-06T06:45:32+00:00",

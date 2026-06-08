@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T21:53:19.363322+00:00",
+  "generated_at": "2026-06-08T23:14:38.271698+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,23 +57,66 @@
   ],
   "videos": [
     {
+      "video_id": "wjTTvKs2Tr0",
+      "title": "지정학적 불확실성 완화에 반등…CPI 앞두고 숨 고르기 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=wjTTvKs2Tr0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wjTTvKs2Tr0/hqdefault.jpg",
+      "published_at": "2026-06-08T22:29:27+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jGatwsWVQfw",
+      "title": "드디어 기회가 왔다! 반도체 소부장 지금이 떼돈 벌 절호의 기회입니다 [월간아신 5월호 2부]",
+      "source_url": "https://www.youtube.com/watch?v=jGatwsWVQfw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jGatwsWVQfw/hqdefault.jpg",
+      "published_at": "2026-06-08T22:00:36+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "_GX5cLjGB3w",
-      "title": "SOX +5.6% 반등 속 뉴욕증시 혼조 마감...이스라엘·이란 '공격 중단'_26.06.09 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "title": "시총 600조 사라진 '블랙 먼데이'…금리·환율·스페이스X에 쏠리는 눈길 | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=_GX5cLjGB3w",
       "thumbnail_url": "https://i4.ytimg.com/vi/_GX5cLjGB3w/hqdefault.jpg",
       "published_at": "2026-06-08T20:27:57+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "commodities",
+        "fx",
+        "interest_rate"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "commodities",
           "stance": "neutral"
         },
         {
-          "topic": "commodities",
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
@@ -647,25 +690,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "g7myIKdokj0",
-      "title": "RWA 대세는 이더리움인데, 월가 자산운용사들이 솔라나로 넘어오는 진짜 이유 | 서동주, 김동환, 이성산 솔라나 재단 한국 총괄 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=g7myIKdokj0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/g7myIKdokj0/hqdefault.jpg",
-      "published_at": "2026-06-08T04:29:26+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
           "stance": "neutral"
         }
       ],
@@ -1371,25 +1395,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2NWfGeg4blE",
-      "title": "비트코인 급락, 어떻게 할까요?",
-      "source_url": "https://www.youtube.com/watch?v=2NWfGeg4blE",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2NWfGeg4blE/hqdefault.jpg",
-      "published_at": "2026-06-03T07:55:06+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T22:08:47.723892+00:00",
+  "generated_at": "2026-06-08T00:14:13.906906+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,73 @@
   ],
   "videos": [
     {
+      "video_id": "QEgjXBCxqyQ",
+      "title": "\"더 많은 HBM\" 믿을 건 젠슨황, “나라면 그렇게 가격 안올린 것” TSMC CEO | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=QEgjXBCxqyQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QEgjXBCxqyQ/hqdefault.jpg",
+      "published_at": "2026-06-07T23:25:14+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "C4L4caNW_0Q",
+      "title": "난기류 만난 증시, 추가하락 대비해야? 반도체에 무슨 일이? | 김장열 유니스토리자산운용 리서치센터장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=C4L4caNW_0Q",
+      "thumbnail_url": "https://i4.ytimg.com/vi/C4L4caNW_0Q/hqdefault.jpg",
+      "published_at": "2026-06-07T23:16:02+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "_T4VqhyCyic",
+      "title": "S&P500, 하루 만에 1조 8천억 달러 증발...시장은 무엇을 두려워하고 있을까? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=_T4VqhyCyic",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_T4VqhyCyic/hqdefault.jpg",
+      "published_at": "2026-06-07T22:34:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "jldDqabBa8U",
       "title": "비트맥시 오태민, 이더리움 10배 폭등하거나, 아예 세상에서 사라지거나 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/shorts/jldDqabBa8U",
@@ -77,22 +144,17 @@
     },
     {
       "video_id": "uNkjc-JNaN4",
-      "title": "테크주 동반 '급락' 속 나스닥 지수 -4% 하락...반도체 패닉, 언제까지?_26.06.08 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "title": "[6월 8일 개장시황] 빈센트, 정프로, 장우진, 손수연, 편다송, 고태훈 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=uNkjc-JNaN4",
       "thumbnail_url": "https://i2.ytimg.com/vi/uNkjc-JNaN4/hqdefault.jpg",
       "published_at": "2026-06-07T20:27:03+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -902,17 +964,22 @@
     },
     {
       "video_id": "ZxXzqXt_PZI",
-      "title": "삼성 다 팔고 '개미들 곡소리' 월요일 아침 무서운일 터지나｜빈센트 위원 1부",
+      "title": "\"언론은 쉬쉬하고 있어요\" 코스피 폭락한 진짜 이유｜빈센트 위원 1부",
       "source_url": "https://www.youtube.com/watch?v=ZxXzqXt_PZI",
       "thumbnail_url": "https://i3.ytimg.com/vi/ZxXzqXt_PZI/hqdefault.jpg",
       "published_at": "2026-06-06T00:00:37+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1044,30 +1111,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "wTt4Hh_XOYc",
-      "title": "반도체 피크아웃이라더니...시장이 놓친 진짜 변수, HBM 사이클은 아직 끝나지 않았습니다ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=wTt4Hh_XOYc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wTt4Hh_XOYc/hqdefault.jpg",
-      "published_at": "2026-06-05T11:00:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "sAX7jy05NEs",
       "title": "\"외국인이 싹다 팔았다\" 삼성전자 폭락한 진짜 이유. 곧 무시무시한 일 터진다｜민재기 팀장 풀버전",
       "source_url": "https://www.youtube.com/watch?v=sAX7jy05NEs",
@@ -1106,25 +1149,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "RX8TUMGecd0",
-      "title": "[6월 5일 마감시황] 삼전닉스 10% 폭락, 진짜 이유? 시장이 놓친 진짜 악재와 진짜 기회ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=RX8TUMGecd0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RX8TUMGecd0/hqdefault.jpg",
-      "published_at": "2026-06-05T08:22:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "g_xDfvLa5-M",
       "title": "세계 1위 한국 유리기판 대장주, '이 주식' 사면 떼돈 벌 겁니다 (안석현 기자)",
       "source_url": "https://www.youtube.com/watch?v=g_xDfvLa5-M",
@@ -1161,25 +1185,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "4auwGpTQw-c",
-      "title": "코인판 돈 안 떠났다.... 총알 장전, 스테이블코인으로 바닥만 기다리는 고래들 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=4auwGpTQw-c",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4auwGpTQw-c/hqdefault.jpg",
-      "published_at": "2026-06-05T04:39:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "r16R6YKJNgE",

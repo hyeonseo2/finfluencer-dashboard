@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T21:01:47.329508+00:00",
+  "generated_at": "2026-06-09T23:19:40.306008+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,41 +56,12 @@
   ],
   "videos": [
     {
-      "video_id": "A8apLEtTZDU",
-      "title": "유가·금리 하락 속 뉴욕증시 하락 마감...장중 변동성 극심, 왜?_26.06.10 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=A8apLEtTZDU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/A8apLEtTZDU/hqdefault.jpg",
-      "published_at": "2026-06-09T20:29:37+00:00",
+      "video_id": "WxR-KXJIGY4",
+      "title": "폭락론 확산에도 글로벌 경제 생각보다 강하다 | 신영증권 김효진 박사 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=WxR-KXJIGY4",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WxR-KXJIGY4/hqdefault.jpg",
+      "published_at": "2026-06-09T22:50:51+00:00",
       "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "W9BNm6rmtRI",
-      "title": "[특별 나잇효 LIVE] 조정이 오는 걸까? 무엇이든 물어보세요",
-      "source_url": "https://www.youtube.com/watch?v=W9BNm6rmtRI",
-      "thumbnail_url": "https://i4.ytimg.com/vi/W9BNm6rmtRI/hqdefault.jpg",
-      "published_at": "2026-06-09T16:49:45+00:00",
-      "channel_name": "이효석아카데미",
       "topics": [
         "macro"
       ],
@@ -100,8 +71,56 @@
           "stance": "neutral"
         }
       ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "yxUqIdN8m2k",
+      "title": "뉴욕 증시, 차익 매물 소화 구간…기간 조정은 언제 마무리될까? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=yxUqIdN8m2k",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yxUqIdN8m2k/hqdefault.jpg",
+      "published_at": "2026-06-09T22:18:50+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "A8apLEtTZDU",
+      "title": "삼성전자, 광주에 반도체 공장 설립 추진…SK하이닉스도 가볼까? | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=A8apLEtTZDU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/A8apLEtTZDU/hqdefault.jpg",
+      "published_at": "2026-06-09T20:29:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "whEA3-nnA3Y",
@@ -172,7 +191,7 @@
     },
     {
       "video_id": "kORRHEcplFU",
-      "title": "삼성전자 '이 신호가' 보이면, 일단 가진 주식 무조건 다 파세요 (주식 전문가 올투)",
+      "title": "삼성전자 '이때부턴' 가급적 파세요, 그냥 사놓고 기다리면 큰돈 잃는다 (주식 전문가 올투)",
       "source_url": "https://www.youtube.com/watch?v=kORRHEcplFU",
       "thumbnail_url": "https://i4.ytimg.com/vi/kORRHEcplFU/hqdefault.jpg",
       "published_at": "2026-06-09T11:30:20+00:00",
@@ -291,17 +310,17 @@
     },
     {
       "video_id": "mZu6ibyyVWg",
-      "title": "한국 역대급 전력 배치. 김정은 지금 초비상 걸렸다｜정창욱 교수 3부",
+      "title": "한국 현무 핵보다 무섭다. 단 1발에 평양 초토화된다｜정창욱 교수 3부",
       "source_url": "https://www.youtube.com/watch?v=mZu6ibyyVWg",
       "thumbnail_url": "https://i2.ytimg.com/vi/mZu6ibyyVWg/hqdefault.jpg",
       "published_at": "2026-06-09T10:30:09+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -548,7 +567,7 @@
     },
     {
       "video_id": "y5KPBsm7xlE",
-      "title": "삼성전자, SK하이닉스 아직 싸다, 지금 말고 '이때부터' 주식 파세요 (박정호 교수)",
+      "title": "한국 주식 과열이 맞지만, '이 주식은' 정말 너무 싸요 (박정호 교수)",
       "source_url": "https://www.youtube.com/watch?v=y5KPBsm7xlE",
       "thumbnail_url": "https://i2.ytimg.com/vi/y5KPBsm7xlE/hqdefault.jpg",
       "published_at": "2026-06-09T08:00:02+00:00",
@@ -664,44 +683,6 @@
         },
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hS6j5p-KY4c",
-      "title": "비트코인 채굴에서 AI 데이터센터로 전향한 기업들의 미친 수익률 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=hS6j5p-KY4c",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hS6j5p-KY4c/hqdefault.jpg",
-      "published_at": "2026-06-09T03:21:16+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "_GX5cLjGB3w",
-      "title": "[26.06.09 오전 방송 전체보기] SOX +5.6% 반등 속 뉴욕증시 혼조 마감...이스라엘·이란 '공격 중단'",
-      "source_url": "https://www.youtube.com/watch?v=_GX5cLjGB3w",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_GX5cLjGB3w/hqdefault.jpg",
-      "published_at": "2026-06-09T03:16:12+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -1380,6 +1361,25 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "i8Ogs7dlH-0",
+      "title": "삼전하닉 재평가 아직 시작도 안했습니다. 반도체 '역사상 최초' 입니다ㅣ한동희 SK 연구원",
+      "source_url": "https://www.youtube.com/watch?v=i8Ogs7dlH-0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/i8Ogs7dlH-0/hqdefault.jpg",
+      "published_at": "2026-06-05T05:14:10+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "jVRF2G4MTbU",

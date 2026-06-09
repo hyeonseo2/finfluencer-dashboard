@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T15:14:49.143444+00:00",
+  "generated_at": "2026-06-09T18:11:28.714687+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "W9BNm6rmtRI",
+      "title": "[특별 나잇효 LIVE] 조정이 오는 걸까? 무엇이든 물어보세요",
+      "source_url": "https://www.youtube.com/watch?v=W9BNm6rmtRI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/W9BNm6rmtRI/hqdefault.jpg",
+      "published_at": "2026-06-09T16:49:45+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "whEA3-nnA3Y",
       "title": "조정장에 팔 종목과 살 종목이 갈립니다…손절보다 중요한 ‘교체 전략’ㅣ명민준, 강아랑, 이지환 [주린이 구조대]",
@@ -1351,25 +1370,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "i8Ogs7dlH-0",
-      "title": "삼전하닉 재평가 아직 시작도 안했습니다. 반도체 '역사상 최초' 입니다ㅣ한동희 SK 연구원",
-      "source_url": "https://www.youtube.com/watch?v=i8Ogs7dlH-0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/i8Ogs7dlH-0/hqdefault.jpg",
-      "published_at": "2026-06-05T05:14:10+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "jVRF2G4MTbU",

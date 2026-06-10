@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T12:26:12.599953+00:00",
+  "generated_at": "2026-06-10T16:38:01.608613+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
   ],
   "videos": [
     {
+      "video_id": "Swfnylswdk4",
+      "title": "백화점주 놓쳤다면 호텔주? 지금 봐야 할 포인트ㅣ명민준, 강아랑, 정태근 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=Swfnylswdk4",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Swfnylswdk4/hqdefault.jpg",
+      "published_at": "2026-06-10T13:30:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "b5f1Ld5teYo",
+      "title": "폭락장에도 강한 종목은 있다. 문제는 매수 타이밍입니다ㅣ명민준, 강아랑, 이권희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=b5f1Ld5teYo",
+      "thumbnail_url": "https://i3.ytimg.com/vi/b5f1Ld5teYo/hqdefault.jpg",
+      "published_at": "2026-06-10T12:30:26+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "3jJ36CaBxCU",
       "title": "\"건보료 상승 걱정 없다. 이 3가지 ETF만 죽어라 사모아라\" 월 300 죽을 때까지 나옵니다 | 김규동 이사 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=3jJ36CaBxCU",
@@ -75,17 +113,17 @@
     },
     {
       "video_id": "n2lFNNGM0kc",
-      "title": "AI 역대급 악재 곧 터집니다, 그냥 사놓고 기다리면 큰돈 잃는다 (전인구 소장)",
+      "title": "AI 역대급 악재 곧 터집니다, 삼성전자 주식 정말 조심하세요 (전인구 소장)",
       "source_url": "https://www.youtube.com/watch?v=n2lFNNGM0kc",
       "thumbnail_url": "https://i3.ytimg.com/vi/n2lFNNGM0kc/hqdefault.jpg",
       "published_at": "2026-06-10T11:30:24+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -706,44 +744,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "aHk9SUA2_jc",
-      "title": "불안한 수급, 흔들리는 순환매 속 봐야 할 것은? | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=aHk9SUA2_jc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aHk9SUA2_jc/hqdefault.jpg",
-      "published_at": "2026-06-10T01:11:34+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ZxCsi4rBTQY",
-      "title": "기관이 드디어 움직였다…하반기 증시의 결정적 변화 | 박병창 MP파트너스 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=ZxCsi4rBTQY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZxCsi4rBTQY/hqdefault.jpg",
-      "published_at": "2026-06-10T00:07:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

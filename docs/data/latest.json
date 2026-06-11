@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T18:19:09.966235+00:00",
+  "generated_at": "2026-06-11T21:24:32.044901+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "e_FF2UNkWCw",
+      "title": "트럼프 \"이란과 합의\", 뉴욕증시 급반등...코스피 야간선물 '급등'_26.06.12 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=e_FF2UNkWCw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/e_FF2UNkWCw/hqdefault.jpg",
+      "published_at": "2026-06-11T20:19:45+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "DXuD80o6oq4",
       "title": "전력기기주 한 달 만에 급락...지금이 기회인지 판단하는 법ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
@@ -686,25 +710,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "y7wUcmIh-aw",
-      "title": "변동성 큰 시장, 언제 마무리될까? '창과 방패' 전략은 이렇게!_26.06.11. | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=y7wUcmIh-aw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/y7wUcmIh-aw/hqdefault.jpg",
-      "published_at": "2026-06-11T02:45:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "5ApcdsPlJRk",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T21:24:32.044901+00:00",
+  "generated_at": "2026-06-11T23:39:53.930118+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,6 +48,7 @@
     "commodities",
     "crypto",
     "etf",
+    "fx",
     "interest_rate",
     "macro",
     "real_estate",
@@ -55,8 +56,51 @@
   ],
   "videos": [
     {
+      "video_id": "NtzX_K_Ywg4",
+      "title": "스페이스X IPO 135달러 확정…\"시총 2조 달러 직행?\" | 북중미 월드컵 개막, 아틀라스 시축? | 류종은 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=NtzX_K_Ywg4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NtzX_K_Ywg4/hqdefault.jpg",
+      "published_at": "2026-06-11T23:13:52+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NQ5Pnr2yC0Y",
+      "title": "트럼프 “이란 공습 계획 취소”…마이크론, 샌디스크 급반등 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=NQ5Pnr2yC0Y",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NQ5Pnr2yC0Y/hqdefault.jpg",
+      "published_at": "2026-06-11T22:25:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "e_FF2UNkWCw",
-      "title": "트럼프 \"이란과 합의\", 뉴욕증시 급반등...코스피 야간선물 '급등'_26.06.12 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "비상벨 울리는 코스피…오르락 내리락 시장 속 이번주 마지막 거래일 전략은? | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=e_FF2UNkWCw",
       "thumbnail_url": "https://i2.ytimg.com/vi/e_FF2UNkWCw/hqdefault.jpg",
       "published_at": "2026-06-11T20:19:45+00:00",
@@ -631,30 +675,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "lLRomqo5jCc",
-      "title": "CPI, 전쟁, 그리고 트럼프…대혼돈에 빠진 비트코인과 글로벌 시장 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=lLRomqo5jCc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lLRomqo5jCc/hqdefault.jpg",
-      "published_at": "2026-06-11T05:02:53+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "TyMcmTgpvJo",
       "title": "비트코인 0.21개만 있으면 은퇴 후 당신의 노후 준비가 끝납니다ㅣ이장우·박종한·강승구 [3부]",
       "source_url": "https://www.youtube.com/watch?v=TyMcmTgpvJo",
@@ -672,25 +692,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "bVbctmrmIDk",
-      "title": "[26.06.11 오전 방송 전체보기] 전쟁·물가 우려 속 뉴욕증시 하락 마감",
-      "source_url": "https://www.youtube.com/watch?v=bVbctmrmIDk",
-      "thumbnail_url": "https://i3.ytimg.com/vi/bVbctmrmIDk/hqdefault.jpg",
-      "published_at": "2026-06-11T03:22:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ycIncK4a_h4",

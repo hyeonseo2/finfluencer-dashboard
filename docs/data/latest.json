@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T22:07:50.120164+00:00",
+  "generated_at": "2026-06-11T00:20:10.742151+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,23 +55,75 @@
   ],
   "videos": [
     {
+      "video_id": "LbYdx__750U",
+      "title": "투자자들 눈물 흘리는 장세... 그래도 팔지 말라는 이유 | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=LbYdx__750U",
+      "thumbnail_url": "https://i1.ytimg.com/vi/LbYdx__750U/hqdefault.jpg",
+      "published_at": "2026-06-10T23:25:21+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "a-A6tmNBPBI",
+      "title": "모델Y 국내 판매 1위에 머스크 '엄지척'…\"중국산 전기차 몰려온다” | 류종은 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=a-A6tmNBPBI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/a-A6tmNBPBI/hqdefault.jpg",
+      "published_at": "2026-06-10T23:18:44+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "IscrSSLWKv4",
+      "title": "트럼프 “이란은 대가를 치러야 할 것“…오라클, 자금 조달 우려에 시간외 급락 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=IscrSSLWKv4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IscrSSLWKv4/hqdefault.jpg",
+      "published_at": "2026-06-10T22:17:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "bVbctmrmIDk",
-      "title": "전쟁·물가 우려 속 뉴욕증시 하락 마감...오라클 실적 발표_26.06.11 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "[6월 11일 개장시황] 빈센트, 정프로, 장우진, 조희진, 편다송, 한유건  [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=bVbctmrmIDk",
       "thumbnail_url": "https://i3.ytimg.com/vi/bVbctmrmIDk/hqdefault.jpg",
       "published_at": "2026-06-10T20:23:00+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -366,17 +418,22 @@
     },
     {
       "video_id": "UvvIrAW5QRw",
-      "title": "\"대한민국 대출금지의 시대\" 아는 사람만 움직이고 있어요. 앞으로 무주택자 '이렇게' 하세요 | 플팩 강연옥 대표 2부 #돈쭐남 #김경필",
+      "title": "\"사형선고 내려졌다\" 7월 금리인상 확정? 당장 부동산 싹 정리하세요 | 플팩 강연옥 대표 2부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=UvvIrAW5QRw",
       "thumbnail_url": "https://i2.ytimg.com/vi/UvvIrAW5QRw/hqdefault.jpg",
       "published_at": "2026-06-10T09:00:38+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "macro"
+        "interest_rate",
+        "real_estate"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
           "stance": "neutral"
         }
       ],
@@ -670,35 +727,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "A8apLEtTZDU",
-      "title": "[26.06.10 오전 방송 전체보기] 유가·금리 하락 속 뉴욕증시 하락 마감...장중 변동성 극심, 왜?",
-      "source_url": "https://www.youtube.com/watch?v=A8apLEtTZDU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/A8apLEtTZDU/hqdefault.jpg",
-      "published_at": "2026-06-10T03:14:05+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "KJwJTiXE7mc",
       "title": "[속보효] 짜증나는 기간조정, 지치면 지는 겁니다",
       "source_url": "https://www.youtube.com/watch?v=KJwJTiXE7mc",
@@ -716,44 +744,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ENrzH3jvHv8",
-      "title": "6월, 이벤트가 너무 많다. 변동성 언제 끝날까? 기회는 어디에 있나?_26.06.10. | 박지훈, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=ENrzH3jvHv8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ENrzH3jvHv8/hqdefault.jpg",
-      "published_at": "2026-06-10T02:36:07+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "WPJqgp-A0W8",
-      "title": "추정치 계속 상향하는 이유가 따로 있다? | 김록호 하나증권 리서치센터 팀장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=WPJqgp-A0W8",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WPJqgp-A0W8/hqdefault.jpg",
-      "published_at": "2026-06-10T01:40:43+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "wHiER6qmdIQ",

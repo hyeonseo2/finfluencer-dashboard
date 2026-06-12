@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T21:52:14.039107+00:00",
+  "generated_at": "2026-06-12T23:22:04.217572+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
   ],
   "videos": [
     {
+      "video_id": "LftR5VVB10c",
+      "title": "\"팔았던 사람들 후회합니다...\" 지금 시장의 진실 | 이선엽 AFW파트너스 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=LftR5VVB10c",
+      "thumbnail_url": "https://i1.ytimg.com/vi/LftR5VVB10c/hqdefault.jpg",
+      "published_at": "2026-06-12T23:00:17+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "cy-9NEvJhqo",
       "title": "이벤트 매매의 함정, 좋은 뉴스가 나와도 주가가 빠지는 이유와 개인투자자가 조심해야 할 순간ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=cy-9NEvJhqo",
@@ -100,17 +119,22 @@
     },
     {
       "video_id": "2VSPEGgNC6c",
-      "title": "한국 반도체 죽으면 싹 다 끝이다, 증시 정확히 진단해드릴게요 (백만개미 한세구)",
+      "title": "50년 주식 고수가 공개하는 매매법, 반드시 '이것' 본 다음 사고, 파세요 (백만개미 한세구)",
       "source_url": "https://www.youtube.com/watch?v=2VSPEGgNC6c",
       "thumbnail_url": "https://i3.ytimg.com/vi/2VSPEGgNC6c/hqdefault.jpg",
       "published_at": "2026-06-12T12:15:27+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "real_estate"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
           "stance": "neutral"
         }
       ],
@@ -630,25 +654,6 @@
         },
         {
           "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-gFZrDqBNO8",
-      "title": "종전은 이제 의미 없습니다, 진짜 위협은 따로 있습니다 | 윤정식 바로자산운용 상무 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=-gFZrDqBNO8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-gFZrDqBNO8/hqdefault.jpg",
-      "published_at": "2026-06-12T02:17:17+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

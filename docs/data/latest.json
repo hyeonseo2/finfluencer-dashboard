@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T12:56:56.149297+00:00",
+  "generated_at": "2026-06-12T16:25:22.219802+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,49 @@
   ],
   "videos": [
     {
+      "video_id": "cy-9NEvJhqo",
+      "title": "이벤트 매매의 함정, 좋은 뉴스가 나와도 주가가 빠지는 이유와 개인투자자가 조심해야 할 순간ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=cy-9NEvJhqo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cy-9NEvJhqo/hqdefault.jpg",
+      "published_at": "2026-06-12T14:00:07+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "N9nzuGuZRLM",
+      "title": "전기보다 반도체가 먼저 간다? 삼성전자·SK하이닉스 신고가 시동ㅣ명민준, 박가영, 이재규 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=N9nzuGuZRLM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/N9nzuGuZRLM/hqdefault.jpg",
+      "published_at": "2026-06-12T13:00:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "2VSPEGgNC6c",
       "title": "한국 반도체 죽으면 싹 다 끝이다, 증시 정확히 진단해드릴게요 (백만개미 한세구)",
       "source_url": "https://www.youtube.com/watch?v=2VSPEGgNC6c",
@@ -100,17 +143,22 @@
     },
     {
       "video_id": "84SSBAp1oT4",
-      "title": "\"노후는 완벽하게 해결됩니다\" 매달 50만원 여기에 넣으세요. 평생 돈걱정 끝입니다 #원픽리포트",
+      "title": "\"99%가 이걸 몰라서 후회해요\" 지금 당장 이 ETF 사둬라. 숨만 쉬어도 돈이 불어난다 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=84SSBAp1oT4",
       "thumbnail_url": "https://i1.ytimg.com/vi/84SSBAp1oT4/hqdefault.jpg",
       "published_at": "2026-06-12T12:00:01+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "macro"
+        "commodities",
+        "etf"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -309,7 +357,7 @@
     },
     {
       "video_id": "HZMoZmDJ90E",
-      "title": "\"근데 삼전닉스가 더 궁금하시죠?\"...S-1 보고서가 밝힌 스페이스X 상장의 진실ㅣ홍선애, 정의훈 유진투자증권 연구원",
+      "title": "\"근데 삼전닉스가 더 궁금하시죠?\"...S-1 보고서가 밝힌 스페이스X 상장의 진실ㅣ홍선애, 정의훈 유진투자증권 선임연구원 [여의도 인사이트]",
       "source_url": "https://www.youtube.com/watch?v=HZMoZmDJ90E",
       "thumbnail_url": "https://i1.ytimg.com/vi/HZMoZmDJ90E/hqdefault.jpg",
       "published_at": "2026-06-12T08:54:35+00:00",
@@ -480,16 +528,21 @@
     },
     {
       "video_id": "S-CrB9L1BaY",
-      "title": "비트코인, 달러, AI까지…미국의 진짜 설계 와 비트코인의 다음단계  | 서동주, 김동환, 캐시 우드 ARK 인베스트 CEO [크립토 PLUS]",
+      "title": "비트코인, 달러, AI까지…미국의 진짜 설계 와 비트코인의 다음단계 | 서동주, 김동환 캐시우드, 프랭크 다우닝 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=S-CrB9L1BaY",
       "thumbnail_url": "https://i4.ytimg.com/vi/S-CrB9L1BaY/hqdefault.jpg",
       "published_at": "2026-06-12T05:38:36+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
+        "stocks",
         "crypto",
         "fx"
       ],
       "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
         {
           "topic": "crypto",
           "stance": "neutral"
@@ -596,44 +649,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "eh3rx-BDdGI",
-      "title": "\"반도체 슈퍼사이클 진짜 시작한다\" 낙수효과 첫 번째는? | 권택중 더 센터필드W 과장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=eh3rx-BDdGI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/eh3rx-BDdGI/hqdefault.jpg",
-      "published_at": "2026-06-12T02:06:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OYErVZaskng",
-      "title": "\"시장의 끝을 볼 종목\"을 잘 보셔야 합니다 | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=OYErVZaskng",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OYErVZaskng/hqdefault.jpg",
-      "published_at": "2026-06-12T01:56:10+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

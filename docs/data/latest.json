@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T11:19:03.499806+00:00",
+  "generated_at": "2026-06-13T14:09:46.413300+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "7OpCWu1PYVY",
+      "title": "삼성전자에 흐르는 수상한 기류, '이것' 눈치챈 사람만 큰 돈 번다 (박정호 교수 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=7OpCWu1PYVY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7OpCWu1PYVY/hqdefault.jpg",
+      "published_at": "2026-06-13T12:00:17+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "uHILXWamiQA",
+      "title": "한국 부자 80%가 부채 있습니다, 부자가 빚 두려워하지 않는 이유 (김진웅 연구위원)",
+      "source_url": "https://www.youtube.com/watch?v=uHILXWamiQA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/uHILXWamiQA/hqdefault.jpg",
+      "published_at": "2026-06-13T11:15:31+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "9I70BYoaE-c",
       "title": "스페이스X 전격 상장! ‘이 ETF’ 죽어라 사 모으세요 | 김영롱 부장",
@@ -1231,44 +1269,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "vWlAMnmLx-g",
-      "title": "한국 부동산 이상 징조 시작됐다, 집값 7월부터 무서울 겁니다 (부동산 투자자 진와이스 대표)",
-      "source_url": "https://www.youtube.com/watch?v=vWlAMnmLx-g",
-      "thumbnail_url": "https://i3.ytimg.com/vi/vWlAMnmLx-g/hqdefault.jpg",
-      "published_at": "2026-06-10T09:00:04+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1pRec0tEP14",
-      "title": "삼성전자 분위기 심상치않다, '이때부턴' 주식 가급적 파세요 (전인구 소장)",
-      "source_url": "https://www.youtube.com/watch?v=1pRec0tEP14",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1pRec0tEP14/hqdefault.jpg",
-      "published_at": "2026-06-10T08:00:29+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "SIx58eyEunU",

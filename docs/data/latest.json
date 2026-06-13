@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T08:24:33.811087+00:00",
+  "generated_at": "2026-06-13T11:19:03.499806+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "9I70BYoaE-c",
+      "title": "스페이스X 전격 상장! ‘이 ETF’ 죽어라 사 모으세요 | 김영롱 부장",
+      "source_url": "https://www.youtube.com/watch?v=9I70BYoaE-c",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9I70BYoaE-c/hqdefault.jpg",
+      "published_at": "2026-06-13T10:00:08+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "PCTDt9OZ3Z4",
       "title": "\"올 7월 역대급 기회\" 삼성전자 난리난 진짜 이유. 지금 안팔면 '이렇게' 된다｜빈센트 위원 풀버전",
@@ -782,17 +801,17 @@
     },
     {
       "video_id": "SZD97FuqFoo",
-      "title": "한국 경제 정말 대박이 났어요, 한국 반도체 떼돈 벌 일만 남았다 (김경록 박사)",
+      "title": "한국은 떼돈 벌 일만 남았다, 전 세계가 한국만 찾는 진짜 이유 (김경록 박사)",
       "source_url": "https://www.youtube.com/watch?v=SZD97FuqFoo",
       "thumbnail_url": "https://i4.ytimg.com/vi/SZD97FuqFoo/hqdefault.jpg",
       "published_at": "2026-06-12T09:15:10+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -893,25 +912,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Q9aumCahUAQ",
-      "title": "두산에너빌리티 이 가격 되면 무조건 사라 결국 원전주 10배 오를 겁니다 | 이승조 무극선생 3부",
-      "source_url": "https://www.youtube.com/watch?v=Q9aumCahUAQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Q9aumCahUAQ/hqdefault.jpg",
-      "published_at": "2026-06-12T06:30:07+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "S-CrB9L1BaY",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T15:08:40.977633+00:00",
+  "generated_at": "2026-06-14T17:23:50.585163+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "PRkWKQxXTmo",
+      "title": "[효친클럽 주말라이브] 조정장에서 다음 주도주 찾기",
+      "source_url": "https://www.youtube.com/watch?v=PRkWKQxXTmo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PRkWKQxXTmo/hqdefault.jpg",
+      "published_at": "2026-06-14T15:48:37+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ex6ZTtC37VI",
       "title": "주가만 과열? 펀더멘탈도 과열인 진짜 이유 (ft.빅테크 캐펙스)",
@@ -290,7 +309,7 @@
     },
     {
       "video_id": "ojcIOyx-Xv4",
-      "title": "노후준비 1달 적정 생활비, '최소 이 정도' 돈이 필요합니다 (김진웅 연구위원)",
+      "title": "상위 1% 부자 노후준비 생활비, '최소 이 정도' 돈이 필요하다 (김진웅 연구위원)",
       "source_url": "https://www.youtube.com/watch?v=ojcIOyx-Xv4",
       "thumbnail_url": "https://i4.ytimg.com/vi/ojcIOyx-Xv4/hqdefault.jpg",
       "published_at": "2026-06-14T04:00:15+00:00",
@@ -1266,30 +1285,6 @@
         "crypto"
       ],
       "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5ApcdsPlJRk",
-      "title": "비트코인 지금 팔려고 고민하고 계신 분들 주목. 제발 이것만이라도 확인하고 가세요ㅣ이장우·박종한·강승구 [1부]",
-      "source_url": "https://www.youtube.com/watch?v=5ApcdsPlJRk",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5ApcdsPlJRk/hqdefault.jpg",
-      "published_at": "2026-06-11T02:00:19+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
         {
           "topic": "crypto",
           "stance": "neutral"

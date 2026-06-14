@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T22:08:28.028552+00:00",
+  "generated_at": "2026-06-14T00:12:52.828851+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "TejXeKPDbec",
+      "title": "AI 사이클 위기설과 버블론, 데이터로 정면 반박합니다",
+      "source_url": "https://www.youtube.com/watch?v=TejXeKPDbec",
+      "thumbnail_url": "https://i1.ytimg.com/vi/TejXeKPDbec/hqdefault.jpg",
+      "published_at": "2026-06-14T00:00:18+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "pmiQjVmGmHw",
+      "title": "코스피 대세 상승의 시작, 아직 늦지 않았다 | 신영증권 김효진 박사 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=pmiQjVmGmHw",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pmiQjVmGmHw/hqdefault.jpg",
+      "published_at": "2026-06-13T23:00:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "7OpCWu1PYVY",
       "title": "삼성전자에 흐르는 수상한 기류, '이것' 눈치챈 사람만 큰 돈 번다 (박정호 교수 풀버전)",
@@ -434,15 +472,25 @@
     },
     {
       "video_id": "Qqb4ZG5mlzU",
-      "title": "\"정부가 15.4% 확정 보장한다\" 이 ETF 미친듯 사 모아라. 노후 돈 걱정 끝난다 | 유백선 대표 2부",
+      "title": "\"연배당 8% 괴물 ETF 나왔다\" 지금 S&P500, 나스닥100, 코스피200 살 때 아니다. 여기로 싹 다 옮겨라 | 유백선 대표 2부",
       "source_url": "https://www.youtube.com/watch?v=Qqb4ZG5mlzU",
       "thumbnail_url": "https://i2.ytimg.com/vi/Qqb4ZG5mlzU/hqdefault.jpg",
       "published_at": "2026-06-13T02:00:30+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
+        "stocks",
+        "commodities",
         "etf"
       ],
       "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
         {
           "topic": "etf",
           "stance": "neutral"
@@ -952,35 +1000,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "S-CrB9L1BaY",
-      "title": "비트코인, 달러, AI까지…미국의 진짜 설계 와 비트코인의 다음단계 | 서동주, 김동환 캐시우드, 프랭크 다우닝 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=S-CrB9L1BaY",
-      "thumbnail_url": "https://i4.ytimg.com/vi/S-CrB9L1BaY/hqdefault.jpg",
-      "published_at": "2026-06-12T05:38:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "crypto",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "iYxXXvLxF_8",
       "title": "스페이스X 매수하기 전에 꼭 확인하세요! IPO의 모든 것",
       "source_url": "https://www.youtube.com/watch?v=iYxXXvLxF_8",
@@ -1326,25 +1345,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "LrNICf6ok3s",
-      "title": "조선주에 물리셨다면 당장 보셔야 하는 영상입니다. 하반기에 조선주 돈잔치 제대로 열릴겁니다ㅣ엄경아 신영증권 연구위원 [풀영상]",
-      "source_url": "https://www.youtube.com/watch?v=LrNICf6ok3s",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LrNICf6ok3s/hqdefault.jpg",
-      "published_at": "2026-06-09T08:30:32+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "6VMGVcmh1sM",

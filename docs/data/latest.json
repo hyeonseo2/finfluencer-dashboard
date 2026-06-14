@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T21:17:59.510530+00:00",
+  "generated_at": "2026-06-14T23:12:45.680517+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,15 +56,54 @@
   ],
   "videos": [
     {
+      "video_id": "CfwmxKOVV0A",
+      "title": "전쟁 드디어 끝! “여름휴가 가지마세요” 이슈가 풍년입니다 | 김장열 유니스토리자산운용 리서치센터 센터장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=CfwmxKOVV0A",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CfwmxKOVV0A/hqdefault.jpg",
+      "published_at": "2026-06-14T22:50:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KzZk3FmxZxY",
+      "title": "스페이스X, 상장 직후 급등...인텔, AMD 등 CPU 섹터 강세 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=KzZk3FmxZxY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KzZk3FmxZxY/hqdefault.jpg",
+      "published_at": "2026-06-14T22:11:51+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "gSosZjiuh2Q",
-      "title": "스페이스X '시총 2조', 미·이란 협상 기대 속 뉴욕증시 상승마감_26.06.15 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "title": "미국·이란 106일 만에 종전 합의, 비트코인도 급등…오늘 국내증시도 웃을까 | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=gSosZjiuh2Q",
       "thumbnail_url": "https://i4.ytimg.com/vi/gSosZjiuh2Q/hqdefault.jpg",
       "published_at": "2026-06-14T20:19:48+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities"
+        "commodities",
+        "crypto"
       ],
       "topic_stances": [
         {
@@ -73,6 +112,10 @@
         },
         {
           "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "crypto",
           "stance": "neutral"
         }
       ],
@@ -1028,30 +1071,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "WHRwsile884",
-      "title": "삼성전자·SK하이닉스 보유자, 지금은 매수보다 이것이 중요합니다ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=WHRwsile884",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WHRwsile884/hqdefault.jpg",
-      "published_at": "2026-06-12T12:00:20+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "asbufYS_QE8",
       "title": "현직 대통령 얼굴을 화폐에 넣어도 되나요?",
       "source_url": "https://www.youtube.com/watch?v=asbufYS_QE8",
@@ -1069,25 +1088,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "_jvGsk8fhgY",
-      "title": "[26.06.12 오후 방송 전체보기] 팔천피·천스닥 단숨에 회복했다…오늘의 마지막 시선은 스페이스X에 집중! [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=_jvGsk8fhgY",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_jvGsk8fhgY/hqdefault.jpg",
-      "published_at": "2026-06-12T11:01:15+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "U4Ryq5v0yJk",

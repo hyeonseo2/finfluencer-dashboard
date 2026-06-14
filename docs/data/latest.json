@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T19:42:46.459489+00:00",
+  "generated_at": "2026-06-14T21:17:59.510530+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "gSosZjiuh2Q",
+      "title": "스페이스X '시총 2조', 미·이란 협상 기대 속 뉴욕증시 상승마감_26.06.15 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=gSosZjiuh2Q",
+      "thumbnail_url": "https://i4.ytimg.com/vi/gSosZjiuh2Q/hqdefault.jpg",
+      "published_at": "2026-06-14T20:19:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "PRkWKQxXTmo",
       "title": "[효친클럽 주말라이브] 조정장에서 다음 주도주 찾기",
@@ -1102,25 +1126,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "HZMoZmDJ90E",
-      "title": "\"근데 삼전닉스가 더 궁금하시죠?\"...S-1 보고서가 밝힌 스페이스X 상장의 진실ㅣ홍선애, 정의훈 유진투자증권 선임연구원 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=HZMoZmDJ90E",
-      "thumbnail_url": "https://i1.ytimg.com/vi/HZMoZmDJ90E/hqdefault.jpg",
-      "published_at": "2026-06-12T08:54:35+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "iYxXXvLxF_8",

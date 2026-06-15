@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T17:20:18.349319+00:00",
+  "generated_at": "2026-06-15T21:09:44.731130+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "tyGE1ML_KPg",
+      "title": "미·이란 종전 합의 속 뉴욕증시 상승 마감...스페이스X, 연일 '급등'_26.06.16 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=tyGE1ML_KPg",
+      "thumbnail_url": "https://i1.ytimg.com/vi/tyGE1ML_KPg/hqdefault.jpg",
+      "published_at": "2026-06-15T20:23:10+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Yrqv5_MnLX0",
       "title": "반도체 ETF 열풍, 따라 사기 전에 보세요ㅣ명민준, 박가영, 최창규 [주린이 구조대]",
@@ -621,25 +645,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "D4ELEzD0520",
-      "title": "마지막 매수 기회 온다…3분기 흔들리지 마세요 | 이형수 HSL파트너스 대표 [더블업]",
-      "source_url": "https://www.youtube.com/watch?v=D4ELEzD0520",
-      "thumbnail_url": "https://i1.ytimg.com/vi/D4ELEzD0520/hqdefault.jpg",
-      "published_at": "2026-06-15T02:12:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

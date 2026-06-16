@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T19:48:27.349114+00:00",
+  "generated_at": "2026-06-16T22:18:09.136189+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,54 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "mB2AVGKMJAw",
+      "title": "뉴욕증시, FOMC 앞두고 가치주 순환…스페이스X, 장중 17% 또 급등 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=mB2AVGKMJAw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/mB2AVGKMJAw/hqdefault.jpg",
+      "published_at": "2026-06-16T22:01:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "vs85j3_a8cY",
+      "title": "기술주 중심 하락 속 뉴욕증시 혼조 마감...스페이스X '시총 5위'_26.06.17 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=vs85j3_a8cY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/vs85j3_a8cY/hqdefault.jpg",
+      "published_at": "2026-06-16T20:21:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "q-zONq9JzNA",
       "title": "반도체만 담기 불안한 장세…조선·소비재로 분산해야 할 타이밍ㅣ명민준, 최효은, 황유현 [주린이 구조대]",
@@ -689,49 +737,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "j_nbB6qcUR0",
-      "title": "K-증시, 변동성은 당연하다! SK하이닉스, ADR상장 효과는 역대급?! _26.06.16. | 정우창, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=j_nbB6qcUR0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/j_nbB6qcUR0/hqdefault.jpg",
-      "published_at": "2026-06-16T02:41:12+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-7Opq-cCDL0",
-      "title": "금리인상의 최대 수혜주, 7월에 반드시 봐야 하는 이유 | 최정욱 하나증권 리서치센터 실장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=-7Opq-cCDL0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-7Opq-cCDL0/hqdefault.jpg",
-      "published_at": "2026-06-16T02:17:41+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T16:00:20.029150+00:00",
+  "generated_at": "2026-06-16T19:48:27.349114+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -1306,25 +1306,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Wd9XshGEwhE",
-      "title": "이번 주에 월드컵을 한다고? 잊혀져 가는 북중미 월드컵",
-      "source_url": "https://www.youtube.com/watch?v=Wd9XshGEwhE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Wd9XshGEwhE/hqdefault.jpg",
-      "published_at": "2026-06-11T11:18:50+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "8o89tc_z7OA",
       "title": "스페이스X가 97%를 꽁꽁 묶어놓고 3%만 시장에 던져준 진짜 속내가 따로 있습니다 [Z1뉴스]",
       "source_url": "https://www.youtube.com/watch?v=8o89tc_z7OA",
@@ -1508,6 +1489,25 @@
       "topic_stances": [
         {
           "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "-nXLqdgNHho",
+      "title": "\"전국민이 주식에 취해있다.\"",
+      "source_url": "https://www.youtube.com/watch?v=-nXLqdgNHho",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-nXLqdgNHho/hqdefault.jpg",
+      "published_at": "2026-06-01T11:14:04+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],

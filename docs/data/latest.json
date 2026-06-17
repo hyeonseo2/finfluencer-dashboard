@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T18:24:45.482205+00:00",
+  "generated_at": "2026-06-17T21:12:11.556466+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "EHNKjhdKL0k",
+      "title": "금리 인상 우려에 뉴욕증시 하락 마감...필·반지수 +1.3% 상승_26.06.18 | 여도은, 박명석, 오기석 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=EHNKjhdKL0k",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EHNKjhdKL0k/hqdefault.jpg",
+      "published_at": "2026-06-17T20:35:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "zvjj5tnrskk",
       "title": "진짜 투자는 '환율'에서 시작된다ㅣ명민준, 박가영, 송재경 [주린이 구조대]",
@@ -158,7 +187,7 @@
     },
     {
       "video_id": "fjLg-ZYgRYY",
-      "title": "[26.06.17 오후 방송 전체보기] SK하이닉스 신고가 돌파! 오늘은 사이 좋은 코스피 코스닥...FOMC는? 이번주 금리위크! 내일 시장은? [클로징벨 라이브]",
+      "title": "[26.06.17 오후 방송 전체보기] SK하이닉스 신고가 돌파! 오늘은 사이 좋은 코스피 코스닥...FOMC는? 이번주 금리위크! 내일 시장은?",
       "source_url": "https://www.youtube.com/watch?v=fjLg-ZYgRYY",
       "thumbnail_url": "https://i3.ytimg.com/vi/fjLg-ZYgRYY/hqdefault.jpg",
       "published_at": "2026-06-17T11:04:26+00:00",
@@ -722,25 +751,6 @@
         },
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "n4gMM_4f63c",
-      "title": "투자처가 늘어난다, 원전·LNG, 그리고 주목해야 할 섹터는?_26.06.17. | 박지훈, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=n4gMM_4f63c",
-      "thumbnail_url": "https://i3.ytimg.com/vi/n4gMM_4f63c/hqdefault.jpg",
-      "published_at": "2026-06-17T02:28:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

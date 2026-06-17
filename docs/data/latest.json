@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T21:12:11.556466+00:00",
+  "generated_at": "2026-06-17T23:42:16.469498+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,28 +57,104 @@
   ],
   "videos": [
     {
-      "video_id": "EHNKjhdKL0k",
-      "title": "금리 인상 우려에 뉴욕증시 하락 마감...필·반지수 +1.3% 상승_26.06.18 | 여도은, 박명석, 오기석 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=EHNKjhdKL0k",
-      "thumbnail_url": "https://i2.ytimg.com/vi/EHNKjhdKL0k/hqdefault.jpg",
-      "published_at": "2026-06-17T20:35:38+00:00",
+      "video_id": "xiY5OpzVEoI",
+      "title": "'매둘기' 케빈 워시 첫 FOMC, 금리 동결하고 연내 인상 시사 | AI 반도체 커지면서 중요해진 '기판'…\"유리기판 가속화 기대\" | 류종은 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=xiY5OpzVEoI",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xiY5OpzVEoI/hqdefault.jpg",
+      "published_at": "2026-06-17T23:28:53+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities",
         "interest_rate"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
         },
         {
           "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "N-b6e8jlDuc",
+      "title": "스페이스X, 우주 기업이 아니다? 투자 포인트 완전 분석 | 오기석 Rex Shares 아시아 사업 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=N-b6e8jlDuc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/N-b6e8jlDuc/hqdefault.jpg",
+      "published_at": "2026-06-17T22:56:45+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NVrBe6ldKjc",
+      "title": "[속보효] 6월 FOMC 리뷰, 케빈워시의 등장! 금융시장에 미칠 영향",
+      "source_url": "https://www.youtube.com/watch?v=NVrBe6ldKjc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NVrBe6ldKjc/hqdefault.jpg",
+      "published_at": "2026-06-17T22:38:00+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "0imHaXyj4Ps",
+      "title": "케빈 워시 신임 연준 의장 첫 FOMC…시장에 남긴 수많은 물음표 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=0imHaXyj4Ps",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0imHaXyj4Ps/hqdefault.jpg",
+      "published_at": "2026-06-17T22:13:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "EHNKjhdKL0k",
+      "title": "[6월 18일 개장시황] 빈센트, 정프로, 장우진, 전규연, 편다송, 이학주 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=EHNKjhdKL0k",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EHNKjhdKL0k/hqdefault.jpg",
+      "published_at": "2026-06-17T20:35:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -686,78 +762,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "CL-kkxL6VH8",
-      "title": "'케빈 워시의 첫 FOMC' 과거처럼 친절한 설명은 이제 끝? 점도표 거부설부터 비트코인에 보낼 신호 | 서동주, 김동환, 윤수목 위스퍼드리서치 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=CL-kkxL6VH8",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CL-kkxL6VH8/hqdefault.jpg",
-      "published_at": "2026-06-17T03:39:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "vs85j3_a8cY",
-      "title": "[26.06.17 오전 방송 전체보기] 기술주 중심 하락 속 뉴욕증시 혼조 마감...스페이스X '시총 5위'",
-      "source_url": "https://www.youtube.com/watch?v=vs85j3_a8cY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/vs85j3_a8cY/hqdefault.jpg",
-      "published_at": "2026-06-17T03:26:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "L8N_dRCmz6c",
-      "title": "스페이스X 연속 상승에 거래량 53배 터진 '이 코인' 주식과 크립토 경계가 무너졌다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=L8N_dRCmz6c",
-      "thumbnail_url": "https://i1.ytimg.com/vi/L8N_dRCmz6c/hqdefault.jpg",
-      "published_at": "2026-06-17T03:01:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "5_CcZPjbMVk",
       "title": "금값 2022년과 똑같다. 앞으로 이렇게 하세요 #김규동",
       "source_url": "https://www.youtube.com/shorts/5_CcZPjbMVk",
@@ -1357,25 +1361,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "vzd8j73bLQM",
-      "title": "[속보효] KOSPI 급등, 조정은 끝난 걸까? 초보탈출 시즌1 마지막",
-      "source_url": "https://www.youtube.com/watch?v=vzd8j73bLQM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/vzd8j73bLQM/hqdefault.jpg",
-      "published_at": "2026-06-12T01:54:19+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

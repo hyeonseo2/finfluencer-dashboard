@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T22:18:09.136189+00:00",
+  "generated_at": "2026-06-17T00:21:30.601999+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,8 +57,61 @@
   ],
   "videos": [
     {
+      "video_id": "9NRydL2bQic",
+      "title": "SK하이닉스, 미국 상장 후 100조원 주주환원? | 소프트뱅크 BD 풋옵션 만기 다가오자 삼성전자 들썩? | 류종은 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=9NRydL2bQic",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9NRydL2bQic/hqdefault.jpg",
+      "published_at": "2026-06-16T23:26:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "lmJtJFOu6qc",
+      "title": "미국이 금리 올려도, 한국 주식은 버틴다? 그 이유는요… | 신영증권 김효진 박사[글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=lmJtJFOu6qc",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lmJtJFOu6qc/hqdefault.jpg",
+      "published_at": "2026-06-16T22:58:49+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "mB2AVGKMJAw",
-      "title": "뉴욕증시, FOMC 앞두고 가치주 순환…스페이스X, 장중 17% 또 급등 [월가 뉴스레터]",
+      "title": "뉴욕증시, FOMC 앞두고 가치주 순환…스페이스X, 아마존 시총 추월 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=mB2AVGKMJAw",
       "thumbnail_url": "https://i2.ytimg.com/vi/mB2AVGKMJAw/hqdefault.jpg",
       "published_at": "2026-06-16T22:01:05+00:00",
@@ -82,22 +135,17 @@
     },
     {
       "video_id": "vs85j3_a8cY",
-      "title": "기술주 중심 하락 속 뉴욕증시 혼조 마감...스페이스X '시총 5위'_26.06.17 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "title": "[6월 17일 개장시황] 빈센트, 정프로, 장우진, 이종원, 편다송, 소현철 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=vs85j3_a8cY",
       "thumbnail_url": "https://i3.ytimg.com/vi/vs85j3_a8cY/hqdefault.jpg",
       "published_at": "2026-06-16T20:21:37+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -704,44 +752,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "tyGE1ML_KPg",
-      "title": "[26.06.16 오전 방송 전체보기] 미·이란 종전 합의 속 뉴욕증시 상승 마감...스페이스X, 연일 '급등'",
-      "source_url": "https://www.youtube.com/watch?v=tyGE1ML_KPg",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tyGE1ML_KPg/hqdefault.jpg",
-      "published_at": "2026-06-16T03:20:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Q3pzYLVcnGU",
-      "title": "성공적인 상장한 스페이스X, 하이퍼리퀴드와 알트코인 동반 상승하는 이유 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=Q3pzYLVcnGU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Q3pzYLVcnGU/hqdefault.jpg",
-      "published_at": "2026-06-16T03:16:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "WRjgg-And-4",

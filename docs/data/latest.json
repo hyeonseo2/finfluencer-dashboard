@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T20:31:19.428161+00:00",
+  "generated_at": "2026-06-18T22:57:49.701592+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "3NlDtSOqdcQ",
+      "title": "트럼프 “인텔 지분, 적은걸까? 많은걸까?”…뉴욕 증시, 휴장 전 급등 랠리 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=3NlDtSOqdcQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3NlDtSOqdcQ/hqdefault.jpg",
+      "published_at": "2026-06-18T22:20:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KM7OZEGgQUA",
+      "title": "'코스피 9000'…MSCI 편입은 먹구름 | 메모리 삼대장 '뉴 M3' 시대…하이닉스도 차세대 'HBM4E' 샘플 공급 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=KM7OZEGgQUA",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KM7OZEGgQUA/hqdefault.jpg",
+      "published_at": "2026-06-18T20:26:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Kf5au851CpQ",
       "title": "실적이 폭발했다...이제 주가가 따라갈 차례?  역대급 저평가 소부장! | 명민준, 박가영, 정프로, 박지훈 부장 [주린이 구조대]",
@@ -664,44 +707,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "7EI2Z4tDnBg",
-      "title": "로봇 시대 열린다…LG와 두산의 미래가 달라지는 이유!_26.06.18. | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=7EI2Z4tDnBg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/7EI2Z4tDnBg/hqdefault.jpg",
-      "published_at": "2026-06-18T02:42:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "dcO2arB9btw",
-      "title": "이제는 보여줄 때가 왔다, AI시대 네이버가 그리는 그림 | 이학주 하나증권 원주지점 차장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=dcO2arB9btw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dcO2arB9btw/hqdefault.jpg",
-      "published_at": "2026-06-18T02:18:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "NVrBe6ldKjc",

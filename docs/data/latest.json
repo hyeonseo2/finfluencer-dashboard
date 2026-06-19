@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T01:48:02.630123+00:00",
+  "generated_at": "2026-06-19T07:14:28.458425+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -51,10 +51,231 @@
     "fx",
     "interest_rate",
     "macro",
+    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "QdUOWtCvVEE",
+      "title": "\"한국주식 배네수엘라화 된다\" 이때부터 진짜 대폭락 옵니다. 싹 다 정리하고 현금 확보하세요 | 경제왕 김피비 25분 요약 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=QdUOWtCvVEE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QdUOWtCvVEE/hqdefault.jpg",
+      "published_at": "2026-06-19T07:00:31+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8U_at7afAMY",
+      "title": "\"올 7월 역대급 기회\" 삼성전자 난리난 진짜 이유. 지금 안팔면 '이렇게' 된다｜염승환 이사 1부",
+      "source_url": "https://www.youtube.com/watch?v=8U_at7afAMY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8U_at7afAMY/hqdefault.jpg",
+      "published_at": "2026-06-19T06:30:23+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Vu_iCgn3HQo",
+      "title": "삼전닉스 너무 올랐다? 지금은 '이 ETF' 보세요 #김영웅",
+      "source_url": "https://www.youtube.com/shorts/Vu_iCgn3HQo",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Vu_iCgn3HQo/hqdefault.jpg",
+      "published_at": "2026-06-19T06:00:09+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities",
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "QSEJo3fYr7M",
+      "title": "[6월 19일 마감시황] 코스피, 신고가 찍고 급락...삼전닉스 장중 신고가! 반도체 랠리 떠받치던 빚투 38조원 사상 최대! | 홍선애, 김장열, 이권희 [클로징벨 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=QSEJo3fYr7M",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QSEJo3fYr7M/hqdefault.jpg",
+      "published_at": "2026-06-19T05:08:14+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "hJ0UtEhMMkQ",
+      "title": "정프로의 소름끼치는 예측...이쯤 되면 이제 실력인가? | 빈센트 & 정프로 & 장우진[더블 체크]",
+      "source_url": "https://www.youtube.com/shorts/hJ0UtEhMMkQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hJ0UtEhMMkQ/hqdefault.jpg",
+      "published_at": "2026-06-19T04:43:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "CcN_23ppNdo",
+      "title": "'24시간 주식 거래' 쟁점은 SEC와 CFTC의 규제 대전환 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=CcN_23ppNdo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CcN_23ppNdo/hqdefault.jpg",
+      "published_at": "2026-06-19T04:07:51+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KM7OZEGgQUA",
+      "title": "[26.06.19 오전 방송 전체보기] 인텔·애플 협력 기대 속 뉴욕증시 상승 마감...필·반지수 +6% '급등'",
+      "source_url": "https://www.youtube.com/watch?v=KM7OZEGgQUA",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KM7OZEGgQUA/hqdefault.jpg",
+      "published_at": "2026-06-19T03:13:39+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "wCY_jXWJxhk",
+      "title": "'위기의 세일러' 비트코인, STRC. MSTR 셋 중 하나를 포기해야 살 수 있다 | 서동주, 김동환, 박상혁 디지털애셋 편집장  [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=wCY_jXWJxhk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wCY_jXWJxhk/hqdefault.jpg",
+      "published_at": "2026-06-19T03:06:50+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "SaV9jTA8z24",
+      "title": "일본 증시 대격변! 시총 1위가 바뀌었다 키옥시아 급부상이 말해주는 것_26.06.19. | 소진웅, 여도은, 허재무 [아침N투자]",
+      "source_url": "https://www.youtube.com/watch?v=SaV9jTA8z24",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SaV9jTA8z24/hqdefault.jpg",
+      "published_at": "2026-06-19T02:52:39+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "2oUKhnmzNiA",
+      "title": "재건 테마 끝났다고? 이제 시작입니다 | 김승준 하나증권 리서치센터 연구위원 [더블 업]",
+      "source_url": "https://www.youtube.com/watch?v=2oUKhnmzNiA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2oUKhnmzNiA/hqdefault.jpg",
+      "published_at": "2026-06-19T01:54:16+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "MwRYgW9nsss",
       "title": "앗! SK하이닉스 마이크론보다 싸다! 진짜는 7월부터입니다 | 권택중 하나증권 더센터필드W 과장 [더블 크루]",
@@ -143,7 +364,7 @@
     },
     {
       "video_id": "re0t431HKUo",
-      "title": "MSCI 선진국 지수 편입 또 지연?! 9천피 달성 그 후 증시 방향은?  | 이선엽 AFW파트너스 대표 [글로벌 인터뷰]",
+      "title": "MSCI 선진국 지수 편입 또 지연?! 9천피 달성 이후 증시 향방은?  | 이선엽 AFW파트너스 대표 [글로벌 인터뷰]",
       "source_url": "https://www.youtube.com/watch?v=re0t431HKUo",
       "thumbnail_url": "https://i3.ytimg.com/vi/re0t431HKUo/hqdefault.jpg",
       "published_at": "2026-06-18T23:09:08+00:00",
@@ -159,101 +380,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "3NlDtSOqdcQ",
-      "title": "트럼프 “인텔 지분, 적은걸까? 많은걸까?”…뉴욕 증시, 휴장 전 급등 랠리 [월가 뉴스레터]",
-      "source_url": "https://www.youtube.com/watch?v=3NlDtSOqdcQ",
-      "thumbnail_url": "https://i4.ytimg.com/vi/3NlDtSOqdcQ/hqdefault.jpg",
-      "published_at": "2026-06-18T22:20:47+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KM7OZEGgQUA",
-      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.06.19. | 여도은, 허재무, 소진웅 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=KM7OZEGgQUA",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KM7OZEGgQUA/hqdefault.jpg",
-      "published_at": "2026-06-18T20:26:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Kf5au851CpQ",
-      "title": "실적이 폭발했다...이제 주가가 따라갈 차례?  역대급 저평가 소부장! | 명민준, 박가영, 정프로, 박지훈 부장 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=Kf5au851CpQ",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Kf5au851CpQ/hqdefault.jpg",
-      "published_at": "2026-06-18T14:55:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "yB_s3HB9HTc",
-      "title": "포모에 탑승한 추격 매수, 계좌 망치는 물타기는 그만! | 명민준, 박가영, 정프로, 유창희 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=yB_s3HB9HTc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yB_s3HB9HTc/hqdefault.jpg",
-      "published_at": "2026-06-18T14:01:43+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8N5LBES8uTw",
-      "title": "삼전닉스 주가 하락 막아줄 '구원투수'의 정체 | 김장열 유니스토리자산운용 리서치센터 센터장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=8N5LBES8uTw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8N5LBES8uTw/hqdefault.jpg",
-      "published_at": "2026-06-18T13:00:10+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -297,25 +423,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MQtdZ28wc-k",
-      "title": "[26.06.18 오후 방송 전체보기] ] SK하이닉스 300만원 향해 오늘도 고공 행진! 드디어 구천피 달성...국내 증시 새역사 썼다!",
-      "source_url": "https://www.youtube.com/watch?v=MQtdZ28wc-k",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MQtdZ28wc-k/hqdefault.jpg",
-      "published_at": "2026-06-18T11:13:22+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "04Nmb_HeeqI",
@@ -378,25 +485,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5zFdinMycuA",
-      "title": "'이 신호' 만큼은 명심하고 주시하세요 | 홍선애, 장우진 금시공 대표 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=5zFdinMycuA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5zFdinMycuA/hqdefault.jpg",
-      "published_at": "2026-06-18T10:00:22+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "DT14f-AOTIw",
@@ -942,30 +1030,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "UQex6CKbqhI",
-      "title": "지금 주목해야 할 단 2가지 ETF #곽유정",
-      "source_url": "https://www.youtube.com/shorts/UQex6CKbqhI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UQex6CKbqhI/hqdefault.jpg",
-      "published_at": "2026-06-17T09:00:13+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "AIjkuVJocMw",
       "title": "“파산 직면했다” 사상 최악의 대참사 터졌다 초비상 걸린 중국 현재 상황 | 김정호 교수 풀버전2",
       "source_url": "https://www.youtube.com/watch?v=AIjkuVJocMw",
@@ -1042,25 +1106,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "6txISfgpBHc",
-      "title": "다카이치 태도 급변한 진짜 이유 현재 난리 난 일본 현재 상황 | 호사카유지 교수 2부",
-      "source_url": "https://www.youtube.com/watch?v=6txISfgpBHc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6txISfgpBHc/hqdefault.jpg",
-      "published_at": "2026-06-17T06:30:30+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "JBM5beOwOUs",
       "title": "연준 의장이 바뀌면 내 주식은 어떻게 되는 걸까? [리뷰효]",
       "source_url": "https://www.youtube.com/watch?v=JBM5beOwOUs",
@@ -1112,25 +1157,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8QApfHwhb9o",
-      "title": "외국인 1조 7천억 폭풍 매수 삼성전자 분위기 심상치 않다 | 김영웅 대표 1부",
-      "source_url": "https://www.youtube.com/watch?v=8QApfHwhb9o",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8QApfHwhb9o/hqdefault.jpg",
-      "published_at": "2026-06-16T10:30:22+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "1EpFQvwfpqo",

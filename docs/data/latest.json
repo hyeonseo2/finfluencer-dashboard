@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T22:08:13.300008+00:00",
+  "generated_at": "2026-06-20T00:13:57.568531+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "GlKyDWtlSW8",
+      "title": "\"두산에너 아니다\" 원전 전력 양손에 쥔 '이 주식' 10배, 결국 100배 간다 | 김지훈 대표 2부",
+      "source_url": "https://www.youtube.com/watch?v=GlKyDWtlSW8",
+      "thumbnail_url": "https://i4.ytimg.com/vi/GlKyDWtlSW8/hqdefault.jpg",
+      "published_at": "2026-06-20T00:00:35+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "1WdS51bdCgc",
+      "title": "\"누구나 할 수 있다\" 월 30만 원씩 이 ETF 사라. 5억 원까지 순식간에 불어난다 | 윤혜림 대표 2부 #etf투자",
+      "source_url": "https://www.youtube.com/watch?v=1WdS51bdCgc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/1WdS51bdCgc/hqdefault.jpg",
+      "published_at": "2026-06-20T00:00:28+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "cr2FFuAFHjw",
+      "title": "\"반도체 랠리 끝났다고? 진짜 무서운 건 지금부터\" | 이권희 위즈웨이브 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=cr2FFuAFHjw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cr2FFuAFHjw/hqdefault.jpg",
+      "published_at": "2026-06-19T23:00:02+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "4LkqcULMAMw",
       "title": "공포에 삼전닉스 판 사람이랑 대화 안합니다 | 명민준, 박가영, 이지환 [주린이 구조대]",
@@ -582,25 +639,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "MwRYgW9nsss",
-      "title": "앗! SK하이닉스 마이크론보다 싸다! 진짜는 7월부터입니다 | 권택중 하나증권 더센터필드W 과장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=MwRYgW9nsss",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MwRYgW9nsss/hqdefault.jpg",
-      "published_at": "2026-06-19T01:25:41+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "etN3mqR6Q_Y",
       "title": "삼성전자 40만원, SK하이닉스 300만원 간다, '이때부턴' 가급적 파세요 (차영주 소장)",
       "source_url": "https://www.youtube.com/watch?v=etN3mqR6Q_Y",
@@ -982,25 +1020,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "rEXz2VuQjZo",
-      "title": "전세계가 주목하는 '이것' 드디어 나왔습니다 #곽유정",
-      "source_url": "https://www.youtube.com/shorts/rEXz2VuQjZo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rEXz2VuQjZo/hqdefault.jpg",
-      "published_at": "2026-06-18T03:00:26+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "NVrBe6ldKjc",
       "title": "[속보효] 6월 FOMC 리뷰, 케빈워시의 등장! 금융시장에 미칠 영향",
       "source_url": "https://www.youtube.com/watch?v=NVrBe6ldKjc",
@@ -1061,25 +1080,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "UvHkxTCCjh4",
-      "title": "\"천궁2 다 달라\" 극비리에 한국 찾은 UAE에 발칵. 인니는 지금 배아파 미칠 지경 | 김민석 특파원 4부",
-      "source_url": "https://www.youtube.com/watch?v=UvHkxTCCjh4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UvHkxTCCjh4/hqdefault.jpg",
-      "published_at": "2026-06-17T10:30:36+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "V5r7QtwBis4",

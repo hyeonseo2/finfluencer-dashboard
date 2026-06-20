@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T09:25:07.698469+00:00",
+  "generated_at": "2026-06-20T12:00:40.764727+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "fxb-uP59Quw",
+      "title": "전세 매물 이미 씨가 말랐다, 하반기 집값 정말 위험합니다 (박원갑 박사)",
+      "source_url": "https://www.youtube.com/watch?v=fxb-uP59Quw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/fxb-uP59Quw/hqdefault.jpg",
+      "published_at": "2026-06-20T10:45:11+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "4jooAw6GJt4",
+      "title": "미국 월가에 싹다 퍼졌다 테슬라에 대한 충격적인 소문 | 김영웅 대표 2부",
+      "source_url": "https://www.youtube.com/watch?v=4jooAw6GJt4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4jooAw6GJt4/hqdefault.jpg",
+      "published_at": "2026-06-20T10:00:21+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jPXYLaMatcs",
+      "title": "삼성전자, SK하이닉스 대체 언제 팔까? '이 가격 밑으론' 절대 팔지마세요 (염승환 이사 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=jPXYLaMatcs",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jPXYLaMatcs/hqdefault.jpg",
+      "published_at": "2026-06-20T09:45:19+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "W_6z7K0VIBE",
       "title": "두산에너빌리티 이 가격 되면 무조건 사라 결국 원전주 10배 오를겁니다 | 조진표 대표 3부",
@@ -139,17 +196,17 @@
     },
     {
       "video_id": "B9tMBHhCljE",
-      "title": "미국 정부 트럼프의 극비 시나리오, 결국 '이것' 가진 사람만 큰돈 번다 (김창익 대표)",
+      "title": "곧 전세계 지갑 싹다 통제됩니다, 떼돈 벌 기회 '여기서' 나온다 (김창익 대표)",
       "source_url": "https://www.youtube.com/watch?v=B9tMBHhCljE",
       "thumbnail_url": "https://i3.ytimg.com/vi/B9tMBHhCljE/hqdefault.jpg",
       "published_at": "2026-06-20T05:30:31+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "real_estate"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "real_estate",
           "stance": "neutral"
         }
       ],
@@ -854,17 +911,17 @@
     },
     {
       "video_id": "l7ekDRgTEJg",
-      "title": "은행 예금에 있는 돈 당장 빼세요, 그 돈 전부 다 '이 주식' 사모으세요 (김경록 박사)",
+      "title": "60대까지 10억을 모으세요, 앞으로 평생 돈 걱정 끝이다 (김경록 박사)",
       "source_url": "https://www.youtube.com/watch?v=l7ekDRgTEJg",
       "thumbnail_url": "https://i1.ytimg.com/vi/l7ekDRgTEJg/hqdefault.jpg",
       "published_at": "2026-06-18T10:30:24+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -961,25 +1018,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "N0y_zADViro",
-      "title": "2차전지 수상한 분위기 ‘이 ETF’ 보세요 #최창규",
-      "source_url": "https://www.youtube.com/shorts/N0y_zADViro",
-      "thumbnail_url": "https://i3.ytimg.com/vi/N0y_zADViro/hqdefault.jpg",
-      "published_at": "2026-06-18T09:00:35+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "DWiuinVY0-0",
@@ -1106,25 +1144,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Jim0_0927DQ",
-      "title": "삼성전자, SK하이닉스 팔면 다시 못 사요, 지금부턴 버틴 사람이 승자다 (염승환 이사)",
-      "source_url": "https://www.youtube.com/watch?v=Jim0_0927DQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Jim0_0927DQ/hqdefault.jpg",
-      "published_at": "2026-06-17T10:45:13+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "V5r7QtwBis4",
       "title": "스페이스X 상장으로 대박난 사람들은 누구?",
       "source_url": "https://www.youtube.com/watch?v=V5r7QtwBis4",
@@ -1142,25 +1161,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5PsKGqmRUc8",
-      "title": "삼성전자보다 더 크게 터질 종목, 피지컬 AI 탑픽 1순위 종목 (슈퍼개미 이정윤 세무사)",
-      "source_url": "https://www.youtube.com/watch?v=5PsKGqmRUc8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5PsKGqmRUc8/hqdefault.jpg",
-      "published_at": "2026-06-17T10:15:22+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "YyYJh_x-Sv4",

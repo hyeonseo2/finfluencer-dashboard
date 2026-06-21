@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T20:26:35.495832+00:00",
+  "generated_at": "2026-06-21T22:17:18.008793+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -50,11 +50,34 @@
     "etf",
     "interest_rate",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Hp9kK1tjReo",
+      "title": "호르무즈 재봉쇄, 마이크론 실적 발표…이번 주 증시 향방은?_26.06.22 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=Hp9kK1tjReo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/Hp9kK1tjReo/hqdefault.jpg",
+      "published_at": "2026-06-21T20:27:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "6CoUkZwFdnU",
       "title": "삼성전자 vs SK하이닉스 구독자 분들의 투자 비중은 어떻게 될까?",
@@ -1087,35 +1110,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CcN_23ppNdo",
-      "title": "'24시간 주식 거래' 쟁점은 SEC와 CFTC의 규제 대전환 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=CcN_23ppNdo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CcN_23ppNdo/hqdefault.jpg",
-      "published_at": "2026-06-19T04:07:51+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T04:49:19.131663+00:00",
+  "generated_at": "2026-06-21T08:58:32.575523+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,6 +48,7 @@
     "commodities",
     "crypto",
     "etf",
+    "fx",
     "interest_rate",
     "macro",
     "policy",
@@ -55,6 +56,101 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "YMeGR8CYE7Q",
+      "title": "\"언론은 쉬쉬하고 있어요\" 이란협상에 대한 충격 소문 곧 상상못할 일 벌어진다 | 박현도 교수 1부",
+      "source_url": "https://www.youtube.com/watch?v=YMeGR8CYE7Q",
+      "thumbnail_url": "https://i2.ytimg.com/vi/YMeGR8CYE7Q/hqdefault.jpg",
+      "published_at": "2026-06-21T08:00:20+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "m5kdQSo8Tsc",
+      "title": "달러 패권 지킬 미국의 마지막 카드, 조만간 전 세계 모든 돈이 쏠린다 (김창익 대표)",
+      "source_url": "https://www.youtube.com/watch?v=m5kdQSo8Tsc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/m5kdQSo8Tsc/hqdefault.jpg",
+      "published_at": "2026-06-21T07:00:34+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "-MMeTUtnvoc",
+      "title": "미국과 중국이 다투는 동안 한국에 열리는 세계 패권 도전의 진짜 정체ㅣ이병한 작가",
+      "source_url": "https://www.youtube.com/watch?v=-MMeTUtnvoc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-MMeTUtnvoc/hqdefault.jpg",
+      "published_at": "2026-06-21T07:00:18+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8LRmt92XCUo",
+      "title": "\"보유세 말고 쎈 거 온다\" 부동산 2차 전쟁 시작됐다. 이 카드 나오면 집값 싹 다 폭락한다 | 김준영 소장 풀버전 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=8LRmt92XCUo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8LRmt92XCUo/hqdefault.jpg",
+      "published_at": "2026-06-21T06:00:30+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Plv39FbnOeg",
+      "title": "세계 1위 대장주 한국에 탄생 '이 주식'에 인생 싹다 걸어라｜염승환 이사 2부",
+      "source_url": "https://www.youtube.com/watch?v=Plv39FbnOeg",
+      "thumbnail_url": "https://i1.ytimg.com/vi/Plv39FbnOeg/hqdefault.jpg",
+      "published_at": "2026-06-21T06:00:24+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "mXXEsi5EgU8",
       "title": "\"연 24% 주고 원금은 190% 상승\" 1억 여기 맘편히 묻으세요. 월 200씩 평생 나옵니다 | 이소영 기자 2부 #돈쭐남 #김경필",
@@ -76,7 +172,7 @@
     },
     {
       "video_id": "qTap9267Agc",
-      "title": "돈 풀수록 무조건 오를 '이 자산', 현금 대신 당장 '이것' 사두세요 (김진 앵커)",
+      "title": "정말 미친듯이 돈 찍어낸다, 지금 당장 '이 자산' 사두세요 (김진 앵커)",
       "source_url": "https://www.youtube.com/watch?v=qTap9267Agc",
       "thumbnail_url": "https://i2.ytimg.com/vi/qTap9267Agc/hqdefault.jpg",
       "published_at": "2026-06-21T04:00:12+00:00",
@@ -195,7 +291,7 @@
     },
     {
       "video_id": "YaDJSEyQ9sc",
-      "title": "\"슈퍼 ISA 떴다\" 이 ETF 무조건 담으세요. 최대 26.4% 저절로 불어요 l 김민우 풀버전 폴투TV",
+      "title": "\"싸도 너무 싸다\" 딱 1개 ETF 죽어라 사세요. 1억에서 6억 금방입니다 l 김민우 풀버전 폴투TV",
       "source_url": "https://www.youtube.com/watch?v=YaDJSEyQ9sc",
       "thumbnail_url": "https://i2.ytimg.com/vi/YaDJSEyQ9sc/hqdefault.jpg",
       "published_at": "2026-06-21T02:00:04+00:00",
@@ -908,25 +1004,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "ETtVJ6OUg14",
-      "title": "한글 정말 무섭게 베껴간다 한국화 된 일본 충격적인 상황 | 호사카유지 교수 4부",
-      "source_url": "https://www.youtube.com/watch?v=ETtVJ6OUg14",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ETtVJ6OUg14/hqdefault.jpg",
-      "published_at": "2026-06-19T07:30:36+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "QdUOWtCvVEE",
       "title": "\"한국주식 배네수엘라화 된다\" 이때부터 진짜 대폭락 옵니다. 싹 다 정리하고 현금 확보하세요 | 경제왕 김피비 25분 요약 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=QdUOWtCvVEE",
@@ -949,30 +1026,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8U_at7afAMY",
-      "title": "\"올 7월 역대급 기회\" 삼성전자 난리난 진짜 이유. 지금 안팔면 '이렇게' 된다｜염승환 이사 1부",
-      "source_url": "https://www.youtube.com/watch?v=8U_at7afAMY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8U_at7afAMY/hqdefault.jpg",
-      "published_at": "2026-06-19T06:30:23+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "hJ0UtEhMMkQ",
@@ -1078,49 +1131,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "l7ekDRgTEJg",
-      "title": "60대까지 10억을 모으세요, 앞으로 평생 돈 걱정 끝이다 (김경록 박사)",
-      "source_url": "https://www.youtube.com/watch?v=l7ekDRgTEJg",
-      "thumbnail_url": "https://i1.ytimg.com/vi/l7ekDRgTEJg/hqdefault.jpg",
-      "published_at": "2026-06-18T10:30:24+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "BHwarOmIe0I",
-      "title": "\"지금 안 하면 늦어요\" 2027년 코인 과세 확정났다. 코인 1개라도 있으면 이렇게 하세요. 세금 90%에서 0원 된다 | 이장우 비트세이빙 대표 풀버전 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=BHwarOmIe0I",
-      "thumbnail_url": "https://i3.ytimg.com/vi/BHwarOmIe0I/hqdefault.jpg",
-      "published_at": "2026-06-18T10:30:14+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ivgpN0sYeB8",
@@ -1354,25 +1364,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "TejXeKPDbec",
-      "title": "AI 사이클 위기설과 버블론, 데이터로 정면 반박합니다",
-      "source_url": "https://www.youtube.com/watch?v=TejXeKPDbec",
-      "thumbnail_url": "https://i1.ytimg.com/vi/TejXeKPDbec/hqdefault.jpg",
-      "published_at": "2026-06-14T00:00:18+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

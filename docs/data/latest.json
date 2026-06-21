@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T08:58:32.575523+00:00",
+  "generated_at": "2026-06-21T11:49:27.471587+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,8 +57,80 @@
   ],
   "videos": [
     {
+      "video_id": "_tw17OQaako",
+      "title": "[슈카월드] 코스피 9000달성과 역대급 FOMO / 미국- - 이란 드디어 종전 / 환율은 왜 내려오지 않을까? / 검열의 나라 / 케빈 워시의 FOMC는 뭐라고 했을까?",
+      "source_url": "https://www.youtube.com/watch?v=_tw17OQaako",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_tw17OQaako/hqdefault.jpg",
+      "published_at": "2026-06-21T11:19:45+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "3-jioaFUuJo",
+      "title": "\"천궁2 다 달라\" 극비리에 한국 찾은 UAE에 발칵 인니는 지금 배아파 미칠 지경 | 김민석 특파원 풀버전2",
+      "source_url": "https://www.youtube.com/watch?v=3-jioaFUuJo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3-jioaFUuJo/hqdefault.jpg",
+      "published_at": "2026-06-21T10:00:24+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "7jIMjqdNXRI",
+      "title": "영양제 사 먹을 돈으로, '이 1가지' 꼭 챙겨드세요 (오수연 교수)",
+      "source_url": "https://www.youtube.com/watch?v=7jIMjqdNXRI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7jIMjqdNXRI/hqdefault.jpg",
+      "published_at": "2026-06-21T09:30:00+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "YMeGR8CYE7Q",
-      "title": "\"언론은 쉬쉬하고 있어요\" 이란협상에 대한 충격 소문 곧 상상못할 일 벌어진다 | 박현도 교수 1부",
+      "title": "\"합의안 서명하겠다\" 이란 지금 미칠 지경이다 | 박현도 교수 1부",
       "source_url": "https://www.youtube.com/watch?v=YMeGR8CYE7Q",
       "thumbnail_url": "https://i2.ytimg.com/vi/YMeGR8CYE7Q/hqdefault.jpg",
       "published_at": "2026-06-21T08:00:20+00:00",
@@ -942,25 +1014,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "t3nPxZRyK_o",
-      "title": "\"완전히 패전국 됐다\" 언론은 쉬쉬하고 있어요. 이란 항복에 대한 충격 소문｜김민석 특파원 1부",
-      "source_url": "https://www.youtube.com/watch?v=t3nPxZRyK_o",
-      "thumbnail_url": "https://i1.ytimg.com/vi/t3nPxZRyK_o/hqdefault.jpg",
-      "published_at": "2026-06-19T08:30:26+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "m2mIkO1G6W4",
       "title": "\"9천피도 넘어섰다\" 1만피 가기전 마지막 기회입니다. 또 한번 대폭락이 온다? 현금 쟁였다가 이때 사세요 | 윤혜림 대표 1부 #코스피",
       "source_url": "https://www.youtube.com/watch?v=m2mIkO1G6W4",
@@ -1074,25 +1127,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "etN3mqR6Q_Y",
-      "title": "삼성전자 40만원, SK하이닉스 300만원 간다, '이때부턴' 가급적 파세요 (차영주 소장)",
-      "source_url": "https://www.youtube.com/watch?v=etN3mqR6Q_Y",
-      "thumbnail_url": "https://i2.ytimg.com/vi/etN3mqR6Q_Y/hqdefault.jpg",
-      "published_at": "2026-06-18T11:30:28+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "GYNwMFwvi_Q",
@@ -1459,25 +1493,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "4giHXpB8ajk",
-      "title": "장어 80%를 수입하는 일본 초비상!",
-      "source_url": "https://www.youtube.com/watch?v=4giHXpB8ajk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4giHXpB8ajk/hqdefault.jpg",
-      "published_at": "2026-06-06T10:18:04+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

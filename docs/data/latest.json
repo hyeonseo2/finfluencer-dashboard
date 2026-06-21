@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T14:20:45.947646+00:00",
+  "generated_at": "2026-06-21T16:47:34.787734+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,7 +48,6 @@
     "commodities",
     "crypto",
     "etf",
-    "fx",
     "interest_rate",
     "macro",
     "policy",
@@ -57,17 +56,15 @@
   ],
   "videos": [
     {
-      "video_id": "_tw17OQaako",
-      "title": "[슈카월드] 코스피 9000달성과 역대급 FOMO / 미국- - 이란 드디어 종전 / 환율은 왜 내려오지 않을까? / 검열의 나라 / 케빈 워시의 FOMC는 뭐라고 했을까?",
-      "source_url": "https://www.youtube.com/watch?v=_tw17OQaako",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_tw17OQaako/hqdefault.jpg",
-      "published_at": "2026-06-21T11:19:45+00:00",
-      "channel_name": "슈카월드",
+      "video_id": "6CoUkZwFdnU",
+      "title": "삼성전자 vs SK하이닉스 구독자 분들의 투자 비중은 어떻게 될까?",
+      "source_url": "https://www.youtube.com/watch?v=6CoUkZwFdnU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6CoUkZwFdnU/hqdefault.jpg",
+      "published_at": "2026-06-21T14:53:52+00:00",
+      "channel_name": "이효석아카데미",
       "topics": [
         "stocks",
-        "commodities",
-        "fx",
-        "interest_rate"
+        "commodities"
       ],
       "topic_stances": [
         {
@@ -77,18 +74,10 @@
         {
           "topic": "commodities",
           "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
         }
       ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "3-jioaFUuJo",
@@ -111,7 +100,7 @@
     },
     {
       "video_id": "7jIMjqdNXRI",
-      "title": "영양제 사 먹을 돈으로, '이 1가지' 꼭 챙겨드세요 (오수연 교수)",
+      "title": "장기 복용 시 정말 위험한 영양제, 무작정 먹었다간 건강 다 망친다 (오수연 교수)",
       "source_url": "https://www.youtube.com/watch?v=7jIMjqdNXRI",
       "thumbnail_url": "https://i4.ytimg.com/vi/7jIMjqdNXRI/hqdefault.jpg",
       "published_at": "2026-06-21T09:30:00+00:00",
@@ -173,7 +162,7 @@
     },
     {
       "video_id": "-MMeTUtnvoc",
-      "title": "미국과 중국이 다투는 동안 한국에 열리는 세계 패권 도전의 진짜 정체ㅣ이병한 작가",
+      "title": "월급 받는 시대는 이제 끝났습니다. 새로운 경제 사회구조가 생겨날 겁니다ㅣ이병한 작가",
       "source_url": "https://www.youtube.com/watch?v=-MMeTUtnvoc",
       "thumbnail_url": "https://i2.ytimg.com/vi/-MMeTUtnvoc/hqdefault.jpg",
       "published_at": "2026-06-21T07:00:18+00:00",
@@ -1391,25 +1380,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "PmKe7G_DjiA",
-      "title": "반도체 소부장이 심상치 않다, 조만간 시장을 뒤흔들 엄청난 일이 다가오는 진짜 이유 [주식주부 리나]",
-      "source_url": "https://www.youtube.com/watch?v=PmKe7G_DjiA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PmKe7G_DjiA/hqdefault.jpg",
-      "published_at": "2026-06-14T06:00:32+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "asbufYS_QE8",
       "title": "현직 대통령 얼굴을 화폐에 넣어도 되나요?",
       "source_url": "https://www.youtube.com/watch?v=asbufYS_QE8",
@@ -1498,6 +1468,25 @@
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "4giHXpB8ajk",
+      "title": "장어 80%를 수입하는 일본 초비상!",
+      "source_url": "https://www.youtube.com/watch?v=4giHXpB8ajk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4giHXpB8ajk/hqdefault.jpg",
+      "published_at": "2026-06-06T10:18:04+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

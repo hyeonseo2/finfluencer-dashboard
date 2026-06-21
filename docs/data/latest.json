@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T11:49:27.471587+00:00",
+  "generated_at": "2026-06-21T14:20:45.947646+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -149,17 +149,22 @@
     },
     {
       "video_id": "m5kdQSo8Tsc",
-      "title": "달러 패권 지킬 미국의 마지막 카드, 조만간 전 세계 모든 돈이 쏠린다 (김창익 대표)",
+      "title": "미 국방부 비밀 보고서 전격 공개, 비트코인은 이제 사이버 핵무기다 (김창익 대표)",
       "source_url": "https://www.youtube.com/watch?v=m5kdQSo8Tsc",
       "thumbnail_url": "https://i2.ytimg.com/vi/m5kdQSo8Tsc/hqdefault.jpg",
       "published_at": "2026-06-21T07:00:34+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "fx"
+        "commodities",
+        "crypto"
       ],
       "topic_stances": [
         {
-          "topic": "fx",
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "crypto",
           "stance": "neutral"
         }
       ],

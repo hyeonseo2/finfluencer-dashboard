@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T22:17:18.008793+00:00",
+  "generated_at": "2026-06-22T00:16:08.292461+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,21 +55,78 @@
   ],
   "videos": [
     {
-      "video_id": "Hp9kK1tjReo",
-      "title": "호르무즈 재봉쇄, 마이크론 실적 발표…이번 주 증시 향방은?_26.06.22 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=Hp9kK1tjReo",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Hp9kK1tjReo/hqdefault.jpg",
-      "published_at": "2026-06-21T20:27:58+00:00",
+      "video_id": "Kmv3-38IuTY",
+      "title": "'동전주 상폐' 초읽기…219개 종목 위기, \"8조 주식 휴지조각 될 판\" | 펄펄 끓는 동탄 아파트, 전세 실종된 강북 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=Kmv3-38IuTY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Kmv3-38IuTY/hqdefault.jpg",
+      "published_at": "2026-06-21T23:30:15+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities"
+        "real_estate"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
         },
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "1U9L0RUATx0",
+      "title": "조정 오면 오히려 기회 아무리 흔들려도 반도체, 이유는? | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=1U9L0RUATx0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/1U9L0RUATx0/hqdefault.jpg",
+      "published_at": "2026-06-21T22:50:27+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "W1_4e9B4mmY",
+      "title": "이란, 호르무즈 해협 재차 폐쇄 선언...이번주 마이크론 실적 발표 기대감 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=W1_4e9B4mmY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/W1_4e9B4mmY/hqdefault.jpg",
+      "published_at": "2026-06-21T22:10:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Hp9kK1tjReo",
+      "title": "[6월 22일 개장시황] 빈센트, 정프로, 이지은, 이경수, 편다송, 김정환 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=Hp9kK1tjReo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/Hp9kK1tjReo/hqdefault.jpg",
+      "published_at": "2026-06-21T20:27:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -888,30 +945,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "CBbddS9U7Dc",
-      "title": "수익률 갈증보다 무서운 '반도체 소외', 아직 늦지 않은 이유 | 이재규 SK증권 PB차장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=CBbddS9U7Dc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CBbddS9U7Dc/hqdefault.jpg",
-      "published_at": "2026-06-19T11:00:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "dB9_rXc9hsg",
       "title": "현장에서 본 진짜 부동산 분위기, 부동산 집값 이미 난리났어요 (박원갑 박사)",
       "source_url": "https://www.youtube.com/watch?v=dB9_rXc9hsg",
@@ -1055,25 +1088,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "I_JqOCgCOwg",
-      "title": "[6월 19일 마감시황] \"포모에 사지도 말고 공포에 팔지도 마라\" 지금은 강세장 전형의 '건전한 조정' | 홍선애, 김장열, 이권희 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=I_JqOCgCOwg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/I_JqOCgCOwg/hqdefault.jpg",
-      "published_at": "2026-06-19T08:23:43+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "QdUOWtCvVEE",
       "title": "\"한국주식 배네수엘라화 된다\" 이때부터 진짜 대폭락 옵니다. 싹 다 정리하고 현금 확보하세요 | 경제왕 김피비 25분 요약 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=QdUOWtCvVEE",
@@ -1096,25 +1110,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hJ0UtEhMMkQ",
-      "title": "정프로의 소름끼치는 예측...이쯤 되면 이제 실력인가? | 빈센트 & 정프로 & 장우진[더블 체크]",
-      "source_url": "https://www.youtube.com/shorts/hJ0UtEhMMkQ",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hJ0UtEhMMkQ/hqdefault.jpg",
-      "published_at": "2026-06-19T04:43:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "GYNwMFwvi_Q",

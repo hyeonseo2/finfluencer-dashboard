@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T12:52:14.433629+00:00",
+  "generated_at": "2026-06-22T17:41:20.405870+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "rgKYZuK7OwE",
+      "title": "반도체 랠리, 아직 끝난 게 아닙니다…다음 순서는 전공정?ㅣ명민준, 강아랑, 유창희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=rgKYZuK7OwE",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rgKYZuK7OwE/hqdefault.jpg",
+      "published_at": "2026-06-22T13:30:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "WUhGZ-i8-2c",
       "title": "하이닉스 놓쳤다고요? \"터무니없는 종목 아니면 다 때가 옵니다\"ㅣ명민준, 강아랑, 이권희 [주린이 구조대]",
@@ -666,25 +685,6 @@
       "source_url": "https://www.youtube.com/watch?v=PX2-6OE-9NA",
       "thumbnail_url": "https://i1.ytimg.com/vi/PX2-6OE-9NA/hqdefault.jpg",
       "published_at": "2026-06-22T02:32:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "L1EQH-iGkN8",
-      "title": "\"하이닉스 시총 1위 등극\" 그 이후에는 이렇게 된다 | 이경수 하나증권 리서치센터 수석연구원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=L1EQH-iGkN8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/L1EQH-iGkN8/hqdefault.jpg",
-      "published_at": "2026-06-22T02:18:49+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"

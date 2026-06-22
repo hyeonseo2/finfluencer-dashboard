@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T20:53:44.751448+00:00",
+  "generated_at": "2026-06-22T22:48:56.267341+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,21 +56,35 @@
   ],
   "videos": [
     {
-      "video_id": "nunLrYxo1uU",
-      "title": "엇갈린 기술주 주가에 뉴욕증시 혼조 마감...메모리↑·SPCX↓_26.06.23 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=nunLrYxo1uU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nunLrYxo1uU/hqdefault.jpg",
-      "published_at": "2026-06-22T20:30:47+00:00",
+      "video_id": "PmPFFTkQSjM",
+      "title": "뉴욕 증시, 기술주 중심 낙폭 확대…마이크론, 실적 발표 앞두고 상승 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=PmPFFTkQSjM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PmPFFTkQSjM/hqdefault.jpg",
+      "published_at": "2026-06-22T22:15:24+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "nunLrYxo1uU",
+      "title": "미, 이란 원유 제재 60일간 면제 | 하이닉스, 삼전 제치고 시가총액 1위 | 청년미래적금 가입 시작 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=nunLrYxo1uU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nunLrYxo1uU/hqdefault.jpg",
+      "published_at": "2026-06-22T20:30:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -676,25 +690,6 @@
           "topic": "stocks",
           "stance": "neutral"
         },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "FgDu4yZFBJ0",
-      "title": "AI로 쏠리는 시장, 더 이어질 수밖에 없는 이유_26.06.22. | 이혁진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=FgDu4yZFBJ0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/FgDu4yZFBJ0/hqdefault.jpg",
-      "published_at": "2026-06-22T02:46:00+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"

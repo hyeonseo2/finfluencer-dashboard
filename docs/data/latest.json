@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T17:41:20.405870+00:00",
+  "generated_at": "2026-06-22T20:53:44.751448+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "nunLrYxo1uU",
+      "title": "엇갈린 기술주 주가에 뉴욕증시 혼조 마감...메모리↑·SPCX↓_26.06.23 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=nunLrYxo1uU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nunLrYxo1uU/hqdefault.jpg",
+      "published_at": "2026-06-22T20:30:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "rgKYZuK7OwE",
       "title": "반도체 랠리, 아직 끝난 게 아닙니다…다음 순서는 전공정?ㅣ명민준, 강아랑, 유창희 [주린이 구조대]",
@@ -673,25 +697,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "PX2-6OE-9NA",
-      "title": "반도체 쏠림 어디까지 가냐고? 대만을 보세요 | 김정환 하나증권 Club1WM센터 과장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=PX2-6OE-9NA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PX2-6OE-9NA/hqdefault.jpg",
-      "published_at": "2026-06-22T02:32:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

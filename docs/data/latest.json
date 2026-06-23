@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T22:48:56.267341+00:00",
+  "generated_at": "2026-06-23T00:12:13.908235+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
   ],
   "videos": [
     {
+      "video_id": "0MU0gkkG9rc",
+      "title": "하이닉스, 삼전 제치고 시가총액 1위…5GW 데이터센터 시동 | '최대 연 19% 수익' 청년미래적금 가입 시작 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=0MU0gkkG9rc",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0MU0gkkG9rc/hqdefault.jpg",
+      "published_at": "2026-06-22T23:41:26+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Fit5qWkHSTc",
+      "title": "순환매의 진실 공개…결국 AI 안에서 돕니다 | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=Fit5qWkHSTc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Fit5qWkHSTc/hqdefault.jpg",
+      "published_at": "2026-06-22T23:10:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "PmPFFTkQSjM",
       "title": "뉴욕 증시, 기술주 중심 낙폭 확대…마이크론, 실적 발표 앞두고 상승 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=PmPFFTkQSjM",
@@ -76,17 +114,17 @@
     },
     {
       "video_id": "nunLrYxo1uU",
-      "title": "미, 이란 원유 제재 60일간 면제 | 하이닉스, 삼전 제치고 시가총액 1위 | 청년미래적금 가입 시작 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[6월 23일 개장시황] 빈센트, 정프로, 장우진, 백인재, 편다송, 김민수 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=nunLrYxo1uU",
       "thumbnail_url": "https://i3.ytimg.com/vi/nunLrYxo1uU/hqdefault.jpg",
       "published_at": "2026-06-22T20:30:47+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -644,54 +682,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IRJ_fGDtSMI",
-      "title": "'뉴스 하나에 천 달러씩 출렁인 비트코인' 미국 이란 협상 불안에 흔들린 시장 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=IRJ_fGDtSMI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IRJ_fGDtSMI/hqdefault.jpg",
-      "published_at": "2026-06-22T03:29:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Hp9kK1tjReo",
-      "title": "[26.06.22 오전 방송 전체보기] 호르무즈 재봉쇄, 마이크론 실적 발표…이번 주 증시 향방은?",
-      "source_url": "https://www.youtube.com/watch?v=Hp9kK1tjReo",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Hp9kK1tjReo/hqdefault.jpg",
-      "published_at": "2026-06-22T03:17:20+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

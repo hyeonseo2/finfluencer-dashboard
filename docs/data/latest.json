@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T12:36:50.866974+00:00",
+  "generated_at": "2026-06-23T15:53:30.820925+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
   ],
   "videos": [
     {
+      "video_id": "Bi-GVuWcxuw",
+      "title": "남은 6월 시장 전망? 실적보다 심리의 시간ㅣ명민준, 강아랑, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=Bi-GVuWcxuw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Bi-GVuWcxuw/hqdefault.jpg",
+      "published_at": "2026-06-23T13:30:15+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "qfqVGyRoltc",
+      "title": "오늘 같은 날, 매수 버튼보다 중요한 것ㅣ명민준, 강아랑, 황유현 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=qfqVGyRoltc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/qfqVGyRoltc/hqdefault.jpg",
+      "published_at": "2026-06-23T12:30:35+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "k4xRh_8dg10",
       "title": "중동 전쟁보다 더 큰 전쟁 터진다, 아시아에 곧 피바람이 분다 (안승범 대표)",
       "source_url": "https://www.youtube.com/watch?v=k4xRh_8dg10",
@@ -76,7 +114,7 @@
     },
     {
       "video_id": "qMdZRJoOylY",
-      "title": "반도체주 조정장, 손절보다 중요한 건 '매수 가격'입니다.ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
+      "title": "반도체주 조정장, 손절보다 중요한 건 '매수 가격'입니다ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
       "source_url": "https://www.youtube.com/watch?v=qMdZRJoOylY",
       "thumbnail_url": "https://i2.ytimg.com/vi/qMdZRJoOylY/hqdefault.jpg",
       "published_at": "2026-06-23T11:30:20+00:00",
@@ -114,17 +152,17 @@
     },
     {
       "video_id": "ujqRg57zc1U",
-      "title": "\"매년 20% 수익 나온다\" 폭락 오든 말든 지금부터 이 ETF 무식하게 사 모으세요 | 곽병열 센터장 3부",
+      "title": "\"10% 급락. 역대급 하락한 코스피\" 7월에 한 번 더 대폭락 나온다? 가진 주식 전부 다 이렇게 하세요 | 곽병열 센터장 3부",
       "source_url": "https://www.youtube.com/watch?v=ujqRg57zc1U",
       "thumbnail_url": "https://i2.ytimg.com/vi/ujqRg57zc1U/hqdefault.jpg",
       "published_at": "2026-06-23T10:45:19+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "etf"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "etf",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -214,7 +252,7 @@
     },
     {
       "video_id": "ZkB8ob-YsmE",
-      "title": "\"북한선수단 싹다 속았다\" 서울 야경에 경악한 진짜 이유 | 이춘근 박사, 이영종 센터장 특집",
+      "title": "북한선수단 한국 빌딩에 경악 싹다 속았다 난리난 이유 | 이춘근 박사, 이영종 센터장 특집",
       "source_url": "https://www.youtube.com/watch?v=ZkB8ob-YsmE",
       "thumbnail_url": "https://i3.ytimg.com/vi/ZkB8ob-YsmE/hqdefault.jpg",
       "published_at": "2026-06-23T09:30:05+00:00",
@@ -428,7 +466,7 @@
     },
     {
       "video_id": "l0UF9rhl-Yk",
-      "title": "반도체 다음 주도주는 이미 정해져있습니다. 아무도 말안해주는 충격적인 로봇 산업ㅣ정주용 의장 [1부]",
+      "title": "오픈AI·앤트로픽 상장하면 반도체 주가는 상상도 못할 만큼 오르게 됩니다ㅣ정주용 의장 [1부]",
       "source_url": "https://www.youtube.com/watch?v=l0UF9rhl-Yk",
       "thumbnail_url": "https://i1.ytimg.com/vi/l0UF9rhl-Yk/hqdefault.jpg",
       "published_at": "2026-06-23T08:00:00+00:00",
@@ -649,44 +687,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OI74PcA6g7w",
-      "title": "반도체 쉴 때, 오는 기회는 탈출 기회다...? | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=OI74PcA6g7w",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OI74PcA6g7w/hqdefault.jpg",
-      "published_at": "2026-06-23T01:40:47+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "kPMw2E14mdE",
-      "title": "반도체 강세는 계속되지만, 지금은 신중해야 하는 이유 | 박병창 MP파트너스 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=kPMw2E14mdE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/kPMw2E14mdE/hqdefault.jpg",
-      "published_at": "2026-06-23T00:31:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

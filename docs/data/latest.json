@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T15:53:30.820925+00:00",
+  "generated_at": "2026-06-23T18:02:27.852091+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -76,7 +76,7 @@
     },
     {
       "video_id": "qfqVGyRoltc",
-      "title": "오늘 같은 날, 매수 버튼보다 중요한 것ㅣ명민준, 강아랑, 황유현 [주린이 구조대]",
+      "title": "오늘 같은 날 매수 버튼보다 중요한 것ㅣ명민준, 강아랑, 황유현 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=qfqVGyRoltc",
       "thumbnail_url": "https://i2.ytimg.com/vi/qfqVGyRoltc/hqdefault.jpg",
       "published_at": "2026-06-23T12:30:35+00:00",
@@ -133,17 +133,22 @@
     },
     {
       "video_id": "stn7VEcKMiw",
-      "title": "[26.06.23 오후 방송 전체보기] 시총 1위 교체 하락 신호 현실화? 폭락에도 삼전닉스 여전히 순매수 상위권",
+      "title": "[26.06.23 오후 방송 전체보기] '검은 화요일' 코스피 10% 폭락...외국인 매도 폭탄 개인이 간신히 방어했다",
       "source_url": "https://www.youtube.com/watch?v=stn7VEcKMiw",
       "thumbnail_url": "https://i4.ytimg.com/vi/stn7VEcKMiw/hqdefault.jpg",
       "published_at": "2026-06-23T11:08:10+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "macro"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

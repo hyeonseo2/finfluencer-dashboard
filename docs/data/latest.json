@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T19:52:09.279698+00:00",
+  "generated_at": "2026-06-24T21:25:47.155757+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "HcSfimSFBWk",
+      "title": "마이크론의 증명! 실적발표 후 '급등'...뉴욕증시 혼조 마감_26.06.25 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=HcSfimSFBWk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/HcSfimSFBWk/hqdefault.jpg",
+      "published_at": "2026-06-24T20:24:30+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "BYHy0HHZ0FU",
       "title": "지금은 실적의 시간. 비중 조절 못하면 버티기 어렵습니다ㅣ명민준, 강아랑, 이다솔 [주린이 구조대]",
@@ -674,30 +698,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-PptJgHHTbQ",
-      "title": "'코인베이스 10가지 vs 한국 1개' 주식·선물·예측시장 전부 되는데 한국만 안된다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=-PptJgHHTbQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-PptJgHHTbQ/hqdefault.jpg",
-      "published_at": "2026-06-24T03:46:52+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "mmCDtSrcZ3o",

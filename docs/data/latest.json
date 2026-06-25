@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T11:41:54.569499+00:00",
+  "generated_at": "2026-06-25T14:40:50.444656+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,8 +56,46 @@
   ],
   "videos": [
     {
+      "video_id": "UIsAqZPaWqI",
+      "title": "코스피 변동성에 속지 않아야 수익 낼 수 있습니다ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=UIsAqZPaWqI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/UIsAqZPaWqI/hqdefault.jpg",
+      "published_at": "2026-06-25T13:30:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "9xmnsvGAO3c",
+      "title": "땡큐 마이크론! 7월 삼전닉스 실적 기대해 봐도 될까?ㅣ명민준, 박가영, 유영화 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=9xmnsvGAO3c",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9xmnsvGAO3c/hqdefault.jpg",
+      "published_at": "2026-06-25T12:30:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "xui5zZ2FWEM",
-      "title": "다음 '텐배거'도 결국 삼전닉스에 있다. 반도체의 진짜 아킬레스건ㅣ여도은, 민재기 KB증권 PRIME CLUB 팀장 [여의도 인사이트]",
+      "title": "다음 '텐배거'도 삼전닉스에 있다? 반도체의 진짜 아킬레스건ㅣ여도은, 민재기 KB증권 PRIME CLUB 팀장 [여의도 인사이트]",
       "source_url": "https://www.youtube.com/watch?v=xui5zZ2FWEM",
       "thumbnail_url": "https://i1.ytimg.com/vi/xui5zZ2FWEM/hqdefault.jpg",
       "published_at": "2026-06-25T11:30:14+00:00",
@@ -162,7 +200,7 @@
     },
     {
       "video_id": "sxHL3nYdBXg",
-      "title": "\"제가 직접 보고 왔어요\" 사상 최악 대참사 터졌다 중국 내부 초비상 걸렸다 | 김대영 군사평론가 2부",
+      "title": "\"캐나다 해군기지 발칵\" 독일의 패배가 정해진 이유 도산안창호함 충격 소문 | 김대영 군사평론가 2부",
       "source_url": "https://www.youtube.com/watch?v=sxHL3nYdBXg",
       "thumbnail_url": "https://i4.ytimg.com/vi/sxHL3nYdBXg/hqdefault.jpg",
       "published_at": "2026-06-25T10:30:13+00:00",
@@ -181,22 +219,17 @@
     },
     {
       "video_id": "Uyh0svp2RO8",
-      "title": "지금 현금 5000만원 있다면, 삼성전자, SK하이닉스와 '이 주식' 사세요 (박진희 부장)",
+      "title": "1000만원으로 '이 주식' 다 사세요, 내년까지 정말 무섭게 오른다 (박진희 부장)",
       "source_url": "https://www.youtube.com/watch?v=Uyh0svp2RO8",
       "thumbnail_url": "https://i2.ytimg.com/vi/Uyh0svp2RO8/hqdefault.jpg",
       "published_at": "2026-06-25T10:15:17+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -286,7 +319,7 @@
     },
     {
       "video_id": "KeQV2vi5Iu4",
-      "title": "반도체, 아직 끝은 아닙니다. 지금 '매도 계획'이 필요한 이유ㅣ여도은, 장우진 금시공 대표 [여의도 인사이트]",
+      "title": "반도체, 아직 끝은 아니지만 지금부터 '매도 계획'이 필요한 이유ㅣ여도은, 장우진 금시공 대표 [여의도 인사이트]",
       "source_url": "https://www.youtube.com/watch?v=KeQV2vi5Iu4",
       "thumbnail_url": "https://i4.ytimg.com/vi/KeQV2vi5Iu4/hqdefault.jpg",
       "published_at": "2026-06-25T09:19:58+00:00",
@@ -324,7 +357,7 @@
     },
     {
       "video_id": "ZGk0LeHt9zg",
-      "title": "[6월 25일 마감시황] 반도체 독주는 끝나는 것이 아니다. 극단적 쏠림으로 향한다ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+      "title": "[6월 25일 마감시황] 반도체 독주는 끝이 아니라 더 극단적 쏠림으로 간다ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
       "source_url": "https://www.youtube.com/watch?v=ZGk0LeHt9zg",
       "thumbnail_url": "https://i3.ytimg.com/vi/ZGk0LeHt9zg/hqdefault.jpg",
       "published_at": "2026-06-25T08:35:51+00:00",
@@ -381,7 +414,7 @@
     },
     {
       "video_id": "XXvsIhTUCsE",
-      "title": "이재명 대통령 폭탄 발언 잠수함 판도 180도 뒤집힌다 | 김민석 특파원 1부",
+      "title": "도산안창호함 충격 소문 발칵 뒤집힌 캐나다 상황 | 김민석 특파원 1부",
       "source_url": "https://www.youtube.com/watch?v=XXvsIhTUCsE",
       "thumbnail_url": "https://i1.ytimg.com/vi/XXvsIhTUCsE/hqdefault.jpg",
       "published_at": "2026-06-25T07:30:31+00:00",
@@ -448,7 +481,7 @@
     },
     {
       "video_id": "_alQSdz53YQ",
-      "title": "'이더리움 반등을 가를 세 가지 시그널' 가치 환원 응용 조직 이드랩스의 등장 | 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
+      "title": "'이더리움 반등 가를 세 가지 시그널', 가치 환원 응용 조직 이드랩스의 등장 | 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=_alQSdz53YQ",
       "thumbnail_url": "https://i4.ytimg.com/vi/_alQSdz53YQ/hqdefault.jpg",
       "published_at": "2026-06-25T04:30:16+00:00",
@@ -602,44 +635,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "JifZJZWWlPk",
-      "title": "마이크론 역대급 실적에 삼전닉스도? | 손수연 하나증권 용산WM센터 PB [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=JifZJZWWlPk",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JifZJZWWlPk/hqdefault.jpg",
-      "published_at": "2026-06-25T01:31:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "vxRs-slyCRY",
-      "title": "반도체는 계속 간다...그러나 추격매수는 NO! | 장우진 작가 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=vxRs-slyCRY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/vxRs-slyCRY/hqdefault.jpg",
-      "published_at": "2026-06-25T00:53:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "IRqtfmyBo6Q",

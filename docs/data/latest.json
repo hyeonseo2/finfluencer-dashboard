@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T12:14:27.769145+00:00",
+  "generated_at": "2026-06-26T15:25:44.994796+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "itqnfh7UE8o",
+      "title": "제약바이오 반등 신호? 진짜는 7월에 갈립니다ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=itqnfh7UE8o",
+      "thumbnail_url": "https://i2.ytimg.com/vi/itqnfh7UE8o/hqdefault.jpg",
+      "published_at": "2026-06-26T13:30:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "wPJzc9vqzs8",
+      "title": "이제는 실적입니다. 7월을 준비하는 우리의 자세ㅣ명민준, 박가영, 황유현 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=wPJzc9vqzs8",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wPJzc9vqzs8/hqdefault.jpg",
+      "published_at": "2026-06-26T12:30:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "2GNCiE5Id80",
       "title": "남들 투매할 때 '진짜 실적주' 주우세요. 위기를 기회로 바꿀 섹터 총정리ㅣ차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
@@ -560,44 +598,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "chtCAmqXB9I",
-      "title": "반도체는 강세지만 방심 금물…진짜 변수는? | 목대균 KGCI 자산운용 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=chtCAmqXB9I",
-      "thumbnail_url": "https://i4.ytimg.com/vi/chtCAmqXB9I/hqdefault.jpg",
-      "published_at": "2026-06-26T02:18:12+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "PXcjJV4HcfE",
-      "title": "실적은 좋은데 주가는 왜? 변동성 장세 생존 전략 | 윤정식 바로자산운용 상무 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=PXcjJV4HcfE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PXcjJV4HcfE/hqdefault.jpg",
-      "published_at": "2026-06-26T01:13:17+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "fV2I47QgFVk",

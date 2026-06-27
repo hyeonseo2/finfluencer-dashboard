@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T21:09:54.269951+00:00",
+  "generated_at": "2026-06-27T23:07:50.350982+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Ndny98AIDGI",
+      "title": "\"지금 매도하는 순간, 큰 기회를 놓칩니다\" | 이선엽 AFW파트너스 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=Ndny98AIDGI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Ndny98AIDGI/hqdefault.jpg",
+      "published_at": "2026-06-27T23:00:26+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "A9p2K9uDIao",
       "title": "세계적인 검열 강국이 되어가는 나라",
@@ -782,25 +801,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "UNhh4SxifwI",
-      "title": "은행 외환 결제를 둘러싼 리플과 체인링크의 경쟁, 한국과 유럽을 첫 무대로 택한 이유 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=UNhh4SxifwI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UNhh4SxifwI/hqdefault.jpg",
-      "published_at": "2026-06-26T04:49:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],

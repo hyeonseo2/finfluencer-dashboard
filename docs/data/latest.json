@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T04:16:22.737504+00:00",
+  "generated_at": "2026-06-28T08:24:30.549947+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,23 +56,94 @@
   ],
   "videos": [
     {
-      "video_id": "4Gxmmsh6jx4",
-      "title": "\"세금, 건보료 걱정 0이다\" 정부가 15.4% 주기로 약속했다. 배당+성장 양손에 쥔 ETF 끝판왕 떴습니다 | 곽병열 센터장 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=4Gxmmsh6jx4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4Gxmmsh6jx4/hqdefault.jpg",
-      "published_at": "2026-06-28T04:00:32+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
+      "video_id": "JcRhBApVLJ4",
+      "title": "이란 사실상 쿠데타 발생 테헤란 정권 붕괴 임박했다 | 이춘근 박사 풀버전1",
+      "source_url": "https://www.youtube.com/watch?v=JcRhBApVLJ4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/JcRhBApVLJ4/hqdefault.jpg",
+      "published_at": "2026-06-28T08:00:33+00:00",
+      "channel_name": "달란트투자",
       "topics": [
-        "commodities",
-        "etf"
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "W0bDduometg",
+      "title": "\"언론은 쉬쉬하고 있어요\" 캐나다에 싹다 퍼졌다 도산안창호함 충격 소문 | 이철재 기자 2부",
+      "source_url": "https://www.youtube.com/watch?v=W0bDduometg",
+      "thumbnail_url": "https://i4.ytimg.com/vi/W0bDduometg/hqdefault.jpg",
+      "published_at": "2026-06-28T06:00:38+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "rdSxgmmQNYQ",
+      "title": "[한국어] S&P500 사두면 돈 벌던 시대는 끝났다? 전 블랙스톤 수석 투자 전략가의 미국 경제 진단 | 조 자이들 Joe Zidle [Global Money Talk]",
+      "source_url": "https://www.youtube.com/watch?v=rdSxgmmQNYQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rdSxgmmQNYQ/hqdefault.jpg",
+      "published_at": "2026-06-28T06:00:21+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
         {
-          "topic": "etf",
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "K82TJT4Xlyo",
+      "title": "\"역사상 틀린적 없는 충격적 신호 떴다\" 충격입니다. 또 한번 대폭락이 온다? 싹 다 정리하고 현금 확보하세요 | 김정남 본부장 30분 요약 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=K82TJT4Xlyo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/K82TJT4Xlyo/hqdefault.jpg",
+      "published_at": "2026-06-28T06:00:15+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "4Gxmmsh6jx4",
+      "title": "\"남는 현금으로 싹 다 담아라\" 평생 월배당 나오는데 원금까지 폭발적으로 불어납니다 | 곽병열 센터장 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=4Gxmmsh6jx4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4Gxmmsh6jx4/hqdefault.jpg",
+      "published_at": "2026-06-28T04:00:32+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -124,17 +195,17 @@
     },
     {
       "video_id": "KTtJsYSySo8",
-      "title": "돈 풀릴 때 먼저 폭등할 '이 자산', 현금 버리고 당장 챙길 2가지 (김진 앵커 풀버전)",
+      "title": "한국 아파트 통째로 물갈이 된다, 내년부터 집값 정말 무서워진다 (김진 앵커 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=KTtJsYSySo8",
       "thumbnail_url": "https://i4.ytimg.com/vi/KTtJsYSySo8/hqdefault.jpg",
       "published_at": "2026-06-28T03:00:35+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "real_estate"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "real_estate",
           "stance": "neutral"
         }
       ],
@@ -162,7 +233,7 @@
     },
     {
       "video_id": "2MTLvAXDCfM",
-      "title": "\"10억도 필요 없어요\" 32년간 배당 상승한 괴물 ETF. 노후 월 200만 원 평생 나온다 | 평온 작가 3부 #etf",
+      "title": "\"4060 필수시청\" 학원비 쓰지말고 자녀 선물로 이 ETF 사라. 월 20만 원에서 20억까지 불려준다 | 평온 작가 3부 #재테크",
       "source_url": "https://www.youtube.com/watch?v=2MTLvAXDCfM",
       "thumbnail_url": "https://i3.ytimg.com/vi/2MTLvAXDCfM/hqdefault.jpg",
       "published_at": "2026-06-28T02:00:37+00:00",
@@ -803,44 +874,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "lbsk2pUrqDI",
-      "title": "[6월 26일 마감시황] 매도가 매도를 불렀다...빅테크 덮친 '칩플레이션' 시대 시작ㅣ홍선애, 박명석, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=lbsk2pUrqDI",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lbsk2pUrqDI/hqdefault.jpg",
-      "published_at": "2026-06-26T08:32:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "_FkRpK2025I",
-      "title": "하락에 삼성 판 개미들 멘붕. 월요일 상상못할 일 터진다｜염승환 이사 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=_FkRpK2025I",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_FkRpK2025I/hqdefault.jpg",
-      "published_at": "2026-06-26T08:30:31+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "QnjyD6j6Z2g",
       "title": "\"배당으로 먹고 살아요\" 연 17% 주고 원금은 164% 상승했다. 괴물 월배당 ETF 떴다 | 평온 작가 1부 #배당투자",
       "source_url": "https://www.youtube.com/watch?v=QnjyD6j6Z2g",
@@ -906,25 +939,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Z_qWsIr0lSw",
-      "title": "“언론은 쉬쉬하고 있어요” 이란 사실상 항복 선언 테헤란 정권 붕괴 임박했다 | 이철재 기자 1부",
-      "source_url": "https://www.youtube.com/watch?v=Z_qWsIr0lSw",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Z_qWsIr0lSw/hqdefault.jpg",
-      "published_at": "2026-06-26T07:30:10+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "JhvteI8jB1E",
@@ -1006,30 +1020,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "jrTuTasPMrU",
-      "title": "\"대폭락 날짜 떴다\" 7월 16일 오기 전에 주식, 부동산 싹 다 정리해라 #김경필 #돈쭐남",
-      "source_url": "https://www.youtube.com/watch?v=jrTuTasPMrU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jrTuTasPMrU/hqdefault.jpg",
-      "published_at": "2026-06-25T10:30:34+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks",
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Uyh0svp2RO8",

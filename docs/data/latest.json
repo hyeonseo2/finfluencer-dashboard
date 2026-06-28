@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T11:11:21.706500+00:00",
+  "generated_at": "2026-06-28T13:58:08.548578+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "KB8hq3-xlHs",
+      "title": "금값, 은값 충격적 전망 나왔다, 가진 금 싹다 \"이렇게\" 하세요 (조규원 대표)",
+      "source_url": "https://www.youtube.com/watch?v=KB8hq3-xlHs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KB8hq3-xlHs/hqdefault.jpg",
+      "published_at": "2026-06-28T11:30:28+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "rkdbcUnVC6U",
+      "title": "[슈카월드] 맞는 말이지만, 애플이 할 말은 아니야/ 에어컨을 급하게 찾는 유럽인들 / 빚투로 몸살을 앓는 나라/ 눈물의 사임 발표를 한 영국 총리 / 자본주의 천국 스웨덴",
+      "source_url": "https://www.youtube.com/watch?v=rkdbcUnVC6U",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rkdbcUnVC6U/hqdefault.jpg",
+      "published_at": "2026-06-28T11:21:30+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "x5fm9atNeY0",
       "title": "부동산 집값 다시 폭등합니다, 무주택 당장 빨리 '이렇게' 하세요 (김준영 소장)",
@@ -1122,25 +1160,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "IRqtfmyBo6Q",
-      "title": "삼성전자, SK하이닉스 조짐 심상치않다, 7월에 상상 못할 일 터집니다 (박진희 부장)",
-      "source_url": "https://www.youtube.com/watch?v=IRqtfmyBo6Q",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IRqtfmyBo6Q/hqdefault.jpg",
-      "published_at": "2026-06-24T12:15:15+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "piTt9ttMPlQ",
       "title": "수출도 좋고, 코스피도 좋은데, 왜 환율은 계속 높을까?",
       "source_url": "https://www.youtube.com/watch?v=piTt9ttMPlQ",
@@ -1451,25 +1470,6 @@
       "source_url": "https://www.youtube.com/watch?v=tjcnSiBmTs0",
       "thumbnail_url": "https://i1.ytimg.com/vi/tjcnSiBmTs0/hqdefault.jpg",
       "published_at": "2026-06-15T09:54:39+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "asbufYS_QE8",
-      "title": "현직 대통령 얼굴을 화폐에 넣어도 되나요?",
-      "source_url": "https://www.youtube.com/watch?v=asbufYS_QE8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/asbufYS_QE8/hqdefault.jpg",
-      "published_at": "2026-06-12T11:14:45+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

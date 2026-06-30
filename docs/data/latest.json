@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T18:00:46.889214+00:00",
+  "generated_at": "2026-06-30T20:58:22.999996+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "7qz175RLwUI",
+      "title": "기술주 랠리 지속에 나스닥 1.5%대 상승...7월 시장은 어떨까?_26.07.01 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=7qz175RLwUI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7qz175RLwUI/hqdefault.jpg",
+      "published_at": "2026-06-30T20:20:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "wKzs5A39HZs",
+      "title": "맞는 말이지만, 애플이 할 말은 아니지",
+      "source_url": "https://www.youtube.com/watch?v=wKzs5A39HZs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wKzs5A39HZs/hqdefault.jpg",
+      "published_at": "2026-06-30T18:12:59+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "-WB7i4l8apU",
       "title": "지금 시장에서 살아남는 법, 주도섹터 최선호주 공개!ㅣ명민준, 강아랑, 정태근 [주린이 구조대]",
@@ -579,25 +622,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "0HGyYoYOAo0",
-      "title": "AI전문가가 말하는 미중 AI 초격차의 결론...\"인프라 투자\"가 답이다 | 임지용, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=0HGyYoYOAo0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/0HGyYoYOAo0/hqdefault.jpg",
-      "published_at": "2026-06-30T02:23:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "7Ti32JpIQKw",
@@ -1469,25 +1493,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "tjcnSiBmTs0",
-      "title": "대학생 여러분들의 신념과 용기에 존경을 표합니다. 이들을 정쟁으로 이용해서는 안 될 것입니다",
-      "source_url": "https://www.youtube.com/watch?v=tjcnSiBmTs0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tjcnSiBmTs0/hqdefault.jpg",
-      "published_at": "2026-06-15T09:54:39+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

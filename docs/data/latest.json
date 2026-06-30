@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T22:11:52.622880+00:00",
+  "generated_at": "2026-06-30T00:09:40.932163+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,7 +46,6 @@
   ],
   "topics": [
     "commodities",
-    "crypto",
     "etf",
     "fx",
     "interest_rate",
@@ -55,6 +54,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "fdNiTlRHJGA",
+      "title": "삼성·SK AI와 반도체에 4755조원 투자…메모리 증설에 안도하는 글로벌 빅테크 | 이미 시작된 454조 중동 재건 시장…“러브콜 시작” | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=fdNiTlRHJGA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/fdNiTlRHJGA/hqdefault.jpg",
+      "published_at": "2026-06-29T23:29:49+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zcJSWiwAYjI",
+      "title": "삼성전자·SK하이닉스 대규모 투자, 걱정 안 해도 되는 이유! | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=zcJSWiwAYjI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zcJSWiwAYjI/hqdefault.jpg",
+      "published_at": "2026-06-29T22:48:20+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "lMES84se7wI",
       "title": "알파벳, 테슬라 급등에 나스닥 랠리…반도체 변동성 지속 [월가 뉴스레터]",
@@ -76,22 +113,17 @@
     },
     {
       "video_id": "CVFtZV4WEJM",
-      "title": "기술주 강세 속 뉴욕증시 상승 마감...테슬라·구글 '급등'_26.06.30 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "[6월 30일 개장시황] 빈센트, 정프로, 장우진, 백인재, 편다송, 염승환 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=CVFtZV4WEJM",
       "thumbnail_url": "https://i4.ytimg.com/vi/CVFtZV4WEJM/hqdefault.jpg",
       "published_at": "2026-06-29T20:27:42+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -654,49 +686,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "0fc4SaAwfH8",
-      "title": "'주춤한 AI, 유동성은 어디로?' 힘 못 쓰는 비트코인, MSTR은 8거래일 연속 하락 | 서동주, 김동환, 오진석 미디어 에디터 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=0fc4SaAwfH8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/0fc4SaAwfH8/hqdefault.jpg",
-      "published_at": "2026-06-29T04:31:52+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "YcpHhjaH000",
-      "title": "[26.06.29 오전 방송 전체보기] AI·반도체주 하락 속 뉴욕증시 소폭 하락...양극화된 시장, 언제까지?",
-      "source_url": "https://www.youtube.com/watch?v=YcpHhjaH000",
-      "thumbnail_url": "https://i2.ytimg.com/vi/YcpHhjaH000/hqdefault.jpg",
-      "published_at": "2026-06-29T03:25:47+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T20:58:22.999996+00:00",
+  "generated_at": "2026-06-30T22:20:04.060984+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,23 +57,37 @@
   ],
   "videos": [
     {
+      "video_id": "eBt7nHdKFtg",
+      "title": "오픈AI·앤트로픽 상장이 반도체에 미친 호재인 이유! 아무도 말 안 해주는 반도체 시나리오 총정리ㅣ정주용 의장 [풀영상]",
+      "source_url": "https://www.youtube.com/watch?v=eBt7nHdKFtg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eBt7nHdKFtg/hqdefault.jpg",
+      "published_at": "2026-06-30T21:30:08+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "7qz175RLwUI",
-      "title": "기술주 랠리 지속에 나스닥 1.5%대 상승...7월 시장은 어떨까?_26.07.01 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "title": "엔화 40년 만에 최저·원달러 1550원 돌파 | 광주 이어 해남·고창…삼성·SK, 반도체 팹·AI 데이터센터 건설 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=7qz175RLwUI",
       "thumbnail_url": "https://i4.ytimg.com/vi/7qz175RLwUI/hqdefault.jpg",
       "published_at": "2026-06-30T20:20:12+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "fx"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "fx",
           "stance": "neutral"
         }
       ],
@@ -1365,25 +1379,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "l0UF9rhl-Yk",
-      "title": "오픈AI·앤트로픽 상장하면 반도체 주가는 상상도 못할 만큼 오르게 됩니다ㅣ정주용 의장 [1부]",
-      "source_url": "https://www.youtube.com/watch?v=l0UF9rhl-Yk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/l0UF9rhl-Yk/hqdefault.jpg",
-      "published_at": "2026-06-23T08:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "vrV9tu0p2LI",

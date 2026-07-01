@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T20:48:46.875496+00:00",
+  "generated_at": "2026-07-01T22:21:01.745705+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "-12SkzoFwe4",
+      "title": "마이클 버리 “반도체 주가 30% 폭락할 수 있다”…메타, AI 컴퓨팅 파워 판매 사업 개발 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=-12SkzoFwe4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-12SkzoFwe4/hqdefault.jpg",
+      "published_at": "2026-07-01T22:10:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "27IgpvrKjDI",
       "title": "메타발 악재에 '흔들' 뉴욕증시 하락 마감...필·반지수 -6% '급락'_26.07.02 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
@@ -598,30 +617,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "7qz175RLwUI",
-      "title": "[26.07.01 오전 방송 전체보기] 기술주 랠리 지속에 나스닥 1.5%대 상승...7월 시장은 어떨까?",
-      "source_url": "https://www.youtube.com/watch?v=7qz175RLwUI",
-      "thumbnail_url": "https://i4.ytimg.com/vi/7qz175RLwUI/hqdefault.jpg",
-      "published_at": "2026-07-01T03:15:23+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

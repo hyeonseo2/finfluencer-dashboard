@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-30T22:20:04.060984+00:00",
+  "generated_at": "2026-07-01T00:11:19.279992+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,7 +46,6 @@
   ],
   "topics": [
     "commodities",
-    "crypto",
     "etf",
     "fx",
     "interest_rate",
@@ -56,6 +55,82 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "O-szWnndpBQ",
+      "title": "엔화 40년 만에 최저·원달러 1550원 돌파…한·일 동반 약세 | 광주 이어 해남·고창…삼성·SK, 반도체 팹·AI 데이터센터 건설 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=O-szWnndpBQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/O-szWnndpBQ/hqdefault.jpg",
+      "published_at": "2026-06-30T23:36:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "CTHMrzXPH1E",
+      "title": "완벽한 LNG 밸류체인, 직접 캐고 저장한다! [지구확장의여정]",
+      "source_url": "https://www.youtube.com/shorts/CTHMrzXPH1E",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CTHMrzXPH1E/hqdefault.jpg",
+      "published_at": "2026-06-30T23:00:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "pOcxSKf_PKw",
+      "title": "하반기 주도주 변화오나? 칩플레이션 쇼크…메모리주 괜찮을까? | 신영증권 김효진 박사 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=pOcxSKf_PKw",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pOcxSKf_PKw/hqdefault.jpg",
+      "published_at": "2026-06-30T22:50:30+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jS_AkPQE33g",
+      "title": "전쟁도 이겨낸 AI의 힘…반도체 랠리는 지속된다 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=jS_AkPQE33g",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jS_AkPQE33g/hqdefault.jpg",
+      "published_at": "2026-06-30T22:11:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "eBt7nHdKFtg",
       "title": "오픈AI·앤트로픽 상장이 반도체에 미친 호재인 이유! 아무도 말 안 해주는 반도체 시나리오 총정리ㅣ정주용 의장 [풀영상]",
@@ -77,17 +152,17 @@
     },
     {
       "video_id": "7qz175RLwUI",
-      "title": "엔화 40년 만에 최저·원달러 1550원 돌파 | 광주 이어 해남·고창…삼성·SK, 반도체 팹·AI 데이터센터 건설 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[7월 1일 개장시황] 빈센트, 정프로, 장우진, 이종원, 편다송, 김민경 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=7qz175RLwUI",
       "thumbnail_url": "https://i4.ytimg.com/vi/7qz175RLwUI/hqdefault.jpg",
       "published_at": "2026-06-30T20:20:12+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "fx"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "fx",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -443,25 +518,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Ip4Ia4yblfU",
-      "title": "삼전닉스가 쉬면 기회? 7월 반도체 장세에서 놓치면 안 될 포인트ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=Ip4Ia4yblfU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Ip4Ia4yblfU/hqdefault.jpg",
-      "published_at": "2026-06-30T08:26:47+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "DZRypYxacDU",
       "title": "삼성전자, SK하이닉스 7월에 주가 폭발한다, '이 신호' 뜨면 주식 아예 못 산다 (채상욱 대표)",
       "source_url": "https://www.youtube.com/watch?v=DZRypYxacDU",
@@ -560,63 +616,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "LGf6jWKC8oc",
-      "title": "남는 컴퓨팅 파워 빌려주는 '이 섹터' AI 수요 타고 매출이 터졌다 | 서동주, 김동환, 조동현 언디파인드랩스 대표 디파이농부 조선생 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=LGf6jWKC8oc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LGf6jWKC8oc/hqdefault.jpg",
-      "published_at": "2026-06-30T04:30:35+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CVFtZV4WEJM",
-      "title": "[26.06.30 오전 방송 전체보기] 기술주 강세 속 뉴욕증시 상승 마감...테슬라·구글 '급등'",
-      "source_url": "https://www.youtube.com/watch?v=CVFtZV4WEJM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CVFtZV4WEJM/hqdefault.jpg",
-      "published_at": "2026-06-30T03:28:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8AEtq1ACIsU",
-      "title": "'비트코인 투매 공포 잠재웠다' 끝없이 빠지던 STRC, MSTR이 갑자기 솟구친 이유 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=8AEtq1ACIsU",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8AEtq1ACIsU/hqdefault.jpg",
-      "published_at": "2026-06-30T03:27:37+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "-Wi-i0vc0DI",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-02T21:13:23.646449+00:00",
+  "generated_at": "2026-07-02T23:12:22.616355+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,23 +58,37 @@
   ],
   "videos": [
     {
+      "video_id": "QovrmgqnblI",
+      "title": "메타 \"예상했던 것만큼 가속화되지 않았다\"…테슬라, 인도량 호조에도 급락 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=QovrmgqnblI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QovrmgqnblI/hqdefault.jpg",
+      "published_at": "2026-07-02T22:05:14+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "ymiOnzcG-Wo",
-      "title": "필라델피아 반도체지수 또 -5%대 하락마감...나스닥 '하락'·다우 '최고치'_26.07.03 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "반도체 추락 속 눈치보기 지속…고비 넘길 시장의 카드는? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=ymiOnzcG-Wo",
       "thumbnail_url": "https://i2.ytimg.com/vi/ymiOnzcG-Wo/hqdefault.jpg",
       "published_at": "2026-07-02T20:27:52+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -661,25 +675,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "vDA5Mv5l6Po",
-      "title": "하반기 비반도체 전략! 미국 헬스케어·바이오를 봐야 하는 이유 | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=vDA5Mv5l6Po",
-      "thumbnail_url": "https://i3.ytimg.com/vi/vDA5Mv5l6Po/hqdefault.jpg",
-      "published_at": "2026-07-02T02:20:02+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

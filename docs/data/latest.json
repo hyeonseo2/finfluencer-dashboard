@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T22:21:01.745705+00:00",
+  "generated_at": "2026-07-02T00:13:03.514051+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,44 @@
   ],
   "videos": [
     {
+      "video_id": "Yp3uAzz1mjY",
+      "title": "6월 수출 첫 1천억 달러 넘어…이대로 가면 일본 제치고 세계 4강 | 현대차·기아, 상반기 미국서 역대 최다 판매 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=Yp3uAzz1mjY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Yp3uAzz1mjY/hqdefault.jpg",
+      "published_at": "2026-07-01T23:29:08+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "-l1ZRfeuNt4",
+      "title": "삼전닉스 하락 어디까지? '쉬는 장'이냐 '상승장의 끝'이냐의 기준은? | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=-l1ZRfeuNt4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-l1ZRfeuNt4/hqdefault.jpg",
+      "published_at": "2026-07-01T22:50:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "-12SkzoFwe4",
       "title": "마이클 버리 “반도체 주가 30% 폭락할 수 있다”…메타, AI 컴퓨팅 파워 판매 사업 개발 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=-12SkzoFwe4",
@@ -77,22 +115,17 @@
     },
     {
       "video_id": "27IgpvrKjDI",
-      "title": "메타발 악재에 '흔들' 뉴욕증시 하락 마감...필·반지수 -6% '급락'_26.07.02 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "[7월 2일 개장시황] 빈센트, 정프로, 유창희, 김태연, 편다송, 김록호 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=27IgpvrKjDI",
       "thumbnail_url": "https://i3.ytimg.com/vi/27IgpvrKjDI/hqdefault.jpg",
       "published_at": "2026-07-01T20:23:42+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -584,44 +617,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "WWjGrFm3rFM",
-      "title": "'매파 오해' 풀린 케빈 워시의 속내, 비트코인 반등 촉매제 남아 있는 이유 | 서동주, 김동환, 이윤수 에릭의거장연구소 대표",
-      "source_url": "https://www.youtube.com/watch?v=WWjGrFm3rFM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WWjGrFm3rFM/hqdefault.jpg",
-      "published_at": "2026-07-01T03:58:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "pQBJQCqSgIQ",
-      "title": "공룡 기업들의 스테이블 코인 등장…서클이 하루 만에 무너졌다?! | 서동주, 김동환, 박상혁 디지털애셋 편집장",
-      "source_url": "https://www.youtube.com/watch?v=pQBJQCqSgIQ",
-      "thumbnail_url": "https://i1.ytimg.com/vi/pQBJQCqSgIQ/hqdefault.jpg",
-      "published_at": "2026-07-01T03:26:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "CRdB96hgfoo",

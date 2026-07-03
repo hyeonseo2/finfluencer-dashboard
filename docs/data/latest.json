@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T21:12:19.956109+00:00",
+  "generated_at": "2026-07-03T23:09:00.811645+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "EBsWAB7YD9Q",
+      "title": "조립을 넘어 연결로 자동차를 완성하는 하나의 길 | 지구 확장의 여정",
+      "source_url": "https://www.youtube.com/watch?v=EBsWAB7YD9Q",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EBsWAB7YD9Q/hqdefault.jpg",
+      "published_at": "2026-07-03T22:57:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "9pGF4JoFoV0",
       "title": "반도체·소부장 다음 타자는 누구? 실적 폭발하는 7월 주도주 리스트ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
@@ -542,25 +561,6 @@
       "source_url": "https://www.youtube.com/watch?v=LYAnbbgI2s8",
       "thumbnail_url": "https://i1.ytimg.com/vi/LYAnbbgI2s8/hqdefault.jpg",
       "published_at": "2026-07-03T02:59:20+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "j7-8C4JYwQc",
-      "title": "실적은 폭발했는데 주가만 안 올랐다…외국인이 쓸어 담는 의료미용?! | 김다혜 하나증권 리서치센터 선임연구원 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=j7-8C4JYwQc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/j7-8C4JYwQc/hqdefault.jpg",
-      "published_at": "2026-07-03T02:08:53+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T12:58:52.170717+00:00",
+  "generated_at": "2026-07-03T15:19:06.396788+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "9pGF4JoFoV0",
+      "title": "반도체·소부장 다음 타자는 누구? 실적 폭발하는 7월 주도주 리스트ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=9pGF4JoFoV0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9pGF4JoFoV0/hqdefault.jpg",
+      "published_at": "2026-07-03T13:30:06+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "QiK8rThzN4M",
       "title": "널뛰는 주가, 이 변동성을 이해해야 진짜 반도체가 보입니다ㅣ명민준, 박가영, 김장열 [주린이 구조대]",
@@ -549,25 +568,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MhNyH2cAWBg",
-      "title": "4700조 메가 프로젝트…반도체 슈퍼사이클 계속된다 | 김문정 하나증권 범어동지점 PB [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=MhNyH2cAWBg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MhNyH2cAWBg/hqdefault.jpg",
-      "published_at": "2026-07-03T01:27:22+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

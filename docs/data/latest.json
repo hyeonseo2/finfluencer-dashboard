@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-04T11:36:38.122548+00:00",
+  "generated_at": "2026-07-04T13:43:32.811004+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "EkgwAkWce2g",
+      "title": "삼성전자, SK하이닉스 결정적 신호 1가지, 진짜 확실한 매도 타이밍 (김현준 대표)",
+      "source_url": "https://www.youtube.com/watch?v=EkgwAkWce2g",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EkgwAkWce2g/hqdefault.jpg",
+      "published_at": "2026-07-04T12:15:13+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "mR8q1hsV3jU",
+      "title": "영국 10년간 총리만 7명 교체, 다음은 누구?",
+      "source_url": "https://www.youtube.com/watch?v=mR8q1hsV3jU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/mR8q1hsV3jU/hqdefault.jpg",
+      "published_at": "2026-07-04T11:42:37+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "dcOIDzXIrPE",
       "title": "단칸방에서 300억 인생 역전하다, '이 차이' 모르면 평생 가난해진다 (아울디자인 박치은 대표)",
@@ -1084,25 +1122,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "jz9T8HjricA",
-      "title": "현대차, 현대모비스, LG전자, 주가 전망 솔직히 말씀드리죠 (남석관 회장)",
-      "source_url": "https://www.youtube.com/watch?v=jz9T8HjricA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jz9T8HjricA/hqdefault.jpg",
-      "published_at": "2026-07-01T10:30:43+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "WYFCkrnfpVo",
       "title": "정치 논란으로 번진, 유럽의 에어컨 반대 논쟁",
       "source_url": "https://www.youtube.com/watch?v=WYFCkrnfpVo",
@@ -1451,25 +1470,6 @@
       "source_url": "https://www.youtube.com/watch?v=MOYn7_AOMcM",
       "thumbnail_url": "https://i2.ytimg.com/vi/MOYn7_AOMcM/hqdefault.jpg",
       "published_at": "2026-06-20T12:23:29+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "04Nmb_HeeqI",
-      "title": "전쟁 특수로 호황이라는 북한 근황",
-      "source_url": "https://www.youtube.com/watch?v=04Nmb_HeeqI",
-      "thumbnail_url": "https://i1.ytimg.com/vi/04Nmb_HeeqI/hqdefault.jpg",
-      "published_at": "2026-06-18T10:54:44+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

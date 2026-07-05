@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T12:19:36.159990+00:00",
+  "generated_at": "2026-07-05T14:47:07.150153+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -59,7 +59,7 @@
       "title": "[슈카월드] 투자에 올인한 대한민국/ 멈추지 않는 일본 엔화 약세/ 미국 역사적 부동산 공급 계획 발표/ 답답해서 내가 찰 축구 근황 / 베네수엘라에 닥친 대지진",
       "source_url": "https://www.youtube.com/watch?v=U6cCe5p4Elc",
       "thumbnail_url": "https://i2.ytimg.com/vi/U6cCe5p4Elc/hqdefault.jpg",
-      "published_at": "2026-07-05T11:22:31+00:00",
+      "published_at": "2026-07-05T14:46:10+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "fx",
@@ -77,6 +77,25 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "xmGvO5_RS4I",
+      "title": "코스피가 2008년 이후 처음 보는 신호가 나왔습니다",
+      "source_url": "https://www.youtube.com/watch?v=xmGvO5_RS4I",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xmGvO5_RS4I/hqdefault.jpg",
+      "published_at": "2026-07-05T13:30:20+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "RQjiAVyAi2c",
@@ -1366,25 +1385,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Sytbkl6257A",
-      "title": "[속보효] 오늘 시장이 급락한 이유! 원인 진단 분석",
-      "source_url": "https://www.youtube.com/watch?v=Sytbkl6257A",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Sytbkl6257A/hqdefault.jpg",
-      "published_at": "2026-06-26T07:34:31+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T20:17:20.979121+00:00",
+  "generated_at": "2026-07-05T22:05:33.118308+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ILmpqotlyYU",
+      "title": "반도체 '빅이벤트 주간', 뉴욕증시 이번주 방향은? 기술주 변동성 잦아들까?_26.07.06 | 여도은, 박명석, 장우진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=ILmpqotlyYU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ILmpqotlyYU/hqdefault.jpg",
+      "published_at": "2026-07-05T20:25:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "xmGvO5_RS4I",
       "title": "코스피가 2008년 이후 처음 보는 신호가 나왔습니다",
@@ -1033,25 +1057,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CdPosvRWW1w",
-      "title": "\"코스피 11,000 가능합니다\" 주도주는 변함없다ㅣ홍선애, 이경민 대신증권 FICC리서치 부장 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=CdPosvRWW1w",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CdPosvRWW1w/hqdefault.jpg",
-      "published_at": "2026-07-03T09:08:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "DH-kLCrxy90",

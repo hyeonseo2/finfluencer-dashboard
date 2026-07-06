@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T22:05:33.118308+00:00",
+  "generated_at": "2026-07-06T00:11:01.106668+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,21 +55,78 @@
   ],
   "videos": [
     {
+      "video_id": "EyehPPxZvto",
+      "title": "전 세계가 주목하는 한국의 일주일 ‘메모리 150조’ 서프라이즈 기대 높아 | 나토 가입국 아닌데 한국이 참석하는 이유는 ‘방산’ | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=EyehPPxZvto",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EyehPPxZvto/hqdefault.jpg",
+      "published_at": "2026-07-05T23:26:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "_ZTym71pH7w",
+      "title": "반도체 아직 끝난 건 아니다... 하지만 지금은 조심해야 한다 | 장우진 금시공 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=_ZTym71pH7w",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_ZTym71pH7w/hqdefault.jpg",
+      "published_at": "2026-07-05T22:48:28+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "L9sLo6ldrmE",
+      "title": "메타 발 불확실성이 만든 변화들…강달러 압박은 지속될까? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=L9sLo6ldrmE",
+      "thumbnail_url": "https://i1.ytimg.com/vi/L9sLo6ldrmE/hqdefault.jpg",
+      "published_at": "2026-07-05T22:12:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "ILmpqotlyYU",
-      "title": "반도체 '빅이벤트 주간', 뉴욕증시 이번주 방향은? 기술주 변동성 잦아들까?_26.07.06 | 여도은, 박명석, 장우진 [월스트리트 모닝브리핑]",
+      "title": "[7월 6일 개장시황] 빈센트, 정프로, 이지은, 손수연, 편다송, 이권희 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=ILmpqotlyYU",
       "thumbnail_url": "https://i2.ytimg.com/vi/ILmpqotlyYU/hqdefault.jpg",
       "published_at": "2026-07-05T20:25:58+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -852,63 +909,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QiK8rThzN4M",
-      "title": "널뛰는 주가, 이 변동성을 이해해야 진짜 반도체가 보입니다ㅣ명민준, 박가영, 김장열 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=QiK8rThzN4M",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QiK8rThzN4M/hqdefault.jpg",
-      "published_at": "2026-07-03T12:30:16+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KCY6RAauudE",
-      "title": "마라톤 장세 시작, 조급한 투자자가 흔들리는 이유ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=KCY6RAauudE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KCY6RAauudE/hqdefault.jpg",
-      "published_at": "2026-07-03T11:30:14+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6fehifjxOcs",
-      "title": "[26.07.03 오후 방송 전체보기] 투심 회복한 삼전닉스에 코스피 급등!...월가 잇달아 \"한국 AI 반도체 의존 심화\" 경고",
-      "source_url": "https://www.youtube.com/watch?v=6fehifjxOcs",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6fehifjxOcs/hqdefault.jpg",
-      "published_at": "2026-07-03T11:01:43+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

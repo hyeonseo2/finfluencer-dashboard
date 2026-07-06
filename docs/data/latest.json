@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:04:05.267853+00:00",
+  "generated_at": "2026-07-06T22:17:11.703537+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "zZiIx1NcdaI",
+      "title": "한국인도 일본인도 아닌 사람들, 한국 산업화에 전재산을 건 이유 ❘ 금융보국의 꿈 [1부]",
+      "source_url": "https://www.youtube.com/watch?v=zZiIx1NcdaI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zZiIx1NcdaI/hqdefault.jpg",
+      "published_at": "2026-07-06T22:00:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "A2b9ZPCesDQ",
+      "title": "반도체주 반등 속 뉴욕증시 '상승' 마감...다우지수 첫 53,000p 돌파_26.07.07 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=A2b9ZPCesDQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/A2b9ZPCesDQ/hqdefault.jpg",
+      "published_at": "2026-07-06T20:26:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "5FdmFzS8ui4",
       "title": "변동성은 지속 된다! 업종 중심 투자 전략 '이 신호' 확인하세요ㅣ명민준, 강아랑, 신얼 [주린이 구조대]",
@@ -511,49 +554,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "sfmASXrBaZo",
-      "title": "삼성전자, SK하이닉스 빅이벤트 주간...반도체 주가 방향은 어디로? | 이혁진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=sfmASXrBaZo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/sfmASXrBaZo/hqdefault.jpg",
-      "published_at": "2026-07-06T02:19:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Zo9Y-MQC0E4",
-      "title": "\"실적발표 이후 삼성전자 이렇게 움직인다\"  | 이권희 위즈웨이브 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=Zo9Y-MQC0E4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Zo9Y-MQC0E4/hqdefault.jpg",
-      "published_at": "2026-07-06T02:05:46+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

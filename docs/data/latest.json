@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T22:17:11.703537+00:00",
+  "generated_at": "2026-07-07T00:12:46.583812+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,7 +46,6 @@
   ],
   "topics": [
     "commodities",
-    "crypto",
     "etf",
     "fx",
     "interest_rate",
@@ -56,8 +55,65 @@
   ],
   "videos": [
     {
+      "video_id": "2LA-WYN3U4Y",
+      "title": "60조 캐나다 잠수함 독일 TKMS로, 한화 탈락…나토 장벽 높아 | 호남 반도체 군공항에…일본·마이크론도 증설, 속도전 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=2LA-WYN3U4Y",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2LA-WYN3U4Y/hqdefault.jpg",
+      "published_at": "2026-07-06T23:41:29+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "-hL6VXX8PEE",
+      "title": "삼성전자 '86조' 실적보다 중요한 변수…반도체 주가가 못 오르는 진짜 이유 | 김장열 유니스토리자산운용 리서치센터 센터장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=-hL6VXX8PEE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-hL6VXX8PEE/hqdefault.jpg",
+      "published_at": "2026-07-06T22:56:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "D508f1BBYRE",
+      "title": "웰스파고 \"트럼프 계좌, 미국 증시 $200억 유입 기대\"…세미아날리시스 \"메타 발 우려 과도하다\" [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=D508f1BBYRE",
+      "thumbnail_url": "https://i1.ytimg.com/vi/D508f1BBYRE/hqdefault.jpg",
+      "published_at": "2026-07-06T22:16:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "zZiIx1NcdaI",
-      "title": "한국인도 일본인도 아닌 사람들, 한국 산업화에 전재산을 건 이유 ❘ 금융보국의 꿈 [1부]",
+      "title": "한국과 일본 어디에도 속하지 못했던 사람들... 그들이 한국 산업화에 전재산을 건 이유 ❘ 금융보국의 꿈 [1부]",
       "source_url": "https://www.youtube.com/watch?v=zZiIx1NcdaI",
       "thumbnail_url": "https://i3.ytimg.com/vi/zZiIx1NcdaI/hqdefault.jpg",
       "published_at": "2026-07-06T22:00:04+00:00",
@@ -76,22 +132,17 @@
     },
     {
       "video_id": "A2b9ZPCesDQ",
-      "title": "반도체주 반등 속 뉴욕증시 '상승' 마감...다우지수 첫 53,000p 돌파_26.07.07 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "title": "[7월 7일 개장시황] 빈센트, 정프로, 유창희, 이재찬, 편다송, 박준영 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=A2b9ZPCesDQ",
       "thumbnail_url": "https://i2.ytimg.com/vi/A2b9ZPCesDQ/hqdefault.jpg",
       "published_at": "2026-07-06T20:26:23+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -487,78 +538,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "D93KBUugZd0",
-      "title": "'연말 비트코인 전망 20만 달러' 왜 이렇게 세게 봤나, 달러 흐름이 만들 하반기 반전 뷰 | 서동주, 김동환, 퍼즈 불장TV 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=D93KBUugZd0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/D93KBUugZd0/hqdefault.jpg",
-      "published_at": "2026-07-06T04:28:57+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "h_VXkQwOqkA",
-      "title": "트럼프, '크립토는 큰 산업이며, AI처럼 주도권이 중요'···밈 코인으로 14억 달러 수익 공개 '문제없다' | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=h_VXkQwOqkA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/h_VXkQwOqkA/hqdefault.jpg",
-      "published_at": "2026-07-06T03:47:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ILmpqotlyYU",
-      "title": "[26.07.06 오전 방송 전체보기] 반도체 '빅이벤트 주간', 뉴욕증시 이번주 방향은? 기술주 변동성 잦아들까?",
-      "source_url": "https://www.youtube.com/watch?v=ILmpqotlyYU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ILmpqotlyYU/hqdefault.jpg",
-      "published_at": "2026-07-06T03:20:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "xmGvO5_RS4I",

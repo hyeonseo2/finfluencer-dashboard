@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T11:55:23.269676+00:00",
+  "generated_at": "2026-07-07T14:48:57.105000+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "NV0XRdZtfTI",
+      "title": "역대급 조정 뒤에 역대급 랠리 온다! 역사가 증명하는 주도주의 법칙ㅣ명민준, 강아랑, 이지환 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=NV0XRdZtfTI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NV0XRdZtfTI/hqdefault.jpg",
+      "published_at": "2026-07-07T13:30:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NVe5CwHXcO8",
+      "title": "삼전닉스 급락장, 지금 가장 먼저 확인해야 할 가격 기준ㅣ명민준, 강아랑, 황유현 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=NVe5CwHXcO8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NVe5CwHXcO8/hqdefault.jpg",
+      "published_at": "2026-07-07T12:30:16+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "FHBV_kqZuKE",
       "title": "삼성전자 40만 원, 진짜 '이 조건'이면 가능할까?ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
@@ -535,44 +573,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "yAg5unp_XZ0",
-      "title": "\"반도체 7월 장맛비 계속된다?\" 그러나, 반전은 여기가 될 것  ㅣ박준영 한반도 반도체 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=yAg5unp_XZ0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yAg5unp_XZ0/hqdefault.jpg",
-      "published_at": "2026-07-07T01:37:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "HF-1lTgpj34",
-      "title": "\"K-변압기 구매 전쟁\" 쇼티지 여기까지 갈 것  | 이재찬 하나증권 명동금융센터 대리 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=HF-1lTgpj34",
-      "thumbnail_url": "https://i1.ytimg.com/vi/HF-1lTgpj34/hqdefault.jpg",
-      "published_at": "2026-07-07T00:52:32+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

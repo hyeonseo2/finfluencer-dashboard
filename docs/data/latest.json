@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:13:43.421682+00:00",
+  "generated_at": "2026-07-08T00:01:19.346508+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,7 +46,6 @@
   ],
   "topics": [
     "commodities",
-    "crypto",
     "etf",
     "fx",
     "interest_rate",
@@ -56,12 +55,31 @@
   ],
   "videos": [
     {
-      "video_id": "PaLEhqoQhjE",
-      "title": "[미드나잇효] 하이닉스 때문에 잠 못 주무시는 분들 들어오세요",
-      "source_url": "https://www.youtube.com/watch?v=PaLEhqoQhjE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PaLEhqoQhjE/hqdefault.jpg",
-      "published_at": "2026-07-07T21:51:57+00:00",
-      "channel_name": "이효석아카데미",
+      "video_id": "8yuAruFFFz4",
+      "title": "미 정부, 한국 조선사에 전투함·급유함 타진…첫 정보요청 | '세계 최고 실적' 삼성전자, 모건스탠리 \"반도체 줄여라\"에 와르르 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=8yuAruFFFz4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8yuAruFFFz4/hqdefault.jpg",
+      "published_at": "2026-07-07T23:49:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "2fWUdyV7EFs",
+      "title": "반도체 비중 축소?! 7월 '이것' 확인하세요 | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=2fWUdyV7EFs",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2fWUdyV7EFs/hqdefault.jpg",
+      "published_at": "2026-07-07T23:08:14+00:00",
+      "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"
       ],
@@ -71,27 +89,41 @@
           "stance": "neutral"
         }
       ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "XOl3H2JhqRY",
+      "title": "호르무즈 위협 단계 '심각' 격상 | 딥시크 자체 칩 개발 우려…반도체, 악재의 클라이막스? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=XOl3H2JhqRY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/XOl3H2JhqRY/hqdefault.jpg",
+      "published_at": "2026-07-07T22:12:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "jNDQUssfMz4",
-      "title": "반도체 동반 '하락'·유가 5%대 '급등' 속 뉴욕증시 하락 마감_26.07.08 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "[7월 8일 개장시황] 빈센트, 정프로, 윤정식, 이종원, 편다송, 이선호 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=jNDQUssfMz4",
       "thumbnail_url": "https://i3.ytimg.com/vi/jNDQUssfMz4/hqdefault.jpg",
       "published_at": "2026-07-07T20:25:01+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -523,44 +555,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "C7o-TKKkLAU",
-      "title": "'7만 5천에 사서 6만에 팔았다' 세일러가 비트코인 손절을 선택한 세 가지 추측 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=C7o-TKKkLAU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/C7o-TKKkLAU/hqdefault.jpg",
-      "published_at": "2026-07-07T03:31:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "A2b9ZPCesDQ",
-      "title": "[26.07.07 오전 방송 전체보기] 반도체주 반등 속 뉴욕증시 '상승'마감...다우지수 첫 53,000p 돌파",
-      "source_url": "https://www.youtube.com/watch?v=A2b9ZPCesDQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/A2b9ZPCesDQ/hqdefault.jpg",
-      "published_at": "2026-07-07T03:14:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "jCVfSLJqRus",
       "title": "삼성전자 호실적에도 급락하는 시장",
       "source_url": "https://www.youtube.com/watch?v=jCVfSLJqRus",
@@ -578,25 +572,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zl78INHrLHw",
-      "title": "자동차를 완성하는 길, 공급망의 예술 [지구확장의여정]",
-      "source_url": "https://www.youtube.com/shorts/zl78INHrLHw",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zl78INHrLHw/hqdefault.jpg",
-      "published_at": "2026-07-07T02:34:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "MEdLp9dk9oM",
@@ -1405,6 +1380,25 @@
         },
         {
           "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "q73I1ZjEosg",
+      "title": "꼭 하고 싶은 말이 있습니다",
+      "source_url": "https://www.youtube.com/watch?v=q73I1ZjEosg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/q73I1ZjEosg/hqdefault.jpg",
+      "published_at": "2026-06-28T00:00:11+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T12:23:34.510688+00:00",
+  "generated_at": "2026-07-08T15:24:32.041965+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,18 +56,75 @@
   ],
   "videos": [
     {
-      "video_id": "UZ6JZ3qcr0M",
-      "title": "\"이 3가지에 맘편히 묻어둬라\" 목돈 0원 → 월 1000만원 배당 나옵니다 | 김규동 이사 #원픽리포트",
-      "source_url": "https://www.youtube.com/watch?v=UZ6JZ3qcr0M",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UZ6JZ3qcr0M/hqdefault.jpg",
-      "published_at": "2026-07-08T11:30:37+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
+      "video_id": "1LuazKHZa_k",
+      "title": "SK하이닉스 ADR 상장, 주가 재평가냐 변동성 확대냐...기대감보다 조심해야 할 이유ㅣ명민준, 강아랑, 최창규 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=1LuazKHZa_k",
+      "thumbnail_url": "https://i2.ytimg.com/vi/1LuazKHZa_k/hqdefault.jpg",
+      "published_at": "2026-07-08T13:30:17+00:00",
+      "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"
       ],
       "topic_stances": [
         {
           "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "310g-gxWGyw",
+      "title": "폭락장에 흔들리지 마세요. 진짜 본질은 아직 무너지지 않았습니다ㅣ명민준, 강아랑, 이권희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=310g-gxWGyw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/310g-gxWGyw/hqdefault.jpg",
+      "published_at": "2026-07-08T12:30:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "tk52qYH9P1M",
+      "title": "삼성전자, SK하이닉스 비상 사태 터졌습니다, '이 신호' 터지면 무조건 피하세요 (김동엽 대표)",
+      "source_url": "https://www.youtube.com/watch?v=tk52qYH9P1M",
+      "thumbnail_url": "https://i1.ytimg.com/vi/tk52qYH9P1M/hqdefault.jpg",
+      "published_at": "2026-07-08T12:16:28+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "UZ6JZ3qcr0M",
+      "title": "\"노후 평생 먹고산다\" 월배당 1000만원 포트폴리오ISA에 이 3가지 ETF 담아라 | 김규동 이사 #원픽리포트",
+      "source_url": "https://www.youtube.com/watch?v=UZ6JZ3qcr0M",
+      "thumbnail_url": "https://i2.ytimg.com/vi/UZ6JZ3qcr0M/hqdefault.jpg",
+      "published_at": "2026-07-08T11:30:37+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -119,7 +176,7 @@
     },
     {
       "video_id": "8DqaL2I8g7k",
-      "title": "삼성전자, SK하이닉스만 믿다간 당한다, '이 신호' 무너지면 탈출하라 (슈퍼개미 이정윤 세무사)",
+      "title": "SK하이닉스보다 삼성전자가 더 위험하다, '이 신호' 무너지면 탈출하세요 (슈퍼개미 이정윤 세무사)",
       "source_url": "https://www.youtube.com/watch?v=8DqaL2I8g7k",
       "thumbnail_url": "https://i1.ytimg.com/vi/8DqaL2I8g7k/hqdefault.jpg",
       "published_at": "2026-07-08T11:00:38+00:00",
@@ -238,7 +295,7 @@
     },
     {
       "video_id": "i6GoWFcYxkM",
-      "title": "\"이란에 직접 연락해봤어요\" 유혈사태 발생한 테헤란 상황｜임명묵 작가 1부",
+      "title": "美 이란 말살 작전 개시. 테헤란 또다시 불바다 됐다｜임명묵 작가 1부",
       "source_url": "https://www.youtube.com/watch?v=i6GoWFcYxkM",
       "thumbnail_url": "https://i2.ytimg.com/vi/i6GoWFcYxkM/hqdefault.jpg",
       "published_at": "2026-07-08T09:30:10+00:00",
@@ -640,44 +697,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OFmrYxQSGw0",
-      "title": "\"국내 최초 돼지 투자\" 방법과 수익률 어떻게 될까? | 이선호 데이터젠 실장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=OFmrYxQSGw0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OFmrYxQSGw0/hqdefault.jpg",
-      "published_at": "2026-07-08T01:35:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "U4Ephww0Npk",
-      "title": "'공포가 만연할 때' 숫자는 거짓말 안 한다 | 이종원 하나증권 영업1부WM센터 팀장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=U4Ephww0Npk",
-      "thumbnail_url": "https://i2.ytimg.com/vi/U4Ephww0Npk/hqdefault.jpg",
-      "published_at": "2026-07-08T01:03:05+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1190,25 +1209,6 @@
       "source_url": "https://www.youtube.com/watch?v=z0dWz4v4RoE",
       "thumbnail_url": "https://i3.ytimg.com/vi/z0dWz4v4RoE/hqdefault.jpg",
       "published_at": "2026-07-05T08:30:27+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "NwyGZ5t9ipA",
-      "title": "2500만원으로 '이 주식' 다 사세요, 내년까지 정말 무섭게 오른다 (김현준 대표)",
-      "source_url": "https://www.youtube.com/watch?v=NwyGZ5t9ipA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NwyGZ5t9ipA/hqdefault.jpg",
-      "published_at": "2026-07-05T07:30:16+00:00",
       "channel_name": "김작가 TV",
       "topics": [
         "stocks"

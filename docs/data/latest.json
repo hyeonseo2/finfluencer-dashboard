@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T21:12:18.577459+00:00",
+  "generated_at": "2026-07-08T23:12:18.758247+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -50,14 +50,70 @@
     "etf",
     "fx",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
     {
+      "video_id": "NXhL_Sj40IA",
+      "title": "반도체 끝난 거 아니다…이제는 가격보다 생산량 | 박승영 한화투자증권 PLUS 사업부 포트폴리오전략 팀장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=NXhL_Sj40IA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NXhL_Sj40IA/hqdefault.jpg",
+      "published_at": "2026-07-08T22:56:16+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "xeedjSrwklc",
+      "title": "톰리 “삼성전자 하락, 겁 먹지 마라”…엔비디아, 중국 H200 허가 기대감 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=xeedjSrwklc",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xeedjSrwklc/hqdefault.jpg",
+      "published_at": "2026-07-08T22:25:40+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "lp7lZW1GW0E",
+      "title": "서동주가 알려주는 비트코인 채굴 원리 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/shorts/lp7lZW1GW0E",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lp7lZW1GW0E/hqdefault.jpg",
+      "published_at": "2026-07-08T21:30:10+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "FeM7qlhVkI0",
-      "title": "미·이란 갈등 재점화 속 다우 '하락'·나스닥 '반등'...메타, 데이터센터 건설_26.07.09 | 여도은, 박명석, 박승영 [월스트리트 모닝브리핑]",
+      "title": "7천선 붙잡은 코스피, 쌓이는 악재에 불안…이번주 고비 넘길 수 있을까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=FeM7qlhVkI0",
       "thumbnail_url": "https://i3.ytimg.com/vi/FeM7qlhVkI0/hqdefault.jpg",
       "published_at": "2026-07-08T20:30:19+00:00",
@@ -200,7 +256,7 @@
     },
     {
       "video_id": "8DqaL2I8g7k",
-      "title": "SK하이닉스보다 삼성전자가 더 위험하다, '이 신호' 무너지면 탈출하세요 (슈퍼개미 이정윤 세무사)",
+      "title": "2500만원으로 '이 주식' 다 사세요, 내년까지 정말 무섭게 오른다 (슈퍼개미 이정윤 세무사)",
       "source_url": "https://www.youtube.com/watch?v=8DqaL2I8g7k",
       "thumbnail_url": "https://i1.ytimg.com/vi/8DqaL2I8g7k/hqdefault.jpg",
       "published_at": "2026-07-08T11:00:38+00:00",
@@ -594,25 +650,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "JtsvdIxLfgo",
-      "title": "거대 기업에 빼앗긴 결제 시장, RWA 자산 시장으로 눈 돌리자, 솔라나 이더리움이 되살아났다 | 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=JtsvdIxLfgo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JtsvdIxLfgo/hqdefault.jpg",
-      "published_at": "2026-07-08T04:32:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "ZgjwPVAJ-tE",
       "title": "예적금 말고 '이것’을 주목하세요 #김경필",
       "source_url": "https://www.youtube.com/shorts/ZgjwPVAJ-tE",
@@ -654,54 +691,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "aZVWrMUUVfw",
-      "title": "'트럼프 BTC 전략비축 행정명령에서 법안화' 약세장 속 조금씩 보이는 긍정 시그널 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=aZVWrMUUVfw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aZVWrMUUVfw/hqdefault.jpg",
-      "published_at": "2026-07-08T03:35:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "jNDQUssfMz4",
-      "title": "[26.07.08 오전 방송 전체보기] 반도체 동반 '하락'·유가 5%대 '급등' 속 뉴욕증시 하락 마감",
-      "source_url": "https://www.youtube.com/watch?v=jNDQUssfMz4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jNDQUssfMz4/hqdefault.jpg",
-      "published_at": "2026-07-08T03:14:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "gjWkGtjDRDI",

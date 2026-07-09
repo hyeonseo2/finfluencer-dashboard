@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T21:38:37.811416+00:00",
+  "generated_at": "2026-07-09T23:16:15.532687+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,8 +57,27 @@
   ],
   "videos": [
     {
+      "video_id": "rmdYvncBR-s",
+      "title": "메타, 내년까지 컴퓨팅 파워 2배 확대…AMAT CEO \"향후 수년간 반도체 호황\" [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=rmdYvncBR-s",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rmdYvncBR-s/hqdefault.jpg",
+      "published_at": "2026-07-09T22:02:35+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "C4VUZP2h24Y",
-      "title": "기술주 전반 강세 속 뉴욕증시 일제히 상승...미국 반도체지수 +3%_26.07.10 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "간신히 상승 날개 단 코스피, 전쟁가고 ADR 온다!…오늘 시장 흐름은? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=C4VUZP2h24Y",
       "thumbnail_url": "https://i4.ytimg.com/vi/C4VUZP2h24Y/hqdefault.jpg",
       "published_at": "2026-07-09T20:25:22+00:00",
@@ -82,17 +101,17 @@
     },
     {
       "video_id": "D9kmGdsdyAA",
-      "title": "실적은 좋은데 주가는 고점대비 최대 50% 빠진다면?ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
+      "title": "기관이 미리 담는 다음 주도주?ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=D9kmGdsdyAA",
       "thumbnail_url": "https://i1.ytimg.com/vi/D9kmGdsdyAA/hqdefault.jpg",
       "published_at": "2026-07-09T13:30:17+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -613,30 +632,6 @@
         },
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QIH3V2H6rN4",
-      "title": "국내 증시 변동성 지속...하반기 미국 주식 더 늘려야 하는 이유는? | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=QIH3V2H6rN4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QIH3V2H6rN4/hqdefault.jpg",
-      "published_at": "2026-07-09T02:32:06+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T14:37:58.898141+00:00",
+  "generated_at": "2026-07-10T16:59:33.192682+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -101,17 +101,22 @@
     },
     {
       "video_id": "gzeazI4qRVo",
-      "title": "3000만원으로 '이 주식' 다 사세요, 내년까지 정말 무섭게 오른다 (김동엽 대표)",
+      "title": "SK하이닉스 ADR 사고, 한국 주식은 팔아라, 월가의 숨은 진짜 의도 (김동엽 대표)",
       "source_url": "https://www.youtube.com/watch?v=gzeazI4qRVo",
       "thumbnail_url": "https://i4.ytimg.com/vi/gzeazI4qRVo/hqdefault.jpg",
       "published_at": "2026-07-10T11:50:15+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -387,22 +392,17 @@
     },
     {
       "video_id": "frr03PaSj1Q",
-      "title": "지금은 SK하이닉스 말고 삼성전자 사세요, 곧 상상 못할 일이 터질 겁니다 (권영화 교수)",
+      "title": "삼성전자 주식 꽉 붙잡으세요, 100년에 1번 나오는 폭등 나온다 (권영화 교수)",
       "source_url": "https://www.youtube.com/watch?v=frr03PaSj1Q",
       "thumbnail_url": "https://i3.ytimg.com/vi/frr03PaSj1Q/hqdefault.jpg",
       "published_at": "2026-07-10T08:00:15+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

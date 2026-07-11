@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T22:09:15.887090+00:00",
+  "generated_at": "2026-07-11T00:02:18.311556+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "pIvE8C9yzc8",
+      "title": "\"연 19.5% 나온다\" ISA에 이 3가지 ETF 죽어라 사모으세요. 노후 돈걱정 끝입니다 | 여운봉 대표 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=pIvE8C9yzc8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pIvE8C9yzc8/hqdefault.jpg",
+      "published_at": "2026-07-11T00:00:00+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "uFPmu-d0hwM",
+      "title": "팜농장에 열린 희망의 열매, 지속 가능한 내일을 심다 | 지구 확장의 여정",
+      "source_url": "https://www.youtube.com/watch?v=uFPmu-d0hwM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/uFPmu-d0hwM/hqdefault.jpg",
+      "published_at": "2026-07-10T23:00:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "48BZ4HJxAvY",
+      "title": "[속보효] SK하이닉스 ADR 상장, 주가에 미치는 영향은?",
+      "source_url": "https://www.youtube.com/watch?v=48BZ4HJxAvY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/48BZ4HJxAvY/hqdefault.jpg",
+      "published_at": "2026-07-10T21:54:17+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "YLBXHYnzXS8",
       "title": "변동성 장세에서는 수익 기회 찾지 마세요ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
@@ -225,7 +282,7 @@
     },
     {
       "video_id": "tgdHdJbNcKo",
-      "title": "증시 한번 더 흔들릴 겁니다, 현금 있으면 '이 주식' 사세요 (김동엽 대표)",
+      "title": "지금은 삼성전자, SK하이닉스만 사세요, 안 팔고 버티면 결국 '이렇게' 된다 (김동엽 대표)",
       "source_url": "https://www.youtube.com/watch?v=tgdHdJbNcKo",
       "thumbnail_url": "https://i1.ytimg.com/vi/tgdHdJbNcKo/hqdefault.jpg",
       "published_at": "2026-07-10T10:00:04+00:00",
@@ -560,25 +617,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "aSCI7o8F10o",
-      "title": "SK하이닉스 ADR, 중국 창신메모리 상장...삼전닉스 수급 빠질까? | 소진웅, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=aSCI7o8F10o",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aSCI7o8F10o/hqdefault.jpg",
-      "published_at": "2026-07-10T02:21:08+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1018,25 +1056,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MlMJC76nkIg",
-      "title": "\"이 산업 폭등할겁니다\" 하반기 이 ETF 죽어라 사라. 앞으로 10년간 돈이 몰린다 | 효라클 작가 2부 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=MlMJC76nkIg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MlMJC76nkIg/hqdefault.jpg",
-      "published_at": "2026-07-08T10:30:22+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "T45zdu-nhaI",
@@ -1479,25 +1498,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CRdB96hgfoo",
-      "title": "IMF·리만브라더스 사태 때보다 높아져버린 환율에 대해서 아무도 말해주지 않는 진실",
-      "source_url": "https://www.youtube.com/watch?v=CRdB96hgfoo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CRdB96hgfoo/hqdefault.jpg",
-      "published_at": "2026-07-01T02:28:31+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],

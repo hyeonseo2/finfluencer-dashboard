@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T04:15:50.047153+00:00",
+  "generated_at": "2026-07-11T07:14:10.295235+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,7 +48,6 @@
     "commodities",
     "crypto",
     "etf",
-    "fx",
     "interest_rate",
     "macro",
     "policy",
@@ -56,6 +55,82 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "eYKwbiS99xQ",
+      "title": "제2의 효성중공업 '여기서' 터진다, 2500만원으로 '이 주식' 다 사세요 (슈퍼개미 이정윤 세무사 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=eYKwbiS99xQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eYKwbiS99xQ/hqdefault.jpg",
+      "published_at": "2026-07-11T06:15:19+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "-99PWV7rQkI",
+      "title": "\"1000만원 미만도 싹 잡혀요\" 가족간 계좌이체 '이렇게' 하면 온 가족 세무조사 받는다 | 이장원 세무사 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=-99PWV7rQkI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-99PWV7rQkI/hqdefault.jpg",
+      "published_at": "2026-07-11T06:00:29+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "OjK0qoDT3Cw",
+      "title": "'최악의 호르무즈 재봉쇄...?' 협상 결렬의 진짜 이유 | 박현도·성일광 서강대 유로메나연구소 교수 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=OjK0qoDT3Cw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/OjK0qoDT3Cw/hqdefault.jpg",
+      "published_at": "2026-07-11T06:00:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "lat10mFwBx4",
+      "title": "美 이란 말살 작전 개시 테헤란 또 다시 불바다 됐다 | 김민석 특파원 2부",
+      "source_url": "https://www.youtube.com/watch?v=lat10mFwBx4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lat10mFwBx4/hqdefault.jpg",
+      "published_at": "2026-07-11T06:00:00+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ZL89u4_CEUY",
       "title": "\"IMF급 위기 온다\" 7월 금리인상 확정? 지금 당장 현금 싹다 옮기세요 | 송민석 이사 2부 #돈쭐남 #김경필",
@@ -177,7 +252,7 @@
     },
     {
       "video_id": "bGC-mWCd8_Y",
-      "title": "연금저축계좌에서 국내 ETF 투자하면 안내도될 '세금폭탄'이 날아옵니다",
+      "title": "연금저축계좌에서 국내 ETF 투자하면 안내도 될 '세금폭탄'이 날아옵니다",
       "source_url": "https://www.youtube.com/watch?v=bGC-mWCd8_Y",
       "thumbnail_url": "https://i3.ytimg.com/vi/bGC-mWCd8_Y/hqdefault.jpg",
       "published_at": "2026-07-11T00:00:02+00:00",
@@ -719,30 +794,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "l3XWULb99tk",
-      "title": "'로빈후드, 블록체인 만든 이유' 300달러를 2만 달러로 만들어준 밈코인, 조심해야 합니다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=l3XWULb99tk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/l3XWULb99tk/hqdefault.jpg",
-      "published_at": "2026-07-10T03:29:57+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "iVFXiF5D8Nw",
       "title": "삼성전자, SK하이닉스 목표 주가 올리면서, 정작 주식 팔고 있는 진짜 이유 (박병창 대표)",
       "source_url": "https://www.youtube.com/watch?v=iVFXiF5D8Nw",
@@ -1010,59 +1061,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "h4o1nxIccjs",
-      "title": "\"또 한번 역대급 폭락 온다. 코스피 1조원 강제 매도 임박\" 주식, 부동산 대출 싹 다 정리하고 현금 확보해라. 끔찍한 위기 옵니다 #김경필 #돈쭐남",
-      "source_url": "https://www.youtube.com/watch?v=h4o1nxIccjs",
-      "thumbnail_url": "https://i1.ytimg.com/vi/h4o1nxIccjs/hqdefault.jpg",
-      "published_at": "2026-07-09T07:00:04+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks",
-        "commodities",
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "rIWoStS9wn4",
-      "title": "-30% 폭락한 삼성전자 지금 안팔면 '이렇게' 된다 | 조진표 대표 2부",
-      "source_url": "https://www.youtube.com/watch?v=rIWoStS9wn4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rIWoStS9wn4/hqdefault.jpg",
-      "published_at": "2026-07-09T06:30:27+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "tk52qYH9P1M",
       "title": "삼성전자, SK하이닉스 비상 사태 터졌습니다, '이 신호' 터지면 무조건 피하세요 (김동엽 대표)",
       "source_url": "https://www.youtube.com/watch?v=tk52qYH9P1M",
@@ -1256,30 +1254,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "izjJQh09ZXo",
-      "title": "삼성전자, SK하이닉스 보유자들은 단 1주라도 있다면 '이렇게' 하세요 (슈퍼개미 이정윤 세무사)",
-      "source_url": "https://www.youtube.com/watch?v=izjJQh09ZXo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/izjJQh09ZXo/hqdefault.jpg",
-      "published_at": "2026-07-07T11:00:17+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "jCVfSLJqRus",

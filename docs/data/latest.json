@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T22:55:48.968158+00:00",
+  "generated_at": "2026-07-12T00:02:07.280583+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "zN7_ZAaxgVg",
+      "title": "지점 3개로 시작한 은행, 어떻게 국내 최대 종합금융그룹이 됐을까 ❘ 금융보국의 꿈 [2부]",
+      "source_url": "https://www.youtube.com/watch?v=zN7_ZAaxgVg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zN7_ZAaxgVg/hqdefault.jpg",
+      "published_at": "2026-07-11T23:00:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "0jIqbvxzVMc",
       "title": "SK하이닉스보다 삼성전자 사야 하는 이유, 100년에 한 번 나오는 폭등 온다 (권영화 교수)",
@@ -917,25 +936,6 @@
       "source_url": "https://www.youtube.com/shorts/-8Gjvzog-Ho",
       "thumbnail_url": "https://i2.ytimg.com/vi/-8Gjvzog-Ho/hqdefault.jpg",
       "published_at": "2026-07-10T05:05:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "PPUHPV27Mmw",
-      "title": "'클래리티 법안' 왜 8월 안에 어렵다고 보는가 '정치적 명분' 사라졌다 | 서동주 김동환 김규진 타이거 리서치 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=PPUHPV27Mmw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PPUHPV27Mmw/hqdefault.jpg",
-      "published_at": "2026-07-10T04:14:51+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "policy"

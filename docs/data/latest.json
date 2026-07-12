@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T09:54:23.446051+00:00",
+  "generated_at": "2026-07-12T11:14:13.555896+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,6 +45,7 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -55,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "RZSAIiPp6VM",
+      "title": "이스라엘 튀르키예 미친듯이 싸우는 진짜 이유. 중동에 또다시 피바람이 분다｜임명묵 작가 2부",
+      "source_url": "https://www.youtube.com/watch?v=RZSAIiPp6VM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/RZSAIiPp6VM/hqdefault.jpg",
+      "published_at": "2026-07-12T10:00:07+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "n8-kyXOXOcY",
       "title": "무조건 돈 낭비하는 최악의 영양제, 종합비타민 '이건' 먹지마세요 (정재훈 약사)",
@@ -209,17 +229,17 @@
     },
     {
       "video_id": "95_M8-DYUA8",
-      "title": "97년엔 금반지를 모았고 계엄의 밤엔 이것을 샀다, 위기 때 드러난 진짜 안전자산 | 이동현 LG경영연구원 박사 [2부]",
+      "title": "전 세계 투자자들이 자기도 모르게 미국 국채를 사주는 시대가 열렸습니다 | 이동현 LG경영연구원 박사 [2부]",
       "source_url": "https://www.youtube.com/watch?v=95_M8-DYUA8",
       "thumbnail_url": "https://i2.ytimg.com/vi/95_M8-DYUA8/hqdefault.jpg",
       "published_at": "2026-07-12T05:00:26+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "macro"
+        "bonds"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -1092,25 +1112,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "EACxAQaso6I",
-      "title": "한국 대신 프랑스 선택한 인니 오히려 초대박 난 한국 잠수함 | 문근식 교수 2부",
-      "source_url": "https://www.youtube.com/watch?v=EACxAQaso6I",
-      "thumbnail_url": "https://i2.ytimg.com/vi/EACxAQaso6I/hqdefault.jpg",
-      "published_at": "2026-07-10T08:30:32+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "bXuT_Ib3kWs",

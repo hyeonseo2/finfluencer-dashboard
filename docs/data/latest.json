@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T21:56:43.561210+00:00",
+  "generated_at": "2026-07-12T22:58:01.916078+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,23 +57,37 @@
   ],
   "videos": [
     {
-      "video_id": "qSVsQMK-gXU",
-      "title": "미·이란 불안에도 뉴욕증시 상승 지속...SK하이닉스 +13%_26.07.13 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=qSVsQMK-gXU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qSVsQMK-gXU/hqdefault.jpg",
-      "published_at": "2026-07-12T20:20:33+00:00",
+      "video_id": "epEDUo3dhJc",
+      "title": "S&P500, AI 투심 회복에 사상 최고치 임박...하이닉스, 나스닥 상장 첫날 13% 급등 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=epEDUo3dhJc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/epEDUo3dhJc/hqdefault.jpg",
+      "published_at": "2026-07-12T22:06:44+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "qSVsQMK-gXU",
+      "title": "SK하이닉스 나스닥 성공적 데뷔에 반도체 피크아웃 우려 끝났다…코스피 상승 길 다시 열릴까? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=qSVsQMK-gXU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/qSVsQMK-gXU/hqdefault.jpg",
+      "published_at": "2026-07-12T20:20:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -1121,30 +1135,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "xPugU8YqN2Q",
-      "title": "지옥 같았던 이번주 폭락...\"변동성은 일단 꼭지입니다\"ㅣ홍선애, 이혁진 NH투자증권 자산관리컨설팅센터 주식팀장 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=xPugU8YqN2Q",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xPugU8YqN2Q/hqdefault.jpg",
-      "published_at": "2026-07-10T08:49:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "DbDZi0k5mj0",

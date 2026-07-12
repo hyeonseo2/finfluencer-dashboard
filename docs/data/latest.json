@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T13:36:58.869245+00:00",
+  "generated_at": "2026-07-12T15:00:44.278084+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -49,7 +49,6 @@
     "commodities",
     "crypto",
     "etf",
-    "fx",
     "interest_rate",
     "macro",
     "policy",
@@ -58,23 +57,23 @@
   ],
   "videos": [
     {
-      "video_id": "kZfP9hR15U8",
-      "title": "[슈카월드] SK하이닉스 ADR 상장, 그 효과는? / 캐나다 잠수함 수주 실패 이유는? / 또 걸린 담합/ 6월 수출 1000억 달러 돌파/ 중국 제품을 막는 묘수",
-      "source_url": "https://www.youtube.com/watch?v=kZfP9hR15U8",
-      "thumbnail_url": "https://i4.ytimg.com/vi/kZfP9hR15U8/hqdefault.jpg",
-      "published_at": "2026-07-12T11:24:22+00:00",
-      "channel_name": "슈카월드",
+      "video_id": "zlVuQelTQtY",
+      "title": "미국 상장한 SK하이닉스 250만 원 시작. 아직 흥분하면 위험합니다",
+      "source_url": "https://www.youtube.com/watch?v=zlVuQelTQtY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zlVuQelTQtY/hqdefault.jpg",
+      "published_at": "2026-07-12T13:39:41+00:00",
+      "channel_name": "이효석아카데미",
       "topics": [
-        "fx"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "fx",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "VFMG4oDB-Cs",
@@ -249,7 +248,7 @@
     },
     {
       "video_id": "DePm8hAWAmY",
-      "title": "한국 증시 대폭등 이제 시작이다, 반도체, 조선에 돈이 몰리는 이유 (소현철 박사)",
+      "title": "'이 2개 주식' 무섭게 사 모으세요, 숨도 안 쉬고 미친듯이 오를 종목 (소현철 박사)",
       "source_url": "https://www.youtube.com/watch?v=DePm8hAWAmY",
       "thumbnail_url": "https://i1.ytimg.com/vi/DePm8hAWAmY/hqdefault.jpg",
       "published_at": "2026-07-12T05:15:28+00:00",
@@ -1424,25 +1423,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "xmGvO5_RS4I",
-      "title": "코스피가 2008년 이후 처음 보는 신호가 나왔습니다",
-      "source_url": "https://www.youtube.com/watch?v=xmGvO5_RS4I",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xmGvO5_RS4I/hqdefault.jpg",
-      "published_at": "2026-07-05T13:30:20+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "mR8q1hsV3jU",
       "title": "영국 10년간 총리만 7명 교체, 다음은 누구?",
       "source_url": "https://www.youtube.com/watch?v=mR8q1hsV3jU",
@@ -1467,6 +1447,25 @@
       "source_url": "https://www.youtube.com/watch?v=KpJ4hnQm9uw",
       "thumbnail_url": "https://i4.ytimg.com/vi/KpJ4hnQm9uw/hqdefault.jpg",
       "published_at": "2026-07-03T11:00:35+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "yV0XTcQXFrM",
+      "title": "전국민 투자 열풍에 빠진 대만",
+      "source_url": "https://www.youtube.com/watch?v=yV0XTcQXFrM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yV0XTcQXFrM/hqdefault.jpg",
+      "published_at": "2026-07-02T11:36:45+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

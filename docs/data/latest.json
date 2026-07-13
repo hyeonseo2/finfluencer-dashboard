@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T12:09:44.463599+00:00",
+  "generated_at": "2026-07-13T15:43:27.292203+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,54 @@
   ],
   "videos": [
     {
+      "video_id": "9rG6UOIvguc",
+      "title": "내 주식은 멀쩡한데 왜 같이 떨어질까? 턱밑까지 온 '반대매매' 리스크ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=9rG6UOIvguc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9rG6UOIvguc/hqdefault.jpg",
+      "published_at": "2026-07-13T13:30:40+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NfCq0lC5n5Q",
+      "title": "수급에 흔들리는 시장...가장 위험한 행동은?ㅣ명민준, 박가영, 이권희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=NfCq0lC5n5Q",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NfCq0lC5n5Q/hqdefault.jpg",
+      "published_at": "2026-07-13T12:30:17+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "Wdj569vlMKI",
       "title": "반도체 수급 분산 이후 코스닥에서 찾는 하반기 기회ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
       "source_url": "https://www.youtube.com/watch?v=Wdj569vlMKI",
@@ -77,7 +125,7 @@
     },
     {
       "video_id": "HrYMtRG5Ank",
-      "title": "[26.07.13 오후 방송 전체보기] 올해만 7번째 서킷브레이커...힘 빠진 코스피, 상승 동력은 어디에?",
+      "title": "[26.07.13 오후 방송 전체보기] SK하이닉스 -15%, 역대 최대 낙폭! 올해만 7번째 서킷브레이커...힘 빠진 코스피, 상승 동력은 어디에?",
       "source_url": "https://www.youtube.com/watch?v=HrYMtRG5Ank",
       "thumbnail_url": "https://i1.ytimg.com/vi/HrYMtRG5Ank/hqdefault.jpg",
       "published_at": "2026-07-13T11:05:14+00:00",
@@ -230,17 +278,17 @@
     },
     {
       "video_id": "y97_17F-vWQ",
-      "title": "\"일본 이슬람 공화국\" 트럼프 폭탄 발언 일본 지금 초비상 걸렸다 | 신작가 1부",
+      "title": "참다못한 일본인들 폭발 발칵 뒤집힌 일본 현지 상황 | 신작가 1부",
       "source_url": "https://www.youtube.com/watch?v=y97_17F-vWQ",
       "thumbnail_url": "https://i2.ytimg.com/vi/y97_17F-vWQ/hqdefault.jpg",
       "published_at": "2026-07-13T09:30:02+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -507,44 +555,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "oocrxTihLoA",
-      "title": "하이닉스에게 무슨 일이 일어나는 걸까? | 손수연 하나증권 용산WM센터 PB [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=oocrxTihLoA",
-      "thumbnail_url": "https://i4.ytimg.com/vi/oocrxTihLoA/hqdefault.jpg",
-      "published_at": "2026-07-13T01:39:17+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "aGpI2WLHCQU",
-      "title": "\"내년까지 역대급 호황\" 근데 왜 피크아웃 공포가 느껴질까 | 이형수 HSL파트너스 대표 [더블업]",
-      "source_url": "https://www.youtube.com/watch?v=aGpI2WLHCQU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aGpI2WLHCQU/hqdefault.jpg",
-      "published_at": "2026-07-13T01:39:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

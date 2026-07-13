@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:58:01.916078+00:00",
+  "generated_at": "2026-07-13T00:03:03.193758+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,44 @@
   ],
   "videos": [
     {
+      "video_id": "Ctsa5j5TlAA",
+      "title": "최태원 \"메모리 수요 폭발\"…곽노정 \"2027년 메모리 부족 가장 심각\" | 삼성전자 용인 반도체 공장 2029년 첫 가동 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=Ctsa5j5TlAA",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Ctsa5j5TlAA/hqdefault.jpg",
+      "published_at": "2026-07-12T23:28:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "UmzqXxgQ1-c",
+      "title": "SK하이닉스 미국서 13% 급등…국내 증시도 따라 오르나? | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=UmzqXxgQ1-c",
+      "thumbnail_url": "https://i2.ytimg.com/vi/UmzqXxgQ1-c/hqdefault.jpg",
+      "published_at": "2026-07-12T22:55:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "epEDUo3dhJc",
       "title": "S&P500, AI 투심 회복에 사상 최고치 임박...하이닉스, 나스닥 상장 첫날 13% 급등 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=epEDUo3dhJc",
@@ -77,17 +115,17 @@
     },
     {
       "video_id": "qSVsQMK-gXU",
-      "title": "SK하이닉스 나스닥 성공적 데뷔에 반도체 피크아웃 우려 끝났다…코스피 상승 길 다시 열릴까? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[7월 13일 개장시황] 빈센트, 정프로, 유창희, 손수연, 편다송, 이형수 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=qSVsQMK-gXU",
       "thumbnail_url": "https://i2.ytimg.com/vi/qSVsQMK-gXU/hqdefault.jpg",
       "published_at": "2026-07-12T20:20:33+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -992,44 +1030,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "fCInvrnDphU",
-      "title": "매크로의 시간, 2차 상승의 열쇠는?ㅣ홍선애, 박종연 IBK연금보험 증권운용부장 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=fCInvrnDphU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fCInvrnDphU/hqdefault.jpg",
-      "published_at": "2026-07-10T11:30:14+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CYmbAH8965k",
-      "title": "[26.07.10 오후 방송 전체보기] 드디어 구조대가 왔다! 코스피·코스닥 분위기 전환…드디어 악재 끝, 상승 시작?",
-      "source_url": "https://www.youtube.com/watch?v=CYmbAH8965k",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CYmbAH8965k/hqdefault.jpg",
-      "published_at": "2026-07-10T11:02:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "WkL5VHh-J4k",

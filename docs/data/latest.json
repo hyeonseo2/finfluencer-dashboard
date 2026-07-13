@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T21:00:54.353552+00:00",
+  "generated_at": "2026-07-13T22:58:19.609315+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,23 +57,61 @@
   ],
   "videos": [
     {
+      "video_id": "kLIfkAX9qno",
+      "title": "SK하이닉스 발 반도체 급락…유가·금리 급등에 불확실성 확대 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=kLIfkAX9qno",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kLIfkAX9qno/hqdefault.jpg",
+      "published_at": "2026-07-13T22:10:43+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "boq4Dn4H238",
+      "title": "\"We go together\" 원주민 마음을 울리다 [지구확장의여정]",
+      "source_url": "https://www.youtube.com/shorts/boq4Dn4H238",
+      "thumbnail_url": "https://i3.ytimg.com/vi/boq4Dn4H238/hqdefault.jpg",
+      "published_at": "2026-07-13T22:00:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "F9G7Hp_Yo2M",
-      "title": "이란 해역 재봉쇄·반도체 동반 급락 속 뉴욕증시 하락 마감_26.07.14 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "title": "호르무즈 다시 막혔다...20% 통행료도 선언 | SK하이닉스 ADR 9.3% 급락…TSMC 역대 최대 매출 또 경신 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=F9G7Hp_Yo2M",
       "thumbnail_url": "https://i3.ytimg.com/vi/F9G7Hp_Yo2M/hqdefault.jpg",
       "published_at": "2026-07-13T20:28:21+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -522,44 +560,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "9QcJXrHByjE",
-      "title": "서클 '연방 신탁은행 인가 획득' 디지털금융 인프라 주도권 경쟁 시작됐다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=9QcJXrHByjE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/9QcJXrHByjE/hqdefault.jpg",
-      "published_at": "2026-07-13T04:17:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qSVsQMK-gXU",
-      "title": "[26.07.13 오전 방송 전체보기] 미·이란 불안에도 뉴욕증시 상승 지속...SK하이닉스 +13%",
-      "source_url": "https://www.youtube.com/watch?v=qSVsQMK-gXU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qSVsQMK-gXU/hqdefault.jpg",
-      "published_at": "2026-07-13T03:19:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

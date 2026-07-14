@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T19:25:56.290633+00:00",
+  "generated_at": "2026-07-14T21:03:47.473725+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "FYjMkA3FoZI",
+      "title": "6월 CPI '예상 하회' 속 뉴욕증시 상승 마감...SKHY +27% '급등'_26.07.15 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=FYjMkA3FoZI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FYjMkA3FoZI/hqdefault.jpg",
+      "published_at": "2026-07-14T20:23:57+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Em2E82hh3Fk",
       "title": "이번 하락장, 새로운 주도주를 찾아야 합니다ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
@@ -558,25 +587,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Z-BfX1eQti4",
-      "title": "\"대한민국 회복 모멘텀 세계 최고\" 근데 주가는 왜 이럴까 | 박준우 하나증권 리서치센터 연구위원 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=Z-BfX1eQti4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Z-BfX1eQti4/hqdefault.jpg",
-      "published_at": "2026-07-14T01:54:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

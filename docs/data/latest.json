@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-16T12:22:56.413339+00:00",
+  "generated_at": "2026-07-16T15:05:56.329996+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "HNPFSW8Bago",
+      "title": "노이즈는 이제 다 왔다, 비반도체 회복의 시그널 포착! 하반기에는ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=HNPFSW8Bago",
+      "thumbnail_url": "https://i1.ytimg.com/vi/HNPFSW8Bago/hqdefault.jpg",
+      "published_at": "2026-07-16T12:30:30+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "cFc2c5AsO8I",
       "title": "반도체 수급 꼬인 진짜 이유! 삼전닉스 주주라면 지금 '이 전략' 무조건 확인하세요ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
@@ -120,7 +139,7 @@
     },
     {
       "video_id": "IFsN8kzYXkw",
-      "title": "삼성전자, SK하이닉스 아직 못 팔았다면, 지금 던지진마세요, '이렇게' 하세요 (박현상 이사)",
+      "title": "삼성전자, SK하이닉스 -30% 이상 폭락, 지금 반드시 '이렇게' 하세요 (박현상 이사)",
       "source_url": "https://www.youtube.com/watch?v=IFsN8kzYXkw",
       "thumbnail_url": "https://i2.ytimg.com/vi/IFsN8kzYXkw/hqdefault.jpg",
       "published_at": "2026-07-16T10:45:20+00:00",
@@ -579,25 +598,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "sKyMi0eNJMk",
-      "title": "반도체 공포장 끝났나? 한국 증시만 과하게 빠진 이유 | 이학주 하나증권 원주지점 차장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=sKyMi0eNJMk",
-      "thumbnail_url": "https://i4.ytimg.com/vi/sKyMi0eNJMk/hqdefault.jpg",
-      "published_at": "2026-07-16T01:36:44+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

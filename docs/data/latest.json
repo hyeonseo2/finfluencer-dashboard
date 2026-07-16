@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T22:05:42.039088+00:00",
+  "generated_at": "2026-07-16T00:02:09.595583+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,23 +58,56 @@
   ],
   "videos": [
     {
-      "video_id": "2D_RJI688UQ",
-      "title": "물가 '뚝'·빅테크 '급등', 뉴욕증시 상승 마감...반도체 지수 -2% '하락'_26.07.16 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=2D_RJI688UQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2D_RJI688UQ/hqdefault.jpg",
-      "published_at": "2026-07-15T20:37:04+00:00",
+      "video_id": "rUfTZ2IdzJ8",
+      "title": "\"고점? 2028년까지 없어서 못 팔아\"…K-메모리 매운맛 SKHY –9% | LG엔솔, 구글 ESS단지에 수천억대 공급 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=rUfTZ2IdzJ8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rUfTZ2IdzJ8/hqdefault.jpg",
+      "published_at": "2026-07-15T23:30:42+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "QfJMN73Ei04",
+      "title": "뉴욕 증시, M7 강세에 랠리 지속…반도체는 호실적에도 안 되나? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=QfJMN73Ei04",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QfJMN73Ei04/hqdefault.jpg",
+      "published_at": "2026-07-15T22:19:43+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "2D_RJI688UQ",
+      "title": "[7월 16일 개장시황] 빈센트, 정프로, 하창완, 편다송, 이학주, 이준호 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=2D_RJI688UQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2D_RJI688UQ/hqdefault.jpg",
+      "published_at": "2026-07-15T20:37:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -630,30 +663,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "FYjMkA3FoZI",
-      "title": "[26.07.15 오전 방송 전체보기] 6월 CPI '예상 하회' 속 뉴욕증시 상승 마감...SKHY +27% '급등'",
-      "source_url": "https://www.youtube.com/watch?v=FYjMkA3FoZI",
-      "thumbnail_url": "https://i3.ytimg.com/vi/FYjMkA3FoZI/hqdefault.jpg",
-      "published_at": "2026-07-15T03:12:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "VGnUGwsiUB0",
       "title": "배당+성장 다 잡은 '이것’ 주목하세요 #김은총",
       "source_url": "https://www.youtube.com/shorts/VGnUGwsiUB0",
@@ -671,25 +680,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "lKayUz5-4tM",
-      "title": "반도체주 급등락 장세 속 흔들리는 투심...결국 주가는 실적과 함께 갑니다 | 여도은, 허재무, 박지훈, 정여경 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=lKayUz5-4tM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lKayUz5-4tM/hqdefault.jpg",
-      "published_at": "2026-07-15T02:36:17+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "wShEgg61924",

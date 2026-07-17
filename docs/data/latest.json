@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T22:02:18.406137+00:00",
+  "generated_at": "2026-07-17T23:55:42.754720+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -47,7 +47,6 @@
   "topics": [
     "bonds",
     "commodities",
-    "crypto",
     "etf",
     "interest_rate",
     "macro",
@@ -56,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ObJoMISMpo0",
+      "title": "왜 흔들릴까? 반도체 수급과 시장 구조의 변화 | 김장열 유니스토리자산운용 리서치센터 센터장 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=ObJoMISMpo0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/ObJoMISMpo0/hqdefault.jpg",
+      "published_at": "2026-07-17T23:00:15+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "7ENYg3F9PDo",
       "title": "한국 30대 남녀가 결혼할 때 가장 많이 보는 1순위 조건 (김태형 소장)",
@@ -807,30 +825,6 @@
         },
         {
           "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "0FfycUFd114",
-      "title": "'물가 호재, 7월 금리 인상 없다' 하지만 비트코인 못 오르는 이유 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=0FfycUFd114",
-      "thumbnail_url": "https://i1.ytimg.com/vi/0FfycUFd114/hqdefault.jpg",
-      "published_at": "2026-07-16T05:34:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

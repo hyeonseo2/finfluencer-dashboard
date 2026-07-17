@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T11:23:40.253312+00:00",
+  "generated_at": "2026-07-17T13:47:34.914491+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,8 +57,27 @@
   ],
   "videos": [
     {
+      "video_id": "7ENYg3F9PDo",
+      "title": "한국 30대 남녀가 결혼할 때 가장 많이 보는 1순위 조건 (김태형 소장)",
+      "source_url": "https://www.youtube.com/watch?v=7ENYg3F9PDo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7ENYg3F9PDo/hqdefault.jpg",
+      "published_at": "2026-07-17T13:00:20+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "V8ewMf57ibc",
-      "title": "\"100대 1로도 안된다\" 결국 초강대국 된 한국 일본 완전 미칠지경이다 | 신작가 4부",
+      "title": "한국 베끼다 가랑이 찢어진 일본 반도체, AI 싹 다 망한 이유 | 신작가 4부",
       "source_url": "https://www.youtube.com/watch?v=V8ewMf57ibc",
       "thumbnail_url": "https://i3.ytimg.com/vi/V8ewMf57ibc/hqdefault.jpg",
       "published_at": "2026-07-17T10:00:24+00:00",
@@ -1060,25 +1079,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "pJGrKwV3icc",
-      "title": "한국 아파트 물갈이 된다, 집값 진짜 무서운 게 온다 (김진 앵커)",
-      "source_url": "https://www.youtube.com/shorts/pJGrKwV3icc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/pJGrKwV3icc/hqdefault.jpg",
-      "published_at": "2026-07-15T08:09:22+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
           "stance": "neutral"
         }
       ],

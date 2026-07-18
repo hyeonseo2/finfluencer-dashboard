@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T11:07:28.806673+00:00",
+  "generated_at": "2026-07-18T13:25:07.322737+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,8 +56,27 @@
   ],
   "videos": [
     {
+      "video_id": "Agx5esq_p2w",
+      "title": "한국인들은 왜 실내에서도 썬크림을 바르나요?",
+      "source_url": "https://www.youtube.com/watch?v=Agx5esq_p2w",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Agx5esq_p2w/hqdefault.jpg",
+      "published_at": "2026-07-18T11:53:07+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "6StJWkk8nRo",
-      "title": "지금 삼성전자, SK하이닉스는 사지마세요, 딱 '이때까지만' 참고 기다려라 (강환국 작가)",
+      "title": "한국주식 더 폭락할 수 있습니다, 당장 현금 쥐고 기다리세요 (강환국 작가)",
       "source_url": "https://www.youtube.com/watch?v=6StJWkk8nRo",
       "thumbnail_url": "https://i3.ytimg.com/vi/6StJWkk8nRo/hqdefault.jpg",
       "published_at": "2026-07-18T10:30:36+00:00",
@@ -100,17 +119,17 @@
     },
     {
       "video_id": "J-iy8crxd4k",
-      "title": "'이런 사람은' 반드시 끊어내세요, 잘못 곁에 두면 내 인생 끝장난다 (김태형 소장)",
+      "title": "반드시 피해야 할 사람 1순위, 사이코패스보다 더 위험하다 (김태형 소장)",
       "source_url": "https://www.youtube.com/watch?v=J-iy8crxd4k",
       "thumbnail_url": "https://i3.ytimg.com/vi/J-iy8crxd4k/hqdefault.jpg",
       "published_at": "2026-07-18T09:45:04+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1427,25 +1446,6 @@
       "source_url": "https://www.youtube.com/watch?v=P6DI_tzKKWA",
       "thumbnail_url": "https://i1.ytimg.com/vi/P6DI_tzKKWA/hqdefault.jpg",
       "published_at": "2026-07-08T09:21:17+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "TaBCFSlTp_M",
-      "title": "SK하이닉스 ADR 상장이 무슨말이야?",
-      "source_url": "https://www.youtube.com/shorts/TaBCFSlTp_M",
-      "thumbnail_url": "https://i1.ytimg.com/vi/TaBCFSlTp_M/hqdefault.jpg",
-      "published_at": "2026-07-08T08:08:08+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

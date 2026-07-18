@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T13:25:07.322737+00:00",
+  "generated_at": "2026-07-18T14:58:13.748809+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
   ],
   "videos": [
     {
+      "video_id": "RPvyxC1z5UI",
+      "title": "[LIVE] KOSPI 투자전략 (7월 19일 오후 9시)",
+      "source_url": "https://www.youtube.com/watch?v=RPvyxC1z5UI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/RPvyxC1z5UI/hqdefault.jpg",
+      "published_at": "2026-07-18T14:35:39+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "Agx5esq_p2w",
       "title": "한국인들은 왜 실내에서도 썬크림을 바르나요?",
       "source_url": "https://www.youtube.com/watch?v=Agx5esq_p2w",
@@ -76,22 +95,17 @@
     },
     {
       "video_id": "6StJWkk8nRo",
-      "title": "한국주식 더 폭락할 수 있습니다, 당장 현금 쥐고 기다리세요 (강환국 작가)",
+      "title": "한국 증시 심상치 않습니다, 코스피 '여기까지' 폭락할 수 있다 (강환국 작가)",
       "source_url": "https://www.youtube.com/watch?v=6StJWkk8nRo",
       "thumbnail_url": "https://i3.ytimg.com/vi/6StJWkk8nRo/hqdefault.jpg",
       "published_at": "2026-07-18T10:30:36+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1458,25 +1472,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VqQgxp4JgZY",
-      "title": "[속보효] 혼란스러운 코스피 급락장. 이렇게 정리하면 보입니다",
-      "source_url": "https://www.youtube.com/watch?v=VqQgxp4JgZY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VqQgxp4JgZY/hqdefault.jpg",
-      "published_at": "2026-07-08T06:47:46+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     }
   ]
 }

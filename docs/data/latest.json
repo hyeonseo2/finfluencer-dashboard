@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T22:55:07.246707+00:00",
+  "generated_at": "2026-07-18T23:58:02.660551+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "iz8Cd9K9sPU",
+      "title": "'외국계 은행 0개' 씨티은행도 철수한 금융 험지 일본, K금융이 뚫어낸 이유 ❘ 금융보국의 꿈 [3부]",
+      "source_url": "https://www.youtube.com/watch?v=iz8Cd9K9sPU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iz8Cd9K9sPU/hqdefault.jpg",
+      "published_at": "2026-07-18T23:00:14+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "RPvyxC1z5UI",
       "title": "[LIVE] KOSPI 투자전략 (7월 19일 오후 9시)",
@@ -1006,25 +1025,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "iKNo0yTxJBM",
-      "title": "[7월 16일 마감시황] 추세 전환은 아닙니다, 그렇다면 지금 구간의 '진짜 의미'는?ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=iKNo0yTxJBM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/iKNo0yTxJBM/hqdefault.jpg",
-      "published_at": "2026-07-16T08:28:56+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "B9J3rOW7ZZE",

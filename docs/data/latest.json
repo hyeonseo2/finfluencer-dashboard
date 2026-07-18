@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-18T02:55:17.918150+00:00",
+  "generated_at": "2026-07-18T05:31:25.623955+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,73 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "u15_hW0w47o",
+      "title": "대한민국 정부예산 754조원 어디에 쓰나, 국민들이 몰랐던 돈의 진짜 흐름 (기획예산처 박홍근 장관)",
+      "source_url": "https://www.youtube.com/watch?v=u15_hW0w47o",
+      "thumbnail_url": "https://i2.ytimg.com/vi/u15_hW0w47o/hqdefault.jpg",
+      "published_at": "2026-07-18T04:00:26+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "VcAPG2XBsiE",
+      "title": "\"전문가들은 쉬쉬하고 있다\" 7월 한국 증시 수상합니다. 보유자산 싹 다 이렇게 해라ㅣ이혜연 아나운서 2부 #코스피",
+      "source_url": "https://www.youtube.com/watch?v=VcAPG2XBsiE",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VcAPG2XBsiE/hqdefault.jpg",
+      "published_at": "2026-07-18T04:00:00+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "963OMQ5aV68",
+      "title": "삼성전자 난리 난 진짜 이유. 지금 안팔면 ‘이렇게’ 된다｜이정윤 세무사 2부",
+      "source_url": "https://www.youtube.com/watch?v=963OMQ5aV68",
+      "thumbnail_url": "https://i2.ytimg.com/vi/963OMQ5aV68/hqdefault.jpg",
+      "published_at": "2026-07-18T03:00:34+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "hAJ4eofibsQ",
       "title": "\"부동산 끝내기 법안 떴다\" 이거 통과되면 다 죽습니다. 1주택자부터 싹 다 팔고 도망치세요 | 박원갑 박사 풀버전",
@@ -918,49 +985,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "rllo56yet_M",
-      "title": "\"언론은 쉬쉬하고 있는 실제 부동산 현장 분위기\" 올해 집 함부로 사지 마라. 이미 집값 폭락 시작 됐다 | 이현철 소장 2부",
-      "source_url": "https://www.youtube.com/watch?v=rllo56yet_M",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rllo56yet_M/hqdefault.jpg",
-      "published_at": "2026-07-15T10:30:05+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities",
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-nbnrNbQPMw",
-      "title": "일본 기습에 아수라장 됐다. 날벼락 맞은 중국 상황｜유광종 소장 2부",
-      "source_url": "https://www.youtube.com/watch?v=-nbnrNbQPMw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-nbnrNbQPMw/hqdefault.jpg",
-      "published_at": "2026-07-15T10:30:02+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "IJyI9yBoppg",
       "title": "한국 아파트 싹다 물갈이 된다, 집값 내년부터 무서울 겁니다 (송희구 작가)",
       "source_url": "https://www.youtube.com/watch?v=IJyI9yBoppg",
@@ -1059,25 +1083,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1rhoGh34ndw",
-      "title": "5000만원으로 '이 주식' 다 사세요, 내년까지 정말 무섭게 오른다 (소현철 박사)",
-      "source_url": "https://www.youtube.com/watch?v=1rhoGh34ndw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1rhoGh34ndw/hqdefault.jpg",
-      "published_at": "2026-07-15T08:15:27+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "wShEgg61924",

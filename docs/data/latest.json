@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T21:58:34.400959+00:00",
+  "generated_at": "2026-07-19T23:01:52.003996+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,18 +56,37 @@
   ],
   "videos": [
     {
+      "video_id": "QBs_KhHLQZ8",
+      "title": "중국발 2차 AI 쇼크에 반도체 또 급락?...이번 주 알파벳 실적에 모든 것을 건다 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=QBs_KhHLQZ8",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QBs_KhHLQZ8/hqdefault.jpg",
+      "published_at": "2026-07-19T22:06:43+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "IKfa_RBQlCA",
-      "title": "중국 '문샷'이 뭐길래? 기술주 전반 하락 마감...WTI 유가 4% 상승_26.07.20 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "전 세계 시선 이끈 코스피…실적·중동 이슈, 시장 상승의 반전 포인트 될까? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=IKfa_RBQlCA",
       "thumbnail_url": "https://i2.ytimg.com/vi/IKfa_RBQlCA/hqdefault.jpg",
       "published_at": "2026-07-19T20:20:47+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -965,25 +984,6 @@
       "source_url": "https://www.youtube.com/watch?v=q2kSA1fpuc8",
       "thumbnail_url": "https://i2.ytimg.com/vi/q2kSA1fpuc8/hqdefault.jpg",
       "published_at": "2026-07-16T23:00:02+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "HNPFSW8Bago",
-      "title": "노이즈는 이제 다 왔다, 비반도체 회복의 시그널 포착! 하반기에는ㅣ명민준, 박가영, 박지훈 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=HNPFSW8Bago",
-      "thumbnail_url": "https://i1.ytimg.com/vi/HNPFSW8Bago/hqdefault.jpg",
-      "published_at": "2026-07-16T12:30:30+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"

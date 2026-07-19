@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T11:11:48.667398+00:00",
+  "generated_at": "2026-07-19T13:26:44.745947+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "RPvyxC1z5UI",
+      "title": "[LIVE] KOSPI 투자전략 (7월 19일 오후 9시)",
+      "source_url": "https://www.youtube.com/watch?v=RPvyxC1z5UI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/RPvyxC1z5UI/hqdefault.jpg",
+      "published_at": "2026-07-19T13:16:42+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "0k9I0LGF4Xs",
+      "title": "[슈카월드] 기업이 번 돈은 누구 것인가? / 트럼프 재산 공개 / 애플 글로벌 시총 1위 달성  / 36촌도 친척인가? / 남미에 부는 우경화 바람",
+      "source_url": "https://www.youtube.com/watch?v=0k9I0LGF4Xs",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0k9I0LGF4Xs/hqdefault.jpg",
+      "published_at": "2026-07-19T11:20:22+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ypMMbwK8tU4",
       "title": "나이 들수록 반드시 거를 사람, '이런 사람' 무조건 손절하세요 (보만 스님)",
@@ -344,25 +382,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "RPvyxC1z5UI",
-      "title": "[LIVE] KOSPI 투자전략 (7월 19일 오후 9시)",
-      "source_url": "https://www.youtube.com/watch?v=RPvyxC1z5UI",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RPvyxC1z5UI/hqdefault.jpg",
-      "published_at": "2026-07-18T14:35:39+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Agx5esq_p2w",
@@ -1453,25 +1472,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "P6DI_tzKKWA",
-      "title": "실시간 거지가 되고 있는 일본 국민들",
-      "source_url": "https://www.youtube.com/watch?v=P6DI_tzKKWA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/P6DI_tzKKWA/hqdefault.jpg",
-      "published_at": "2026-07-08T09:21:17+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     }
   ]
 }

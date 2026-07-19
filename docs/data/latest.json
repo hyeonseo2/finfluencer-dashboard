@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T19:11:53.295007+00:00",
+  "generated_at": "2026-07-19T20:55:50.497724+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
   ],
   "videos": [
     {
+      "video_id": "IKfa_RBQlCA",
+      "title": "중국 '문샷'이 뭐길래? 기술주 전반 하락 마감...WTI 유가 4% 상승_26.07.20 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=IKfa_RBQlCA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IKfa_RBQlCA/hqdefault.jpg",
+      "published_at": "2026-07-19T20:20:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "RPvyxC1z5UI",
       "title": "[LIVE] KOSPI 투자전략 (7월 19일 오후 9시)",
       "source_url": "https://www.youtube.com/watch?v=RPvyxC1z5UI",
@@ -76,7 +95,7 @@
     },
     {
       "video_id": "ypMMbwK8tU4",
-      "title": "나이 들수록 반드시 거를 사람, '이런 사람' 무조건 손절하세요 (보만 스님)",
+      "title": "스님으로 살아보고 깨달았다, 가장 멀리해야 할 사람 1순위 (보만 스님)",
       "source_url": "https://www.youtube.com/watch?v=ypMMbwK8tU4",
       "thumbnail_url": "https://i2.ytimg.com/vi/ypMMbwK8tU4/hqdefault.jpg",
       "published_at": "2026-07-19T10:30:05+00:00",
@@ -972,25 +991,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cFc2c5AsO8I",
-      "title": "반도체 수급 꼬인 진짜 이유! 삼전닉스 주주라면 지금 '이 전략' 무조건 확인하세요ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=cFc2c5AsO8I",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cFc2c5AsO8I/hqdefault.jpg",
-      "published_at": "2026-07-16T11:30:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

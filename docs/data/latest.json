@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T22:03:39.272779+00:00",
+  "generated_at": "2026-07-20T23:59:59.866473+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,23 +57,75 @@
   ],
   "videos": [
     {
+      "video_id": "jIimadrlkns",
+      "title": "이해진, 북미 방문 투자 유치에 젠슨 황 회동할 듯 | 삼성바이오 2.7조 빅딜…'황금알' 비만약 시장 진출 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=jIimadrlkns",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jIimadrlkns/hqdefault.jpg",
+      "published_at": "2026-07-20T23:29:43+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Ro9JNJkpTvY",
+      "title": "빅테크 실적 발표 임박, AI 비관론 사라질까? 반도체주 하락은 무엇으로 멈출까? | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=Ro9JNJkpTvY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Ro9JNJkpTvY/hqdefault.jpg",
+      "published_at": "2026-07-20T22:52:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "bWxWET2_57g",
+      "title": "문샷 AI, Kimi K3 최대 수혜는 메모리?...지정학적 리스크에 지수는 소폭 약세 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=bWxWET2_57g",
+      "thumbnail_url": "https://i3.ytimg.com/vi/bWxWET2_57g/hqdefault.jpg",
+      "published_at": "2026-07-20T22:08:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "EeCisxB7z0M",
-      "title": "'반도체주 반등' 불구 중동 긴장감 고조에 뉴욕증시 소폭 하락_26.07.21 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "title": "[7월 21일 개장시황] 빈센트, 정프로, 유창희, 백인재, 편다송, 윤재성 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=EeCisxB7z0M",
       "thumbnail_url": "https://i2.ytimg.com/vi/EeCisxB7z0M/hqdefault.jpg",
       "published_at": "2026-07-20T20:34:37+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -545,78 +597,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "NH5EqRoJE_s",
-      "title": "'연준이 만든 비트코인 4년 사이클의 진짜 정체' 사실 코인은 금리에 예민한 자산 | 서동주, 김동환, 배문성 라이프자산운용 이사 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=NH5EqRoJE_s",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NH5EqRoJE_s/hqdefault.jpg",
-      "published_at": "2026-07-20T04:41:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2vmLKRWxsAc",
-      "title": "'매크로 흔들려도 버티는 비트코인' 떠날 사람은 다 떠났다? 매도 압력 소진 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=2vmLKRWxsAc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2vmLKRWxsAc/hqdefault.jpg",
-      "published_at": "2026-07-20T03:26:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IKfa_RBQlCA",
-      "title": "[26.07.20 오전 방송 전체보기] 중국 '문샷'이 뭐길래? 기술주 전반 하락 마감...WTI 유가 +4% 상승",
-      "source_url": "https://www.youtube.com/watch?v=IKfa_RBQlCA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IKfa_RBQlCA/hqdefault.jpg",
-      "published_at": "2026-07-20T03:21:00+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

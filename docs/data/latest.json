@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T13:09:28.756334+00:00",
+  "generated_at": "2026-07-20T15:53:39.904073+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "dvMlz-kvaVc",
+      "title": "어설픈 반등에 도망가지 마라! 다음 주까지 무조건 버텨야 하는 이유ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=dvMlz-kvaVc",
+      "thumbnail_url": "https://i1.ytimg.com/vi/dvMlz-kvaVc/hqdefault.jpg",
+      "published_at": "2026-07-20T13:30:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "e9xfEnbaJo8",
       "title": "연기금 리밸런싱의 나비효과…외국인만 배 불린 꼬여버린 수급장\" ㅣ명민준, 박가영, 이권희 [주린이 구조대]",
@@ -172,7 +191,7 @@
     },
     {
       "video_id": "7wGDjAWu40g",
-      "title": "삼성전자, SK하이닉스 언제 팔까? 반도체 주식 탈출하는 마지막 신호 (소현철 박사)",
+      "title": "삼성전자, SK하이닉스 역대급 무서운 폭락, 증권가 잇따라 하향 리포트 발표 (소현철 박사)",
       "source_url": "https://www.youtube.com/watch?v=7wGDjAWu40g",
       "thumbnail_url": "https://i4.ytimg.com/vi/7wGDjAWu40g/hqdefault.jpg",
       "published_at": "2026-07-20T11:15:07+00:00",
@@ -334,7 +353,7 @@
     },
     {
       "video_id": "o3U04bZA_zg",
-      "title": "증시 금융위기 급 폭락한 이유, 지금 주식 사도 정말 괜찮을까? (소현철 박사)",
+      "title": "삼성전자, SK하이닉스 역대급 무서운 폭락, 지금 반드시 '이렇게' 하세요 (소현철 박사)",
       "source_url": "https://www.youtube.com/watch?v=o3U04bZA_zg",
       "thumbnail_url": "https://i4.ytimg.com/vi/o3U04bZA_zg/hqdefault.jpg",
       "published_at": "2026-07-20T08:45:15+00:00",
@@ -593,25 +612,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "UoYR3ubUEmk",
-      "title": "\"대체 언제오를까\" 왜 한국 제약,바이오만 이 모양일까?  | 김선아 하나증권 리서치센터 수석연구위원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=UoYR3ubUEmk",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UoYR3ubUEmk/hqdefault.jpg",
-      "published_at": "2026-07-20T02:04:34+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

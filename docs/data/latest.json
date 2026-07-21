@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T20:20:08.171499+00:00",
+  "generated_at": "2026-07-21T22:06:25.257559+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "f688-fHKGK4",
+      "title": "반도체주 '급반등' 속 뉴욕증시 상승 마감...관세·중동 긴장 '변수'_26.07.22 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=f688-fHKGK4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/f688-fHKGK4/hqdefault.jpg",
+      "published_at": "2026-07-21T20:20:29+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "68jlpTtNrf0",
       "title": "반도체부터 다시 담는 외국인…수급 개선 본격화 기대감ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
@@ -624,30 +653,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MyoOZgO9GRI",
-      "title": "삼성전자, SK하이닉스 드디어 '반등'...왜 하락했을까? 추세 상승 다시 이어갈까? | 정우창, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=MyoOZgO9GRI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MyoOZgO9GRI/hqdefault.jpg",
-      "published_at": "2026-07-21T02:22:32+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

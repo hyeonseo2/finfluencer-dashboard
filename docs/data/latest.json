@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T11:49:29.780395+00:00",
+  "generated_at": "2026-07-21T14:03:01.064530+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -49,13 +49,69 @@
     "commodities",
     "crypto",
     "etf",
-    "interest_rate",
     "macro",
     "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "68jlpTtNrf0",
+      "title": "반도체부터 다시 담는 외국인…수급 개선 본격화 기대감ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=68jlpTtNrf0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/68jlpTtNrf0/hqdefault.jpg",
+      "published_at": "2026-07-21T13:30:30+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "F_LsF359tVo",
+      "title": "반등의 불씨 살아났다…상승 랠리 본격화 될 수 있는 이유ㅣ명민준, 박가영, 황유현 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=F_LsF359tVo",
+      "thumbnail_url": "https://i3.ytimg.com/vi/F_LsF359tVo/hqdefault.jpg",
+      "published_at": "2026-07-21T12:30:27+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "CXRchmrrXj0",
+      "title": "대부분의 개미가 낚이는 과정",
+      "source_url": "https://www.youtube.com/shorts/CXRchmrrXj0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CXRchmrrXj0/hqdefault.jpg",
+      "published_at": "2026-07-21T12:25:16+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "PmeCeihxEQA",
       "title": "7월 말 실적 발표 전 반드시 봐야 할 반도체 주가 반등 시나리오ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
@@ -158,17 +214,17 @@
     },
     {
       "video_id": "Sn8oDLC_oRk",
-      "title": "좋은 사람처럼 보이지만, 가장 멀리해야 할 사람 1순위 (보만 스님)",
+      "title": "함께 할수록 나를 불행하게 만드는 사람의 유형, 즉시 거리를 두세요 (보만 스님)",
       "source_url": "https://www.youtube.com/watch?v=Sn8oDLC_oRk",
       "thumbnail_url": "https://i4.ytimg.com/vi/Sn8oDLC_oRk/hqdefault.jpg",
       "published_at": "2026-07-21T09:30:16+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -590,44 +646,6 @@
           "topic": "stocks",
           "stance": "neutral"
         },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Hba2eXKP0_o",
-      "title": "철강왕 포스코가 '가스'를 팔기 시작했다",
-      "source_url": "https://www.youtube.com/shorts/Hba2eXKP0_o",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Hba2eXKP0_o/hqdefault.jpg",
-      "published_at": "2026-07-21T02:00:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "nLDbSKlZSU4",
-      "title": "\"유가 문법이 완전히 바뀌었다\" 왜 그럴까? | 윤재성 하나증권 리서치센터 수석연구위원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=nLDbSKlZSU4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nLDbSKlZSU4/hqdefault.jpg",
-      "published_at": "2026-07-21T01:56:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -1434,30 +1452,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "DbDZi0k5mj0",
-      "title": "금리 쫌 오른게 주식이랑 무슨 상관?",
-      "source_url": "https://www.youtube.com/shorts/DbDZi0k5mj0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DbDZi0k5mj0/hqdefault.jpg",
-      "published_at": "2026-07-10T08:37:01+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     }
   ]
 }

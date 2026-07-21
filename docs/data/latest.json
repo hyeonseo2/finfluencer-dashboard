@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T22:06:25.257559+00:00",
+  "generated_at": "2026-07-21T23:58:02.812697+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -49,6 +49,7 @@
     "commodities",
     "crypto",
     "etf",
+    "interest_rate",
     "macro",
     "policy",
     "real_estate",
@@ -56,28 +57,99 @@
   ],
   "videos": [
     {
+      "video_id": "hDU_RHhUD3E",
+      "title": "삼전노조 광주팹 반발…이 대통령 \"쟁의대상 너무 확장\" | '원유 우회로' 홍해마저 봉쇄…한일 '에너지 쇼크' 우려 | 권순우 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=hDU_RHhUD3E",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hDU_RHhUD3E/hqdefault.jpg",
+      "published_at": "2026-07-21T23:38:28+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "MwGd-iyja1I",
+      "title": "빅테크 실적발표 임박, 이 '신호'가 가장 중요하다! | 신영증권 김효진 박사 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=MwGd-iyja1I",
+      "thumbnail_url": "https://i2.ytimg.com/vi/MwGd-iyja1I/hqdefault.jpg",
+      "published_at": "2026-07-21T23:09:36+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8Yx2c_tozP0",
+      "title": "반도체, 저가 매수에 일제히 급등…10년물 국채금리 4.6% 돌파 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=8Yx2c_tozP0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8Yx2c_tozP0/hqdefault.jpg",
+      "published_at": "2026-07-21T22:10:27+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "B7wXqwO2EI0",
+      "title": "철강이 없었다면 산업혁명도 없었다 소재가 결정하는 인류의 한계",
+      "source_url": "https://www.youtube.com/shorts/B7wXqwO2EI0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/B7wXqwO2EI0/hqdefault.jpg",
+      "published_at": "2026-07-21T22:00:26+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "f688-fHKGK4",
-      "title": "반도체주 '급반등' 속 뉴욕증시 상승 마감...관세·중동 긴장 '변수'_26.07.22 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "title": "[7월 22일 개장시황] 빈센트, 정프로, 하창완, 이종원, 편다송, 김홍식 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=f688-fHKGK4",
       "thumbnail_url": "https://i3.ytimg.com/vi/f688-fHKGK4/hqdefault.jpg",
       "published_at": "2026-07-21T20:20:29+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "policy"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -432,25 +504,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "EFo5oBfoI9c",
-      "title": "삼전닉스 이전에 '이 주식'이 있었다! 대한민국 1호 국민주는",
-      "source_url": "https://www.youtube.com/shorts/EFo5oBfoI9c",
-      "thumbnail_url": "https://i2.ytimg.com/vi/EFo5oBfoI9c/hqdefault.jpg",
-      "published_at": "2026-07-21T08:00:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "RFBolI-GrTU",
       "title": "\"림팩 완전히 뒤집어놨다\" 한국 잠수함에 미군 발칵. 캐나다 땅 치고 후회중｜김종대 교수 4부",
       "source_url": "https://www.youtube.com/watch?v=RFBolI-GrTU",
@@ -584,25 +637,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "rVETeBo2H9c",
-      "title": "'50년 된 미국 결제 배관 DTCC' 주식 토큰이 만들어낼 실시간 결제의 미래 | 서동주, 김동환, 김민승 코빗 리서치센터장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=rVETeBo2H9c",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rVETeBo2H9c/hqdefault.jpg",
-      "published_at": "2026-07-21T04:40:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "Kkwfabj2Dq0",
       "title": "주식회사가 돈 벌면 그 돈 누구꺼임?",
       "source_url": "https://www.youtube.com/shorts/Kkwfabj2Dq0",
@@ -620,44 +654,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "yh6Uy6L3As4",
-      "title": "'백악관, 윤리 조항 동의' 지난밤 클래리티 법안이 다시 살아났다 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=yh6Uy6L3As4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yh6Uy6L3As4/hqdefault.jpg",
-      "published_at": "2026-07-21T03:25:07+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "EeCisxB7z0M",
-      "title": "[26.07.21 오전 방송 전체보기] '반도체주 반등' 불구 중동 긴장감 고조에 뉴욕증시 소폭 하락",
-      "source_url": "https://www.youtube.com/watch?v=EeCisxB7z0M",
-      "thumbnail_url": "https://i2.ytimg.com/vi/EeCisxB7z0M/hqdefault.jpg",
-      "published_at": "2026-07-21T03:18:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "tt-Ky5xqgCo",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T11:50:12.544960+00:00",
+  "generated_at": "2026-07-22T14:06:16.023298+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,7 +48,7 @@
     "bonds",
     "commodities",
     "crypto",
-    "fx",
+    "etf",
     "interest_rate",
     "macro",
     "policy",
@@ -56,6 +56,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "yqDcGi3jZGg",
+      "title": "단일종목 레버리지 상품 보완 추진...2차 수술대 오른다ㅣ명민준, 박가영, 이다솔 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=yqDcGi3jZGg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yqDcGi3jZGg/hqdefault.jpg",
+      "published_at": "2026-07-22T13:30:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "41qPGNAFn44",
+      "title": "뒷심부족 코스피, 7천피 탈환 '실패'…장 막판 빠진 이유ㅣ명민준, 박가영, 이권희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=41qPGNAFn44",
+      "thumbnail_url": "https://i1.ytimg.com/vi/41qPGNAFn44/hqdefault.jpg",
+      "published_at": "2026-07-22T12:30:29+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "4XfFAxjhlJQ",
+      "title": "K방산 다음 10배 폭발할 '이 종목', 한화에어로스페이스 말고 '이 주식' 사세요 (소현철 박사)",
+      "source_url": "https://www.youtube.com/watch?v=4XfFAxjhlJQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4XfFAxjhlJQ/hqdefault.jpg",
+      "published_at": "2026-07-22T11:45:07+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Ytv5MGZWygA",
       "title": "삼전닉스 폭락? 두려워 말고 '역발상'으로 접근해야 할 때ㅣ차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
@@ -77,17 +134,27 @@
     },
     {
       "video_id": "fne587cqjKc",
-      "title": "\"이 신호 뜨면 싹다 팔아라\" 삼전하닉 지금 살까 말까? 고수는 이렇게 합니다 #원픽리포트",
+      "title": "\"주식, 부동산, ETF 싹 다 정리해라\" 역사적으로 단 한번도 틀린 적 없는 폭락 신호 떴어요 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=fne587cqjKc",
       "thumbnail_url": "https://i3.ytimg.com/vi/fne587cqjKc/hqdefault.jpg",
       "published_at": "2026-07-22T11:30:02+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities"
+        "stocks",
+        "etf",
+        "real_estate"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
           "stance": "neutral"
         }
       ],
@@ -472,17 +539,22 @@
     },
     {
       "video_id": "W-ROcIaN5l4",
-      "title": "'월드컵 결승에 수백억 달러 배팅' 커지는 예측 시장, 하이퍼리퀴드가 문을 활짝 연다 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
+      "title": "써클, 코인베이스와 재협상이 분수령... 스테이블 코인에서 위치는 견고하지만, 가격은 힘 못 쓰는 이유 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=W-ROcIaN5l4",
       "thumbnail_url": "https://i4.ytimg.com/vi/W-ROcIaN5l4/hqdefault.jpg",
       "published_at": "2026-07-22T04:48:55+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "fx"
+        "commodities",
+        "crypto"
       ],
       "topic_stances": [
         {
-          "topic": "fx",
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "crypto",
           "stance": "neutral"
         }
       ],
@@ -583,44 +655,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "z8yK6y0xUiM",
-      "title": "\"불안한 현대차 영업이익...\" 로봇이 주가 살릴까?  | 이종원 하나증권 영업1부WM센터 팀장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=z8yK6y0xUiM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/z8yK6y0xUiM/hqdefault.jpg",
-      "published_at": "2026-07-22T01:33:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "nbDDoU3Yp1o",
-      "title": "\"폭등의 이유는 이것\" 어떻게 대응할까?  | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=nbDDoU3Yp1o",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nbDDoU3Yp1o/hqdefault.jpg",
-      "published_at": "2026-07-22T01:25:08+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -1163,25 +1197,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "lQO7ul8G5Bo",
-      "title": "죽도록 벌고도 돈을 못 씁니다, 가난의 진짜 원인은 따로 있다 (보만 스님)",
-      "source_url": "https://www.youtube.com/watch?v=lQO7ul8G5Bo",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lQO7ul8G5Bo/hqdefault.jpg",
-      "published_at": "2026-07-19T06:00:19+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

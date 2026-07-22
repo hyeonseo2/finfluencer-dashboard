@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-21T23:58:02.812697+00:00",
+  "generated_at": "2026-07-22T03:33:36.279858+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,144 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "f688-fHKGK4",
+      "title": "[26.07.22 오전 방송 전체보기] 반도체주 '급반등' 속 뉴욕증시 상승 마감...관세·중동 긴장 '변수'",
+      "source_url": "https://www.youtube.com/watch?v=f688-fHKGK4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/f688-fHKGK4/hqdefault.jpg",
+      "published_at": "2026-07-22T03:17:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "QpYcKaV1Bqw",
+      "title": "바닥을 본 것인가? 신중할 수 밖에 없는 시장...'돈과 실적' 누가 이길까? | 이혁진, 전병하, 여도은, 허재무 [아침N투자]",
+      "source_url": "https://www.youtube.com/watch?v=QpYcKaV1Bqw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QpYcKaV1Bqw/hqdefault.jpg",
+      "published_at": "2026-07-22T02:30:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "B04fLKEfjkM",
+      "title": "[속보효] 빅테크 CAPEX 중요하다는 이야기는 많은데 어떻게 될지는 얘기가 없길래 저희가 준비했습니다",
+      "source_url": "https://www.youtube.com/watch?v=B04fLKEfjkM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/B04fLKEfjkM/hqdefault.jpg",
+      "published_at": "2026-07-22T02:14:41+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "FigtCBH-cGI",
+      "title": "\"모멘텀 쓰나미 몰려온다\" 이제 시선 돌리세요 | 김홍식 하나증권 리서치센터 상무 [더블 업]",
+      "source_url": "https://www.youtube.com/watch?v=FigtCBH-cGI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FigtCBH-cGI/hqdefault.jpg",
+      "published_at": "2026-07-22T02:02:36+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "z8yK6y0xUiM",
+      "title": "\"불안한 현대차 영업이익...\" 로봇이 주가 살릴까?  | 이종원 하나증권 영업1부WM센터 팀장 [더블 크루]",
+      "source_url": "https://www.youtube.com/watch?v=z8yK6y0xUiM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/z8yK6y0xUiM/hqdefault.jpg",
+      "published_at": "2026-07-22T01:33:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "nbDDoU3Yp1o",
+      "title": "\"폭등의 이유는 이것\" 어떻게 대응할까?  | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=nbDDoU3Yp1o",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nbDDoU3Yp1o/hqdefault.jpg",
+      "published_at": "2026-07-22T01:25:08+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zz7y_iThwFI",
+      "title": "반도체 급등 시작? 지금 가장 중요한 체크포인트는? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=zz7y_iThwFI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zz7y_iThwFI/hqdefault.jpg",
+      "published_at": "2026-07-22T00:40:31+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "hDU_RHhUD3E",
       "title": "삼전노조 광주팹 반발…이 대통령 \"쟁의대상 너무 확장\" | '원유 우회로' 홍해마저 봉쇄…한일 '에너지 쇼크' 우려 | 권순우 삼프로TV 기자 [뉴스3]",
@@ -138,25 +276,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "f688-fHKGK4",
-      "title": "[7월 22일 개장시황] 빈센트, 정프로, 하창완, 이종원, 편다송, 김홍식 [더블 밸류업]",
-      "source_url": "https://www.youtube.com/watch?v=f688-fHKGK4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/f688-fHKGK4/hqdefault.jpg",
-      "published_at": "2026-07-21T20:20:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "68jlpTtNrf0",
       "title": "반도체부터 다시 담는 외국인…수급 개선 본격화 기대감ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=68jlpTtNrf0",
@@ -212,49 +331,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "PmeCeihxEQA",
-      "title": "7월 말 실적 발표 전 반드시 봐야 할 반도체 주가 반등 시나리오ㅣ김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
-      "source_url": "https://www.youtube.com/watch?v=PmeCeihxEQA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PmeCeihxEQA/hqdefault.jpg",
-      "published_at": "2026-07-21T11:30:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Rl2FNhq2njc",
-      "title": "[26.07.21 오후 방송 전체보기] 하루 만에 8% '출렁'이는 국내 증시, 오늘은 상승! 그러나 신기록 쓰던 코스피의 굴욕…글로벌 낙폭 1위",
-      "source_url": "https://www.youtube.com/watch?v=Rl2FNhq2njc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Rl2FNhq2njc/hqdefault.jpg",
-      "published_at": "2026-07-21T11:02:44+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "_0hXEiks2tw",
@@ -371,44 +447,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "HQkjs71O_6k",
-      "title": "개인이 버티는 시장은 끝…'진짜 반등'은 기관 수급에 달렸다ㅣ홍선애, 박병창 MP파트너스 대표 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=HQkjs71O_6k",
-      "thumbnail_url": "https://i1.ytimg.com/vi/HQkjs71O_6k/hqdefault.jpg",
-      "published_at": "2026-07-21T09:07:22+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "tfy0Qi7L7Bc",
-      "title": "\"실적 코웃음 치는 코스피\" 반등의 열쇠는 여기 있다 | 빈센트 [더블밸류업]",
-      "source_url": "https://www.youtube.com/shorts/tfy0Qi7L7Bc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tfy0Qi7L7Bc/hqdefault.jpg",
-      "published_at": "2026-07-21T08:31:49+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "JSaUwNYAvdg",
       "title": "크게 흔들리는 반도체. 무서워서 다 빼고 싶더라도 지금은 팔지 마세요 [Z1뉴스]",
       "source_url": "https://www.youtube.com/watch?v=JSaUwNYAvdg",
@@ -464,25 +502,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "R067Gf1VmwM",
-      "title": "[7월 21일 마감시황] 이번 고비만 넘기면 8월 랠리 시작! 오늘 반등에도 내 종목은 왜 그대로일까? 수급이 살아나야 '진짜'ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=R067Gf1VmwM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/R067Gf1VmwM/hqdefault.jpg",
-      "published_at": "2026-07-21T08:26:31+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ds73elcIe1w",
@@ -562,17 +581,17 @@
     },
     {
       "video_id": "sVZYjH-P6L4",
-      "title": "조선주 앞으로 진짜 무섭다. 한화오션 말고 '이 주식' 사라｜이창대 대표 2부",
+      "title": "삼전닉스 바닥찍고 급반등 하나. 다음주 벌어질 상상못할 일｜이창대 대표 2부",
       "source_url": "https://www.youtube.com/watch?v=sVZYjH-P6L4",
       "thumbnail_url": "https://i4.ytimg.com/vi/sVZYjH-P6L4/hqdefault.jpg",
       "published_at": "2026-07-21T06:30:14+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1429,25 +1448,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "bGC-mWCd8_Y",
-      "title": "연금저축계좌에서 국내 ETF 투자하면 안내도 될 '세금폭탄'이 날아옵니다",
-      "source_url": "https://www.youtube.com/watch?v=bGC-mWCd8_Y",
-      "thumbnail_url": "https://i3.ytimg.com/vi/bGC-mWCd8_Y/hqdefault.jpg",
-      "published_at": "2026-07-11T00:00:02+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "etf",
           "stance": "neutral"
         }
       ],

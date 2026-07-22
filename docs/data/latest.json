@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T14:06:16.023298+00:00",
+  "generated_at": "2026-07-22T16:22:13.350160+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -239,22 +239,17 @@
     },
     {
       "video_id": "3QwDZXxaDJo",
-      "title": "\"집 사지도 팔지도 못한다\" 8월 이 법안 뜨면 부동산 시장 초토화됩니다 | 한문도 교수 2부 #돈쭐남 #김경필",
+      "title": "\"경매물건 50% 폭증했다\" 지금 집주인들 보증금도 못 빼주는 중, 서울부터 박살날 겁니다 | 한문도 교수 2부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=3QwDZXxaDJo",
       "thumbnail_url": "https://i4.ytimg.com/vi/3QwDZXxaDJo/hqdefault.jpg",
       "published_at": "2026-07-22T10:30:05+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "policy",
-        "real_estate"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "policy",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

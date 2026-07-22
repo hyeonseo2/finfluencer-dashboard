@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T20:13:21.769484+00:00",
+  "generated_at": "2026-07-22T22:07:35.053220+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "btNcRxCRC3E",
+      "title": "유가·금리 부담 속 뉴욕증시 하락 마감...구글 실적 '예상 상회'_26.07.23 | 여도은, 박명석, 박승영 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=btNcRxCRC3E",
+      "thumbnail_url": "https://i3.ytimg.com/vi/btNcRxCRC3E/hqdefault.jpg",
+      "published_at": "2026-07-22T20:25:21+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "yqDcGi3jZGg",
       "title": "단일종목 레버리지 상품 보완 추진...2차 수술대 오른다ㅣ명민준, 박가영, 이다솔 [주린이 구조대]",
@@ -636,25 +665,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "FigtCBH-cGI",
-      "title": "\"모멘텀 쓰나미 몰려온다\" 이제 시선 돌리세요 | 김홍식 하나증권 리서치센터 상무 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=FigtCBH-cGI",
-      "thumbnail_url": "https://i3.ytimg.com/vi/FigtCBH-cGI/hqdefault.jpg",
-      "published_at": "2026-07-22T02:02:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "CXRchmrrXj0",

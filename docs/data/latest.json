@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T19:24:41.907929+00:00",
+  "generated_at": "2026-07-23T21:08:42.088283+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Z0LG3xK54Ek",
+      "title": "WTI 90달러 돌파 속 뉴욕증시 하락 마감...인텔, '반전' 만들다!_26.07.24 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=Z0LG3xK54Ek",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Z0LG3xK54Ek/hqdefault.jpg",
+      "published_at": "2026-07-23T20:21:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "5VGIFBqBK8U",
       "title": "\"K-반도체 피크아웃은 없다\"…돈 버는 기업을 사라ㅣ명민준, 김기은, 차영주 [주린이 구조대]",
@@ -675,25 +704,6 @@
       "source_url": "https://www.youtube.com/watch?v=cslzvo0iJsA",
       "thumbnail_url": "https://i4.ytimg.com/vi/cslzvo0iJsA/hqdefault.jpg",
       "published_at": "2026-07-23T02:34:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "SgkaMlf3Rmo",
-      "title": "\"전고점 돌파의 조건은 이것\" 왜 계속 오를거 같냐고요?  | 박성문 무니 인사이트 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=SgkaMlf3Rmo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/SgkaMlf3Rmo/hqdefault.jpg",
-      "published_at": "2026-07-23T01:39:06+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

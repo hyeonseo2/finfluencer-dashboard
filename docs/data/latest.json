@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T21:08:42.088283+00:00",
+  "generated_at": "2026-07-23T23:00:16.368551+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,28 +55,37 @@
   ],
   "videos": [
     {
+      "video_id": "KY2cx9NBlGU",
+      "title": "인텔, CPU·파운드리 호실적...후티 반군, 사우디 유조선 2척 공격 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=KY2cx9NBlGU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KY2cx9NBlGU/hqdefault.jpg",
+      "published_at": "2026-07-23T22:08:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "Z0LG3xK54Ek",
-      "title": "WTI 90달러 돌파 속 뉴욕증시 하락 마감...인텔, '반전' 만들다!_26.07.24 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "상승장 지속에도 안심하긴 이르다? 전쟁·실적 변수 속 오늘 시장의 방향은? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=Z0LG3xK54Ek",
       "thumbnail_url": "https://i3.ytimg.com/vi/Z0LG3xK54Ek/hqdefault.jpg",
       "published_at": "2026-07-23T20:21:48+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "fx"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],
@@ -697,25 +706,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cslzvo0iJsA",
-      "title": "지금 미국 투자, 어디에 집중해야 할까? | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=cslzvo0iJsA",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cslzvo0iJsA/hqdefault.jpg",
-      "published_at": "2026-07-23T02:34:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "4XfFAxjhlJQ",

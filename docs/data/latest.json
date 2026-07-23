@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-22T22:07:35.053220+00:00",
+  "generated_at": "2026-07-23T00:03:23.977804+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,28 +57,56 @@
   ],
   "videos": [
     {
+      "video_id": "rbAiV7TKqAk",
+      "title": "빅테크 실적발표 시작, 반도체주에 날개달까? | 박승영 한화투자증권 PLUS사업부 포트폴리오전략팀 팀장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=rbAiV7TKqAk",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rbAiV7TKqAk/hqdefault.jpg",
+      "published_at": "2026-07-22T23:07:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "nhQkxzu4Muw",
+      "title": "알파벳, 클라우드 성장세 재확인…테슬라, 마진 예상치 하회 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=nhQkxzu4Muw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nhQkxzu4Muw/hqdefault.jpg",
+      "published_at": "2026-07-22T22:05:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "btNcRxCRC3E",
-      "title": "유가·금리 부담 속 뉴욕증시 하락 마감...구글 실적 '예상 상회'_26.07.23 | 여도은, 박명석, 박승영 [월스트리트 모닝브리핑]",
+      "title": "[7월 23일 개장시황] 빈센트, 정프로, 하창완, 편다송, 박성문 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=btNcRxCRC3E",
       "thumbnail_url": "https://i3.ytimg.com/vi/btNcRxCRC3E/hqdefault.jpg",
       "published_at": "2026-07-22T20:25:21+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -598,49 +626,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "f688-fHKGK4",
-      "title": "[26.07.22 오전 방송 전체보기] 반도체주 '급반등' 속 뉴욕증시 상승 마감...관세·중동 긴장 '변수'",
-      "source_url": "https://www.youtube.com/watch?v=f688-fHKGK4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/f688-fHKGK4/hqdefault.jpg",
-      "published_at": "2026-07-22T03:17:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QpYcKaV1Bqw",
-      "title": "바닥을 본 것인가? 신중할 수 밖에 없는 시장...'돈과 실적' 누가 이길까? | 이혁진, 전병하, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=QpYcKaV1Bqw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QpYcKaV1Bqw/hqdefault.jpg",
-      "published_at": "2026-07-22T02:30:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

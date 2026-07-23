@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-23T12:25:44.868471+00:00",
+  "generated_at": "2026-07-23T15:11:56.644026+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "5VGIFBqBK8U",
+      "title": "\"K-반도체 피크아웃은 없다\"…돈 버는 기업을 사라ㅣ명민준, 김기은, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=5VGIFBqBK8U",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5VGIFBqBK8U/hqdefault.jpg",
+      "published_at": "2026-07-23T14:00:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "IBo0vHUJYSg",
+      "title": "8월 증시, 해야 할 것 vs 하지 말아야 할 것? 덜 먹는 건 손해가 아닙니다ㅣ명민준, 김기은, 유영화 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=IBo0vHUJYSg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IBo0vHUJYSg/hqdefault.jpg",
+      "published_at": "2026-07-23T13:00:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Bu-Mgevg3A8",
       "title": "드디어 코스피 '해빙기' 진입! 외국인 싹 쓸어담는 지금, 절대 팔면 안 되는 이유ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
@@ -180,17 +223,17 @@
     },
     {
       "video_id": "ACui2oXuA7M",
-      "title": "\"지금 정말 일생일대 기회다\" 당장 현금 버리고 갈아타세요. 8월부터 싹 다 뒤집힐 겁니다 | 송민석 이사 2부 #돈쭐남 #김경필",
+      "title": "\"폭락 오든 말든 매달 50만원씩 무식하게 사모아라\" QQQ + SCHD 합친 ETF 떴다. ISA에 올해 꼭 담으세요 | 송민석 이사 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=ACui2oXuA7M",
       "thumbnail_url": "https://i2.ytimg.com/vi/ACui2oXuA7M/hqdefault.jpg",
       "published_at": "2026-07-23T10:30:02+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities"
+        "etf"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -237,17 +280,17 @@
     },
     {
       "video_id": "fI5VDy4mfZ4",
-      "title": "\"언론은 쉬쉬하고 있다\" 미국 이란 폭격의 충격 소문｜김진 앵커, 김종대 교수, 김민석 특파원 특집",
+      "title": "이란 사실상 쿠데타 상태. 테헤란 정권 붕괴 임박했다｜김진 앵커, 김종대 교수, 김민석 특파원 특집",
       "source_url": "https://www.youtube.com/watch?v=fI5VDy4mfZ4",
       "thumbnail_url": "https://i3.ytimg.com/vi/fI5VDy4mfZ4/hqdefault.jpg",
       "published_at": "2026-07-23T09:30:20+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -513,7 +556,7 @@
     },
     {
       "video_id": "zrulWeRDfrg",
-      "title": "역대급 실적에도 주가는 흔들린 구글, 그런데 버핏은 왜 오히려 더 샀을까?  [에릭의 먼슬리 구루 7월 - 워런 버핏]",
+      "title": "역대급 실적에도 주가는 흔들린 구글, 그런데 버핏은 왜 오히려 더 샀을까? [에릭의 먼슬리 구루 7월 - 워런 버핏]",
       "source_url": "https://www.youtube.com/watch?v=zrulWeRDfrg",
       "thumbnail_url": "https://i3.ytimg.com/vi/zrulWeRDfrg/hqdefault.jpg",
       "published_at": "2026-07-23T05:26:16+00:00",
@@ -658,49 +701,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "iiCLJwzRoow",
-      "title": "철강왕 포스코가 '가스'를 팔기 시작했다",
-      "source_url": "https://www.youtube.com/shorts/iiCLJwzRoow",
-      "thumbnail_url": "https://i2.ytimg.com/vi/iiCLJwzRoow/hqdefault.jpg",
-      "published_at": "2026-07-23T01:27:00+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "dGjYAXi2IhY",
-      "title": "\"CAPEX 내년 3천억 달러 예상\" 외국인이 움직인다...! | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=dGjYAXi2IhY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dGjYAXi2IhY/hqdefault.jpg",
-      "published_at": "2026-07-23T01:25:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],

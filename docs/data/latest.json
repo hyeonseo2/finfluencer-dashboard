@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T15:27:23.494292+00:00",
+  "generated_at": "2026-07-24T17:40:55.616754+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -629,17 +629,22 @@
     },
     {
       "video_id": "f0bkFIF2ZIo",
-      "title": "한국 증시 정말 심상치 않아요, 40년 만에 처음 보는 위험 징조 (부자아빠 정재호 대표)",
+      "title": "삼성전자, SK하이닉스 팔고 '이 주식' 사세요, 지금 당장 사서 묻어둘 황금 종목 (부자아빠 정재호 대표)",
       "source_url": "https://www.youtube.com/watch?v=f0bkFIF2ZIo",
       "thumbnail_url": "https://i3.ytimg.com/vi/f0bkFIF2ZIo/hqdefault.jpg",
       "published_at": "2026-07-23T10:45:39+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

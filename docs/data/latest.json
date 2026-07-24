@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T11:44:10.236696+00:00",
+  "generated_at": "2026-07-24T13:53:34.492310+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,18 +56,42 @@
   ],
   "videos": [
     {
+      "video_id": "xLCrEU4NHSk",
+      "title": "모두가 아는 호재는 호재가 아니다? 주가가 빠지는 진짜 이유ㅣ강성호, 박가영, 이재규 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=xLCrEU4NHSk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xLCrEU4NHSk/hqdefault.jpg",
+      "published_at": "2026-07-24T12:00:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "W9a2tmMTqZw",
-      "title": "(긴급 증시 진단) 외국인이 한국 주식 싹다 팔았다, 삼성전자 -7%, SK하이닉스 -8% 폭락 (슈퍼개미 이정윤 세무사)",
+      "title": "(긴급 증시 진단) 삼성전자 -7%, SK하이닉스 -8% 또 폭락, 지금 반드시 '이렇게' 하세요 (슈퍼개미 이정윤 세무사)",
       "source_url": "https://www.youtube.com/watch?v=W9a2tmMTqZw",
       "thumbnail_url": "https://i4.ytimg.com/vi/W9a2tmMTqZw/hqdefault.jpg",
       "published_at": "2026-07-24T11:30:06+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -95,7 +119,7 @@
     },
     {
       "video_id": "qOWGyJx2ZsU",
-      "title": "\"대한민국 국민 누구나 연 8%\" 1억 있다면 '여기’에 맘편히 묻어두세요. 5년 뒤 2억 4천으로 돌려줍니다 | 송영욱 대표 3부 #돈쭐남 #김경필",
+      "title": "\"저도 받을줄 몰랐어요\" 50대 반드시 신청하세요. 매달 120만원씩 평생 나옵니다 | 송영욱 대표 3부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=qOWGyJx2ZsU",
       "thumbnail_url": "https://i2.ytimg.com/vi/qOWGyJx2ZsU/hqdefault.jpg",
       "published_at": "2026-07-24T10:30:32+00:00",
@@ -576,30 +600,6 @@
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MQmhpvm2DPo",
-      "title": "8월 증시 분위기 바뀌나? 이제 반도체보다 중요한 것은 '수급 확산' | 박병창 MP파트너스 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=MQmhpvm2DPo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MQmhpvm2DPo/hqdefault.jpg",
-      "published_at": "2026-07-24T00:16:55+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"

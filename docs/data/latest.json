@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T13:53:34.492310+00:00",
+  "generated_at": "2026-07-24T15:27:23.494292+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ij7S91fsj5I",
+      "title": "AI 투자의 '수혜'를 받는 기업들의 주가도 보세요ㅣ강성호, 박가영, 박지훈 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=ij7S91fsj5I",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ij7S91fsj5I/hqdefault.jpg",
+      "published_at": "2026-07-24T14:00:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "xLCrEU4NHSk",
       "title": "모두가 아는 호재는 호재가 아니다? 주가가 빠지는 진짜 이유ㅣ강성호, 박가영, 이재규 [주린이 구조대]",
@@ -583,25 +602,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hd3FUfmHEFc",
-      "title": "지금은 매도보다 보유? 반등장에서 가장 중요한 체크포인트 | 윤정식 바로자산운용 상무 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=hd3FUfmHEFc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hd3FUfmHEFc/hqdefault.jpg",
-      "published_at": "2026-07-24T00:45:31+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

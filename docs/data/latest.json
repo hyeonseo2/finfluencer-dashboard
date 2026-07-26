@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T00:03:23.734448+00:00",
+  "generated_at": "2026-07-26T04:29:21.311819+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -50,11 +50,105 @@
     "etf",
     "interest_rate",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "J6HF8mNNgmk",
+      "title": "\"수익률 33%\" ISA계좌에서 월 90만원씩 이 ETF 죽어라 모으세요. 죽을 때까지 오릅니다 | 문일호 기자, 모티 재테크",
+      "source_url": "https://www.youtube.com/watch?v=J6HF8mNNgmk",
+      "thumbnail_url": "https://i3.ytimg.com/vi/J6HF8mNNgmk/hqdefault.jpg",
+      "published_at": "2026-07-26T04:00:05+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "0BnrIsNQAg0",
+      "title": "\"중국인만 골라 죽인다\" 곧 대륙이 아수라장 된다｜유광종 소장, 김진 앵커 특집",
+      "source_url": "https://www.youtube.com/watch?v=0BnrIsNQAg0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0BnrIsNQAg0/hqdefault.jpg",
+      "published_at": "2026-07-26T03:00:20+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "fLGhZQdfd_M",
+      "title": "“역대급 정부 혜택” 퇴직금 1억 ‘여기‘에 맘편히 묻어두세요. 월 133만원 평생 나옵니다 | 송영욱 대표 풀버전 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=fLGhZQdfd_M",
+      "thumbnail_url": "https://i3.ytimg.com/vi/fLGhZQdfd_M/hqdefault.jpg",
+      "published_at": "2026-07-26T02:00:25+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zpLxItC57UU",
+      "title": "호르무즈가 막히면 벌어지는 일... 한국도 피할 수 없습니다 | 박현도 서강대 유로메나연구소 교수 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=zpLxItC57UU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zpLxItC57UU/hqdefault.jpg",
+      "published_at": "2026-07-26T02:00:15+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "62g0RWHgKYE",
+      "title": "중국이 어떤 발버둥을 쳐도 미국을 넘어설 수 없는 결정적인 이유",
+      "source_url": "https://www.youtube.com/watch?v=62g0RWHgKYE",
+      "thumbnail_url": "https://i3.ytimg.com/vi/62g0RWHgKYE/hqdefault.jpg",
+      "published_at": "2026-07-26T00:00:34+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "46ccE0Tf2dQ",
       "title": "(광고X) \"일반 예적금의 6배 통장 떴다\" 나이제한, 소득제한 없다. 연 13% 주는 1금융권 대박 적금. 현금 싹다 여기로 옮기세요 #김경필 #돈쭐남",
@@ -76,7 +170,7 @@
     },
     {
       "video_id": "-YEb6sxEoUo",
-      "title": "미국에 퍼진 XRP 충격 소문 곧 코인판 발칵 뒤집힌다 | 문창훈 대표 3부",
+      "title": "거래소 XRP 싹다 사라진 이유 가진 코인 전부 ‘이렇게’ 해라 | 문창훈 대표 3부",
       "source_url": "https://www.youtube.com/watch?v=-YEb6sxEoUo",
       "thumbnail_url": "https://i2.ytimg.com/vi/-YEb6sxEoUo/hqdefault.jpg",
       "published_at": "2026-07-26T00:00:20+00:00",
@@ -827,25 +921,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "QW1jEEMiKgM",
-      "title": "'클래리티 법안' 원내대표는 처리 촉구 의지,  골드만삭스는 우호적 신호 보냈다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=QW1jEEMiKgM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QW1jEEMiKgM/hqdefault.jpg",
-      "published_at": "2026-07-24T03:58:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "6hVybOw86LI",
       "title": "삼성전자 반토막 나도 안 팔아요, 조정장 끝난 후 미친듯 치솟는다 (박정호 교수)",
       "source_url": "https://www.youtube.com/watch?v=6hVybOw86LI",
@@ -906,63 +981,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "g0QOmGvmOSg",
-      "title": "미국 내부에 싹다 퍼졌다. 한국에 대한 엄청난 소문｜매도우 1부",
-      "source_url": "https://www.youtube.com/watch?v=g0QOmGvmOSg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/g0QOmGvmOSg/hqdefault.jpg",
-      "published_at": "2026-07-23T10:30:16+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ACui2oXuA7M",
-      "title": "\"폭락 오든 말든 매달 50만원씩 무식하게 사모아라\" QQQ + SCHD 합친 ETF 떴다. ISA에 올해 꼭 담으세요 | 송민석 이사 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=ACui2oXuA7M",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ACui2oXuA7M/hqdefault.jpg",
-      "published_at": "2026-07-23T10:30:02+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IF3xbaL_sVw",
-      "title": "연금 포트폴리오 이걸로 쭉 모아갑니다 #유지현",
-      "source_url": "https://www.youtube.com/shorts/IF3xbaL_sVw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IF3xbaL_sVw/hqdefault.jpg",
-      "published_at": "2026-07-23T10:00:16+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "R5C1aCM2m9o",
@@ -1429,25 +1447,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wShEgg61924",
-      "title": "[속보효] 미국에선 280만원, 한국에선 190만원",
-      "source_url": "https://www.youtube.com/watch?v=wShEgg61924",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wShEgg61924/hqdefault.jpg",
-      "published_at": "2026-07-14T22:22:18+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "3ectdcH1a-Q",

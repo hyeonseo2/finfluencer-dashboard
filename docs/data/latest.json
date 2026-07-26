@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T07:37:54.526822+00:00",
+  "generated_at": "2026-07-26T10:03:48.900688+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,23 +54,94 @@
   ],
   "videos": [
     {
+      "video_id": "eBGAc1b-qts",
+      "title": "미국이 이란 절대 못 이기는 이유, 미국과 트럼프는 완전 망했어요 (김태형 소장)",
+      "source_url": "https://www.youtube.com/watch?v=eBGAc1b-qts",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eBGAc1b-qts/hqdefault.jpg",
+      "published_at": "2026-07-26T10:00:34+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "6hS6iW_0sR4",
+      "title": "월가에 싹다 퍼졌다 금값에 대한 충격적 소문 | 금남일 대표 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=6hS6iW_0sR4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6hS6iW_0sR4/hqdefault.jpg",
+      "published_at": "2026-07-26T10:00:26+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "pR6_GK-5Beo",
+      "title": "저는 영양제 '딱 이것만' 먹어요, 서울대 약사도 먹고 있는 영양제 (정재훈 약사)",
+      "source_url": "https://www.youtube.com/watch?v=pR6_GK-5Beo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pR6_GK-5Beo/hqdefault.jpg",
+      "published_at": "2026-07-26T08:30:14+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "w4XtEwuzbiY",
+      "title": "일본 반격에 중국 초토화 당황한 시진핑 초비상 상태 | 김진 앵커 4부",
+      "source_url": "https://www.youtube.com/watch?v=w4XtEwuzbiY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/w4XtEwuzbiY/hqdefault.jpg",
+      "published_at": "2026-07-26T08:00:12+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "o2frLA_7igU",
-      "title": "증시 좋아지면 '이 주식' 폭발한다, 가진 주식 좀 팔고, 현금 만드세요 (김진 이사)",
+      "title": "2500만원으로 '이 주식' 다 사세요, 내년까지 정말 무섭게 오른다 (김진 이사)",
       "source_url": "https://www.youtube.com/watch?v=o2frLA_7igU",
       "thumbnail_url": "https://i4.ytimg.com/vi/o2frLA_7igU/hqdefault.jpg",
       "published_at": "2026-07-26T07:30:19+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -920,25 +991,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "mMDrh34-fZU",
-      "title": "“림팩도 씹어먹었다” 한국잠수함에 미군 발칵 캐나다 땅 치고 후회 중 | 김진 앵커 3부",
-      "source_url": "https://www.youtube.com/watch?v=mMDrh34-fZU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/mMDrh34-fZU/hqdefault.jpg",
-      "published_at": "2026-07-24T07:30:30+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "aOfmqZKg40E",
       "title": "\"10일 연속 사이드카\" 함정에 빠지지 않으려면 | 윤정식 바로자산운용 상무 [더블 체크]",
       "source_url": "https://www.youtube.com/shorts/aOfmqZKg40E",
@@ -956,25 +1008,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "nX4UsUyC9t8",
-      "title": "반도체 하락장 마지막 기회. 5천만원 있다면 '이 주식' 사라｜이창대 대표 3부",
-      "source_url": "https://www.youtube.com/watch?v=nX4UsUyC9t8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nX4UsUyC9t8/hqdefault.jpg",
-      "published_at": "2026-07-24T06:30:22+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "6hVybOw86LI",
@@ -1156,49 +1189,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "fVFji39kp4o",
-      "title": "다시 불붙은 미국·이란 전쟁,결국 '이렇게' 끝날 수밖에 없다 (조한범 박사)",
-      "source_url": "https://www.youtube.com/watch?v=fVFji39kp4o",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fVFji39kp4o/hqdefault.jpg",
-      "published_at": "2026-07-22T10:45:16+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cqgy2kC9KuM",
-      "title": "현금 있다면 '이 주식' 꼭 사세요,7일 뒤 상상 못할 일 터집니다 (박진희 부장)",
-      "source_url": "https://www.youtube.com/watch?v=cqgy2kC9KuM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cqgy2kC9KuM/hqdefault.jpg",
-      "published_at": "2026-07-22T09:30:09+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "B04fLKEfjkM",

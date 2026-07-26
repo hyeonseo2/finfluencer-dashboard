@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T14:38:58.041004+00:00",
+  "generated_at": "2026-07-26T16:04:29.666227+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,25 +55,6 @@
     "stocks"
   ],
   "videos": [
-    {
-      "video_id": "ja979RFGnwI",
-      "title": "[슈카월드] 하이닉스 ADR은 누가 샀을까?/ 국뽕 중국 영화가 개봉 연기된 이유/ 출산율 거대한 반등의 서막/ 탈모약도 건보 대상인가/ 테슬라, 현대차 주가는 왜 부진한가",
-      "source_url": "https://www.youtube.com/watch?v=ja979RFGnwI",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ja979RFGnwI/hqdefault.jpg",
-      "published_at": "2026-07-26T11:25:36+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
     {
       "video_id": "izAtyKRZxiE",
       "title": "[속보효] 다른건 모르겠습니다. 다만 '돈'은 거짓말을 하지 않습니다",
@@ -1450,6 +1431,25 @@
       "source_url": "https://www.youtube.com/shorts/8su3kszPVV0",
       "thumbnail_url": "https://i1.ytimg.com/vi/8su3kszPVV0/hqdefault.jpg",
       "published_at": "2026-07-15T08:26:03+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "3ectdcH1a-Q",
+      "title": "60조원 캐나다 잠수함 수주 불발",
+      "source_url": "https://www.youtube.com/watch?v=3ectdcH1a-Q",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3ectdcH1a-Q/hqdefault.jpg",
+      "published_at": "2026-07-14T10:00:16+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-25T22:01:24.431197+00:00",
+  "generated_at": "2026-07-26T00:03:23.734448+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,8 +46,8 @@
   ],
   "topics": [
     "commodities",
+    "crypto",
     "etf",
-    "fx",
     "interest_rate",
     "macro",
     "policy",
@@ -55,6 +55,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "46ccE0Tf2dQ",
+      "title": "(광고X) \"일반 예적금의 6배 통장 떴다\" 나이제한, 소득제한 없다. 연 13% 주는 1금융권 대박 적금. 현금 싹다 여기로 옮기세요 #김경필 #돈쭐남",
+      "source_url": "https://www.youtube.com/watch?v=46ccE0Tf2dQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/46ccE0Tf2dQ/hqdefault.jpg",
+      "published_at": "2026-07-26T00:00:22+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "-YEb6sxEoUo",
+      "title": "미국에 퍼진 XRP 충격 소문 곧 코인판 발칵 뒤집힌다 | 문창훈 대표 3부",
+      "source_url": "https://www.youtube.com/watch?v=-YEb6sxEoUo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-YEb6sxEoUo/hqdefault.jpg",
+      "published_at": "2026-07-26T00:00:20+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "-5RvcnIFk18",
+      "title": "AI 혁명이 실패하는 순간, 세계 경제는 흔들립니다 | 오건영 신한은행 프리미어 패스파인더 단장 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=-5RvcnIFk18",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-5RvcnIFk18/hqdefault.jpg",
+      "published_at": "2026-07-25T23:00:24+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "5nyHkGI9SUw",
       "title": "콧대높던 미국 급 태세전환. 엔진 판도 180도 뒤집혔다｜김민석 특파원 3부",
@@ -789,35 +846,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Z0LG3xK54Ek",
-      "title": "[26.07.24 오전 방송 전체보기] WTI 90달러 돌파 속 뉴욕증시 하락 마감...인텔, '반전' 만들다!",
-      "source_url": "https://www.youtube.com/watch?v=Z0LG3xK54Ek",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Z0LG3xK54Ek/hqdefault.jpg",
-      "published_at": "2026-07-24T03:14:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "6hVybOw86LI",
       "title": "삼성전자 반토막 나도 안 팔아요, 조정장 끝난 후 미친듯 치솟는다 (박정호 교수)",
       "source_url": "https://www.youtube.com/watch?v=6hVybOw86LI",
@@ -935,44 +963,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ZhkWYNr-vLM",
-      "title": "\"홈플러스는 시작이다\" 유통 공룡들의 조용한 몰락. 롯데마트, 하나로마트 전국 매장 줄줄이 폐점하는 충격적 이유. IMF 떄보다 더 심각해요 #김경필 #돈쭐남",
-      "source_url": "https://www.youtube.com/watch?v=ZhkWYNr-vLM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZhkWYNr-vLM/hqdefault.jpg",
-      "published_at": "2026-07-23T09:30:34+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "fI5VDy4mfZ4",
-      "title": "이란 사실상 쿠데타 상태. 테헤란 정권 붕괴 임박했다｜김진 앵커, 김종대 교수, 김민석 특파원 특집",
-      "source_url": "https://www.youtube.com/watch?v=fI5VDy4mfZ4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fI5VDy4mfZ4/hqdefault.jpg",
-      "published_at": "2026-07-23T09:30:20+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "R5C1aCM2m9o",

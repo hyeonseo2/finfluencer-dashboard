@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T12:06:40.942953+00:00",
+  "generated_at": "2026-07-26T14:38:58.041004+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,7 +48,9 @@
     "commodities",
     "crypto",
     "etf",
+    "interest_rate",
     "macro",
+    "policy",
     "real_estate",
     "stocks"
   ],
@@ -93,7 +95,7 @@
     },
     {
       "video_id": "eBGAc1b-qts",
-      "title": "이란 전쟁보다 끔찍한 게 터진다, 미국 정부가 쉬쉬하는 진짜 이유 (김태형 소장)",
+      "title": "이란 전쟁보다 끔찍한 게 터진다, 이미 시작된 동아시아 전쟁 위기 (김태형 소장)",
       "source_url": "https://www.youtube.com/watch?v=eBGAc1b-qts",
       "thumbnail_url": "https://i2.ytimg.com/vi/eBGAc1b-qts/hqdefault.jpg",
       "published_at": "2026-07-26T10:00:34+00:00",
@@ -710,25 +712,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "ij7S91fsj5I",
-      "title": "AI 투자의 '수혜'를 받는 기업들의 주가도 보세요ㅣ강성호, 박가영, 박지훈 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=ij7S91fsj5I",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ij7S91fsj5I/hqdefault.jpg",
-      "published_at": "2026-07-24T14:00:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "xLCrEU4NHSk",
       "title": "모두가 아는 호재는 호재가 아니다? 주가가 빠지는 진짜 이유ㅣ강성호, 박가영, 이재규 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=xLCrEU4NHSk",
@@ -770,25 +753,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "02Ly-Cg7aC4",
-      "title": "[26.07.24 오후 방송 전체보기] 삼전닉스 장중 8% 급락…레버리지 투자 문턱 높인다, 반도체 쏠림 잡힐까?",
-      "source_url": "https://www.youtube.com/watch?v=02Ly-Cg7aC4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/02Ly-Cg7aC4/hqdefault.jpg",
-      "published_at": "2026-07-24T11:04:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "qOWGyJx2ZsU",
@@ -1041,6 +1005,49 @@
       "topic_stances": [
         {
           "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Plz9XAsEGjk",
+      "title": "'트럼프 협상 기술 안 통하는 이란' 유가 상승에 금리 인상 우려, 흔들리는 시장 | 서동주, 김동환, 이윤수 에릭의거장연구소 대표 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=Plz9XAsEGjk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/Plz9XAsEGjk/hqdefault.jpg",
+      "published_at": "2026-07-24T04:30:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "QW1jEEMiKgM",
+      "title": "'클래리티 법안' 원내대표는 처리 촉구 의지,  골드만삭스는 우호적 신호 보냈다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=QW1jEEMiKgM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QW1jEEMiKgM/hqdefault.jpg",
+      "published_at": "2026-07-24T03:58:59+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
           "stance": "neutral"
         }
       ],

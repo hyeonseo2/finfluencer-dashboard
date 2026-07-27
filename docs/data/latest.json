@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T19:41:03.125225+00:00",
+  "generated_at": "2026-07-27T21:15:13.130671+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "vFfx2CVZzE8",
+      "title": "엔비디아 5% 급락 속 나스닥 지수만 조정...WTI 유가 8% 하락_26.07.28 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=vFfx2CVZzE8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/vFfx2CVZzE8/hqdefault.jpg",
+      "published_at": "2026-07-27T20:28:30+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "M848WM1CQQg",
       "title": "하락장이 두려운 초보 투자자를 위한 멘탈 관리 & 포트폴리오 전략ㅣ명민준, 박가영, 최창규 [주린이 구조대]",
@@ -578,25 +602,6 @@
       "source_url": "https://www.youtube.com/watch?v=x4MwMuzw2FA",
       "thumbnail_url": "https://i1.ytimg.com/vi/x4MwMuzw2FA/hqdefault.jpg",
       "published_at": "2026-07-27T02:39:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "XmAtm6L7c6c",
-      "title": "반도체 제일 걱정인 부분은 '이 부분' 입니다 | 상지대학교 소현철 외래교수 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=XmAtm6L7c6c",
-      "thumbnail_url": "https://i1.ytimg.com/vi/XmAtm6L7c6c/hqdefault.jpg",
-      "published_at": "2026-07-27T02:27:26+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

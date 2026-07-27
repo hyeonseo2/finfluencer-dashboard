@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T21:15:13.130671+00:00",
+  "generated_at": "2026-07-27T23:07:08.434702+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,27 +48,59 @@
     "commodities",
     "crypto",
     "etf",
-    "interest_rate",
     "macro",
     "stocks"
   ],
   "videos": [
     {
+      "video_id": "8FzDGBZUwjk",
+      "title": "7월의 시장 하락, 8월엔 나아질까? 반도체 하락, '사이클 정점' 우려해야하나? | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=8FzDGBZUwjk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8FzDGBZUwjk/hqdefault.jpg",
+      "published_at": "2026-07-27T22:48:55+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "7pbetoCKocI",
+      "title": "반도체, 또 메모리 정점 논란...엔비디아, 오픈AI 금융 보증 논의 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=7pbetoCKocI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7pbetoCKocI/hqdefault.jpg",
+      "published_at": "2026-07-27T21:59:59+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "vFfx2CVZzE8",
-      "title": "엔비디아 5% 급락 속 나스닥 지수만 조정...WTI 유가 8% 하락_26.07.28 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "title": "AI 과잉 투자론에 빅테크 기업 우려 지속...오늘 우리 반도체의 운명은? | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=vFfx2CVZzE8",
       "thumbnail_url": "https://i3.ytimg.com/vi/vFfx2CVZzE8/hqdefault.jpg",
       "published_at": "2026-07-27T20:28:30+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -526,7 +558,7 @@
     },
     {
       "video_id": "5kwGajTRrIs",
-      "title": "다가올 상승장…비트코인 관련주 승패 가를 기준은? | 백훈종 스매시파이 대표 [크립토 PLUS]",
+      "title": "다가올 상승장…비트코인 관련주 승패 가를 기준은? | 서동주, 김동환, 백훈종 스매시파이 대표 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=5kwGajTRrIs",
       "thumbnail_url": "https://i2.ytimg.com/vi/5kwGajTRrIs/hqdefault.jpg",
       "published_at": "2026-07-27T03:48:09+00:00",
@@ -564,49 +596,6 @@
           "topic": "stocks",
           "stance": "neutral"
         },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Db0_6ssIgSI",
-      "title": "비트코인 운명, 이번 주 FOMC가 결정합니다 | 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=Db0_6ssIgSI",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Db0_6ssIgSI/hqdefault.jpg",
-      "published_at": "2026-07-27T03:11:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "x4MwMuzw2FA",
-      "title": "'변동성', 과연 언제 안정될까? 빅 이벤트 주간 관전 포인트는? | 소진웅, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=x4MwMuzw2FA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/x4MwMuzw2FA/hqdefault.jpg",
-      "published_at": "2026-07-27T02:39:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"

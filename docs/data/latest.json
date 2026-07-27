@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-26T22:02:02.287056+00:00",
+  "generated_at": "2026-07-27T00:03:46.092388+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,30 +48,87 @@
     "commodities",
     "crypto",
     "etf",
-    "interest_rate",
+    "fx",
     "macro",
     "real_estate",
     "stocks"
   ],
   "videos": [
     {
+      "video_id": "WaGlxMYWc00",
+      "title": "한미 빅테크, GPU 200만 장·9500억 달러 AI 협력 추진 | 유가·물류비 인상에 발만 동동 구르는 수출·중소기업 | 류종은 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=WaGlxMYWc00",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WaGlxMYWc00/hqdefault.jpg",
+      "published_at": "2026-07-26T23:36:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "e8FpBdEj02A",
+      "title": "AI 투자 끝난 게 아니다… 글로벌 협력이 시작됐다 | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=e8FpBdEj02A",
+      "thumbnail_url": "https://i2.ytimg.com/vi/e8FpBdEj02A/hqdefault.jpg",
+      "published_at": "2026-07-26T23:14:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ilIEhdcz5_E",
+      "title": "인텔, CAPEX 우려에 장중 7% 급락...악시오스 \"트럼프, 이란 공습 중단 지시\" [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=ilIEhdcz5_E",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ilIEhdcz5_E/hqdefault.jpg",
+      "published_at": "2026-07-26T22:13:40+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "JbXAEzhsE18",
-      "title": "반도체 집중된 매도 속 뉴욕증시 혼조 마감...'샌프란 AI 선언' 영향은?_26.07.27 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "[7월 27일 개장시황] 빈센트, 정프로, 하창완, 김정환, 편다송, 소현철 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=JbXAEzhsE18",
       "thumbnail_url": "https://i3.ytimg.com/vi/JbXAEzhsE18/hqdefault.jpg",
       "published_at": "2026-07-26T20:17:19+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -878,25 +935,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "LCEM274bgm0",
-      "title": "[7월 24일 마감시황] 오르면 사고 빠지면 팔고 이러면 계속 당합니다ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=LCEM274bgm0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LCEM274bgm0/hqdefault.jpg",
-      "published_at": "2026-07-24T08:32:56+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "ta_RaeFEtgM",
       "title": "삼성전자 말고 '이 주식' 사세요, 바닥에서 폭등할 숨은 황제주 (부자아빠 정재호 대표)",
       "source_url": "https://www.youtube.com/watch?v=ta_RaeFEtgM",
@@ -995,49 +1033,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "aOfmqZKg40E",
-      "title": "\"10일 연속 사이드카\" 함정에 빠지지 않으려면 | 윤정식 바로자산운용 상무 [더블 체크]",
-      "source_url": "https://www.youtube.com/shorts/aOfmqZKg40E",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aOfmqZKg40E/hqdefault.jpg",
-      "published_at": "2026-07-24T07:29:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Plz9XAsEGjk",
-      "title": "'트럼프 협상 기술 안 통하는 이란' 유가 상승에 금리 인상 우려, 흔들리는 시장 | 서동주, 김동환, 이윤수 에릭의거장연구소 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=Plz9XAsEGjk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Plz9XAsEGjk/hqdefault.jpg",
-      "published_at": "2026-07-24T04:30:34+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "6hVybOw86LI",

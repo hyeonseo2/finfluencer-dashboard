@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-28T20:18:32.513305+00:00",
+  "generated_at": "2026-07-28T22:08:26.172539+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "2Bubm-34v8Q",
+      "title": "반도체주 조정 속 나스닥만 0.2% 하락...애플의 승승장구 지속_26.07.29 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=2Bubm-34v8Q",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2Bubm-34v8Q/hqdefault.jpg",
+      "published_at": "2026-07-28T20:25:15+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "yAf1p4oqN8g",
       "title": "창신메모리 띄우고 삼전닉스 던진 외국인의 '큰 그림' ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
@@ -514,7 +538,7 @@
     },
     {
       "video_id": "jSev0DDdttI",
-      "title": "주식 토큰화 시대 개막! 온도·시큐리타이즈, 진짜 수혜주는 누구? |  서동주, 김동환, 김종승 엑슨크립톤 대표 [크립토 PLUS]",
+      "title": "주식 토큰화 시대 개막! 온도·시큐리타이즈, 진짜 수혜주는 누구? |  서동주, 김동환, 김종승 엑스크립톤 대표 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=jSev0DDdttI",
       "thumbnail_url": "https://i3.ytimg.com/vi/jSev0DDdttI/hqdefault.jpg",
       "published_at": "2026-07-28T03:17:53+00:00",
@@ -649,25 +673,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5wqrpL-NWU0",
-      "title": "진짜 분수령이 왔다...! 시장의 운명은? | 백인재 부센터장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=5wqrpL-NWU0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5wqrpL-NWU0/hqdefault.jpg",
-      "published_at": "2026-07-28T01:48:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "o77VyMiQp64",

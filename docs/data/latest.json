@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T19:23:14.523969+00:00",
+  "generated_at": "2026-07-29T21:00:33.833435+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,12 +48,42 @@
     "commodities",
     "crypto",
     "etf",
+    "interest_rate",
     "macro",
     "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "KY9noW-d044",
+      "title": "연준 금리 동결 속 물가 우려에 뉴욕증시 하락...빅테크 '엇갈린' 실적_26.07.30 | 여도은, 박명석, 장우진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=KY9noW-d044",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KY9noW-d044/hqdefault.jpg",
+      "published_at": "2026-07-29T20:24:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "bcn9WFX8AJs",
       "title": "빅테크의 현금 흐름이 달라졌다…한국 증시 반등을 결정할 변수?ㅣ명민준, 박가영, 정태근 [주린이 구조대]",
@@ -670,25 +700,6 @@
       "source_url": "https://www.youtube.com/watch?v=mLcUpITWVjE",
       "thumbnail_url": "https://i2.ytimg.com/vi/mLcUpITWVjE/hqdefault.jpg",
       "published_at": "2026-07-29T01:49:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "14yQl6lvUts",
-      "title": "악재는 다 반영됐다? 8월 반등 시작되나 | 이권희 위즈웨이브 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=14yQl6lvUts",
-      "thumbnail_url": "https://i2.ytimg.com/vi/14yQl6lvUts/hqdefault.jpg",
-      "published_at": "2026-07-29T01:45:34+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T21:00:33.833435+00:00",
+  "generated_at": "2026-07-29T23:01:03.424596+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,6 +45,7 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -56,28 +57,66 @@
   ],
   "videos": [
     {
+      "video_id": "Vym-ZJ2sHTc",
+      "title": "연준이 금리를 동결해도 안 된다…마이크로소프트, 호실적에 시간외 상승 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=Vym-ZJ2sHTc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Vym-ZJ2sHTc/hqdefault.jpg",
+      "published_at": "2026-07-29T22:03:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "uKljNsucYks",
+      "title": "[속보효] 7월 FOMC 리뷰, 심판을 보지 말고, 공을 봐라",
+      "source_url": "https://www.youtube.com/watch?v=uKljNsucYks",
+      "thumbnail_url": "https://i2.ytimg.com/vi/uKljNsucYks/hqdefault.jpg",
+      "published_at": "2026-07-29T21:32:53+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "KY9noW-d044",
-      "title": "연준 금리 동결 속 물가 우려에 뉴욕증시 하락...빅테크 '엇갈린' 실적_26.07.30 | 여도은, 박명석, 장우진 [월스트리트 모닝브리핑]",
+      "title": "이틀 연속 서킷브레이커…단일종목 레버리지 투자 제한 추진 | 미 연준, 5연속 금리 동결…30년물 국채 19년 만의 최고치 | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=KY9noW-d044",
       "thumbnail_url": "https://i4.ytimg.com/vi/KY9noW-d044/hqdefault.jpg",
       "published_at": "2026-07-29T20:24:38+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities",
-        "interest_rate"
+        "interest_rate",
+        "bonds"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
         },
         {
           "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -688,25 +727,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "mLcUpITWVjE",
-      "title": "중국 반도체 쇼크? 이미 끝난 악재라는 이유 | 이종원 하나증권 영업1부WM센터 팀장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=mLcUpITWVjE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/mLcUpITWVjE/hqdefault.jpg",
-      "published_at": "2026-07-29T01:49:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1398,25 +1418,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "B04fLKEfjkM",
-      "title": "[속보효] 2분기 하이퍼스케일러 실적 분석! 과감하게 들어갑니다",
-      "source_url": "https://www.youtube.com/watch?v=B04fLKEfjkM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/B04fLKEfjkM/hqdefault.jpg",
-      "published_at": "2026-07-22T02:14:41+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "CXRchmrrXj0",

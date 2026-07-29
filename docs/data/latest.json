@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-29T13:02:48.338834+00:00",
+  "generated_at": "2026-07-29T15:51:00.500935+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "bcn9WFX8AJs",
+      "title": "빅테크의 현금 흐름이 달라졌다…한국 증시 반등을 결정할 변수?ㅣ명민준, 박가영, 정태근 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=bcn9WFX8AJs",
+      "thumbnail_url": "https://i3.ytimg.com/vi/bcn9WFX8AJs/hqdefault.jpg",
+      "published_at": "2026-07-29T13:30:16+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ntab3CG8DZ4",
       "title": "실적보다 공포를 거래하는 시장...폭락은 끝났는데 착각은 시작됐다ㅣ명민준, 박가영, 이권희 [주린이 구조대]",
@@ -218,7 +242,7 @@
     },
     {
       "video_id": "IsMPSCR1nqY",
-      "title": "미국 월가에 싹다 퍼진 테슬라에 대한 기막힌 소문｜강정수 박사 풀버전",
+      "title": "“사상 초유의 사건 발생” 머스크의 충격 선언 곧 무시무시한 일 닥친다｜강정수 박사 풀버전",
       "source_url": "https://www.youtube.com/watch?v=IsMPSCR1nqY",
       "thumbnail_url": "https://i2.ytimg.com/vi/IsMPSCR1nqY/hqdefault.jpg",
       "published_at": "2026-07-29T10:30:31+00:00",
@@ -672,25 +696,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "d_toQ3lkIXk",
-      "title": "외국인 수급이 돌아와야 진짜 상승장이 시작됩니다 |  하창완 하보노의 주식 이야기 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=d_toQ3lkIXk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/d_toQ3lkIXk/hqdefault.jpg",
-      "published_at": "2026-07-29T00:54:34+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

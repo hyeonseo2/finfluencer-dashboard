@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T14:12:14.652751+00:00",
+  "generated_at": "2026-07-30T16:38:25.831641+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "nhaKgbcFtWo",
+      "title": "[속보효] 그동안 이유도 없이 주가가 급락했던 이유가 어쩌면, 이 친구 때문일 수도...",
+      "source_url": "https://www.youtube.com/watch?v=nhaKgbcFtWo",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nhaKgbcFtWo/hqdefault.jpg",
+      "published_at": "2026-07-30T15:35:46+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Gw8swHIqB04",
       "title": "반토막 난 증시, 외국인이 진짜로 사고 싶을 때는?ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
@@ -1402,25 +1421,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zrulWeRDfrg",
-      "title": "역대급 실적에도 주가는 흔들린 구글, 그런데 버핏은 왜 오히려 더 샀을까? [에릭의 먼슬리 구루 7월 - 워런 버핏]",
-      "source_url": "https://www.youtube.com/watch?v=zrulWeRDfrg",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zrulWeRDfrg/hqdefault.jpg",
-      "published_at": "2026-07-23T05:26:16+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

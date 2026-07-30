@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T16:38:25.831641+00:00",
+  "generated_at": "2026-07-30T18:18:59.483334+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -934,17 +934,22 @@
     },
     {
       "video_id": "oYW4ni1GkzU",
-      "title": "중국의 1% AI 천재들은 왜 미국 고액 연봉을 거절하고 고국행을 선택할까?ㅣ이필상 미래에셋자산운용(홍콩) 본부장",
+      "title": "전세계 AI 천재들의 절반은 왜 중국에서만 나오는 걸까?ㅣ이필상 미래에셋자산운용(홍콩) 본부장",
       "source_url": "https://www.youtube.com/watch?v=oYW4ni1GkzU",
       "thumbnail_url": "https://i4.ytimg.com/vi/oYW4ni1GkzU/hqdefault.jpg",
       "published_at": "2026-07-29T08:00:38+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "commodities",
+        "real_estate"
       ],
       "topic_stances": [
         {
           "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
           "stance": "neutral"
         }
       ],

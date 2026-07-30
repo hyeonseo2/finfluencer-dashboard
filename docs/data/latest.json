@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T20:16:27.633557+00:00",
+  "generated_at": "2026-07-30T22:09:33.480089+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "qgfwrXPjMrw",
+      "title": "마이크로소프트, 호실적에 18% 급등…반도체 등 AI HW 섹터 동반 랠리 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=qgfwrXPjMrw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/qgfwrXPjMrw/hqdefault.jpg",
+      "published_at": "2026-07-30T21:57:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "s_L-v-px-QU",
+      "title": "MS·반도체주 폭등 속 뉴욕증시 상승 마감...애플·아마존 실적발표_26.07.31 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=s_L-v-px-QU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/s_L-v-px-QU/hqdefault.jpg",
+      "published_at": "2026-07-30T20:24:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "nhaKgbcFtWo",
       "title": "[속보효] 그동안 이유도 없이 주가가 급락했던 이유가 어쩌면, 이 친구 때문일 수도...",
@@ -607,44 +650,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Cp3z18HItfg",
-      "title": "동결이지만 분위기는 인상? 시장의 시선은 9월로 | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=Cp3z18HItfg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Cp3z18HItfg/hqdefault.jpg",
-      "published_at": "2026-07-30T02:58:07+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "NSmB85PNDZ0",
-      "title": "은행·금융주 투자 적기 미국과 한국 어떻게 다를까? | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=NSmB85PNDZ0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NSmB85PNDZ0/hqdefault.jpg",
-      "published_at": "2026-07-30T02:27:55+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "uKljNsucYks",

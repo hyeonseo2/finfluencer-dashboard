@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T22:09:33.480089+00:00",
+  "generated_at": "2026-07-31T00:05:46.912982+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,49 @@
   ],
   "videos": [
     {
+      "video_id": "hemYb9rYnpI",
+      "title": "삼성전자 \"피크아웃 없다\"…최태원, SK하이닉스 48조 매수 | K배터리 3사 2Q 동반 흑자…'암흑 터널' 지났다 | 류종은 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=hemYb9rYnpI",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hemYb9rYnpI/hqdefault.jpg",
+      "published_at": "2026-07-30T23:29:46+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Vvv4wgwNx9U",
+      "title": "시장은 이미 최악을 반영했다? 지금 확인해야 할 변수는 | 이선엽 AFW파트너스 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=Vvv4wgwNx9U",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Vvv4wgwNx9U/hqdefault.jpg",
+      "published_at": "2026-07-30T22:56:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "qgfwrXPjMrw",
       "title": "마이크로소프트, 호실적에 18% 급등…반도체 등 AI HW 섹터 동반 랠리 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=qgfwrXPjMrw",
@@ -76,20 +119,15 @@
     },
     {
       "video_id": "s_L-v-px-QU",
-      "title": "MS·반도체주 폭등 속 뉴욕증시 상승 마감...애플·아마존 실적발표_26.07.31 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "[7월 31일 개장시황] 빈센트, 정프로, 이지은, 김록호, 편다송, 이형수 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=s_L-v-px-QU",
       "thumbnail_url": "https://i4.ytimg.com/vi/s_L-v-px-QU/hqdefault.jpg",
       "published_at": "2026-07-30T20:24:04+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -588,49 +626,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KnaSBWiUAmw",
-      "title": "\"환매만 되고 거래가 없다?\" 블랙록이 픽한 RWA 수혜주와 진짜 대장주 찾는 법 | 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=KnaSBWiUAmw",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KnaSBWiUAmw/hqdefault.jpg",
-      "published_at": "2026-07-30T03:17:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KY9noW-d044",
-      "title": "[26.07.30 오전 방송 전체보기] 금리 동결·전쟁 우려 속 뉴욕증시 일제 하락...빅테크 '엇갈린' 실적",
-      "source_url": "https://www.youtube.com/watch?v=KY9noW-d044",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KY9noW-d044/hqdefault.jpg",
-      "published_at": "2026-07-30T03:15:55+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "1QPm7am7k3c",

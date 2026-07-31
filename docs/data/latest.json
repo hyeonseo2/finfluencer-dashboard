@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T15:24:46.875889+00:00",
+  "generated_at": "2026-07-31T17:43:07.174293+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -50,7 +50,6 @@
     "interest_rate",
     "macro",
     "policy",
-    "real_estate",
     "stocks"
   ],
   "videos": [
@@ -1170,22 +1169,17 @@
     },
     {
       "video_id": "oYW4ni1GkzU",
-      "title": "전세계 AI 천재들의 절반은 왜 중국에서만 나오는 걸까?ㅣ이필상 미래에셋자산운용(홍콩) 본부장",
+      "title": "중국 반도체가 갑자기 글로벌 시장을 위협하게 된 결정적인 이유가 있습니다ㅣ이필상 미래에셋자산운용(홍콩) 본부장",
       "source_url": "https://www.youtube.com/watch?v=oYW4ni1GkzU",
       "thumbnail_url": "https://i4.ytimg.com/vi/oYW4ni1GkzU/hqdefault.jpg",
       "published_at": "2026-07-29T08:00:38+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities",
-        "real_estate"
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
           "stance": "neutral"
         }
       ],

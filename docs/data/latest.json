@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-31T10:43:23.176259+00:00",
+  "generated_at": "2026-07-31T12:58:30.072073+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,18 +55,85 @@
   ],
   "videos": [
     {
+      "video_id": "cRdEJc3WL-k",
+      "title": "폭락한 주식시장 긴급 진단, 저는 오늘 주식 더 샀습니다 (윤지호 경제평론가)",
+      "source_url": "https://www.youtube.com/watch?v=cRdEJc3WL-k",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cRdEJc3WL-k/hqdefault.jpg",
+      "published_at": "2026-07-31T11:30:29+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "uBSJN54iAn0",
+      "title": "[26.07.31 오후 방송 전체보기] AI 거품론 우려 불식, 반도체 투심 회복에 급반등! 역대급 롤러코스피 환호 vs 불안?",
+      "source_url": "https://www.youtube.com/watch?v=uBSJN54iAn0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/uBSJN54iAn0/hqdefault.jpg",
+      "published_at": "2026-07-31T11:02:02+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "lpAuLM9Qr-I",
+      "title": "삼성전자, SK하이닉스 정말 반등할 수 있을까? 지금 물린 분들은 '이렇게' 하세요 (김효진 박사)",
+      "source_url": "https://www.youtube.com/watch?v=lpAuLM9Qr-I",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lpAuLM9Qr-I/hqdefault.jpg",
+      "published_at": "2026-07-31T10:45:13+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "n4_unds9zpw",
-      "title": "\"평생 불어나면서 배당 나온다\" 50대 통장에 2억 있으면 뒤도 안돌아보고 은퇴 가능합니다 | 쩐업주부 3부 #돈쭐남 #김경필",
+      "title": "\"배당+성장 다 잡은 괴물 ETF\" 3억 맘편히 여기 묻어라. 월 300씩 평생 나온다 | 쩐업주부 3부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=n4_unds9zpw",
       "thumbnail_url": "https://i3.ytimg.com/vi/n4_unds9zpw/hqdefault.jpg",
       "published_at": "2026-07-31T10:30:16+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "macro"
+        "commodities",
+        "etf"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -343,25 +410,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "uBSJN54iAn0",
-      "title": "코스피 1000P 폭등! 하이닉스 상한가, 추세 전환 시작됐나ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=uBSJN54iAn0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/uBSJN54iAn0/hqdefault.jpg",
-      "published_at": "2026-07-31T05:20:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "5Mh3oUJVD10",
@@ -1183,25 +1231,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "kaj7IrWl_uk",
-      "title": "삼성전자, SK하이닉스  역대급 무서운 폭락, 지금부턴 버틴 사람만 큰돈 번다  (김민수 대표)",
-      "source_url": "https://www.youtube.com/watch?v=kaj7IrWl_uk",
-      "thumbnail_url": "https://i4.ytimg.com/vi/kaj7IrWl_uk/hqdefault.jpg",
-      "published_at": "2026-07-28T11:15:31+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "nHR1WLyz8QE",
       "title": "사람들이 예전처럼 차를 사지 않는 이유",
       "source_url": "https://www.youtube.com/watch?v=nHR1WLyz8QE",
@@ -1219,30 +1248,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "b61_0uC4060",
-      "title": "코스피 '여기까지' 떨어질 수 있다, 지금 손절하면 땅을 치는 이유 (김민수 대표)",
-      "source_url": "https://www.youtube.com/watch?v=b61_0uC4060",
-      "thumbnail_url": "https://i3.ytimg.com/vi/b61_0uC4060/hqdefault.jpg",
-      "published_at": "2026-07-28T10:15:13+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ppxqGKs9KgM",

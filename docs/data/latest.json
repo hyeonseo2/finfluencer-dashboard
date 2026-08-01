@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T15:03:46.080340+00:00",
+  "generated_at": "2026-08-01T17:04:19.721421+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -50,22 +50,23 @@
     "interest_rate",
     "macro",
     "policy",
+    "real_estate",
     "stocks"
   ],
   "videos": [
     {
       "video_id": "3-kcEbE2hps",
-      "title": "집값 '여기까지' 오르고 나면, 진짜 폭락장이 시작됩니다 (송희구 작가 풀버전)",
+      "title": "한국 아파트 싹다 물갈이 된다, 집값 내년부터 무서울 겁니다 (송희구 작가 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=3-kcEbE2hps",
       "thumbnail_url": "https://i4.ytimg.com/vi/3-kcEbE2hps/hqdefault.jpg",
       "published_at": "2026-08-01T10:30:26+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "real_estate"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "real_estate",
           "stance": "neutral"
         }
       ],
@@ -74,22 +75,17 @@
     },
     {
       "video_id": "uKdlsHHQa1Q",
-      "title": "\"언론은 쉬쉬하고 있다\" 삼성전자 폭등한 진짜 이유 곧 무시무시한 일 벌어진다 | 이형수 대표 2부",
+      "title": "“문 닫을 판” 삼성 파운드리 초대형 수주 성공 무너지는 TSMC 초비상 걸렸다  | 이형수 대표 2부",
       "source_url": "https://www.youtube.com/watch?v=uKdlsHHQa1Q",
       "thumbnail_url": "https://i2.ytimg.com/vi/uKdlsHHQa1Q/hqdefault.jpg",
       "published_at": "2026-08-01T10:00:03+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T09:08:49.958287+00:00",
+  "generated_at": "2026-08-01T11:19:54.719248+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,68 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "3-kcEbE2hps",
+      "title": "집값 '여기까지' 오르고 나면, 진짜 폭락장이 시작됩니다 (송희구 작가 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=3-kcEbE2hps",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3-kcEbE2hps/hqdefault.jpg",
+      "published_at": "2026-08-01T10:30:26+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "uKdlsHHQa1Q",
+      "title": "\"언론은 쉬쉬하고 있다\" 삼성전자 폭등한 진짜 이유 곧 무시무시한 일 벌어진다 | 이형수 대표 2부",
+      "source_url": "https://www.youtube.com/watch?v=uKdlsHHQa1Q",
+      "thumbnail_url": "https://i2.ytimg.com/vi/uKdlsHHQa1Q/hqdefault.jpg",
+      "published_at": "2026-08-01T10:00:03+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "cfnZGlJ73zc",
+      "title": "이정도면 슬슬 살만할까?",
+      "source_url": "https://www.youtube.com/watch?v=cfnZGlJ73zc",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cfnZGlJ73zc/hqdefault.jpg",
+      "published_at": "2026-08-01T09:07:42+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "DM2i3yo_SbU",
       "title": "코스피 7500~8000 봅니다, 폭락장에서 내 계좌 지키는 방법 (윤지호 경제평론가)",
@@ -193,17 +255,17 @@
     },
     {
       "video_id": "mjPWVfsc-nk",
-      "title": "원전이냐 재생에너지냐, 메가프로젝트의 진짜 해답은...?ㅣ에코노믹스 EP.3",
+      "title": "원전이냐 재생에너지냐, 메가프로젝트의 현실과 해답ㅣ에코노믹스 EP.3",
       "source_url": "https://www.youtube.com/watch?v=mjPWVfsc-nk",
       "thumbnail_url": "https://i2.ytimg.com/vi/mjPWVfsc-nk/hqdefault.jpg",
       "published_at": "2026-08-01T04:00:07+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -996,25 +1058,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "rh1yWKvTUMQ",
-      "title": "미국 월가에 싹다 퍼졌다 삼성전자 하이닉스 충격 소문 | 이형수 대표 1부",
-      "source_url": "https://www.youtube.com/watch?v=rh1yWKvTUMQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rh1yWKvTUMQ/hqdefault.jpg",
-      "published_at": "2026-07-30T07:30:13+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "Gyte0GMi4MY",
       "title": "\"IMF 때보다 더 위험해요\" 1986년과 소름 돋게 똑같다. 한국 경제 진짜 무서운 게 오고 있어요. 현금 싹다 이렇게 하세요 #김경필 #돈쭐남",
       "source_url": "https://www.youtube.com/watch?v=Gyte0GMi4MY",
@@ -1151,30 +1194,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "LOOVRDcXzDE",
-      "title": "(긴급 증시 진단) 삼성전자 -45%, SK하이닉스 -53% 무섭게 폭락, 지금 반드시 '이렇게' 하세요 (슈퍼개미 이정윤 세무사)",
-      "source_url": "https://www.youtube.com/watch?v=LOOVRDcXzDE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LOOVRDcXzDE/hqdefault.jpg",
-      "published_at": "2026-07-29T10:07:31+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "b2PaYphn-QU",
@@ -1436,25 +1455,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Kkwfabj2Dq0",
-      "title": "주식회사가 돈 벌면 그 돈 누구꺼임?",
-      "source_url": "https://www.youtube.com/shorts/Kkwfabj2Dq0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Kkwfabj2Dq0/hqdefault.jpg",
-      "published_at": "2026-07-21T04:04:07+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

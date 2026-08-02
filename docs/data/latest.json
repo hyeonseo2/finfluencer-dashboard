@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T22:03:33.449264+00:00",
+  "generated_at": "2026-08-02T00:00:02.684537+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "OutXhDAMIaI",
+      "title": "반도체 급락과 반등...어떻게 해석해요? | 윤지호 경제평론가 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=OutXhDAMIaI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/OutXhDAMIaI/hqdefault.jpg",
+      "published_at": "2026-08-01T23:00:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "3-kcEbE2hps",
       "title": "한국 아파트 싹다 물갈이 된다, 집값 내년부터 무서울 겁니다 (송희구 작가 풀버전)",
@@ -790,25 +809,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "s_L-v-px-QU",
-      "title": "[26.07.31 오전 방송 전체보기] MS·반도체주 폭등 속 뉴욕증시 상승 마감...애플·아마존 실적발표",
-      "source_url": "https://www.youtube.com/watch?v=s_L-v-px-QU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/s_L-v-px-QU/hqdefault.jpg",
-      "published_at": "2026-07-31T03:16:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T21:00:16.528732+00:00",
+  "generated_at": "2026-08-02T22:59:03.873514+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,6 +45,7 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
     "etf",
     "interest_rate",
@@ -54,8 +55,32 @@
   ],
   "videos": [
     {
+      "video_id": "FiC7qjeaQdE",
+      "title": "아마존, 컨퍼런스콜 환호에 15%↑...30년물 국채금리 또 고점 돌파 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=FiC7qjeaQdE",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FiC7qjeaQdE/hqdefault.jpg",
+      "published_at": "2026-08-02T22:03:21+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "XmK7mpuhfUo",
-      "title": "\"AI투자 우려 덜었다\" 뉴욕증시 상승 마감...아마존 +15%·애플 -7%_26.08.03 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "title": "역대급 폭락→ 폭등 이어간 국내증시, 8월 첫 거래일도 활짝 웃을까? | 정프로, 류종은, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=XmK7mpuhfUo",
       "thumbnail_url": "https://i1.ytimg.com/vi/XmK7mpuhfUo/hqdefault.jpg",
       "published_at": "2026-08-02T20:30:56+00:00",
@@ -1023,25 +1048,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "0c-e6MQPYqU",
-      "title": "역대급 폭등, '반전'의 시작인가? 하반기 증시 운명 결정할 '매크로 안정'의 조건ㅣ홍선애, 민재기 KB증권 PRIME CLUB 팀장 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=0c-e6MQPYqU",
-      "thumbnail_url": "https://i1.ytimg.com/vi/0c-e6MQPYqU/hqdefault.jpg",
-      "published_at": "2026-07-31T08:56:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "FCnfugCV438",

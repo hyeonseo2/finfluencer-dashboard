@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T15:05:46.830497+00:00",
+  "generated_at": "2026-08-02T17:04:48.314943+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "hN_fGhqQH1M",
+      "title": "폭락의 주범이 꺾이고 반등의 시작일까? 이 지표를 봐야 합니다",
+      "source_url": "https://www.youtube.com/watch?v=hN_fGhqQH1M",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hN_fGhqQH1M/hqdefault.jpg",
+      "published_at": "2026-08-02T15:46:47+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "cvBy2PoV9gk",
       "title": "폭락장 끝에 찾아온 진짜 바닥, 지금은 정말 주식 사야 한다 (김효진 박사 풀버전)",
@@ -1336,25 +1355,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "62g0RWHgKYE",
-      "title": "중국이 어떤 발버둥을 쳐도 미국을 넘어설 수 없는 결정적인 이유",
-      "source_url": "https://www.youtube.com/watch?v=62g0RWHgKYE",
-      "thumbnail_url": "https://i3.ytimg.com/vi/62g0RWHgKYE/hqdefault.jpg",
-      "published_at": "2026-07-26T00:00:34+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

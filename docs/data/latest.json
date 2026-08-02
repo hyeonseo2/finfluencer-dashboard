@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T13:37:29.961152+00:00",
+  "generated_at": "2026-08-02T15:05:46.830497+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -78,30 +78,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "zNm3UXEjf58",
-      "title": "[슈카월드] 주식시장, 놀아난 것은 우리인가 / 뉴욕시 천원빵의 도전 / 일본 대지진과 제2의 수도 정하기 /우크라이나는 왜 폴란드와 싸울까? / 전쟁의 새로운 타겟",
-      "source_url": "https://www.youtube.com/watch?v=zNm3UXEjf58",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zNm3UXEjf58/hqdefault.jpg",
-      "published_at": "2026-08-02T11:21:29+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "1kbX6sA4OqQ",
       "title": "4000만원으로 '이 주식' 다 사세요, 8월부터 정말 무섭게 오를 겁니다 (이형수 대표)",
       "source_url": "https://www.youtube.com/watch?v=1kbX6sA4OqQ",
@@ -122,17 +98,17 @@
     },
     {
       "video_id": "2YaS4BdsKCg",
-      "title": "\"난리 난 일본\" 키옥시아 꿀꺽한 하이닉스 초강대국 된 한국에 일본 발칵 | 이형수 대표 3부",
+      "title": "삼성전자 난리난 진짜 이유 \"내일 상상 못할 가격 나오나\" | 이형수 대표 3부",
       "source_url": "https://www.youtube.com/watch?v=2YaS4BdsKCg",
       "thumbnail_url": "https://i3.ytimg.com/vi/2YaS4BdsKCg/hqdefault.jpg",
       "published_at": "2026-08-02T10:00:32+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -1455,6 +1431,25 @@
       "topic_stances": [
         {
           "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ZV5cqHlZzZo",
+      "title": "여왕은 안돼! 1촌 딸 대신 36촌 아들을 선택한 일본",
+      "source_url": "https://www.youtube.com/watch?v=ZV5cqHlZzZo",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZV5cqHlZzZo/hqdefault.jpg",
+      "published_at": "2026-07-21T10:06:25+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

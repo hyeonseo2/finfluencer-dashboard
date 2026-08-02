@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T19:16:34.594161+00:00",
+  "generated_at": "2026-08-02T21:00:16.528732+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "XmK7mpuhfUo",
+      "title": "\"AI투자 우려 덜었다\" 뉴욕증시 상승 마감...아마존 +15%·애플 -7%_26.08.03 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=XmK7mpuhfUo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/XmK7mpuhfUo/hqdefault.jpg",
+      "published_at": "2026-08-02T20:30:56+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "hN_fGhqQH1M",
       "title": "폭락의 주범이 꺾이고 반등의 시작일까? 이 지표를 봐야 합니다",
@@ -1037,25 +1061,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6Jnmmk1hsOk",
-      "title": "[7월 31일 마감시황] 악성 물량, 드디어 청산? 역사적 폭등 그 이후가 더 중요하다! 다음 승부처는 '칠천피'ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=6Jnmmk1hsOk",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6Jnmmk1hsOk/hqdefault.jpg",
-      "published_at": "2026-07-31T08:15:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "yndO1C6oVVs",

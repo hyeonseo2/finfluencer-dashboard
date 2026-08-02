@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T11:19:22.241993+00:00",
+  "generated_at": "2026-08-02T13:37:29.961152+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,8 +54,56 @@
   ],
   "videos": [
     {
+      "video_id": "cvBy2PoV9gk",
+      "title": "폭락장 끝에 찾아온 진짜 바닥, 지금은 정말 주식 사야 한다 (김효진 박사 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=cvBy2PoV9gk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cvBy2PoV9gk/hqdefault.jpg",
+      "published_at": "2026-08-02T11:30:10+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zNm3UXEjf58",
+      "title": "[슈카월드] 주식시장, 놀아난 것은 우리인가 / 뉴욕시 천원빵의 도전 / 일본 대지진과 제2의 수도 정하기 /우크라이나는 왜 폴란드와 싸울까? / 전쟁의 새로운 타겟",
+      "source_url": "https://www.youtube.com/watch?v=zNm3UXEjf58",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zNm3UXEjf58/hqdefault.jpg",
+      "published_at": "2026-08-02T11:21:29+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "1kbX6sA4OqQ",
-      "title": "삼성전자, SK하이닉스 -40% 폭락한 이유, 저는 떨어질 때 주식 더 샀어요 (이형수 대표)",
+      "title": "4000만원으로 '이 주식' 다 사세요, 8월부터 정말 무섭게 오를 겁니다 (이형수 대표)",
       "source_url": "https://www.youtube.com/watch?v=1kbX6sA4OqQ",
       "thumbnail_url": "https://i2.ytimg.com/vi/1kbX6sA4OqQ/hqdefault.jpg",
       "published_at": "2026-08-02T10:30:22+00:00",
@@ -131,17 +179,17 @@
     },
     {
       "video_id": "PczsBn1-pDA",
-      "title": "\"지금 한국만 모르고 있어요\" 휴전선 코앞까지 내려온 북한 곧 한반도가 발칵 뒤집힌다 | 이영종 센터장 2부",
+      "title": "“끔찍한 후폭풍 터졌다” 북한 붕괴 이번엔 진짜다 아수라장 된 평양 상황 | 이영종 센터장 2부",
       "source_url": "https://www.youtube.com/watch?v=PczsBn1-pDA",
       "thumbnail_url": "https://i1.ytimg.com/vi/PczsBn1-pDA/hqdefault.jpg",
       "published_at": "2026-08-02T08:00:08+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1110,25 +1158,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "IW5_dbs8gdI",
-      "title": "삼성전자, SK하이닉스 진짜 매도 시그널, '이때는' 가진 주식 다 파세요 (김효진 박사)",
-      "source_url": "https://www.youtube.com/watch?v=IW5_dbs8gdI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IW5_dbs8gdI/hqdefault.jpg",
-      "published_at": "2026-07-30T11:30:08+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "CdYADhs8X8M",
       "title": "중국 국뽕 대작 영화가 개봉 5일전 연기된 이유",
       "source_url": "https://www.youtube.com/watch?v=CdYADhs8X8M",
@@ -1426,25 +1455,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ZV5cqHlZzZo",
-      "title": "여왕은 안돼! 1촌 딸 대신 36촌 아들을 선택한 일본",
-      "source_url": "https://www.youtube.com/watch?v=ZV5cqHlZzZo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZV5cqHlZzZo/hqdefault.jpg",
-      "published_at": "2026-07-21T10:06:25+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

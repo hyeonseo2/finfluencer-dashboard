@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T09:11:45.021679+00:00",
+  "generated_at": "2026-08-02T11:19:22.241993+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "1kbX6sA4OqQ",
+      "title": "삼성전자, SK하이닉스 -40% 폭락한 이유, 저는 떨어질 때 주식 더 샀어요 (이형수 대표)",
+      "source_url": "https://www.youtube.com/watch?v=1kbX6sA4OqQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/1kbX6sA4OqQ/hqdefault.jpg",
+      "published_at": "2026-08-02T10:30:22+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "2YaS4BdsKCg",
+      "title": "\"난리 난 일본\" 키옥시아 꿀꺽한 하이닉스 초강대국 된 한국에 일본 발칵 | 이형수 대표 3부",
+      "source_url": "https://www.youtube.com/watch?v=2YaS4BdsKCg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2YaS4BdsKCg/hqdefault.jpg",
+      "published_at": "2026-08-02T10:00:32+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "h45wEBvK7jA",
+      "title": "코스피 7500~8000까지 봅니다, 폭락장에서 내 계좌 지키는 방법 (윤지호 경제평론가 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=h45wEBvK7jA",
+      "thumbnail_url": "https://i1.ytimg.com/vi/h45wEBvK7jA/hqdefault.jpg",
+      "published_at": "2026-08-02T09:45:32+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "XhjThFGrVDU",
       "title": "삼성전자 손절하지 마세요, 폭락장 뒤 미친 폭등 몰려온다 (이형수 대표)",
@@ -939,25 +996,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "DaJbR26tDp8",
-      "title": "사상 최악의 대참사 터졌다. 쫄딱 망해버린 중국 반도체｜권순용 대표 1부",
-      "source_url": "https://www.youtube.com/watch?v=DaJbR26tDp8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DaJbR26tDp8/hqdefault.jpg",
-      "published_at": "2026-07-31T08:30:06+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "6Jnmmk1hsOk",
       "title": "[7월 31일 마감시황] 악성 물량, 드디어 청산? 역사적 폭등 그 이후가 더 중요하다! 다음 승부처는 '칠천피'ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
       "source_url": "https://www.youtube.com/watch?v=6Jnmmk1hsOk",
@@ -1091,30 +1129,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "DHXPXl4Z3m4",
-      "title": "삼성전자, SK하이닉스 보유자들은 지금 꼭 '이렇게' 하세요 (윤지호 경제평론가)",
-      "source_url": "https://www.youtube.com/watch?v=DHXPXl4Z3m4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DHXPXl4Z3m4/hqdefault.jpg",
-      "published_at": "2026-07-30T10:15:08+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "CdYADhs8X8M",
       "title": "중국 국뽕 대작 영화가 개봉 5일전 연기된 이유",
       "source_url": "https://www.youtube.com/watch?v=CdYADhs8X8M",
@@ -1132,30 +1146,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-zm5angGyFg",
-      "title": "삼성전자, SK하이닉스 긴급 진단, 지금 팔면 결국 후회합니다 (김효진 박사)",
-      "source_url": "https://www.youtube.com/watch?v=-zm5angGyFg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-zm5angGyFg/hqdefault.jpg",
-      "published_at": "2026-07-30T08:15:13+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Sdjb2aXC98s",

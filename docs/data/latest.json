@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T19:43:02.502157+00:00",
+  "generated_at": "2026-08-03T21:08:04.858812+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "TiQvRYsugiY",
+      "title": "WTI유가 5% 급락 속 뉴욕증시 강세 마감...다우 '사상 최고치' 경신_26.08.04 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=TiQvRYsugiY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/TiQvRYsugiY/hqdefault.jpg",
+      "published_at": "2026-08-03T20:31:55+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Mmre5PhOKj8",
       "title": "과거 코스피를 15% 떨어뜨린 엔화의 움직임…한국 증시 흔들 변수 또 남았다?ㅣ명민준, 박가영, 송재경 [주린이 구조대]",
@@ -549,25 +573,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IM7sj9z1XA8",
-      "title": "실적이 소용 없을 정도의 '수급 꼬임' 언제까지? | 이건규 르네상스자산운용 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=IM7sj9z1XA8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IM7sj9z1XA8/hqdefault.jpg",
-      "published_at": "2026-08-03T01:19:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

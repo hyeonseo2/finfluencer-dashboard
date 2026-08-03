@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-03T21:08:04.858812+00:00",
+  "generated_at": "2026-08-03T23:06:07.554366+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,8 +56,51 @@
   ],
   "videos": [
     {
+      "video_id": "rKt6k8GejzU",
+      "title": "미국증시는 강세장 진행 중...반도체 다음은 비메모리? | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=rKt6k8GejzU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rKt6k8GejzU/hqdefault.jpg",
+      "published_at": "2026-08-03T22:54:17+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jUhsBTSZLOc",
+      "title": "팔란티어, 시간외 호실적에 급등...다우 '사상 최고치' 경신 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=jUhsBTSZLOc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jUhsBTSZLOc/hqdefault.jpg",
+      "published_at": "2026-08-03T22:00:08+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "TiQvRYsugiY",
-      "title": "WTI유가 5% 급락 속 뉴욕증시 강세 마감...다우 '사상 최고치' 경신_26.08.04 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "title": "대반등 후 급락한 코스피에도 모건스탠리 \"9천피 간다\"...국내증시 악몽은 끝났나? | 정프로, 류종은, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=TiQvRYsugiY",
       "thumbnail_url": "https://i1.ytimg.com/vi/TiQvRYsugiY/hqdefault.jpg",
       "published_at": "2026-08-03T20:31:55+00:00",
@@ -535,44 +578,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "XHoSgDrdkAA",
-      "title": "통과 앞둔 클래리티 법, '윤리 수정안'에 새 변수 등장? | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=XHoSgDrdkAA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/XHoSgDrdkAA/hqdefault.jpg",
-      "published_at": "2026-08-03T02:50:10+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "LOU26aSgarY",
-      "title": "레버리지 악순환이 만들어낸 시장, 반등은 어디까지? | 이혁진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=LOU26aSgarY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LOU26aSgarY/hqdefault.jpg",
-      "published_at": "2026-08-03T02:21:08+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T22:59:03.873514+00:00",
+  "generated_at": "2026-08-03T00:06:41.506306+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,12 +48,51 @@
     "bonds",
     "commodities",
     "etf",
+    "fx",
     "interest_rate",
     "macro",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "SNkD-olCMXY",
+      "title": "미국 레버리지 펀드의 몰락…반도체 랠리 다시 시작되나 | 반도체만 있는게 아니다 선박·뷰티까지…수출, 1조 달러 가시화 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=SNkD-olCMXY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SNkD-olCMXY/hqdefault.jpg",
+      "published_at": "2026-08-02T23:06:42+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "HNGStDCiUGY",
+      "title": "반도체 급락세 진정되었나? 하반기 반도체투자는 빅테크만 봐서는 안됩니다 | 김장열 유니스토리자산운용 리서치센터 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=HNGStDCiUGY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/HNGStDCiUGY/hqdefault.jpg",
+      "published_at": "2026-08-02T22:51:21+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "FiC7qjeaQdE",
       "title": "아마존, 컨퍼런스콜 환호에 15%↑...30년물 국채금리 또 고점 돌파 [월가 뉴스레터]",
@@ -80,22 +119,17 @@
     },
     {
       "video_id": "XmK7mpuhfUo",
-      "title": "역대급 폭락→ 폭등 이어간 국내증시, 8월 첫 거래일도 활짝 웃을까? | 정프로, 류종은, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[8월 3일 개장시황] 빈센트, 정프로, 하창완, 손수연, 편다송, 이건규 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=XmK7mpuhfUo",
       "thumbnail_url": "https://i1.ytimg.com/vi/XmK7mpuhfUo/hqdefault.jpg",
       "published_at": "2026-08-02T20:30:56+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -845,25 +879,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "P9-KAJy2bN8",
-      "title": "반도체 급락은 끝났다? 전고점까지 열어둬야 하는 이유ㅣ명민준, 박가영, 정태근 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=P9-KAJy2bN8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/P9-KAJy2bN8/hqdefault.jpg",
-      "published_at": "2026-07-31T13:00:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "cRdEJc3WL-k",
       "title": "폭락장 끝에 찾아온 진짜 바닥, 지금부턴 주식 정말 사야 한다 (윤지호 경제평론가)",
       "source_url": "https://www.youtube.com/watch?v=cRdEJc3WL-k",
@@ -881,25 +896,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "uBSJN54iAn0",
-      "title": "[26.07.31 오후 방송 전체보기] AI 거품론 우려 불식, 반도체 투심 회복에 급반등! 역대급 롤러코스피 환호 vs 불안?",
-      "source_url": "https://www.youtube.com/watch?v=uBSJN54iAn0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/uBSJN54iAn0/hqdefault.jpg",
-      "published_at": "2026-07-31T11:02:02+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "lpAuLM9Qr-I",

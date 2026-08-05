@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T21:15:42.261426+00:00",
+  "generated_at": "2026-08-05T23:04:12.874928+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,21 +56,54 @@
   ],
   "videos": [
     {
+      "video_id": "QM3XOGfLm88",
+      "title": "샌디스크 가이던스 '빨간불', 낸드가격이 왜? 삼전닉스 주가 상승은 완만할 것 | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=QM3XOGfLm88",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QM3XOGfLm88/hqdefault.jpg",
+      "published_at": "2026-08-05T22:54:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jZjhGq_Rq74",
+      "title": "엔비디아, 스페이스X 어닝콜에 상승…샌디스크, 시간외 주가 하락 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=jZjhGq_Rq74",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jZjhGq_Rq74/hqdefault.jpg",
+      "published_at": "2026-08-05T22:00:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "KQZHUkkfWs0",
-      "title": "엔비디아 '강세' 불구 뉴욕증시 혼조 마감...샌디스크 실적발표_26.08.06 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "V자 반등으로 돌아온 삼전닉스, 기술주 약세에 오늘장 상승 vs 하락...흐름은 어디로? | 정프로, 류종은, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=KQZHUkkfWs0",
       "thumbnail_url": "https://i4.ytimg.com/vi/KQZHUkkfWs0/hqdefault.jpg",
       "published_at": "2026-08-05T20:26:18+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -580,40 +613,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "RBl5nY7gsWg",
-      "title": "증시는 반등했지만 비트코인은 침묵… 클래리티 법안 변수됐다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=RBl5nY7gsWg",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RBl5nY7gsWg/hqdefault.jpg",
-      "published_at": "2026-08-05T02:51:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "crypto",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "g7Zg7ltzTNQ",
       "title": "앞으로 '이것' 무섭게 오를겁니다 #인생업",
       "source_url": "https://www.youtube.com/shorts/g7Zg7ltzTNQ",
@@ -631,25 +630,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QGIBeRNPFRI",
-      "title": "8월, 변동성 잦아들까…'AI랠리' 재개는 어떤 조건이 필요한가? | 장재영, 김준수, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=QGIBeRNPFRI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QGIBeRNPFRI/hqdefault.jpg",
-      "published_at": "2026-08-05T02:21:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "QCYD1G9fgAQ",

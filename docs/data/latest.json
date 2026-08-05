@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-05T12:57:13.791845+00:00",
+  "generated_at": "2026-08-05T15:21:14.953197+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "9-sIoGuKpYw",
+      "title": "삼전닉스가 아껴둔 '주주환원 카드'…주가를 다시 움직일 결정적 타이밍ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=9-sIoGuKpYw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9-sIoGuKpYw/hqdefault.jpg",
+      "published_at": "2026-08-05T13:30:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "e4VkMTI82PQ",
       "title": "\"또 속아?\" vs \"이번엔 진짜?\" 코스피 9,000 재도전의 조건ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
@@ -114,7 +133,7 @@
     },
     {
       "video_id": "CXlNE5Mw-ns",
-      "title": "40년 만에 온 부동산 위험 징조, 내년 집값 초유의 폭등 시작된다 (최윤성 대표, 망고쌤)",
+      "title": "한국 아파트 싹다 물갈이 된다, 집값 내년부터 무서울 겁니다 (망고쌤 최윤성 대표)",
       "source_url": "https://www.youtube.com/watch?v=CXlNE5Mw-ns",
       "thumbnail_url": "https://i4.ytimg.com/vi/CXlNE5Mw-ns/hqdefault.jpg",
       "published_at": "2026-08-05T11:30:02+00:00",
@@ -390,7 +409,7 @@
     },
     {
       "video_id": "CDRDDsWzQIg",
-      "title": "이재명 정부 부동산 세제 개편 총정리, 앞으로 폭탄은 '여기에' 떨어진다 (최윤성 대표, 망고쌤)",
+      "title": "이재명 정부 부동산 세제 개편 총정리, 앞으로 폭탄은 '여기에' 떨어진다 (망고쌤 최윤성 대표)",
       "source_url": "https://www.youtube.com/watch?v=CDRDDsWzQIg",
       "thumbnail_url": "https://i4.ytimg.com/vi/CDRDDsWzQIg/hqdefault.jpg",
       "published_at": "2026-08-05T08:00:02+00:00",
@@ -640,25 +659,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "WPkNiFFJ4X4",
-      "title": "반도체만 오르는 장 끝? 8월은 '확산장'이 시작됩니다 | 권택중 하나증권 더센터필드W 부지점장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=WPkNiFFJ4X4",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WPkNiFFJ4X4/hqdefault.jpg",
-      "published_at": "2026-08-05T01:28:35+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

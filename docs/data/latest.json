@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T22:16:32.391538+00:00",
+  "generated_at": "2026-08-05T00:08:12.155577+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,23 +56,75 @@
   ],
   "videos": [
     {
-      "video_id": "M4IU7F-SYoU",
-      "title": "반도체주 폭등 속 다우·S&P500 사상 최고…스페이스X, 2분기 매출 11조 원_26.08.05 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=M4IU7F-SYoU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/M4IU7F-SYoU/hqdefault.jpg",
-      "published_at": "2026-08-04T20:24:22+00:00",
+      "video_id": "6aquZ3XENxk",
+      "title": "테슬라 로보택시 '눈', 삼성·LG가 독점 공급…AI 올라탄 한국 부품사 역대급 호황 | 산업용 전기요금 하반기 4개 권역 나눠 차등 인하 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=6aquZ3XENxk",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6aquZ3XENxk/hqdefault.jpg",
+      "published_at": "2026-08-04T23:31:43+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Esdy2Wum9Ts",
+      "title": "한국 반도체 기업의 주가 향방은 '이것'에 달렸다. 무엇을 증명해야 할까? | 신영증권 김효진 박사 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=Esdy2Wum9Ts",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Esdy2Wum9Ts/hqdefault.jpg",
+      "published_at": "2026-08-04T22:41:56+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "IjuduomAPOg",
+      "title": "AMD, 아쉬운 가이던스에 시간외 급락...S&P500, 기술주 호조에 사상 최고치 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=IjuduomAPOg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IjuduomAPOg/hqdefault.jpg",
+      "published_at": "2026-08-04T22:08:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "M4IU7F-SYoU",
+      "title": "[8월 5일 개장시황] 빈센트, 정프로, 하창완, 권택중, 편다송, 김경환 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=M4IU7F-SYoU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/M4IU7F-SYoU/hqdefault.jpg",
+      "published_at": "2026-08-04T20:24:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -621,73 +673,6 @@
         },
         {
           "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "TiQvRYsugiY",
-      "title": "[26.08.04 오전 방송 전체보기] WTI유가 5% 급락 속 뉴욕증시 강세 마감...다우 '사상 최고치' 경신",
-      "source_url": "https://www.youtube.com/watch?v=TiQvRYsugiY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/TiQvRYsugiY/hqdefault.jpg",
-      "published_at": "2026-08-04T03:18:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ub340z5199k",
-      "title": "클래리티 법안 통과 확률 50% → 27% 급락…호재 물 건너가나? | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=ub340z5199k",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ub340z5199k/hqdefault.jpg",
-      "published_at": "2026-08-04T03:03:23+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "b6R9NntPR6g",
-      "title": "불공정한 주식시장…개인투자자들은 어떤 투자를 해야할까? | 정우창, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=b6R9NntPR6g",
-      "thumbnail_url": "https://i3.ytimg.com/vi/b6R9NntPR6g/hqdefault.jpg",
-      "published_at": "2026-08-04T02:14:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

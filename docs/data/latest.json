@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T10:56:19.079877+00:00",
+  "generated_at": "2026-08-07T11:50:24.519174+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,63 @@
   ],
   "videos": [
     {
+      "video_id": "cJUCY4qqt_0",
+      "title": "5000만원으로 '이 주식' 다 사세요, 8월부터 정말 무섭게 오를 겁니다 (김장열 센터장)",
+      "source_url": "https://www.youtube.com/watch?v=cJUCY4qqt_0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cJUCY4qqt_0/hqdefault.jpg",
+      "published_at": "2026-08-07T11:30:25+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8XN-_N2gDck",
+      "title": "반도체만으로는 부족하다? 하반기 시장에서 주목해야 할 변화 | 명민준, 박가영, 이재규 SK증권 PB 차장 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=8XN-_N2gDck",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8XN-_N2gDck/hqdefault.jpg",
+      "published_at": "2026-08-07T11:14:35+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "E6VuOChaO_g",
+      "title": "[26.08.07 오후 방송 전체보기] 반도체 다시 흔들, 코스피 박스권 돌파 신호는",
+      "source_url": "https://www.youtube.com/watch?v=E6VuOChaO_g",
+      "thumbnail_url": "https://i2.ytimg.com/vi/E6VuOChaO_g/hqdefault.jpg",
+      "published_at": "2026-08-07T11:05:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "kYn6tfRQ4rE",
       "title": "\"연 10% 나온다\" 퇴직금 1억 여기 넣으세요. 노후에 월배당 평생 나온다 | 문현철 작가 2부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=kYn6tfRQ4rE",
@@ -77,7 +134,7 @@
     },
     {
       "video_id": "f3eMUPGzNRk",
-      "title": "\"안팔면 그만!\" K9 고집부리던 스페인 한국은 콧방귀도 안 뀌는 이유 | 김민석 특파원 풀버전 2",
+      "title": "\"개무시할 땐 언제고..\" 초강대국 된 한국에 발칵 대만 지금 미칠 지경이다 | 김민석 특파원 풀버전 2",
       "source_url": "https://www.youtube.com/watch?v=f3eMUPGzNRk",
       "thumbnail_url": "https://i3.ytimg.com/vi/f3eMUPGzNRk/hqdefault.jpg",
       "published_at": "2026-08-07T10:30:04+00:00",
@@ -115,7 +172,7 @@
     },
     {
       "video_id": "G0YdReAq4Mc",
-      "title": "월가에 싹다 퍼졌다 삼성전자 하이닉스 충격 소문 | 이형수 대표 풀버전",
+      "title": "\"개미들만 착각하고 있다\" 삼성전자 외국인이 싹다 판 이유 곧 상상못할 일 터진다 | 이형수 대표 풀버전",
       "source_url": "https://www.youtube.com/watch?v=G0YdReAq4Mc",
       "thumbnail_url": "https://i4.ytimg.com/vi/G0YdReAq4Mc/hqdefault.jpg",
       "published_at": "2026-08-07T09:30:36+00:00",
@@ -333,25 +390,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "E6VuOChaO_g",
-      "title": "[26.08.07 오후 방송 전체보기] 반도체 다시 흔들, 코스피 박스권 돌파 신호는",
-      "source_url": "https://www.youtube.com/watch?v=E6VuOChaO_g",
-      "thumbnail_url": "https://i2.ytimg.com/vi/E6VuOChaO_g/hqdefault.jpg",
-      "published_at": "2026-08-07T05:41:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "T7iexfptdto",
       "title": "'현대차' 강한 반등은 여기 뚫어야 가능하다 | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
       "source_url": "https://www.youtube.com/shorts/T7iexfptdto",
@@ -520,25 +558,6 @@
       "source_url": "https://www.youtube.com/watch?v=NahnlTzfD_4",
       "thumbnail_url": "https://i3.ytimg.com/vi/NahnlTzfD_4/hqdefault.jpg",
       "published_at": "2026-08-07T02:02:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MeCs8dJ28Z8",
-      "title": "모든 데이터센터에 들어가는 '이것' 1위 업체 | 조희진 하나증권 압구정금융센터 PB [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=MeCs8dJ28Z8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MeCs8dJ28Z8/hqdefault.jpg",
-      "published_at": "2026-08-07T01:48:53+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"
@@ -1380,25 +1399,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1kbX6sA4OqQ",
-      "title": "4000만원으로 '이 주식' 다 사세요, 8월부터 정말 무섭게 오를 겁니다 (이형수 대표)",
-      "source_url": "https://www.youtube.com/watch?v=1kbX6sA4OqQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1kbX6sA4OqQ/hqdefault.jpg",
-      "published_at": "2026-08-02T10:30:22+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

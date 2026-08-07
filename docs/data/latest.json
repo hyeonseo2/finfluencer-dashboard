@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T21:42:45.330091+00:00",
+  "generated_at": "2026-08-07T22:40:46.310254+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -47,9 +47,11 @@
   "topics": [
     "bonds",
     "commodities",
+    "crypto",
     "etf",
     "fx",
     "macro",
+    "policy",
     "real_estate",
     "stocks"
   ],
@@ -72,6 +74,44 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8XN-_N2gDck",
+      "title": "반도체만으로는 부족하다? 하반기 시장에서 주목해야 할 변화 | 명민준, 박가영, 이재규 SK증권 PB 차장 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=8XN-_N2gDck",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8XN-_N2gDck/hqdefault.jpg",
+      "published_at": "2026-08-07T11:14:35+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "E6VuOChaO_g",
+      "title": "[26.08.07 오후 방송 전체보기] 반도체 다시 흔들, 코스피 박스권 돌파 신호는",
+      "source_url": "https://www.youtube.com/watch?v=E6VuOChaO_g",
+      "thumbnail_url": "https://i2.ytimg.com/vi/E6VuOChaO_g/hqdefault.jpg",
+      "published_at": "2026-08-07T11:05:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "kYn6tfRQ4rE",
@@ -110,6 +150,25 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "7mzfgZlhPG0",
+      "title": "하이닉스 팔고 다른 종목 진입하기도 애매하다면 다음주 코스닥 실적주간을 주목 | 명민준, 박가영, 황유현 신한투자증권 팀장 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=7mzfgZlhPG0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7mzfgZlhPG0/hqdefault.jpg",
+      "published_at": "2026-08-07T10:18:10+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "G0YdReAq4Mc",
@@ -155,6 +214,25 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
+      "video_id": "2S-rs-e-Q1g",
+      "title": "환율시장 긴장감 커진다…원화 향방 결정할 핵심 변수 | 홍선애, 변정규 다이와증권 코리아 FICC 본부장 [여의도 인사이트]",
+      "source_url": "https://www.youtube.com/watch?v=2S-rs-e-Q1g",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2S-rs-e-Q1g/hqdefault.jpg",
+      "published_at": "2026-08-07T09:21:35+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "5CWqZUWziBM",
       "title": "삼성전자, SK하이닉스 물린 분들은 지금 꼭 '이렇게' 하세요 (김장열 센터장)",
       "source_url": "https://www.youtube.com/watch?v=5CWqZUWziBM",
@@ -177,6 +255,25 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "2aivofKF-eE",
+      "title": "반도체 다시 흔들, 코스피 박스권 돌파 신호는 | 홍선애, 박승영 한화투자증권 PLUS자산전략팀장 [여의도 인사이트]",
+      "source_url": "https://www.youtube.com/watch?v=2aivofKF-eE",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2aivofKF-eE/hqdefault.jpg",
+      "published_at": "2026-08-07T08:39:44+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Gdqf5ufv91E",
@@ -215,6 +312,25 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "liU3Jn0wAQM",
+      "title": "[8월 7일 마감시황] 약해진 증시 체력…불안 심리가 만든 과도한 비관론ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=liU3Jn0wAQM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/liU3Jn0wAQM/hqdefault.jpg",
+      "published_at": "2026-08-07T08:05:51+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "uxIFtBM10SY",
@@ -274,6 +390,30 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
+      "video_id": "T7iexfptdto",
+      "title": "'현대차' 강한 반등은 여기 뚫어야 가능하다 | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
+      "source_url": "https://www.youtube.com/shorts/T7iexfptdto",
+      "thumbnail_url": "https://i1.ytimg.com/vi/T7iexfptdto/hqdefault.jpg",
+      "published_at": "2026-08-07T05:11:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "VhumCcP2qhc",
       "title": "\"주가 눌러도 되는 법을 만들었다\" 주가누르기방지법이 누더기가 된 진짜 이유",
       "source_url": "https://www.youtube.com/watch?v=VhumCcP2qhc",
@@ -291,6 +431,49 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "D-BHseZ_JT8",
+      "title": "증권사 앱 대신 코인 지갑? 기관들이 먼저 움직인다 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=D-BHseZ_JT8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/D-BHseZ_JT8/hqdefault.jpg",
+      "published_at": "2026-08-07T03:18:17+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "z-KxJxbiGDk",
+      "title": "[26.08.07 오전 방송 전체보기] 브렌트유 4% 상승 속 뉴욕증시 하락 마감...스페이스X 주가 '급등'",
+      "source_url": "https://www.youtube.com/watch?v=z-KxJxbiGDk",
+      "thumbnail_url": "https://i3.ytimg.com/vi/z-KxJxbiGDk/hqdefault.jpg",
+      "published_at": "2026-08-07T03:14:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "XAkj79G9POw",
@@ -320,6 +503,73 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "S7M085SfVX0",
+      "title": "결국 9월로 밀린 클래리티 법안…코인 시장 변수는? | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=S7M085SfVX0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/S7M085SfVX0/hqdefault.jpg",
+      "published_at": "2026-08-07T02:56:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto",
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        },
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "waiCt9JiUJM",
+      "title": "8월 증시 전략, 변동성보다 중요한 건? | 노영래, 여도은, 허재무 [아침N투자]",
+      "source_url": "https://www.youtube.com/watch?v=waiCt9JiUJM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/waiCt9JiUJM/hqdefault.jpg",
+      "published_at": "2026-08-07T02:23:24+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NahnlTzfD_4",
+      "title": "\"오히려 기회를 놓치는 수가 있다\" 이렇게 움직이세요 | 염승환 LS증권 이사 [더블 업]",
+      "source_url": "https://www.youtube.com/watch?v=NahnlTzfD_4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NahnlTzfD_4/hqdefault.jpg",
+      "published_at": "2026-08-07T02:02:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ZrAOk1uXWI0",

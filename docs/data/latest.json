@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T22:40:46.310254+00:00",
+  "generated_at": "2026-08-07T23:36:51.742840+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "BJoZ12TLG9c",
+      "title": "“왜 자꾸 오르다 빠질까?”시장을 움직이는 진짜 변수 | 이선엽 AFW파트너스 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=BJoZ12TLG9c",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BJoZ12TLG9c/hqdefault.jpg",
+      "published_at": "2026-08-07T23:00:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "cJUCY4qqt_0",
       "title": "5000만원으로 '이 주식' 다 사세요, 8월부터 정말 무섭게 오를 겁니다 (김장열 센터장)",
@@ -546,25 +565,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "NahnlTzfD_4",
-      "title": "\"오히려 기회를 놓치는 수가 있다\" 이렇게 움직이세요 | 염승환 LS증권 이사 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=NahnlTzfD_4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NahnlTzfD_4/hqdefault.jpg",
-      "published_at": "2026-08-07T02:02:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

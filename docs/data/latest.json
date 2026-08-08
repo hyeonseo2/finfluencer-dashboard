@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T07:54:46.411201+00:00",
+  "generated_at": "2026-08-08T08:47:39.023352+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "n0V5V1Ltgnc",
+      "title": "우크라이나 압도적인 승리 러시아 진격은 커녕 몰살 중이다 | 김정호 교수 2부",
+      "source_url": "https://www.youtube.com/watch?v=n0V5V1Ltgnc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/n0V5V1Ltgnc/hqdefault.jpg",
+      "published_at": "2026-08-08T08:00:16+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "z-eWF1oycYg",
       "title": "지금 반등이 진짜인지 가짜인지, 코스피 차트로 확인하는 4가지 신호",
@@ -993,25 +1012,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "O3aCExOUdV0",
-      "title": "\"TSMC 가동 중단\" 일본에 공장 지었다가 초토화 발칵 뒤집힌 대만 상황 | 김민석 특파원 1부",
-      "source_url": "https://www.youtube.com/watch?v=O3aCExOUdV0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/O3aCExOUdV0/hqdefault.jpg",
-      "published_at": "2026-08-06T07:30:11+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Xj1k4N43GEc",

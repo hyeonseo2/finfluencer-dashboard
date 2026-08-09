@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T14:38:29.617529+00:00",
+  "generated_at": "2026-08-09T15:35:56.025219+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,7 +58,7 @@
   "videos": [
     {
       "video_id": "uOtCjMjSj2k",
-      "title": "부동산 시장에 벌어질 엄청난 비극, 결국 전월세 가격 대폭 오른다 (빠숑 김학렬 소장)",
+      "title": "부동산 시장에 벌어질 엄청난 비극, 한달 뒤 집값 '이렇게' 된다 (빠숑 김학렬 소장)",
       "source_url": "https://www.youtube.com/watch?v=uOtCjMjSj2k",
       "thumbnail_url": "https://i2.ytimg.com/vi/uOtCjMjSj2k/hqdefault.jpg",
       "published_at": "2026-08-09T12:15:32+00:00",
@@ -74,30 +74,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Pt-80m6Lp5o",
-      "title": "[슈카월드] 2026 세제개편안, 부동산 세금 어떻게 바뀌나? / 주주는 없는 나라/ 요즘 애들 키는 정말 컸는가/ 스페인 난민 대탈출 사건 / 위기의 맥도날드, 살아날 묘수는?",
-      "source_url": "https://www.youtube.com/watch?v=Pt-80m6Lp5o",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Pt-80m6Lp5o/hqdefault.jpg",
-      "published_at": "2026-08-09T11:26:48+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "commodities",
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "NjLdmJMOggQ",
@@ -1481,6 +1457,25 @@
       "source_url": "https://www.youtube.com/watch?v=StPp3ztCcG8",
       "thumbnail_url": "https://i4.ytimg.com/vi/StPp3ztCcG8/hqdefault.jpg",
       "published_at": "2026-07-29T10:12:42+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "7EuhhqsuuRg",
+      "title": "하락장에서 깨진다고 자책하지 말자",
+      "source_url": "https://www.youtube.com/shorts/7EuhhqsuuRg",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7EuhhqsuuRg/hqdefault.jpg",
+      "published_at": "2026-07-29T07:10:40+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

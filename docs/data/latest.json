@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T20:37:21.442595+00:00",
+  "generated_at": "2026-08-09T21:36:35.181898+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ZEgot4sfsVA",
+      "title": "부진한 고용지표에 금리인상 전망 '뚝'...뉴욕증시 3대지수 '상승'_26.08.10 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=ZEgot4sfsVA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZEgot4sfsVA/hqdefault.jpg",
+      "published_at": "2026-08-09T20:25:15+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "uOtCjMjSj2k",
       "title": "부동산 시장에 벌어질 엄청난 비극, 한달 뒤 집값 '이렇게' 된다 (빠숑 김학렬 소장)",
@@ -940,25 +969,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "liU3Jn0wAQM",
-      "title": "[8월 7일 마감시황] 약해진 증시 체력…불안 심리가 만든 과도한 비관론ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=liU3Jn0wAQM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/liU3Jn0wAQM/hqdefault.jpg",
-      "published_at": "2026-08-07T08:05:51+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "opLZjvfAhcU",

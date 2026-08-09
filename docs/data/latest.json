@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T09:43:50.535163+00:00",
+  "generated_at": "2026-08-09T10:38:40.438506+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "NjLdmJMOggQ",
+      "title": "까불던 푸틴 패배 인정? 곧 러시아에 피바람 분다｜조한범 박사 풀버전1",
+      "source_url": "https://www.youtube.com/watch?v=NjLdmJMOggQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NjLdmJMOggQ/hqdefault.jpg",
+      "published_at": "2026-08-09T10:00:30+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "bawcnDl9yXY",
+      "title": "전 세계에서 가장 무서운 민족, 한국인이 독종인 진짜 이유 (서울대 박정재 교수)",
+      "source_url": "https://www.youtube.com/watch?v=bawcnDl9yXY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/bawcnDl9yXY/hqdefault.jpg",
+      "published_at": "2026-08-09T10:00:05+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "85TUM6rTXgo",
       "title": "한국 아파트 싹 다 물갈이 된다, 수도권 집값 '여기' 미친듯 오른다 (달천 정민우 대표)",
@@ -885,25 +923,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "cThqUxrXLrI",
-      "title": "\"안팔면 그만!\" 한국 기술 날먹하려다 폭망 스페인 땅치고 후회중인 이유 | 정창욱 교수 3부",
-      "source_url": "https://www.youtube.com/watch?v=cThqUxrXLrI",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cThqUxrXLrI/hqdefault.jpg",
-      "published_at": "2026-08-07T08:30:00+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "liU3Jn0wAQM",
       "title": "[8월 7일 마감시황] 약해진 증시 체력…불안 심리가 만든 과도한 비관론ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
       "source_url": "https://www.youtube.com/watch?v=liU3Jn0wAQM",
@@ -1317,25 +1336,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "kqFoFksW2jg",
-      "title": "한국 반도체 반사 이익 오래 못 간다, 삼성전자, SK하이닉스 충격적 미래 온다 (김정호 교수)",
-      "source_url": "https://www.youtube.com/watch?v=kqFoFksW2jg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/kqFoFksW2jg/hqdefault.jpg",
-      "published_at": "2026-08-04T11:00:04+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "CDcNeA-L52k",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T21:46:22.678888+00:00",
+  "generated_at": "2026-08-10T22:41:41.083805+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,23 +58,52 @@
   ],
   "videos": [
     {
+      "video_id": "okw-BDMWb1g",
+      "title": "CPI 발표 앞두고 금리 또 상승…엔비디아, 인텔 등 자금 조달 지속 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=okw-BDMWb1g",
+      "thumbnail_url": "https://i4.ytimg.com/vi/okw-BDMWb1g/hqdefault.jpg",
+      "published_at": "2026-08-10T22:03:21+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate",
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "MZIOLon4Iow",
-      "title": "미·이란 협상 교착에 WTI 5% 급등...뉴욕증시 하락 마감_26.08.11 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "title": "이 대통령 \"호남 반도체, 구마모토처럼\" | 세제개편안 후폭풍, 강남 아파트 급매·맞교환 문의↑ | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=MZIOLon4Iow",
       "thumbnail_url": "https://i2.ytimg.com/vi/MZIOLon4Iow/hqdefault.jpg",
       "published_at": "2026-08-10T20:43:14+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "commodities",
+        "real_estate"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "commodities",
           "stance": "neutral"
         },
         {
-          "topic": "commodities",
+          "topic": "real_estate",
           "stance": "neutral"
         }
       ],
@@ -516,25 +545,6 @@
       "source_url": "https://www.youtube.com/watch?v=rpG7N0fe1PE",
       "thumbnail_url": "https://i3.ytimg.com/vi/rpG7N0fe1PE/hqdefault.jpg",
       "published_at": "2026-08-10T02:13:53+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "s935oWldYWE",
-      "title": "어차피 하락은 계속된다? | \"반도체 호재는 진통제일 뿐\" | 이주완 인더스트리 애널리스트 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=s935oWldYWE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/s935oWldYWE/hqdefault.jpg",
-      "published_at": "2026-08-10T01:39:58+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

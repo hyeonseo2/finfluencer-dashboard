@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T04:41:26.314411+00:00",
+  "generated_at": "2026-08-10T06:12:20.235317+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "DiD2eemzsuM",
+      "title": "[8월 10일 마감시황] 월가 \"메모리 조정 끝\"…삼전닉스 반등할까? 코스닥 8월 세번째 매수 사이드카, 증시 순환매 온기 언제까지ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=DiD2eemzsuM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/DiD2eemzsuM/hqdefault.jpg",
+      "published_at": "2026-08-10T05:22:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "YpPvayz3mEY",
       "title": "클래리티 법안, 9월 15일이 분수령…연내 통과 가능할까? | 서동주, 김동환, 한서희 법무법인 광장 변호사 [크립토 PLUS]",
@@ -413,30 +432,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "liMlf8qihwY",
-      "title": "“보유세 폭탄\" 논란과 99% 감면 효과... 진실은? | 구윤철 부총리 겸 재정경제부 장관 [주말인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=liMlf8qihwY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/liMlf8qihwY/hqdefault.jpg",
-      "published_at": "2026-08-09T06:00:26+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ijx9tf6HShA",

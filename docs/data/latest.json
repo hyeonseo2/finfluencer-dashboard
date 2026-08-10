@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T20:48:32.750632+00:00",
+  "generated_at": "2026-08-10T21:46:22.678888+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "MZIOLon4Iow",
+      "title": "미·이란 협상 교착에 WTI 5% 급등...뉴욕증시 하락 마감_26.08.11 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=MZIOLon4Iow",
+      "thumbnail_url": "https://i2.ytimg.com/vi/MZIOLon4Iow/hqdefault.jpg",
+      "published_at": "2026-08-10T20:43:14+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ebFn3gD8dlI",
       "title": "주식보다 두 배 올랐다?…내 계좌 손실 줄이는 자산배분 전략ㅣ명민준, 박가영, 송재경 [주린이 구조대]",
@@ -511,25 +535,6 @@
       "source_url": "https://www.youtube.com/watch?v=s935oWldYWE",
       "thumbnail_url": "https://i4.ytimg.com/vi/s935oWldYWE/hqdefault.jpg",
       "published_at": "2026-08-10T01:39:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "tRoPEKh13ms",
-      "title": "\"기다려 주신 주주분들께...!\" 삼전 주주환원 효과는 어떻게 될까? | 이지은 이지스탁 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=tRoPEKh13ms",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tRoPEKh13ms/hqdefault.jpg",
-      "published_at": "2026-08-10T01:14:00+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

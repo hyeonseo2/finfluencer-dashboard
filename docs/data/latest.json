@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-09T23:35:32.395167+00:00",
+  "generated_at": "2026-08-10T02:07:06.342698+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "s935oWldYWE",
+      "title": "어차피 하락은 계속된다? | \"반도체 호재는 진통제일 뿐\" | 이주완 인더스트리 애널리스트 [더블 업]",
+      "source_url": "https://www.youtube.com/watch?v=s935oWldYWE",
+      "thumbnail_url": "https://i4.ytimg.com/vi/s935oWldYWE/hqdefault.jpg",
+      "published_at": "2026-08-10T01:39:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "tRoPEKh13ms",
+      "title": "\"기다려주신 주주분들께...!\" 삼전 주주환원 효과는 어떻게 될까? | 이지은 이지스탁 대표 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=tRoPEKh13ms",
+      "thumbnail_url": "https://i1.ytimg.com/vi/tRoPEKh13ms/hqdefault.jpg",
+      "published_at": "2026-08-10T01:14:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "nSaGJomTlkQ",
+      "title": "코스닥만 왜 올랐나? 삼성전자·SK하이닉스 반등하면 수급이 다시 움직인다 | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=nSaGJomTlkQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nSaGJomTlkQ/hqdefault.jpg",
+      "published_at": "2026-08-10T00:17:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "5TNIgjxCuhc",
       "title": "모건스탠리 \"메모리주 가파른 조정 끝났다“…소비재·화장품 순환매도 매력 | 정부 'ISA·주가누르기 방지법' 손질한다 | 권순우 삼프로TV 취재팀장 [뉴스3]",
@@ -120,17 +177,17 @@
     },
     {
       "video_id": "ZEgot4sfsVA",
-      "title": "블룸버그 \"한국증시 변동성 진정 단계, 주식 저평가\"...시장 진정 시작되나 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "규정은 이미 있다는데, 법은 왜 못 만드나 | 김동환, 서동주, 박상혁, 한서희 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=ZEgot4sfsVA",
       "thumbnail_url": "https://i3.ytimg.com/vi/ZEgot4sfsVA/hqdefault.jpg",
       "published_at": "2026-08-09T20:25:15+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -766,25 +823,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "BJoZ12TLG9c",
-      "title": "“왜 자꾸 오르다 빠질까?”시장을 움직이는 진짜 변수 | 이선엽 AFW파트너스 대표 [주말인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=BJoZ12TLG9c",
-      "thumbnail_url": "https://i3.ytimg.com/vi/BJoZ12TLG9c/hqdefault.jpg",
-      "published_at": "2026-08-07T23:00:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "cJUCY4qqt_0",
       "title": "5000만원으로 '이 주식' 다 사세요, 8월부터 정말 무섭게 오를 겁니다 (김장열 센터장)",
       "source_url": "https://www.youtube.com/watch?v=cJUCY4qqt_0",
@@ -802,44 +840,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8XN-_N2gDck",
-      "title": "반도체만으로는 부족하다? 하반기 시장에서 주목해야 할 변화 | 명민준, 박가영, 이재규 SK증권 PB 차장 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=8XN-_N2gDck",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8XN-_N2gDck/hqdefault.jpg",
-      "published_at": "2026-08-07T11:14:35+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "E6VuOChaO_g",
-      "title": "[26.08.07 오후 방송 전체보기] 반도체 다시 흔들, 코스피 박스권 돌파 신호는",
-      "source_url": "https://www.youtube.com/watch?v=E6VuOChaO_g",
-      "thumbnail_url": "https://i2.ytimg.com/vi/E6VuOChaO_g/hqdefault.jpg",
-      "published_at": "2026-08-07T11:05:41+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "kYn6tfRQ4rE",

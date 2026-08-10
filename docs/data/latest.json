@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:50:42.885336+00:00",
+  "generated_at": "2026-08-10T13:17:54.136185+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,19 +58,62 @@
   ],
   "videos": [
     {
+      "video_id": "EIC4hb1f0jg",
+      "title": "'8월 전강후강' 아직 유효…삼전닉스 안정되면 코스닥 주도주는 '상승 3법'에서 나온다ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=EIC4hb1f0jg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EIC4hb1f0jg/hqdefault.jpg",
+      "published_at": "2026-08-10T12:30:15+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KdwqPsXIGgo",
+      "title": "하반기 코스피 vs 코스닥 승자는? 금리 부담 낮아질 때 당장 담아야 할 주식ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
+      "source_url": "https://www.youtube.com/watch?v=KdwqPsXIGgo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KdwqPsXIGgo/hqdefault.jpg",
+      "published_at": "2026-08-10T11:30:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "qfXMSCp4oHI",
-      "title": "1주택자 갈아타기 못하는 분들은, 아파트 말고 '이 부동산' 사세요 (빠숑 김학렬 소장)",
+      "title": "서울·경기도 아파트 '이곳' 사세요, 내년부터 정말 무섭게 오른다 (빠숑 김학렬 소장)",
       "source_url": "https://www.youtube.com/watch?v=qfXMSCp4oHI",
       "thumbnail_url": "https://i2.ytimg.com/vi/qfXMSCp4oHI/hqdefault.jpg",
       "published_at": "2026-08-10T11:15:05+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities",
+        "macro",
         "real_estate"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         },
         {
@@ -121,22 +164,17 @@
     },
     {
       "video_id": "c0eESYQwR9I",
-      "title": "\"청년미래적금 아니다\" 역대급 고금리 통장 떴습니다. 이자만 70만원씩 나와요 | 마윤 #재테크",
+      "title": "\"연 9%씩 준다\" 50만원씩 딱 3년만 넣으세요. 국가에서 5배로 불려준다고 약속했습니다 | 마윤 #ETF",
       "source_url": "https://www.youtube.com/watch?v=c0eESYQwR9I",
       "thumbnail_url": "https://i4.ytimg.com/vi/c0eESYQwR9I/hqdefault.jpg",
       "published_at": "2026-08-10T10:30:05+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities",
-        "interest_rate"
+        "etf"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
+          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -226,7 +264,7 @@
     },
     {
       "video_id": "xTb0SXAxpz4",
-      "title": "한국 아파트 싹다 물갈이 된다, 집값 내년부터 무서울 겁니다 (빠숑 김학렬 소장)",
+      "title": "수도권 집값 가장 많이 오를 지역, '여기' 아파트 무섭게 오를 겁니다 (빠숑 김학렬 소장)",
       "source_url": "https://www.youtube.com/watch?v=xTb0SXAxpz4",
       "thumbnail_url": "https://i1.ytimg.com/vi/xTb0SXAxpz4/hqdefault.jpg",
       "published_at": "2026-08-10T08:45:39+00:00",
@@ -499,44 +537,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5TNIgjxCuhc",
-      "title": "모건스탠리 \"메모리주 가파른 조정 끝났다“…소비재·화장품 순환매도 매력 | 정부 'ISA·주가누르기 방지법' 손질한다 | 권순우 삼프로TV 취재팀장 [뉴스3]",
-      "source_url": "https://www.youtube.com/watch?v=5TNIgjxCuhc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5TNIgjxCuhc/hqdefault.jpg",
-      "published_at": "2026-08-09T23:10:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "aw0Wbz3o5S8",
-      "title": "8월 조정 뒤 9월 반등? 시장 뒤집을 3가지 핵심은 | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=aw0Wbz3o5S8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aw0Wbz3o5S8/hqdefault.jpg",
-      "published_at": "2026-08-09T22:45:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

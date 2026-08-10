@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T02:07:06.342698+00:00",
+  "generated_at": "2026-08-10T04:41:26.314411+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -47,6 +47,7 @@
   "topics": [
     "bonds",
     "commodities",
+    "crypto",
     "etf",
     "fx",
     "interest_rate",
@@ -56,6 +57,92 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "YpPvayz3mEY",
+      "title": "클래리티 법안, 9월 15일이 분수령…연내 통과 가능할까? | 서동주, 김동환, 한서희 법무법인 광장 변호사 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=YpPvayz3mEY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/YpPvayz3mEY/hqdefault.jpg",
+      "published_at": "2026-08-10T03:27:27+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ZEgot4sfsVA",
+      "title": "[26.08.10 오전 방송 전체보기] 부진한 고용지표에 금리인상 전망 '뚝'...뉴욕증시 3대 지수 '상승'",
+      "source_url": "https://www.youtube.com/watch?v=ZEgot4sfsVA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZEgot4sfsVA/hqdefault.jpg",
+      "published_at": "2026-08-10T03:20:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "peUMPLwyGuA",
+      "title": "비트코인 자금 유입 급증…클래리티 9월 연기에도 '최악은 피했다' | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=peUMPLwyGuA",
+      "thumbnail_url": "https://i1.ytimg.com/vi/peUMPLwyGuA/hqdefault.jpg",
+      "published_at": "2026-08-10T03:05:29+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "rpG7N0fe1PE",
+      "title": "반등한 시장, 지금이 기회일까? 투자자가 해야 할 대응 | 이혁진, 여도은, 허재무 [아침N투자]",
+      "source_url": "https://www.youtube.com/watch?v=rpG7N0fe1PE",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rpG7N0fe1PE/hqdefault.jpg",
+      "published_at": "2026-08-10T02:13:53+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "s935oWldYWE",
       "title": "어차피 하락은 계속된다? | \"반도체 호재는 진통제일 뿐\" | 이주완 인더스트리 애널리스트 [더블 업]",
@@ -77,7 +164,7 @@
     },
     {
       "video_id": "tRoPEKh13ms",
-      "title": "\"기다려주신 주주분들께...!\" 삼전 주주환원 효과는 어떻게 될까? | 이지은 이지스탁 대표 [더블 체크]",
+      "title": "\"기다려 주신 주주분들께...!\" 삼전 주주환원 효과는 어떻게 될까? | 이지은 이지스탁 대표 [더블 체크]",
       "source_url": "https://www.youtube.com/watch?v=tRoPEKh13ms",
       "thumbnail_url": "https://i1.ytimg.com/vi/tRoPEKh13ms/hqdefault.jpg",
       "published_at": "2026-08-10T01:14:00+00:00",
@@ -169,25 +256,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ZEgot4sfsVA",
-      "title": "규정은 이미 있다는데, 법은 왜 못 만드나 | 김동환, 서동주, 박상혁, 한서희 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=ZEgot4sfsVA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZEgot4sfsVA/hqdefault.jpg",
-      "published_at": "2026-08-09T20:25:15+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -509,25 +577,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "OWO0DOhSuxw",
-      "title": "“반도체 끝났다”는 공포, 외국인은 왜 지금 흔들고 있을까?ㅣ문홍철 DB증권 자산전략팀장",
-      "source_url": "https://www.youtube.com/watch?v=OWO0DOhSuxw",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OWO0DOhSuxw/hqdefault.jpg",
-      "published_at": "2026-08-08T23:00:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "kIHHvC6EesM",
       "title": "강대국들이 한국 두려워하는 이유, 중국, 일본, 북한 미칠 지경이다 (조한범 박사 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=kIHHvC6EesM",
@@ -666,25 +715,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "3CAmZd6w95Y",
-      "title": "구약성경이 절대로 먹지 말라고 엄격하게 금지한 ‘이것’의 정체 | 주원준 한님성서연구소 수석연구원 [에인션트]",
-      "source_url": "https://www.youtube.com/watch?v=3CAmZd6w95Y",
-      "thumbnail_url": "https://i4.ytimg.com/vi/3CAmZd6w95Y/hqdefault.jpg",
-      "published_at": "2026-08-08T06:00:06+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "IJxt0Jpv6i0",
       "title": "\"은퇴한 5060 평균 자산\" 3억 있으면 빈곤층이에요. 통장에 이정도는 있어야 노후 평균입니다 | 강창희 대표 30분 요약 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=IJxt0Jpv6i0",
@@ -740,25 +770,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KRdGVQVCbD4",
-      "title": "\"집값 잡으려다 전월세 폭등?\" 2026 세제개편안 후폭풍 | 김학렬 소장 [주말인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=KRdGVQVCbD4",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KRdGVQVCbD4/hqdefault.jpg",
-      "published_at": "2026-08-08T02:00:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "otux1yC9vNs",

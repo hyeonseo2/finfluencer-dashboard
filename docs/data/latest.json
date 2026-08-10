@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T13:17:54.136185+00:00",
+  "generated_at": "2026-08-10T15:02:33.268875+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ebFn3gD8dlI",
+      "title": "주식보다 두 배 올랐다?…내 계좌 손실 줄이는 자산배분 전략ㅣ명민준, 박가영, 송재경 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=ebFn3gD8dlI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ebFn3gD8dlI/hqdefault.jpg",
+      "published_at": "2026-08-10T13:30:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "EIC4hb1f0jg",
       "title": "'8월 전강후강' 아직 유효…삼전닉스 안정되면 코스닥 주도주는 '상승 3법'에서 나온다ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
@@ -518,25 +537,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "nSaGJomTlkQ",
-      "title": "코스닥만 왜 올랐나? 삼성전자·SK하이닉스 반등하면 수급이 다시 움직인다 | 박병창 MP파트너스 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=nSaGJomTlkQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nSaGJomTlkQ/hqdefault.jpg",
-      "published_at": "2026-08-10T00:17:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

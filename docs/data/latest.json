@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:41:41.083805+00:00",
+  "generated_at": "2026-08-10T23:38:45.388692+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -47,7 +47,6 @@
   "topics": [
     "bonds",
     "commodities",
-    "crypto",
     "etf",
     "fx",
     "interest_rate",
@@ -57,6 +56,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "h_TlL8j0Huk",
+      "title": "이 대통령 \"호남 반도체, 구마모토처럼\" | 배터리 양극재 업체도 ESS 덕분 '동반 흑자' | 세제개편안 후폭풍 | 류종은 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=h_TlL8j0Huk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/h_TlL8j0Huk/hqdefault.jpg",
+      "published_at": "2026-08-10T23:07:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jbEfkQCjcM0",
+      "title": "다우 신고가 터졌다…다음은 나스닥? 9월까지 '2막 랠리' 가능성 | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=jbEfkQCjcM0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jbEfkQCjcM0/hqdefault.jpg",
+      "published_at": "2026-08-10T22:36:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "okw-BDMWb1g",
       "title": "CPI 발표 앞두고 금리 또 상승…엔비디아, 인텔 등 자금 조달 지속 [월가 뉴스레터]",
@@ -88,22 +130,22 @@
     },
     {
       "video_id": "MZIOLon4Iow",
-      "title": "이 대통령 \"호남 반도체, 구마모토처럼\" | 세제개편안 후폭풍, 강남 아파트 급매·맞교환 문의↑ | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
+      "title": "8월 절반이 매수 사이드카...형보다 아우! 코스닥 급등의 원인은? | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=MZIOLon4Iow",
       "thumbnail_url": "https://i2.ytimg.com/vi/MZIOLon4Iow/hqdefault.jpg",
       "published_at": "2026-08-10T20:43:14+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "commodities",
-        "real_estate"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
           "stance": "neutral"
         },
         {
-          "topic": "real_estate",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -509,49 +551,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "peUMPLwyGuA",
-      "title": "비트코인 자금 유입 급증…클래리티 9월 연기에도 '최악은 피했다' | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=peUMPLwyGuA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/peUMPLwyGuA/hqdefault.jpg",
-      "published_at": "2026-08-10T03:05:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "rpG7N0fe1PE",
-      "title": "반등한 시장, 지금이 기회일까? 투자자가 해야 할 대응 | 이혁진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=rpG7N0fe1PE",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rpG7N0fe1PE/hqdefault.jpg",
-      "published_at": "2026-08-10T02:13:53+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

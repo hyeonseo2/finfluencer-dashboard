@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T13:14:58.398878+00:00",
+  "generated_at": "2026-08-11T15:01:32.043559+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,8 +58,27 @@
   ],
   "videos": [
     {
+      "video_id": "35WG25DeY4Q",
+      "title": "삼전닉스 도대체 왜 발목이 묶인거에요?ㅣ명민준, 김유민, 이지환 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=35WG25DeY4Q",
+      "thumbnail_url": "https://i4.ytimg.com/vi/35WG25DeY4Q/hqdefault.jpg",
+      "published_at": "2026-08-11T13:30:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "KjEJSuBXWuE",
-      "title": "진짜 부자들은 남몰래 '이것' 산다, 현금 버리고 당장 사야할 1가지 (신환종 박사)",
+      "title": "부자들은 이미 싹 쓸어담는 자산, 화폐가치 폭락할 때 폭등할 '이것' (신환종 박사)",
       "source_url": "https://www.youtube.com/watch?v=KjEJSuBXWuE",
       "thumbnail_url": "https://i4.ytimg.com/vi/KjEJSuBXWuE/hqdefault.jpg",
       "published_at": "2026-08-11T12:30:27+00:00",
@@ -590,25 +609,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "9ITEPN8xXxE",
-      "title": "\"삼전닉스 살리는 골든타임\" 놓치면 끝이다 | 백인재 부센터장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=9ITEPN8xXxE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/9ITEPN8xXxE/hqdefault.jpg",
-      "published_at": "2026-08-11T02:09:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

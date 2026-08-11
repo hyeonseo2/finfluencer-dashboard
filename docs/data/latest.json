@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T20:50:55.105373+00:00",
+  "generated_at": "2026-08-11T21:52:58.214092+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Gsf2oX0U-uo",
+      "title": "“중국은 2%, 미국은 6%” 실리콘밸리가 연준보다 더 다급해진 진짜 이유 [Z1뉴스 2부]",
+      "source_url": "https://www.youtube.com/watch?v=Gsf2oX0U-uo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Gsf2oX0U-uo/hqdefault.jpg",
+      "published_at": "2026-08-11T21:00:06+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "w6Zfi8dY6ao",
       "title": "미·이란 협상 불안과 CPI 발표 경계감 속 뉴욕증시 하락 마감_26.08.12 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
@@ -1424,25 +1448,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wjZaCA-8Hec",
-      "title": "반도체는 28년 물량까지 다 팔렸다는데, 전력기기는 31년 물량까지도 다 팔렸습니다. 이번엔 진짜 주목하고 계셔야 합니다 | 김효식 삼성액티브자산운용 팀장",
-      "source_url": "https://www.youtube.com/watch?v=wjZaCA-8Hec",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wjZaCA-8Hec/hqdefault.jpg",
-      "published_at": "2026-08-04T11:04:30+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "tT1Km_wKo_M",

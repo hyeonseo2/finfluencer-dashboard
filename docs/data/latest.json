@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T23:38:45.388692+00:00",
+  "generated_at": "2026-08-11T02:02:01.569251+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "cTRVgzq7rPs",
+      "title": "언제까지 이 '숨막히는 터널'이 계속될까? | 윤정식 바로자산운용 상무 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=cTRVgzq7rPs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cTRVgzq7rPs/hqdefault.jpg",
+      "published_at": "2026-08-11T01:40:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "yqlZlHn7eiQ",
+      "title": "코스닥 폭발적 반등…시장 자금의 다음 행선지는? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=yqlZlHn7eiQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yqlZlHn7eiQ/hqdefault.jpg",
+      "published_at": "2026-08-11T00:18:59+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "h_TlL8j0Huk",
       "title": "이 대통령 \"호남 반도체, 구마모토처럼\" | 배터리 양극재 업체도 ESS 덕분 '동반 흑자' | 세제개편안 후폭풍 | 류종은 삼프로TV 취재팀장 [뉴스3]",
@@ -130,20 +168,15 @@
     },
     {
       "video_id": "MZIOLon4Iow",
-      "title": "8월 절반이 매수 사이드카...형보다 아우! 코스닥 급등의 원인은? | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
+      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.08.11 | 여도은, 허재무, 김영환 [아침N투자]",
       "source_url": "https://www.youtube.com/watch?v=MZIOLon4Iow",
       "thumbnail_url": "https://i2.ytimg.com/vi/MZIOLon4Iow/hqdefault.jpg",
       "published_at": "2026-08-10T20:43:14+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -513,49 +546,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "YpPvayz3mEY",
-      "title": "클래리티 법안, 9월 15일이 분수령…연내 통과 가능할까? | 서동주, 김동환, 한서희 법무법인 광장 변호사 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=YpPvayz3mEY",
-      "thumbnail_url": "https://i2.ytimg.com/vi/YpPvayz3mEY/hqdefault.jpg",
-      "published_at": "2026-08-10T03:27:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ZEgot4sfsVA",
-      "title": "[26.08.10 오전 방송 전체보기] 부진한 고용지표에 금리인상 전망 '뚝'...뉴욕증시 3대 지수 '상승'",
-      "source_url": "https://www.youtube.com/watch?v=ZEgot4sfsVA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZEgot4sfsVA/hqdefault.jpg",
-      "published_at": "2026-08-10T03:20:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "uOtCjMjSj2k",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T21:52:58.214092+00:00",
+  "generated_at": "2026-08-11T22:48:55.106626+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,12 +58,79 @@
   ],
   "videos": [
     {
+      "video_id": "xsoaub9Lyt0",
+      "title": "CPI 발표 앞두고 금리 또 상승…엔비디아, 인텔 등 자금 조달 지속 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=xsoaub9Lyt0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xsoaub9Lyt0/hqdefault.jpg",
+      "published_at": "2026-08-11T22:00:57+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate",
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "A6kds6mMlJw",
+      "title": "\"금융공학 전공자도 놀라 자빠졌다\" 돈 떨어져 AI 끝난다는 걱정은 끝났습니다. 블랙록·골드만까지 끌어들인 젠슨 황의 다음 수",
+      "source_url": "https://www.youtube.com/watch?v=A6kds6mMlJw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/A6kds6mMlJw/hqdefault.jpg",
+      "published_at": "2026-08-11T22:00:36+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "Gsf2oX0U-uo",
-      "title": "“중국은 2%, 미국은 6%” 실리콘밸리가 연준보다 더 다급해진 진짜 이유 [Z1뉴스 2부]",
+      "title": "“저커버그·젠슨 황이 오들오들 떨며 초긴장한 이유” 중국이 AI 전쟁에서 꺼낸 진짜 무기는 기술이 아니었다 [Z1뉴스 - 2부]",
       "source_url": "https://www.youtube.com/watch?v=Gsf2oX0U-uo",
       "thumbnail_url": "https://i4.ytimg.com/vi/Gsf2oX0U-uo/hqdefault.jpg",
       "published_at": "2026-08-11T21:00:06+00:00",
       "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "w6Zfi8dY6ao",
+      "title": "미국 칩 담보대출 허용, 중국 대출금리 인하…AI 자금 확보 총력 | 한화 두번째 미국 조선소 오스탈USA 인수 추진 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=w6Zfi8dY6ao",
+      "thumbnail_url": "https://i4.ytimg.com/vi/w6Zfi8dY6ao/hqdefault.jpg",
+      "published_at": "2026-08-11T20:27:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities",
         "interest_rate"
@@ -75,35 +142,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "w6Zfi8dY6ao",
-      "title": "미·이란 협상 불안과 CPI 발표 경계감 속 뉴욕증시 하락 마감_26.08.12 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=w6Zfi8dY6ao",
-      "thumbnail_url": "https://i4.ytimg.com/vi/w6Zfi8dY6ao/hqdefault.jpg",
-      "published_at": "2026-08-11T20:27:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -624,25 +662,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "D7Tl0WmHZhA",
-      "title": "비트코인 포크 실패…이더리움·솔라나까지 '탈중앙화' 논쟁, 코인판 무슨 일이? | 서동주, 김동환, 함지현 블록미디어 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=D7Tl0WmHZhA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/D7Tl0WmHZhA/hqdefault.jpg",
-      "published_at": "2026-08-11T03:03:41+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
           "stance": "neutral"
         }
       ],
@@ -1374,25 +1393,6 @@
       "source_url": "https://www.youtube.com/watch?v=EfXpcMVlV7g",
       "thumbnail_url": "https://i2.ytimg.com/vi/EfXpcMVlV7g/hqdefault.jpg",
       "published_at": "2026-08-05T09:25:37+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "RdDkRKOrIMY",
-      "title": "AI 시장을 발칵 뒤집을 역대급 실적을 발표한 일론 머스크의 스페이스X",
-      "source_url": "https://www.youtube.com/watch?v=RdDkRKOrIMY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RdDkRKOrIMY/hqdefault.jpg",
-      "published_at": "2026-08-05T06:12:13+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "macro"

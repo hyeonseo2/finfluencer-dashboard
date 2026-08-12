@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T11:50:30.500310+00:00",
+  "generated_at": "2026-08-12T13:18:48.611131+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Eqeg_m1_4aQ",
+      "title": "엔비디아 700조 AI 자금이 반도체로…삼전닉스 다시 출발?ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=Eqeg_m1_4aQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Eqeg_m1_4aQ/hqdefault.jpg",
+      "published_at": "2026-08-12T12:30:07+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "_-YwmXSAcQU",
       "title": "\"조정은 끝\" 삼성전자가 50만원을 가려면 넘어야할 고개ㅣ차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
@@ -124,20 +143,15 @@
     },
     {
       "video_id": "QERrlBgx3Nk",
-      "title": "\"노후준비 한방에 끝\" 5060은 그냥 이 ETF 담으세요. 1억 넣고 10억 들고 은퇴합니다 | 이현우 작가 2부 #돈쭐남 #김경필",
+      "title": "\"조용히 돈이 몰리고 있다\" 50대는 그냥 이 ETF 사세요. 가격도 싼데 배당도 퍼줍니다 | 이현우 작가 2부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=QERrlBgx3Nk",
       "thumbnail_url": "https://i2.ytimg.com/vi/QERrlBgx3Nk/hqdefault.jpg",
       "published_at": "2026-08-12T10:31:12+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities",
         "etf"
       ],
       "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
         {
           "topic": "etf",
           "stance": "neutral"
@@ -645,25 +659,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "JD-T4Rg0ssw",
-      "title": "\"드디어 올 것이 왔나\" 삼성전자 질주 시작? | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=JD-T4Rg0ssw",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JD-T4Rg0ssw/hqdefault.jpg",
-      "published_at": "2026-08-12T00:39:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:46:07.442506+00:00",
+  "generated_at": "2026-08-12T02:19:07.623478+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,82 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "e5741qrJQFA",
+      "title": "반도체·화장품 동시에 터졌다… 지금 시장에서 주목할 종목은? |  손수연 하나증권 용산WM센터 PB [더블 크루]",
+      "source_url": "https://www.youtube.com/watch?v=e5741qrJQFA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/e5741qrJQFA/hqdefault.jpg",
+      "published_at": "2026-08-12T01:20:14+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "pv6XY4H2ask",
+      "title": "\"지금 AI는 2단계\" 그다음 주인공 기업은 누구? | 손정우 테크밸리인사이트 대표 [더블 업]",
+      "source_url": "https://www.youtube.com/watch?v=pv6XY4H2ask",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pv6XY4H2ask/hqdefault.jpg",
+      "published_at": "2026-08-12T00:51:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "JD-T4Rg0ssw",
+      "title": "\"드디어 올 것이 왔나\" 삼성전자 질주 시작? | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=JD-T4Rg0ssw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/JD-T4Rg0ssw/hqdefault.jpg",
+      "published_at": "2026-08-12T00:39:39+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "V3kNLyHXEQI",
+      "title": "쏠림에서 순환으로? 지금 장에서 강한 종목 따라가면 위험한 이유 | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=V3kNLyHXEQI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/V3kNLyHXEQI/hqdefault.jpg",
+      "published_at": "2026-08-12T00:06:52+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "sh5pRBeIC9E",
       "title": "미국 칩 담보대출 허용, 중국 대출금리 인하…AI 자금 확보 총력 | 한화 두번째 미국 조선소 오스탈USA 인수 추진…최대 1.7조원 | 권순우 삼프로TV 취재팀장 [뉴스3]",
@@ -178,7 +254,7 @@
     },
     {
       "video_id": "w6Zfi8dY6ao",
-      "title": "[8월 12일 개장시황] 빈센트, 정프로, 하창완, 손정우, 편다송, 손수연 [더블 밸류업]",
+      "title": "예금도 아닌데 왜 이자를 줄까, '크립토 볼트'의 정체는 | 김동환, 서동주, 박상혁, 김종승 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=w6Zfi8dY6ao",
       "thumbnail_url": "https://i4.ytimg.com/vi/w6Zfi8dY6ao/hqdefault.jpg",
       "published_at": "2026-08-11T20:27:54+00:00",
@@ -439,44 +515,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "kNCfFROlePo",
-      "title": "트럼프가 판 깔아준 재생에너지 도약의 기회, 지금 주목해야할 이유ㅣ홍선애, 한병화 유진투자증권 이사 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=kNCfFROlePo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/kNCfFROlePo/hqdefault.jpg",
-      "published_at": "2026-08-11T09:15:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "H-n0IBS7b_g",
-      "title": "[8월 11일 마감시황] 주주환원 기대감 커진 삼전닉스…하지만 코스닥도 담아야 하는 이유ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=H-n0IBS7b_g",
-      "thumbnail_url": "https://i1.ytimg.com/vi/H-n0IBS7b_g/hqdefault.jpg",
-      "published_at": "2026-08-11T08:30:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "iaOAZw05Zx0",
       "title": "삼성전자 폭락 충격 소문 곧 상상도 못할 일 터진다 | 이승조 무극선생 1부",
       "source_url": "https://www.youtube.com/watch?v=iaOAZw05Zx0",
@@ -587,25 +625,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "iBMyXS5AOb8",
-      "title": "지금 반도체 가격...\"마이크론과는 성격이 다르다\" | 이주완 인더스트리 애널리스트 [더블 업]",
-      "source_url": "https://www.youtube.com/shorts/iBMyXS5AOb8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/iBMyXS5AOb8/hqdefault.jpg",
-      "published_at": "2026-08-11T07:24:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "rSPkzr6G_s4",
       "title": "\"미국 월가에 싹다 퍼진 충격 소문\" S&P500 곧 나락간다? 당장 현금 확보하세요. 한 달도 안 남았어요 #김경필 #돈쭐남",
       "source_url": "https://www.youtube.com/watch?v=rSPkzr6G_s4",
@@ -647,25 +666,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CGHe5QsLjhI",
-      "title": "\"주주환원 최대한 빠르게 한다\" 삼성전자가 한 발 빨랐다?  | 백인재 부센터장 [더블 크루]",
-      "source_url": "https://www.youtube.com/shorts/CGHe5QsLjhI",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CGHe5QsLjhI/hqdefault.jpg",
-      "published_at": "2026-08-11T06:02:49+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "qfXMSCp4oHI",

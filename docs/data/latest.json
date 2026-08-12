@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T13:18:48.611131+00:00",
+  "generated_at": "2026-08-12T15:00:36.813779+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
   ],
   "videos": [
     {
+      "video_id": "phJkTgYnGgY",
+      "title": "아직은 추세 이탈 아닌 변동성…삼전닉스 매도 신호는 없었다ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=phJkTgYnGgY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/phJkTgYnGgY/hqdefault.jpg",
+      "published_at": "2026-08-12T13:30:31+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "Eqeg_m1_4aQ",
       "title": "엔비디아 700조 AI 자금이 반도체로…삼전닉스 다시 출발?ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=Eqeg_m1_4aQ",
@@ -100,17 +119,22 @@
     },
     {
       "video_id": "Xl04dEQmeYU",
-      "title": "\"역대급 실적도 소용없다\" 코스피에 나타난 이상현상. 언론도 쉬쉬하고 있다 | 김규동 이사 #원픽리포트",
+      "title": "\"이제 국장 탈출은 지능순?\" 역대급 사망 시그널 뜬 코스피. 앞으로 이렇게 될 겁니다 | 김규동 이사 #원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=Xl04dEQmeYU",
       "thumbnail_url": "https://i1.ytimg.com/vi/Xl04dEQmeYU/hqdefault.jpg",
       "published_at": "2026-08-12T11:30:00+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -633,25 +657,6 @@
       "source_url": "https://www.youtube.com/watch?v=e5741qrJQFA",
       "thumbnail_url": "https://i2.ytimg.com/vi/e5741qrJQFA/hqdefault.jpg",
       "published_at": "2026-08-12T01:20:14+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "pv6XY4H2ask",
-      "title": "\"지금 AI는 2단계\" 그다음 주인공 기업은 누구? | 손정우 테크밸리인사이트 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=pv6XY4H2ask",
-      "thumbnail_url": "https://i1.ytimg.com/vi/pv6XY4H2ask/hqdefault.jpg",
-      "published_at": "2026-08-12T00:51:47+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

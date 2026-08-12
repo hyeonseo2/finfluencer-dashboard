@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T20:01:27.996888+00:00",
+  "generated_at": "2026-08-12T21:51:08.264853+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "nO5npWPNTYI",
+      "title": "CPI 예상치 부합 속 뉴욕증시 혼조 마감...반도체주 동반 '강세'_26.08.13 | 여도은, 박명석, 박승영 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=nO5npWPNTYI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nO5npWPNTYI/hqdefault.jpg",
+      "published_at": "2026-08-12T20:25:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "phJkTgYnGgY",
       "title": "아직은 추세 이탈 아닌 변동성…삼전닉스 매도 신호는 없었다ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
@@ -638,25 +667,6 @@
       "source_url": "https://www.youtube.com/watch?v=nzbzMi9rlNw",
       "thumbnail_url": "https://i3.ytimg.com/vi/nzbzMi9rlNw/hqdefault.jpg",
       "published_at": "2026-08-12T02:34:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "e5741qrJQFA",
-      "title": "반도체·화장품 동시에 터졌다… 지금 시장에서 주목할 종목은? |  손수연 하나증권 용산WM센터 PB [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=e5741qrJQFA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/e5741qrJQFA/hqdefault.jpg",
-      "published_at": "2026-08-12T01:20:14+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

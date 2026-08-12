@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T22:46:46.811516+00:00",
+  "generated_at": "2026-08-12T23:46:54.782729+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
   ],
   "videos": [
     {
+      "video_id": "R80LPDWRkps",
+      "title": "코스닥부터 화장품·조선·배터리까지 하반기 투자전략은? | 박승영 한화투자증권 PLUS자산전략팀장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=R80LPDWRkps",
+      "thumbnail_url": "https://i3.ytimg.com/vi/R80LPDWRkps/hqdefault.jpg",
+      "published_at": "2026-08-12T22:56:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "q2i6fylE_Ek",
       "title": "나스닥, CPI 예상치 부합에 상승…코어위브, 네비우스 등 네오클라우드 급등 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=q2i6fylE_Ek",
@@ -81,7 +105,7 @@
     },
     {
       "video_id": "nO5npWPNTYI",
-      "title": "시중은행보다 더 버는 증권사...미래에셋, 분기 순익 1.9조원 | 동전주·시총미달 상장폐지 문 열렸다…36개 첫 관리종목 지정 | 정프로, 권순우, 장우진 [오늘아침 라이브]",
+      "title": "[8월 13일 개장시황] 빈센트, 정프로, 하창완, 윤재성, 편다송, 이학주 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=nO5npWPNTYI",
       "thumbnail_url": "https://i3.ytimg.com/vi/nO5npWPNTYI/hqdefault.jpg",
       "published_at": "2026-08-12T20:25:41+00:00",
@@ -645,30 +669,6 @@
         },
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "tqKwh452Bk4",
-      "title": "비트코인 바닥 임박? 기관은 이미 움직였다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=tqKwh452Bk4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tqKwh452Bk4/hqdefault.jpg",
-      "published_at": "2026-08-12T02:57:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
           "stance": "neutral"
         }
       ],

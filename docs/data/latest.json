@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T08:20:55.205534+00:00",
+  "generated_at": "2026-08-12T10:10:44.891619+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,18 +45,154 @@
     }
   ],
   "topics": [
-    "bonds",
     "commodities",
     "crypto",
     "etf",
     "fx",
     "interest_rate",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "5Rcy2EBSLe0",
+      "title": "배당+성장 다잡은 포트폴리오 공개 #은공",
+      "source_url": "https://www.youtube.com/shorts/5Rcy2EBSLe0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5Rcy2EBSLe0/hqdefault.jpg",
+      "published_at": "2026-08-12T10:00:28+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "5lo1QZ28WX4",
+      "title": "시진핑의 극단적인 결단 곧 대륙이 수십개로 쪼개진다 | 김정호 교수 4부",
+      "source_url": "https://www.youtube.com/watch?v=5lo1QZ28WX4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5lo1QZ28WX4/hqdefault.jpg",
+      "published_at": "2026-08-12T09:30:37+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "0qLnFxinVT8",
+      "title": "ISA 포트폴리오 이렇게 하세요 #은공",
+      "source_url": "https://www.youtube.com/shorts/0qLnFxinVT8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0qLnFxinVT8/hqdefault.jpg",
+      "published_at": "2026-08-12T09:00:39+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "PAO2QR9l7WM",
+      "title": "삼전닉스 물렸다면? 한번에 기대말고 단계적 가격 전략 세우자ㅣ홍선애, 박병창 MP파트너스 대표 [여의도 인사이트]",
+      "source_url": "https://www.youtube.com/watch?v=PAO2QR9l7WM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PAO2QR9l7WM/hqdefault.jpg",
+      "published_at": "2026-08-12T09:00:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "9UtyoY9dV_A",
+      "title": "[8월 12일 마감시황] 삼전닉스가 끌어올린 코스피…지금 추격매수보다 현금 비중을 늘려야 하는 이유ㅣ홍선애, 이권희, 장우진 [클로징벨 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=9UtyoY9dV_A",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9UtyoY9dV_A/hqdefault.jpg",
+      "published_at": "2026-08-12T08:31:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8JJjqq-95M4",
+      "title": "\"성장+배당 모두 잡는다\" 앞으로 5배, 10배 오를겁니다. 폭락 오든말든 이 ETF 사 모아라 | 직장인 투자자 2부 #etf",
+      "source_url": "https://www.youtube.com/watch?v=8JJjqq-95M4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8JJjqq-95M4/hqdefault.jpg",
+      "published_at": "2026-08-12T08:30:30+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NDxxYSxRzWw",
+      "title": "아수라장 된 북한군 상황. 러시아 북한 쫄딱 망했다｜조한범 박사 풀버전2",
+      "source_url": "https://www.youtube.com/watch?v=NDxxYSxRzWw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NDxxYSxRzWw/hqdefault.jpg",
+      "published_at": "2026-08-12T08:30:02+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ghQHs2qRvyI",
       "title": "원·달러 환율 진짜 심상치않다, 부의 대이동, '이 자산' 담으세요 (백석현 연구위원)",
@@ -240,7 +376,7 @@
     },
     {
       "video_id": "w8PXBwftwiw",
-      "title": "급등락 자체가 뉴 노멀? 저점 확인보다 중요한 건 대응 전략ㅣ홍선애, 박병창 MP파트너스 대표 [여의도 인사이트]",
+      "title": "삼전닉스, 애프터마켓에서 7%대 상승! 내일 더 기대해봐도 될까?ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=w8PXBwftwiw",
       "thumbnail_url": "https://i4.ytimg.com/vi/w8PXBwftwiw/hqdefault.jpg",
       "published_at": "2026-08-12T05:20:07+00:00",
@@ -413,59 +549,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "sh5pRBeIC9E",
-      "title": "미국 칩 담보대출 허용, 중국 대출금리 인하…AI 자금 확보 총력 | 한화 두번째 미국 조선소 오스탈USA 인수 추진…최대 1.7조원 | 권순우 삼프로TV 취재팀장 [뉴스3]",
-      "source_url": "https://www.youtube.com/watch?v=sh5pRBeIC9E",
-      "thumbnail_url": "https://i4.ytimg.com/vi/sh5pRBeIC9E/hqdefault.jpg",
-      "published_at": "2026-08-11T23:14:00+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "dZzICbpzsuI",
-      "title": "미국채 10년물 금리 '최고점'…하반기 금리 결정 향방은? | 신영증권 김효진 박사 [글로벌 인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=dZzICbpzsuI",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dZzICbpzsuI/hqdefault.jpg",
-      "published_at": "2026-08-11T22:45:50+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "interest_rate",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -997,63 +1080,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "mO5ogBdjpqg",
-      "title": "\"시진핑 바짝 쫄았다\" 일본 반격에 초비상 날벼락 맞은 중국 실제 상황 | 김정호 교수 3부",
-      "source_url": "https://www.youtube.com/watch?v=mO5ogBdjpqg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/mO5ogBdjpqg/hqdefault.jpg",
-      "published_at": "2026-08-10T07:30:29+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "UV6pIxAw0IE",
-      "title": "\"미친듯이 불어나요\" 50대는 무식하게 이 1가지만 해라. 죽을 때까지 돈 걱정 없습니다 | 이상건 센터장 1부 #노후준비",
-      "source_url": "https://www.youtube.com/watch?v=UV6pIxAw0IE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UV6pIxAw0IE/hqdefault.jpg",
-      "published_at": "2026-08-10T07:00:03+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ENyFX6Y98dk",
-      "title": "\"나중에 억소리 난다\" 5천만원 있다면 내년까지 '이것'만 죽어라 사세요｜이권희 대표 4부",
-      "source_url": "https://www.youtube.com/watch?v=ENyFX6Y98dk",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ENyFX6Y98dk/hqdefault.jpg",
-      "published_at": "2026-08-10T06:30:02+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "uOtCjMjSj2k",
       "title": "부동산 시장에 벌어질 엄청난 비극, 한달 뒤 집값 '이렇게' 된다 (빠숑 김학렬 소장)",
       "source_url": "https://www.youtube.com/watch?v=uOtCjMjSj2k",
@@ -1128,49 +1154,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ijx9tf6HShA",
-      "title": "\"이 정책 진짜 무섭다\" 서울 인구 60% 쫒겨날 겁니다. 부동산에 이미 소문 싹 다 퍼졌다 | 채상욱 대표 풀버전 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=ijx9tf6HShA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ijx9tf6HShA/hqdefault.jpg",
-      "published_at": "2026-08-09T06:00:00+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "policy",
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8RIzvzFnbuY",
-      "title": "\"18.7% 미친 상승\" 1억 여기 맘편히 묻어라. 30억까지 금방 불어날겁니다 | 김범곤 대표 풀버전 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=8RIzvzFnbuY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8RIzvzFnbuY/hqdefault.jpg",
-      "published_at": "2026-08-09T04:00:23+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "YzT1DepJxls",

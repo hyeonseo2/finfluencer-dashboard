@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:48:30.030208+00:00",
+  "generated_at": "2026-08-13T23:46:23.109954+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
   ],
   "videos": [
     {
+      "video_id": "0nwhlumpbA4",
+      "title": "수도권 23만가구+α 공급…주담대 30조 더 푼다 | 현대차, 1차 협력업체들과 로봇 공급망 구축…테슬라는 중국 의존 | 정프로, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=0nwhlumpbA4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0nwhlumpbA4/hqdefault.jpg",
+      "published_at": "2026-08-13T23:29:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "ZL7LDBapR4o",
       "title": "샌디스크, 인베스터데이에 주가 14% 급등...물가 지표 예상치 하회, 금리 인상 전망 뚝 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=ZL7LDBapR4o",
@@ -76,7 +95,7 @@
     },
     {
       "video_id": "H3MlkhnXNRE",
-      "title": "수도권 23만가구+α 공급…주담대 30조 더 푼다 | 현대차, 1차 협력업체들과 로봇 공급망 구축…테슬라는 중국 의존 | 정프로, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[8월 14일 개장시황] 빈센트, 정프로, 하창완, 이재만, 편다송, 권택중 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=H3MlkhnXNRE",
       "thumbnail_url": "https://i1.ytimg.com/vi/H3MlkhnXNRE/hqdefault.jpg",
       "published_at": "2026-08-13T20:23:13+00:00",
@@ -545,30 +564,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "SPiCZMyeWFo",
-      "title": "CPI 예상 부합했는데 비트코인 왜 못 올랐나? | 서동주, 김동환, 김제이 블록미디어 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=SPiCZMyeWFo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/SPiCZMyeWFo/hqdefault.jpg",
-      "published_at": "2026-08-13T03:03:31+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
           "stance": "neutral"
         },
         {

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T21:50:52.212186+00:00",
+  "generated_at": "2026-08-13T22:48:30.030208+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,23 +56,37 @@
   ],
   "videos": [
     {
+      "video_id": "ZL7LDBapR4o",
+      "title": "샌디스크, 인베스터데이에 주가 14% 급등...물가 지표 예상치 하회, 금리 인상 전망 뚝 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=ZL7LDBapR4o",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZL7LDBapR4o/hqdefault.jpg",
+      "published_at": "2026-08-13T22:05:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "H3MlkhnXNRE",
-      "title": "PPI 하회·유가 하락 속 뉴욕증시 상승 마감...기술주 중심 랠리_26.08.14 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "수도권 23만가구+α 공급…주담대 30조 더 푼다 | 현대차, 1차 협력업체들과 로봇 공급망 구축…테슬라는 중국 의존 | 정프로, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=H3MlkhnXNRE",
       "thumbnail_url": "https://i1.ytimg.com/vi/H3MlkhnXNRE/hqdefault.jpg",
       "published_at": "2026-08-13T20:23:13+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -559,25 +573,6 @@
         },
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "t_gfn1YqOhs",
-      "title": "반도체 다시 올라올 때 됐나…순환매 장세, 지금 시장 투자 전략은? | 박현지, 김인식, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=t_gfn1YqOhs",
-      "thumbnail_url": "https://i1.ytimg.com/vi/t_gfn1YqOhs/hqdefault.jpg",
-      "published_at": "2026-08-13T02:41:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

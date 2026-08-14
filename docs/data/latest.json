@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:58:35.619668+00:00",
+  "generated_at": "2026-08-14T19:05:59.537458+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -253,22 +253,17 @@
     },
     {
       "video_id": "HJ18cmjyNpQ",
-      "title": "1970년대 미친 인플레이션 재현된다, 주식 조금 팔고 '이 자산으로' 옮겨라 (신환종 박사)",
+      "title": "앞으로 5년 미친 인플레이션 온다, 주식 좀 팔고 '이 자산으로' 옮기세요 (신환종 박사)",
       "source_url": "https://www.youtube.com/watch?v=HJ18cmjyNpQ",
       "thumbnail_url": "https://i1.ytimg.com/vi/HJ18cmjyNpQ/hqdefault.jpg",
       "published_at": "2026-08-14T09:00:08+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

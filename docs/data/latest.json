@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T13:15:34.322568+00:00",
+  "generated_at": "2026-08-14T14:55:03.819109+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "rlBL0hhoWXs",
+      "title": "반도체 정점론에도 전고점까지 홀딩…자동차·로봇이 다음 상승을 이끈다ㅣ명민준, 박가영, 정태근 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=rlBL0hhoWXs",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rlBL0hhoWXs/hqdefault.jpg",
+      "published_at": "2026-08-14T13:30:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "eZqwjNGIuK0",
       "title": "삼전닉스가 되살린 시장…지금 작은 반등에 팔면 안 되는 이유ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
@@ -158,20 +177,15 @@
     },
     {
       "video_id": "x84CN32rrMk",
-      "title": "이재명 부동산 세제 개편 총 정리, 폭탄은 '여기에' 떨어진다 (남혁우 부동산연구원)",
+      "title": "이재명 부동산 세제 개편 분석, 집값 내년부터 무서울 겁니다 (남혁우 부동산연구원)",
       "source_url": "https://www.youtube.com/watch?v=x84CN32rrMk",
       "thumbnail_url": "https://i1.ytimg.com/vi/x84CN32rrMk/hqdefault.jpg",
       "published_at": "2026-08-14T10:00:28+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities",
         "real_estate"
       ],
       "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
         {
           "topic": "real_estate",
           "stance": "neutral"
@@ -239,7 +253,7 @@
     },
     {
       "video_id": "HJ18cmjyNpQ",
-      "title": "은행에 현금 놔두면 다 녹는다, 주식 다음 폭등할 '이 자산' 사세요 (신환종 박사)",
+      "title": "1970년대 미친 인플레이션 재현된다, 주식 조금 팔고 '이 자산으로' 옮겨라 (신환종 박사)",
       "source_url": "https://www.youtube.com/watch?v=HJ18cmjyNpQ",
       "thumbnail_url": "https://i1.ytimg.com/vi/HJ18cmjyNpQ/hqdefault.jpg",
       "published_at": "2026-08-14T09:00:08+00:00",
@@ -263,17 +277,22 @@
     },
     {
       "video_id": "gluYw9y6svM",
-      "title": "\"하루라도 빨리 사두세요\" 딱 50만원씩 '여기' 넣어라. 2억 무조건 됩니다 | 이준호 대표 1부",
+      "title": "\"남은 돈 다 써도 된다\" 전재산 5천만원으로 이 ETF 사두면 노후 평생 놀고 먹는다 | 이준호 대표 1부",
       "source_url": "https://www.youtube.com/watch?v=gluYw9y6svM",
       "thumbnail_url": "https://i4.ytimg.com/vi/gluYw9y6svM/hqdefault.jpg",
       "published_at": "2026-08-14T08:30:32+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "macro"
+        "commodities",
+        "etf"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -387,15 +406,20 @@
     },
     {
       "video_id": "_l2OWzBA6RA",
-      "title": "\"월 300씩 평생 씁니다\" 60대는 그냥 이 ETF 사세요. 남들보다 배당 몇배로 더 받습니다 | 허태호 대표 #노후준비",
+      "title": "\"퇴직금 1억만 넣어도 충분\" 5060은 그냥 이 ETF 사세요. 가격도 싼데 배당도 퍼줍니다 | 허태호 대표 #재테크",
       "source_url": "https://www.youtube.com/watch?v=_l2OWzBA6RA",
       "thumbnail_url": "https://i4.ytimg.com/vi/_l2OWzBA6RA/hqdefault.jpg",
       "published_at": "2026-08-14T07:00:20+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
+        "commodities",
         "etf"
       ],
       "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
         {
           "topic": "etf",
           "stance": "neutral"
@@ -546,25 +570,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Kqk8-ZIHj2g",
-      "title": "샌디스크·마이크론이 보여준 '진짜 신호'…외국인 수급까지 바뀌었다 | 박병창 MP파트너스 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=Kqk8-ZIHj2g",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Kqk8-ZIHj2g/hqdefault.jpg",
-      "published_at": "2026-08-14T00:10:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

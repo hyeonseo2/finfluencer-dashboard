@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T22:27:35.450355+00:00",
+  "generated_at": "2026-08-14T23:25:53.688171+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "voZ68b0o2fI",
+      "title": "반등은 시작일 뿐…지금부터 ‘다음 주도주’를 찾아야 하는 이유 | 이선엽 AFW파트너스 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=voZ68b0o2fI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/voZ68b0o2fI/hqdefault.jpg",
+      "published_at": "2026-08-14T23:00:09+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "rlBL0hhoWXs",
       "title": "반도체 정점론에도 전고점까지 홀딩…자동차·로봇이 다음 상승을 이끈다ㅣ명민준, 박가영, 정태근 [주린이 구조대]",
@@ -541,30 +560,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1jUcnJO6sMg",
-      "title": "\"7,000 탈환 했다\" 지금은 의미있는 상승 | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=1jUcnJO6sMg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1jUcnJO6sMg/hqdefault.jpg",
-      "published_at": "2026-08-14T01:19:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

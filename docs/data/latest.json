@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:47:55.042015+00:00",
+  "generated_at": "2026-08-14T13:15:34.322568+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "eZqwjNGIuK0",
+      "title": "삼전닉스가 되살린 시장…지금 작은 반등에 팔면 안 되는 이유ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=eZqwjNGIuK0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eZqwjNGIuK0/hqdefault.jpg",
+      "published_at": "2026-08-14T12:30:39+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "4daxVThVHBo",
       "title": "\"이건 대사건으로 기록될 겁니다\" 엔비디아가 AI의 은행이 된 순간, 판도라의 상자가 열렸다고 말한 이유",
@@ -120,7 +139,7 @@
     },
     {
       "video_id": "JWyCp00M-Z0",
-      "title": "\"2000% 수익률\" 순자산 42억 파이어족이 선택한 이것. 7개월만에 9억 벌었어요. 이 ETF로 무한매수 하세요ㅣ사이다언니 풀버전 #돈쭐남 #김경필",
+      "title": "\"싸도 너무 싸다\" 1억 있다면 이 ETF 사라. 10억까지 무조건 불어난다ㅣ사이다언니 풀버전 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=JWyCp00M-Z0",
       "thumbnail_url": "https://i3.ytimg.com/vi/JWyCp00M-Z0/hqdefault.jpg",
       "published_at": "2026-08-14T10:30:29+00:00",
@@ -539,25 +558,6 @@
       "source_url": "https://www.youtube.com/watch?v=Kqk8-ZIHj2g",
       "thumbnail_url": "https://i4.ytimg.com/vi/Kqk8-ZIHj2g/hqdefault.jpg",
       "published_at": "2026-08-14T00:10:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "0nwhlumpbA4",
-      "title": "수도권 23만가구+α 공급…주담대 30조 더 푼다 | 현대차, 1차 협력업체들과 로봇 공급망 구축…테슬라는 중국 의존 | 권순우 삼프로TV 취재팀장 [뉴스3]",
-      "source_url": "https://www.youtube.com/watch?v=0nwhlumpbA4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/0nwhlumpbA4/hqdefault.jpg",
-      "published_at": "2026-08-13T23:29:58+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"

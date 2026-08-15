@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T22:26:17.486034+00:00",
+  "generated_at": "2026-08-15T23:24:00.462758+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "iVDJekNl0Nc",
+      "title": "반등한 증시, 진짜 변화는 따로 있다…AI로 향하는 새로운 돈의 흐름 | 신영증권 김효진 박사 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=iVDJekNl0Nc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iVDJekNl0Nc/hqdefault.jpg",
+      "published_at": "2026-08-15T23:00:35+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "XyXohIM3ZO0",
       "title": "키작남이 줄고, 키큰남이 늘었다.",
@@ -841,30 +860,6 @@
         },
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1ZfxHgq3IZQ",
-      "title": "부자들의 포트폴리오가 바뀌었다…부동산보다 금융자산? 하반기 투자전략은 | 송치열, 백찬규, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=1ZfxHgq3IZQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1ZfxHgq3IZQ/hqdefault.jpg",
-      "published_at": "2026-08-14T02:25:37+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
           "stance": "neutral"
         }
       ],

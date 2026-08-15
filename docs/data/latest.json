@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T23:25:53.688171+00:00",
+  "generated_at": "2026-08-15T01:26:47.192310+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "qceX2qJWKMQ",
+      "title": "라인 강탈해간 일본 한국 없어 쫄딱 망할 판 | 홍대선 작가 풀버전 1",
+      "source_url": "https://www.youtube.com/watch?v=qceX2qJWKMQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/qceX2qJWKMQ/hqdefault.jpg",
+      "published_at": "2026-08-15T00:00:15+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "mmzVn1dwMR8",
+      "title": "\"5060은 필수 시청해라\" 5년 납입하고 죽을 때까지 평생 받아요. 초고속 연금 드디어 떴습니다 | 이영주 대표 30분 요약 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=mmzVn1dwMR8",
+      "thumbnail_url": "https://i2.ytimg.com/vi/mmzVn1dwMR8/hqdefault.jpg",
+      "published_at": "2026-08-15T00:00:11+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "voZ68b0o2fI",
       "title": "반등은 시작일 뿐…지금부터 ‘다음 주도주’를 찾아야 하는 이유 | 이선엽 AFW파트너스 대표 [주말인터뷰]",
@@ -946,44 +984,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5Rcy2EBSLe0",
-      "title": "배당+성장 다잡은 포트폴리오 공개 #은공",
-      "source_url": "https://www.youtube.com/shorts/5Rcy2EBSLe0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5Rcy2EBSLe0/hqdefault.jpg",
-      "published_at": "2026-08-12T10:00:28+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5lo1QZ28WX4",
-      "title": "\"TSMC 멈췄다\" 일본에 공장 지었다가 초비상 발칵 뒤집힌 대만 상황 | 김정호 교수 4부",
-      "source_url": "https://www.youtube.com/watch?v=5lo1QZ28WX4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5lo1QZ28WX4/hqdefault.jpg",
-      "published_at": "2026-08-12T09:30:37+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ghQHs2qRvyI",

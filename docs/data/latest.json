@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T11:23:41.691402+00:00",
+  "generated_at": "2026-08-15T12:44:33.298859+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "XyXohIM3ZO0",
+      "title": "키작남이 줄고, 키큰남이 늘었다.",
+      "source_url": "https://www.youtube.com/watch?v=XyXohIM3ZO0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/XyXohIM3ZO0/hqdefault.jpg",
+      "published_at": "2026-08-15T12:08:22+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "n_nQmPpSdug",
+      "title": "현금 있으면 삼성전자 대신 '이것' 사세요, 역대급 배당 폭탄에 주가 폭등 온다 (고태훈 본부장)",
+      "source_url": "https://www.youtube.com/watch?v=n_nQmPpSdug",
+      "thumbnail_url": "https://i3.ytimg.com/vi/n_nQmPpSdug/hqdefault.jpg",
+      "published_at": "2026-08-15T11:45:27+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "O6qNuauCVzc",
       "title": "사상 최악의 대참사 터졌다 쫄딱 망해버린 중국 반도체 | 조현승 박사 3부",
@@ -1315,25 +1358,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "xTb0SXAxpz4",
-      "title": "수도권 집값 가장 많이 오를 지역, '여기' 아파트 무섭게 오를 겁니다 (빠숑 김학렬 소장)",
-      "source_url": "https://www.youtube.com/watch?v=xTb0SXAxpz4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xTb0SXAxpz4/hqdefault.jpg",
-      "published_at": "2026-08-10T08:45:39+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "YzT1DepJxls",
       "title": "금리 5~6%로 빌려서 수익률 25%를 냅니다. 빅테크가 AI 투자를 멈출 수 없는 진짜 이유",
       "source_url": "https://www.youtube.com/watch?v=YzT1DepJxls",
@@ -1484,30 +1508,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ZhA3YmvkSI0",
-      "title": "수많은 개미들을 울린 코스피 레전드 무빙",
-      "source_url": "https://www.youtube.com/shorts/ZhA3YmvkSI0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZhA3YmvkSI0/hqdefault.jpg",
-      "published_at": "2026-08-04T11:24:32+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T07:33:43.983534+00:00",
+  "generated_at": "2026-08-15T08:34:00.012714+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "i2xDeYxVoLM",
+      "title": "\"완전히 패전국 됐다\" 하메네이 정권 완전히 붕괴 테헤란 다시 불바다 됐다 | 박현도 교수 1부",
+      "source_url": "https://www.youtube.com/watch?v=i2xDeYxVoLM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/i2xDeYxVoLM/hqdefault.jpg",
+      "published_at": "2026-08-15T08:00:05+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "dEHgEtPQrbA",
       "title": "무섭거나 흥분되거나 둘 중 하나입니다. 젠슨 황이 판도라의 상자를 연 지금, 금융공학 석사가 보는 시각",
@@ -884,25 +903,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "NkbIQIPgmkc",
-      "title": "\"새로운 한류가 탄생했다\" 최근 중동에 퍼진 이상 기류｜자나 왈리드 2부",
-      "source_url": "https://www.youtube.com/watch?v=NkbIQIPgmkc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NkbIQIPgmkc/hqdefault.jpg",
-      "published_at": "2026-08-13T09:30:33+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "iWsc7savEtA",

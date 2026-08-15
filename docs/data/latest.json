@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T01:26:47.192310+00:00",
+  "generated_at": "2026-08-15T02:55:06.284886+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,18 +57,75 @@
   ],
   "videos": [
     {
+      "video_id": "-P1zNBHmulE",
+      "title": "\"중국군 보고 있나?\" 대만 중국 몰살 작전 개시 시진핑 지금 초비상 상황 | 김민석 특파원 1부",
+      "source_url": "https://www.youtube.com/watch?v=-P1zNBHmulE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-P1zNBHmulE/hqdefault.jpg",
+      "published_at": "2026-08-15T02:00:23+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "11LuxBjp4t4",
+      "title": "다시 오른 코스피, 안심하긴 이르다? 앞으로가 중요한 이유 | 박병창 MP파트너스 대표 [주말 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=11LuxBjp4t4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/11LuxBjp4t4/hqdefault.jpg",
+      "published_at": "2026-08-15T02:00:15+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "6zrX0s3fF_g",
+      "title": "\"이것 모르면 노후 박살\" ISA 개정 제발 속지마세요. 50대는 그냥 이 ETF만 사 모아라 | 김피비 3부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=6zrX0s3fF_g",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6zrX0s3fF_g/hqdefault.jpg",
+      "published_at": "2026-08-15T02:00:11+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "qceX2qJWKMQ",
-      "title": "라인 강탈해간 일본 한국 없어 쫄딱 망할 판 | 홍대선 작가 풀버전 1",
+      "title": "\"TSMC 대위기\" 일본 택했다가 쫄딱 망했다 대만 지금 미칠 지경이다 | 홍대선 작가 풀버전 1",
       "source_url": "https://www.youtube.com/watch?v=qceX2qJWKMQ",
       "thumbnail_url": "https://i2.ytimg.com/vi/qceX2qJWKMQ/hqdefault.jpg",
       "published_at": "2026-08-15T00:00:15+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -586,25 +643,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "LN61iXROPoQ",
-      "title": "\"주주환원 이렇게 하면 엄청난 효과\" 그러나 문제가 있습니다 | 이재만 하나증권 리서치센터 글로벌투자분석실장 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=LN61iXROPoQ",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LN61iXROPoQ/hqdefault.jpg",
-      "published_at": "2026-08-14T01:32:52+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "xX8HLws6gMQ",
       "title": "[속보효] 젠슨황이 미국 정부와 함께 공개해준 \"다음 주도주\"",
       "source_url": "https://www.youtube.com/watch?v=xX8HLws6gMQ",
@@ -922,49 +960,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "iCILQimASzg",
-      "title": "\"연 10% 나온다\" 60대는 그냥 이 ETF만 사라. 같은 돈 넣고 남들보다 배당 몇배로 받는다 | 문현철 작가 풀버전 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=iCILQimASzg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/iCILQimASzg/hqdefault.jpg",
-      "published_at": "2026-08-12T10:30:26+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-vpLbARg2WU",
-      "title": "두산에너빌리티 난리난 이유 지금 안팔면 '이렇게' 된다 | 박진희 부장 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=-vpLbARg2WU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-vpLbARg2WU/hqdefault.jpg",
-      "published_at": "2026-08-12T10:30:05+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "pV8p4PcXvMs",

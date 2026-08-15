@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T09:29:20.096583+00:00",
+  "generated_at": "2026-08-15T10:26:33.876331+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "O6qNuauCVzc",
+      "title": "사상 최악의 대참사 터졌다 쫄딱 망해버린 중국 반도체 | 조현승 박사 3부",
+      "source_url": "https://www.youtube.com/watch?v=O6qNuauCVzc",
+      "thumbnail_url": "https://i4.ytimg.com/vi/O6qNuauCVzc/hqdefault.jpg",
+      "published_at": "2026-08-15T10:00:33+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "i2xDeYxVoLM",
       "title": "\"완전히 패전국 됐다\" 하메네이 정권 완전히 붕괴 테헤란 다시 불바다 됐다 | 박현도 교수 1부",
@@ -846,25 +865,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hwGwb3QZnH4",
-      "title": "“한국 때문에 죽을 맛” 대만 전역에 싹다 퍼졌다. 한국에 대한 충격적인 소문 | 김대영 군사평론가 3부",
-      "source_url": "https://www.youtube.com/watch?v=hwGwb3QZnH4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hwGwb3QZnH4/hqdefault.jpg",
-      "published_at": "2026-08-13T10:30:16+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "HQ-cR58_iVM",

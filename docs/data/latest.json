@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:31:02.678110+00:00",
+  "generated_at": "2026-08-16T10:26:59.019165+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,8 +57,46 @@
   ],
   "videos": [
     {
+      "video_id": "GBH0tKHjCbQ",
+      "title": "챗GPT보다 구글이 훨씬 무서운 이유, 지금이라도 구글과 '이 주식' 사세요 (고태훈 본부장)",
+      "source_url": "https://www.youtube.com/watch?v=GBH0tKHjCbQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/GBH0tKHjCbQ/hqdefault.jpg",
+      "published_at": "2026-08-16T10:15:31+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "TeTwDzRYy3A",
+      "title": "우크라이나 역대급 대승 러시아 진격은 커녕 몰살 중이다 | 김민석 특파원 풀버전 1",
+      "source_url": "https://www.youtube.com/watch?v=TeTwDzRYy3A",
+      "thumbnail_url": "https://i1.ytimg.com/vi/TeTwDzRYy3A/hqdefault.jpg",
+      "published_at": "2026-08-16T10:00:16+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "pYqEGlIqnIg",
-      "title": "\"중국 배터리 싹다 빼!\" 참다못한 트럼프 충격 결단 얼떨결에 한국만 경사 났다 | 윤석천 경제평론가 2부",
+      "title": "중국 긴급 \"배터리 패배 선언\" 한국 2차전지 초대박 터졌다 | 윤석천 경제평론가 2부",
       "source_url": "https://www.youtube.com/watch?v=pYqEGlIqnIg",
       "thumbnail_url": "https://i1.ytimg.com/vi/pYqEGlIqnIg/hqdefault.jpg",
       "published_at": "2026-08-16T08:00:17+00:00",
@@ -391,7 +429,7 @@
     },
     {
       "video_id": "i2xDeYxVoLM",
-      "title": "\"완전히 패전국 됐다\" 하메네이 정권 완전히 붕괴 테헤란 다시 불바다 됐다 | 박현도 교수 1부",
+      "title": "이란 사실상 쿠데타 발생 곧 테헤란이 무너져 내린다 | 박현도 교수 1부",
       "source_url": "https://www.youtube.com/watch?v=i2xDeYxVoLM",
       "thumbnail_url": "https://i2.ytimg.com/vi/i2xDeYxVoLM/hqdefault.jpg",
       "published_at": "2026-08-15T08:00:05+00:00",
@@ -574,25 +612,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-P1zNBHmulE",
-      "title": "“시진핑 바짝 쫄았다” 사상 최악의 대참사 터졌다 날벼락 맞은 중국 실제 상황 | 김민석 특파원 1부",
-      "source_url": "https://www.youtube.com/watch?v=-P1zNBHmulE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-P1zNBHmulE/hqdefault.jpg",
-      "published_at": "2026-08-15T02:00:23+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "11LuxBjp4t4",
@@ -1322,25 +1341,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "p-K-41XUUnw",
-      "title": "5000만원으로 '이 주식' 다 사세요, 내년까지 정말 무섭게 오른다 (신환종 박사)",
-      "source_url": "https://www.youtube.com/watch?v=p-K-41XUUnw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/p-K-41XUUnw/hqdefault.jpg",
-      "published_at": "2026-08-11T08:00:11+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "2Y-4jWb4qBA",

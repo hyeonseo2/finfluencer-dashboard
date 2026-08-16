@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T11:23:33.828457+00:00",
+  "generated_at": "2026-08-16T12:47:09.562328+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,18 +57,47 @@
   ],
   "videos": [
     {
+      "video_id": "X2M4OqPlP24",
+      "title": "[슈카월드] 코스피 지금이니? / 8.13 부동산 공급대책 떴다 / 대한민국 역사상 가장 더웠던 날/ 병가 내도 되나요? / 템즈강은 똥물인가",
+      "source_url": "https://www.youtube.com/watch?v=X2M4OqPlP24",
+      "thumbnail_url": "https://i1.ytimg.com/vi/X2M4OqPlP24/hqdefault.jpg",
+      "published_at": "2026-08-16T11:22:04+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks",
+        "commodities",
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "gKBr8YTLlpI",
-      "title": "32년간 주식 투자를 해보니 '이 방법으로' 돈 벌더라고요 (홍춘욱 박사)",
+      "title": "하락장 와도 절대 안 깨지는 계좌, 현금 있다면 '딱 3개만' 담으세요 (홍춘욱 박사)",
       "source_url": "https://www.youtube.com/watch?v=gKBr8YTLlpI",
       "thumbnail_url": "https://i4.ytimg.com/vi/gKBr8YTLlpI/hqdefault.jpg",
       "published_at": "2026-08-16T11:15:35+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -96,17 +125,17 @@
     },
     {
       "video_id": "TeTwDzRYy3A",
-      "title": "우크라이나 역대급 대승 러시아 진격은 커녕 몰살 중이다 | 김민석 특파원 풀버전 1",
+      "title": "한국 철수에 돌변한 캐나다 잠수함 판도 완전 뒤집혔다 | 김민석 특파원 풀버전 1",
       "source_url": "https://www.youtube.com/watch?v=TeTwDzRYy3A",
       "thumbnail_url": "https://i1.ytimg.com/vi/TeTwDzRYy3A/hqdefault.jpg",
       "published_at": "2026-08-16T10:00:16+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1469,25 +1498,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Zcs3uzxymd0",
-      "title": "도쿄 대지진이 무서워서, 제 2의 수도를 정하고 있는 일본",
-      "source_url": "https://www.youtube.com/watch?v=Zcs3uzxymd0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Zcs3uzxymd0/hqdefault.jpg",
-      "published_at": "2026-08-04T12:30:10+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

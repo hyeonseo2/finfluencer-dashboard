@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T07:34:15.519341+00:00",
+  "generated_at": "2026-08-16T08:34:15.236678+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "pYqEGlIqnIg",
+      "title": "\"중국 배터리 싹다 빼!\" 참다못한 트럼프 충격 결단 얼떨결에 한국만 경사 났다 | 윤석천 경제평론가 2부",
+      "source_url": "https://www.youtube.com/watch?v=pYqEGlIqnIg",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pYqEGlIqnIg/hqdefault.jpg",
+      "published_at": "2026-08-16T08:00:17+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "5nUugyKpxOU",
       "title": "이집트 전역에 싹다 퍼졌다. 한국에 대한 어마어마한 소문｜자나 왈리드 3부",
@@ -612,25 +631,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qceX2qJWKMQ",
-      "title": "\"TSMC 대위기\" 일본 택했다가 쫄딱 망했다 대만 지금 미칠 지경이다 | 홍대선 작가 풀버전 1",
-      "source_url": "https://www.youtube.com/watch?v=qceX2qJWKMQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qceX2qJWKMQ/hqdefault.jpg",
-      "published_at": "2026-08-15T00:00:15+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "mmzVn1dwMR8",

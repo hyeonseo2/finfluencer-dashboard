@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T22:25:25.416903+00:00",
+  "generated_at": "2026-08-16T23:23:50.990389+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,7 +46,6 @@
   ],
   "topics": [
     "commodities",
-    "crypto",
     "etf",
     "fx",
     "interest_rate",
@@ -56,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "dSZhZQRyRIw",
+      "title": "미국은 왜 엔화 붕괴를 막았을까? 미국이 일본을 살린 진짜 이유는... | 상지대학교 소현철 외래교수 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=dSZhZQRyRIw",
+      "thumbnail_url": "https://i1.ytimg.com/vi/dSZhZQRyRIw/hqdefault.jpg",
+      "published_at": "2026-08-16T23:00:16+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "gKBr8YTLlpI",
       "title": "32년간 주식 투자를 해보니 '이 방법으로' 돈 벌더라고요 (홍춘욱 박사)",
@@ -998,25 +1021,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "v4V0hpDi2Tc",
-      "title": "코인베이스가 아부다비로 간 이유…크립토 금융 본격화 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=v4V0hpDi2Tc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/v4V0hpDi2Tc/hqdefault.jpg",
-      "published_at": "2026-08-14T03:22:12+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "xX8HLws6gMQ",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T23:24:00.462758+00:00",
+  "generated_at": "2026-08-16T01:38:22.991396+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "nNYjzOTA7LM",
+      "title": "미국 정부가 GPU 담보 대출 규제를 풀어준 날, 월가 큰손들이 한꺼번에 들어온 충격적인 이유",
+      "source_url": "https://www.youtube.com/watch?v=nNYjzOTA7LM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nNYjzOTA7LM/hqdefault.jpg",
+      "published_at": "2026-08-16T00:00:20+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Yu39YpsywhQ",
+      "title": "위성에서 포착된 충격 신호 폭동으로 난리난 장마당 상황 | 김주성 탈북작가 2부",
+      "source_url": "https://www.youtube.com/watch?v=Yu39YpsywhQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Yu39YpsywhQ/hqdefault.jpg",
+      "published_at": "2026-08-16T00:00:05+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Bg_dkRqJi6U",
+      "title": "\"한국은행의 이례적 선언\" 금값 초토화 될 법안 떴다. 곧 무시무시할 겁니다 #김경필 #돈쭐남",
+      "source_url": "https://www.youtube.com/watch?v=Bg_dkRqJi6U",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Bg_dkRqJi6U/hqdefault.jpg",
+      "published_at": "2026-08-16T00:00:00+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "iVDJekNl0Nc",
       "title": "반등한 증시, 진짜 변화는 따로 있다…AI로 향하는 새로운 돈의 흐름 | 신영증권 김효진 박사 [주말인터뷰]",
@@ -805,25 +862,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "e5ZqYzDWHqg",
-      "title": "삼전닉스 마지막 탈출 기회? '이 가격' 되면 싹다 파세요｜이권희 대표 풀버전2",
-      "source_url": "https://www.youtube.com/watch?v=e5ZqYzDWHqg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/e5ZqYzDWHqg/hqdefault.jpg",
-      "published_at": "2026-08-14T06:30:27+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "v4V0hpDi2Tc",
       "title": "코인베이스가 아부다비로 간 이유…크립토 금융 본격화 | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=v4V0hpDi2Tc",
@@ -1003,25 +1041,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Xfx-R7Ulb3E",
-      "title": "\"IMF보다 더 끔찍한 위기 시작됐다\" 인구 1위 도시조차 곳간 텅 비었다. 사실상 부도 선언한 국가 기관 순위 #김경필 #돈쭐남",
-      "source_url": "https://www.youtube.com/watch?v=Xfx-R7Ulb3E",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Xfx-R7Ulb3E/hqdefault.jpg",
-      "published_at": "2026-08-13T07:00:19+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1408,25 +1427,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VhumCcP2qhc",
-      "title": "\"주가 눌러도 되는 법을 만들었다\" 주가누르기방지법이 누더기가 된 진짜 이유",
-      "source_url": "https://www.youtube.com/watch?v=VhumCcP2qhc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VhumCcP2qhc/hqdefault.jpg",
-      "published_at": "2026-08-07T03:40:14+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

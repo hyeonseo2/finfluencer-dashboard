@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T09:47:08.465490+00:00",
+  "generated_at": "2026-08-17T10:35:20.873208+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "OVRFSiJQ1Ec",
+      "title": "《오디세이》 '이것' 알고 보면, 완전히 다른 영화가 됩니다 (김상근 교수)",
+      "source_url": "https://www.youtube.com/watch?v=OVRFSiJQ1Ec",
+      "thumbnail_url": "https://i4.ytimg.com/vi/OVRFSiJQ1Ec/hqdefault.jpg",
+      "published_at": "2026-08-17T10:30:30+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ZDEcjWLIPTg",
+      "title": "\"안팔면 그만!\" 한국 기술 날먹하려다 폭망 스페인 땅치고 후회중인 이유 | 김대영 군사평론가 4부",
+      "source_url": "https://www.youtube.com/watch?v=ZDEcjWLIPTg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZDEcjWLIPTg/hqdefault.jpg",
+      "published_at": "2026-08-17T10:00:32+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Mz58hBqS2AI",
       "title": "1000만원으로 '이 주식' 다 사세요, 내년까지 정말 무섭게 오른다 (고태훈 본부장)",
@@ -608,25 +646,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Yu39YpsywhQ",
-      "title": "위성에서 포착된 충격 신호 폭동으로 난리난 장마당 상황 | 김주성 탈북작가 2부",
-      "source_url": "https://www.youtube.com/watch?v=Yu39YpsywhQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Yu39YpsywhQ/hqdefault.jpg",
-      "published_at": "2026-08-16T00:00:05+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "Bg_dkRqJi6U",
       "title": "\"한국은행의 이례적 선언\" 금값 초토화 될 법안 떴다. 곧 무시무시할 겁니다 #김경필 #돈쭐남",
       "source_url": "https://www.youtube.com/watch?v=Bg_dkRqJi6U",
@@ -1125,30 +1144,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "DVlYiSCCqMc",
-      "title": "한국주식 역대급 바닥은 다졌다, 9월부터 무섭게 오를 1순위 종목 (고태훈 본부장)",
-      "source_url": "https://www.youtube.com/watch?v=DVlYiSCCqMc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DVlYiSCCqMc/hqdefault.jpg",
-      "published_at": "2026-08-13T09:00:04+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "d-M6YDzTsg0",

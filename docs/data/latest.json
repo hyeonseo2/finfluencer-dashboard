@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T22:28:21.847459+00:00",
+  "generated_at": "2026-08-17T23:26:21.954750+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
   ],
   "videos": [
     {
+      "video_id": "s8ymgSvdwMo",
+      "title": "미국증시는 지금 랠리 중...나스닥 상승세, 이번엔 무엇이 주도하게 될까? | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=s8ymgSvdwMo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/s8ymgSvdwMo/hqdefault.jpg",
+      "published_at": "2026-08-17T22:51:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "-Ww4XXgvVlo",
       "title": "샌디스크, 인베스터데이 이후 30% 상승...뉴욕 증시, 금리 불확실성에 연이틀 하락 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=-Ww4XXgvVlo",
@@ -81,22 +105,17 @@
     },
     {
       "video_id": "sarhEmTgbIE",
-      "title": "미•이란 갈등 속 뉴욕증시 하락 마감...메모리 관련주 '강세’_26.08.18 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "title": "다시 돌아온 삼전닉스에도 FOMC 의사록·중동전쟁이 변수...극복할 수 있을까? | 정프로, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=sarhEmTgbIE",
       "thumbnail_url": "https://i4.ytimg.com/vi/sarhEmTgbIE/hqdefault.jpg",
       "published_at": "2026-08-17T20:48:37+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities"
+        "interest_rate"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
+          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
@@ -1025,30 +1044,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cb7ShNJbBA0",
-      "title": "[26.08.14 오후 방송 전체보기] 코스피, 돌아온 외국인·살아난 반도체에 5거래일 연속 상승! 원화 한 달 새 9.4% '껑충'",
-      "source_url": "https://www.youtube.com/watch?v=cb7ShNJbBA0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cb7ShNJbBA0/hqdefault.jpg",
-      "published_at": "2026-08-14T11:04:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "x84CN32rrMk",

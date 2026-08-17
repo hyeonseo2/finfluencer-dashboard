@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T03:03:25.916839+00:00",
+  "generated_at": "2026-08-17T04:47:40.352618+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,73 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "H5ApF8I5YTE",
+      "title": "\"50대는 그냥 이 ETF 사라\" 퇴직금 1억 여기 맘편히 묻어두세요. 가격도 싼데 배당도 퍼줍니다 | 이준호 대표 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=H5ApF8I5YTE",
+      "thumbnail_url": "https://i1.ytimg.com/vi/H5ApF8I5YTE/hqdefault.jpg",
+      "published_at": "2026-08-17T04:00:37+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities",
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "q-G82gpDB9E",
+      "title": "난리난 삼성전자 하이닉스 대신 '이 ETF' 보세요 #박수민",
+      "source_url": "https://www.youtube.com/shorts/q-G82gpDB9E",
+      "thumbnail_url": "https://i2.ytimg.com/vi/q-G82gpDB9E/hqdefault.jpg",
+      "published_at": "2026-08-17T04:00:31+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks",
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "LqboDKSsm8g",
+      "title": "\"사우디 집중 공격\" 이란 전쟁보다 끔찍한 대참사 곧 중동 전역 발칵 뒤집힌다 | 박현도 교수 2부",
+      "source_url": "https://www.youtube.com/watch?v=LqboDKSsm8g",
+      "thumbnail_url": "https://i1.ytimg.com/vi/LqboDKSsm8g/hqdefault.jpg",
+      "published_at": "2026-08-17T03:00:27+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "gs_t5MCZ7Mk",
       "title": "투자금은 어떻게 개인의 빚이 됐을까? | 신철호 OGQ  대표 [주말인터뷰]",
@@ -603,25 +670,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "4v6lenlZ570",
-      "title": "삼성전자 또 한 번 반등 온다 ‘이 가격' 되면 싹다 파세요 | 이승조 무극선생 3부",
-      "source_url": "https://www.youtube.com/watch?v=4v6lenlZ570",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4v6lenlZ570/hqdefault.jpg",
-      "published_at": "2026-08-15T06:00:18+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "i-4V4E8izfI",
       "title": "[한국어] 켄 피셔 회장 단독 인터뷰, 600조 운용 투자 거장이 전하는 2026년 하반기 한국·미국 증시 진단 [Global Money Talk]",
       "source_url": "https://www.youtube.com/watch?v=i-4V4E8izfI",
@@ -682,25 +730,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Z-LBR9czUa4",
-      "title": "러시아 급 한국행한 이유. 한국에 엄청난 일 터진다｜조의준 대표 1부",
-      "source_url": "https://www.youtube.com/watch?v=Z-LBR9czUa4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Z-LBR9czUa4/hqdefault.jpg",
-      "published_at": "2026-08-15T04:00:37+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "wK5L5TLo9aw",
@@ -934,25 +963,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "0XWKbCSa00M",
-      "title": "\"미국주식도 잘못사면 큰일난다\" S&P500 10년 투자해도 노후에 망할 수 있습니다. 적립식 투자하기전에 이 영상 꼭 보세요 | 경제왕 김피비 2부 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=0XWKbCSa00M",
-      "thumbnail_url": "https://i1.ytimg.com/vi/0XWKbCSa00M/hqdefault.jpg",
-      "published_at": "2026-08-14T09:30:00+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "HJ18cmjyNpQ",

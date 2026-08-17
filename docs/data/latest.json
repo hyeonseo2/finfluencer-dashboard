@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T07:03:09.413974+00:00",
+  "generated_at": "2026-08-17T08:48:45.975768+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
   ],
   "videos": [
     {
+      "video_id": "CBYA5kdMQbA",
+      "title": "베이징 상하이도 텅텅 비었다 죄다 망해버린 중국 경제 상황 | 강준영 교수 3부",
+      "source_url": "https://www.youtube.com/watch?v=CBYA5kdMQbA",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CBYA5kdMQbA/hqdefault.jpg",
+      "published_at": "2026-08-17T08:00:28+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "UXORX88wI9M",
+      "title": "100만원으로 1500억 번 비결, 진짜 부자되는 방법 알려드리죠 (아정당 김민기 대표)",
+      "source_url": "https://www.youtube.com/watch?v=UXORX88wI9M",
+      "thumbnail_url": "https://i2.ytimg.com/vi/UXORX88wI9M/hqdefault.jpg",
+      "published_at": "2026-08-17T07:45:13+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "kWoHBKz4ELE",
       "title": "\"기름 넘친다더니...\" 결국 한국에 손 내민 러시아 곧 한국에 엄청난 일 터진다 | 김민석 특파원 2부",
       "source_url": "https://www.youtube.com/watch?v=kWoHBKz4ELE",
@@ -76,22 +114,22 @@
     },
     {
       "video_id": "67Uj3muPLpc",
-      "title": "\"환율 7000원 간다\" 지금 IMF보다 심각한 상태입니다. 국가 부도의 날이 다가왔다 | 경제왕 김피비 풀버전 #돈쭐남 #김경필",
+      "title": "\"한국 주식은 휴지조각 된다\" 이떄부터 끔찍하게 빠진다. 다시 2천피로 추락할겁니다 | 경제왕 김피비 풀버전 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=67Uj3muPLpc",
       "thumbnail_url": "https://i3.ytimg.com/vi/67Uj3muPLpc/hqdefault.jpg",
       "published_at": "2026-08-17T06:00:07+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities",
-        "fx"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
           "stance": "neutral"
         },
         {
-          "topic": "fx",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -649,25 +687,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "O6qNuauCVzc",
-      "title": "사상 최악의 대참사 터졌다 쫄딱 망해버린 중국 반도체 | 조현승 박사 3부",
-      "source_url": "https://www.youtube.com/watch?v=O6qNuauCVzc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/O6qNuauCVzc/hqdefault.jpg",
-      "published_at": "2026-08-15T10:00:33+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "dEHgEtPQrbA",
@@ -1268,25 +1287,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KjEJSuBXWuE",
-      "title": "부의 이동이 시작될 때 터질 '이곳', 조만간 엄청난 화폐 폭락이 온다 (신환종 박사)",
-      "source_url": "https://www.youtube.com/watch?v=KjEJSuBXWuE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KjEJSuBXWuE/hqdefault.jpg",
-      "published_at": "2026-08-11T12:30:27+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "QIynCaN5oNo",

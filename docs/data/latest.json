@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T01:36:36.483974+00:00",
+  "generated_at": "2026-08-17T03:03:25.916839+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "gs_t5MCZ7Mk",
+      "title": "투자금은 어떻게 개인의 빚이 됐을까? | 신철호 OGQ  대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=gs_t5MCZ7Mk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/gs_t5MCZ7Mk/hqdefault.jpg",
+      "published_at": "2026-08-17T02:00:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "dTn0Im7-_Mo",
+      "title": "\"연 24% 나온다\" 60대는 그냥 이 ETF 사세요. 남들보다 배당 몇배는 더 줍니다 | 김규동 이사 풀버전 #김경필 #돈쭐남",
+      "source_url": "https://www.youtube.com/watch?v=dTn0Im7-_Mo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/dTn0Im7-_Mo/hqdefault.jpg",
+      "published_at": "2026-08-17T02:00:09+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "d7nfEOIoHus",
       "title": "\"과거와 완전히 똑같다\" 기업들 차례로 쓰러지고 있어요. IMF급 줄도산 시작됩니다  | 이현우 작가 풀버전 #돈쭐남 #김경필",
@@ -936,30 +974,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "gluYw9y6svM",
-      "title": "\"남은 돈 다 써도 된다\" 전재산 5천만원으로 이 ETF 사두면 노후 평생 놀고 먹는다 | 이준호 대표 1부",
-      "source_url": "https://www.youtube.com/watch?v=gluYw9y6svM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/gluYw9y6svM/hqdefault.jpg",
-      "published_at": "2026-08-14T08:30:32+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "H3yK_1JuUIM",
       "title": "[8월 14일 마감시황] 반도체 부활에 외국인까지 돌아왔다…코스피 상승 추세 이어질 조건ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
       "source_url": "https://www.youtube.com/watch?v=H3yK_1JuUIM",
@@ -1006,25 +1020,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QqQhrpaDG8I",
-      "title": "\"8월 주주환원 올까?\" 만약 한다면 정프로가...! | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/shorts/QqQhrpaDG8I",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QqQhrpaDG8I/hqdefault.jpg",
-      "published_at": "2026-08-14T07:17:34+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "xX8HLws6gMQ",

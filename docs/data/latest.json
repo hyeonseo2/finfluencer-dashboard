@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T12:51:56.542610+00:00",
+  "generated_at": "2026-08-17T13:41:41.086865+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -747,17 +747,17 @@
     },
     {
       "video_id": "dEHgEtPQrbA",
-      "title": "무섭거나 흥분되거나 둘 중 하나입니다. 젠슨 황이 판도라의 상자를 연 지금, 금융공학 석사가 보는 시각 알려드립니다",
+      "title": "금융공학을 전공한 제가 보기에도, 미국 정부가 GPU 규제를 풀어준 진짜 이유는 중국이었습니다",
       "source_url": "https://www.youtube.com/watch?v=dEHgEtPQrbA",
       "thumbnail_url": "https://i1.ytimg.com/vi/dEHgEtPQrbA/hqdefault.jpg",
       "published_at": "2026-08-15T07:00:03+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "policy"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "policy",
           "stance": "neutral"
         }
       ],

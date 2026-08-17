@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T21:28:54.213900+00:00",
+  "generated_at": "2026-08-17T22:28:21.847459+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
   ],
   "videos": [
     {
+      "video_id": "-Ww4XXgvVlo",
+      "title": "샌디스크, 인베스터데이 이후 30% 상승...뉴욕 증시, 금리 불확실성에 연이틀 하락 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=-Ww4XXgvVlo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-Ww4XXgvVlo/hqdefault.jpg",
+      "published_at": "2026-08-17T21:59:26+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "sarhEmTgbIE",
       "title": "미•이란 갈등 속 뉴욕증시 하락 마감...메모리 관련주 '강세’_26.08.18 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
       "source_url": "https://www.youtube.com/watch?v=sarhEmTgbIE",
@@ -100,7 +124,7 @@
     },
     {
       "video_id": "OVRFSiJQ1Ec",
-      "title": "《오디세이》 30분 완전 정복, '이것' 모르면 돈 버린 겁니다, 『오디세이아』 완벽 정리 (김상근 교수)",
+      "title": "《오디세이》 30분 완벽 총정리, 영화에선 안 보여준 뒷 이야기, 원작 『오디세이아』 완벽 정리 (김상근 교수)",
       "source_url": "https://www.youtube.com/watch?v=OVRFSiJQ1Ec",
       "thumbnail_url": "https://i4.ytimg.com/vi/OVRFSiJQ1Ec/hqdefault.jpg",
       "published_at": "2026-08-17T10:30:30+00:00",
@@ -1044,25 +1068,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "555XFS6LUmA",
-      "title": "10월 5일에 주목해야 하는 이유…외국인 복귀는 이미 시작됐다ㅣ홍선애, 이혁진 NH투자증권 주식전략팀장 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=555XFS6LUmA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/555XFS6LUmA/hqdefault.jpg",
-      "published_at": "2026-08-14T09:47:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "HJ18cmjyNpQ",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T20:31:05.501233+00:00",
+  "generated_at": "2026-08-17T21:28:54.213900+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "sarhEmTgbIE",
+      "title": "미•이란 갈등 속 뉴욕증시 하락 마감...메모리 관련주 '강세’_26.08.18 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=sarhEmTgbIE",
+      "thumbnail_url": "https://i4.ytimg.com/vi/sarhEmTgbIE/hqdefault.jpg",
+      "published_at": "2026-08-17T20:48:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "TgmE7y5syXk",
       "title": "찐반등인가, 훼이크인가",
@@ -1058,25 +1082,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "H3yK_1JuUIM",
-      "title": "[8월 14일 마감시황] 반도체 부활에 외국인까지 돌아왔다…코스피 상승 추세 이어질 조건ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=H3yK_1JuUIM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/H3yK_1JuUIM/hqdefault.jpg",
-      "published_at": "2026-08-14T08:23:10+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "cIc5qAi8fHU",

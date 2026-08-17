@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T05:37:55.965234+00:00",
+  "generated_at": "2026-08-17T07:03:09.413974+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,15 +56,34 @@
   ],
   "videos": [
     {
-      "video_id": "H5ApF8I5YTE",
-      "title": "\"50대는 그냥 이 ETF 사라\" 퇴직금 1억 여기 맘편히 묻어두세요. 가격도 싼데 배당도 퍼줍니다 | 이준호 대표 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=H5ApF8I5YTE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/H5ApF8I5YTE/hqdefault.jpg",
-      "published_at": "2026-08-17T04:00:37+00:00",
+      "video_id": "kWoHBKz4ELE",
+      "title": "\"기름 넘친다더니...\" 결국 한국에 손 내민 러시아 곧 한국에 엄청난 일 터진다 | 김민석 특파원 2부",
+      "source_url": "https://www.youtube.com/watch?v=kWoHBKz4ELE",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kWoHBKz4ELE/hqdefault.jpg",
+      "published_at": "2026-08-17T06:00:14+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "67Uj3muPLpc",
+      "title": "\"환율 7000원 간다\" 지금 IMF보다 심각한 상태입니다. 국가 부도의 날이 다가왔다 | 경제왕 김피비 풀버전 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=67Uj3muPLpc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/67Uj3muPLpc/hqdefault.jpg",
+      "published_at": "2026-08-17T06:00:07+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
         "commodities",
-        "etf"
+        "fx"
       ],
       "topic_stances": [
         {
@@ -72,7 +91,26 @@
           "stance": "neutral"
         },
         {
-          "topic": "etf",
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "H5ApF8I5YTE",
+      "title": "\"나라가 약속한 19.5% 역대급 통장 떴다\" 매달 50만원 '여기' 넣어라. 나이제한, 소득제한 없어요",
+      "source_url": "https://www.youtube.com/watch?v=H5ApF8I5YTE",
+      "thumbnail_url": "https://i1.ytimg.com/vi/H5ApF8I5YTE/hqdefault.jpg",
+      "published_at": "2026-08-17T04:00:37+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -105,17 +143,17 @@
     },
     {
       "video_id": "LqboDKSsm8g",
-      "title": "\"사우디 집중 공격\" 이란 전쟁보다 끔찍한 대참사 곧 중동 전역 발칵 뒤집힌다 | 박현도 교수 2부",
+      "title": "극비리에 한국 찾은 사우디 돌변. 한국에 대한 태도 급변한 이유 | 박현도 교수 2부",
       "source_url": "https://www.youtube.com/watch?v=LqboDKSsm8g",
       "thumbnail_url": "https://i1.ytimg.com/vi/LqboDKSsm8g/hqdefault.jpg",
       "published_at": "2026-08-17T03:00:27+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -632,25 +670,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "i2xDeYxVoLM",
-      "title": "이란 사실상 쿠데타 발생 곧 테헤란이 무너져 내린다 | 박현도 교수 1부",
-      "source_url": "https://www.youtube.com/watch?v=i2xDeYxVoLM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/i2xDeYxVoLM/hqdefault.jpg",
-      "published_at": "2026-08-15T08:00:05+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "dEHgEtPQrbA",
       "title": "무섭거나 흥분되거나 둘 중 하나입니다. 젠슨 황이 판도라의 상자를 연 지금, 금융공학 석사가 보는 시각 알려드립니다",
       "source_url": "https://www.youtube.com/watch?v=dEHgEtPQrbA",
@@ -906,25 +925,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "JWyCp00M-Z0",
-      "title": "\"싸도 너무 싸다\" 1억 있다면 이 ETF 사라. 10억까지 무조건 불어난다ㅣ사이다언니 풀버전 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=JWyCp00M-Z0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JWyCp00M-Z0/hqdefault.jpg",
-      "published_at": "2026-08-14T10:30:29+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "x84CN32rrMk",

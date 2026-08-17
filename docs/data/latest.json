@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T10:35:20.873208+00:00",
+  "generated_at": "2026-08-17T11:29:51.034067+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "TgmE7y5syXk",
+      "title": "찐반등인가, 훼이크인가",
+      "source_url": "https://www.youtube.com/watch?v=TgmE7y5syXk",
+      "thumbnail_url": "https://i1.ytimg.com/vi/TgmE7y5syXk/hqdefault.jpg",
+      "published_at": "2026-08-17T10:38:20+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "OVRFSiJQ1Ec",
       "title": "《오디세이》 '이것' 알고 보면, 완전히 다른 영화가 됩니다 (김상근 교수)",
@@ -1453,25 +1472,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Zcs3uzxymd0",
-      "title": "도쿄 대지진이 무서워서, 제 2의 수도를 정하고 있는 일본",
-      "source_url": "https://www.youtube.com/watch?v=Zcs3uzxymd0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Zcs3uzxymd0/hqdefault.jpg",
-      "published_at": "2026-08-04T12:30:10+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

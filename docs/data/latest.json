@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:26:21.954750+00:00",
+  "generated_at": "2026-08-18T01:25:51.683353+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
   ],
   "videos": [
     {
+      "video_id": "NHs3DcCD3Fc",
+      "title": "8주 만에 강한 반등한 코스피…반도체 랠리 이어질까? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=NHs3DcCD3Fc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NHs3DcCD3Fc/hqdefault.jpg",
+      "published_at": "2026-08-17T23:55:08+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "id2adAbxlEE",
+      "title": "트럼프 \"한미연합훈련 축소\" 북한에 손짓…트럼프 숨은 의도는 | 구광모-젠슨 황 AI 동맹, 최태원-빌게이츠 SMR 동맹 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=id2adAbxlEE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/id2adAbxlEE/hqdefault.jpg",
+      "published_at": "2026-08-17T23:13:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "s8ymgSvdwMo",
       "title": "미국증시는 지금 랠리 중...나스닥 상승세, 이번엔 무엇이 주도하게 될까? | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
       "source_url": "https://www.youtube.com/watch?v=s8ymgSvdwMo",
@@ -105,17 +143,17 @@
     },
     {
       "video_id": "sarhEmTgbIE",
-      "title": "다시 돌아온 삼전닉스에도 FOMC 의사록·중동전쟁이 변수...극복할 수 있을까? | 정프로, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.08.18. | 여도은, 허재무, 정우창 [아침N투자]",
       "source_url": "https://www.youtube.com/watch?v=sarhEmTgbIE",
       "thumbnail_url": "https://i4.ytimg.com/vi/sarhEmTgbIE/hqdefault.jpg",
       "published_at": "2026-08-17T20:48:37+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "interest_rate"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "interest_rate",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -419,17 +457,17 @@
     },
     {
       "video_id": "tRH4HE2KPlo",
-      "title": "[초등 경제 강의] \"삼성전자 사요, 하이닉스 사요? 물어볼 때 아니에요\"...지수 투자를 권한 진짜 이유",
+      "title": "\"다른 건 오를 수도 있지만, 돈의 가치는 무조건 떨어진다\"...유대인이 자식에게 현금을 안 쥐여주는 이유",
       "source_url": "https://www.youtube.com/watch?v=tRH4HE2KPlo",
       "thumbnail_url": "https://i1.ytimg.com/vi/tRH4HE2KPlo/hqdefault.jpg",
       "published_at": "2026-08-17T00:00:18+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -952,7 +990,7 @@
     },
     {
       "video_id": "mmzVn1dwMR8",
-      "title": "\"5060은 필수 시청해라\" 5년 납입하고 죽을 때까지 평생 받아요. 초고속 연금 드디어 떴습니다 | 이영주 대표 30분 요약 #돈쭐남 #김경필",
+      "title": "\"5060은 무조건 신청하세요\" 이미 법 개정 끝났습니다. 이제부터 국민연금 50% 더 줍니다 | 이영주 대표 30분 요약 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=mmzVn1dwMR8",
       "thumbnail_url": "https://i2.ytimg.com/vi/mmzVn1dwMR8/hqdefault.jpg",
       "published_at": "2026-08-15T00:00:11+00:00",
@@ -975,44 +1013,6 @@
       "source_url": "https://www.youtube.com/watch?v=voZ68b0o2fI",
       "thumbnail_url": "https://i3.ytimg.com/vi/voZ68b0o2fI/hqdefault.jpg",
       "published_at": "2026-08-14T23:00:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "rlBL0hhoWXs",
-      "title": "반도체 정점론에도 전고점까지 홀딩…자동차·로봇이 다음 상승을 이끈다ㅣ명민준, 박가영, 정태근 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=rlBL0hhoWXs",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rlBL0hhoWXs/hqdefault.jpg",
-      "published_at": "2026-08-14T13:30:33+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "eZqwjNGIuK0",
-      "title": "삼전닉스가 되살린 시장…지금 작은 반등에 팔면 안 되는 이유ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=eZqwjNGIuK0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/eZqwjNGIuK0/hqdefault.jpg",
-      "published_at": "2026-08-14T12:30:39+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

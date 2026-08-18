@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T21:28:01.224916+00:00",
+  "generated_at": "2026-08-18T22:27:44.686762+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,6 +45,7 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -57,28 +58,61 @@
   ],
   "videos": [
     {
+      "video_id": "JKEcxZFbFik",
+      "title": "트럼프, 호르무즈 미국 영토 주장…중동 불안에 고금리 압박 지속 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=JKEcxZFbFik",
+      "thumbnail_url": "https://i3.ytimg.com/vi/JKEcxZFbFik/hqdefault.jpg",
+      "published_at": "2026-08-18T22:13:08+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "4gTGeMwtV6Q",
+      "title": "아마존이 20년 전에 짜놓은 설계도 하나가, 지금 AI 투자 지도를 그대로 다시 그리고 있었습니다 | 정지훈 박사 [1부]",
+      "source_url": "https://www.youtube.com/watch?v=4gTGeMwtV6Q",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4gTGeMwtV6Q/hqdefault.jpg",
+      "published_at": "2026-08-18T22:00:34+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "tyq4GT_2rGg",
-      "title": "'장기채 금리 부담돼' 뉴욕증시 동반 하락...미국 반도체 지수 -4.9%_26.08.19 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "title": "미국 국채 30년물 5.3%…19년 만에 최고 | LS일렉, 블룸에너지와 3400만 달러 계약 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=tyq4GT_2rGg",
       "thumbnail_url": "https://i1.ytimg.com/vi/tyq4GT_2rGg/hqdefault.jpg",
       "published_at": "2026-08-18T20:25:46+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
+        "fx",
+        "bonds"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "fx",
           "stance": "neutral"
         },
         {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
+          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -675,25 +709,6 @@
         },
         {
           "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KexGs35AOwA",
-      "title": "단기 수급에 흔들리지 말자…AI·반도체 장기 사이클에서 봐야 할 것들 | 정우창, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=KexGs35AOwA",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KexGs35AOwA/hqdefault.jpg",
-      "published_at": "2026-08-18T02:27:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1398,30 +1413,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "XXsjDpogBOg",
-      "title": "\"제일 고생한 분은 주식에 몰빵한 분입니다\" 같은 7월에 반대편에서 싸게 담은 계좌엔 무엇이 있었나?ㅣ신환종 박사 [풀영상]",
-      "source_url": "https://www.youtube.com/watch?v=XXsjDpogBOg",
-      "thumbnail_url": "https://i1.ytimg.com/vi/XXsjDpogBOg/hqdefault.jpg",
-      "published_at": "2026-08-11T08:00:29+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

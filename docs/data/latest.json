@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T09:37:16.128305+00:00",
+  "generated_at": "2026-08-18T10:32:42.606009+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
   ],
   "videos": [
     {
+      "video_id": "S2nDlFmc8_g",
+      "title": "삼전닉스 말고 앞으로 이것 주목해라 #크리씨",
+      "source_url": "https://www.youtube.com/shorts/S2nDlFmc8_g",
+      "thumbnail_url": "https://i4.ytimg.com/vi/S2nDlFmc8_g/hqdefault.jpg",
+      "published_at": "2026-08-18T10:15:19+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "fsmMnSv520M",
       "title": "초코파이, 시멘트 잘 팔렸는데 왜..? 국내 5위 대기업 충격 부도. IMF 위기에 대한민국 기업 순위 싹 다 바뀌었다 #김경필 #돈쭐남",
       "source_url": "https://www.youtube.com/watch?v=fsmMnSv520M",
@@ -74,6 +93,25 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8fbARE7UxJQ",
+      "title": "한국 아파트 싹 다 물갈이 된다, 집값 내년부터 무서울 겁니다 (남혁우 부동산연구원)",
+      "source_url": "https://www.youtube.com/watch?v=8fbARE7UxJQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8fbARE7UxJQ/hqdefault.jpg",
+      "published_at": "2026-08-18T09:30:13+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "E3IOcyDtmJ8",
@@ -139,17 +177,17 @@
     },
     {
       "video_id": "KMhnr_WU7aE",
-      "title": "\"한국 경제는 초토화 된다\" 이대로 가면 환율 7000원까지 간다. 국가부도의 날이 옵니다. IMF와 소름돋게 똑같다 | 경제왕 김피비 40분 요약 #돈쭐남 #김경필",
+      "title": "\"기회 줄 때 팔아라\" 이때부터 진짜 대폭락이 온다. 다시 2천피로 추락할 겁니다 | 경제왕 김피비 40분 요약 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=KMhnr_WU7aE",
       "thumbnail_url": "https://i4.ytimg.com/vi/KMhnr_WU7aE/hqdefault.jpg",
       "published_at": "2026-08-18T08:30:26+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "fx"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "fx",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -177,17 +215,17 @@
     },
     {
       "video_id": "mZ5fmCHVF-U",
-      "title": "우크라이나 역사적인 승리 러시아군 몰살 직전이다 | 김정호 교수 풀버전 1",
+      "title": "극비리에 한국 찾은 UAE 돌변 한국에 태도 급변한 진짜 이유 | 김정호 교수 풀버전 1",
       "source_url": "https://www.youtube.com/watch?v=mZ5fmCHVF-U",
       "thumbnail_url": "https://i2.ytimg.com/vi/mZ5fmCHVF-U/hqdefault.jpg",
       "published_at": "2026-08-18T08:30:01+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -353,7 +391,7 @@
     },
     {
       "video_id": "YcAL8pSe59M",
-      "title": "7천피 찍고 6,800대로 추락…삼전닉스 급등은 왜 다 사라졌나?ㅣ명민준, 박세미, 황유현 [주린이 구조대]",
+      "title": "7천피 찍고 6,800대로 추락…삼전닉스 급등은 왜 다 사라졌나?ㅣ명민준, 박세미, 이지환 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=YcAL8pSe59M",
       "thumbnail_url": "https://i2.ytimg.com/vi/YcAL8pSe59M/hqdefault.jpg",
       "published_at": "2026-08-18T05:25:21+00:00",
@@ -928,30 +966,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "OhWFrEx4lPM",
-      "title": "\"미국 월가에 퍼진 충격적 소문\" S&P500 나락간다? 지금 당장 현금 확보하세요 | 김규동 이사 2부 #김경필 #돈쭐남",
-      "source_url": "https://www.youtube.com/watch?v=OhWFrEx4lPM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OhWFrEx4lPM/hqdefault.jpg",
-      "published_at": "2026-08-16T04:00:34+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "nNYjzOTA7LM",
       "title": "미국 정부가 GPU 담보 대출 규제를 풀어준 날, 월가 큰손들이 한꺼번에 들어온 충격적인 이유",
       "source_url": "https://www.youtube.com/watch?v=nNYjzOTA7LM",
@@ -1102,35 +1116,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cIc5qAi8fHU",
-      "title": "미국 고금리 충격에 증시 위험 경고, 지금 '이 신호' 모르면 늦습니다 (홍춘욱 박사)",
-      "source_url": "https://www.youtube.com/watch?v=cIc5qAi8fHU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cIc5qAi8fHU/hqdefault.jpg",
-      "published_at": "2026-08-14T08:00:11+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

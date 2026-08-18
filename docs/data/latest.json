@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T20:28:30.191160+00:00",
+  "generated_at": "2026-08-18T21:28:01.224916+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "tyq4GT_2rGg",
+      "title": "'장기채 금리 부담돼' 뉴욕증시 동반 하락...미국 반도체 지수 -4.9%_26.08.19 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=tyq4GT_2rGg",
+      "thumbnail_url": "https://i1.ytimg.com/vi/tyq4GT_2rGg/hqdefault.jpg",
+      "published_at": "2026-08-18T20:25:46+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "FbUJlYgKDoY",
       "title": "이중바닥 믿었는데 왜 또 저점을 깰까...개미 털기 피해 진짜 주도주 가려내는 법ㅣ명민준, 박세미, 이지환 [주린이 구조대]",
@@ -665,25 +694,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cc142L3vO1A",
-      "title": "\"반도체만큼 탄탄하다\" 전력기기 이제 시작?  | 이재찬 하나증권 명동금융센터 대리 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=cc142L3vO1A",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cc142L3vO1A/hqdefault.jpg",
-      "published_at": "2026-08-18T02:06:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

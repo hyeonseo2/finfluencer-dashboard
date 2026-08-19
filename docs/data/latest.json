@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T22:28:24.052899+00:00",
+  "generated_at": "2026-08-19T23:26:20.303206+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
   ],
   "videos": [
     {
+      "video_id": "9LPnKMwM4jI",
+      "title": "하반기 박스권 장세 속 전략...반도체 주식 더 늘려도 되는 이유는? | 박승영 한화투자증권 PLUS자산전략팀장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=9LPnKMwM4jI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9LPnKMwM4jI/hqdefault.jpg",
+      "published_at": "2026-08-19T23:00:09+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "yxSBpqS1pSI",
       "title": "미국 재무부, 장기 국채 매입 2배로 확대...모더나-머크, 암 백신 임상 결과에 폭등 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=yxSBpqS1pSI",
@@ -77,17 +96,27 @@
     },
     {
       "video_id": "2XqWYZiy7q0",
-      "title": "미 재무부 장기채 바이백 2배로…국가 부채 40조 달러 돌파 | SK하이닉스 40조 자사주 소각…국내 상장사 최대 규모 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "치솟은 글로벌 금리에 급한 불 끈 베선트, 국내증시 안정세 되찾을까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=2XqWYZiy7q0",
       "thumbnail_url": "https://i3.ytimg.com/vi/2XqWYZiy7q0/hqdefault.jpg",
       "published_at": "2026-08-19T20:42:35+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "fx"
+        "stocks",
+        "commodities",
+        "interest_rate"
       ],
       "topic_stances": [
         {
-          "topic": "fx",
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
@@ -617,30 +646,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "tyq4GT_2rGg",
-      "title": "[26.08.19 오전 방송 전체보기] '장기채 금리 부담돼' 뉴욕증시 동반 하락...미국 반도체 지수 -4.9%",
-      "source_url": "https://www.youtube.com/watch?v=tyq4GT_2rGg",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tyq4GT_2rGg/hqdefault.jpg",
-      "published_at": "2026-08-19T03:10:47+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

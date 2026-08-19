@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T21:28:48.444554+00:00",
+  "generated_at": "2026-08-19T22:28:24.052899+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,33 +57,37 @@
   ],
   "videos": [
     {
+      "video_id": "yxSBpqS1pSI",
+      "title": "미국 재무부, 장기 국채 매입 2배로 확대...모더나-머크, 암 백신 임상 결과에 폭등 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=yxSBpqS1pSI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yxSBpqS1pSI/hqdefault.jpg",
+      "published_at": "2026-08-19T22:18:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "2XqWYZiy7q0",
-      "title": "국채금리 하락 속 뉴욕증시 상승 마감...모더나 170%대 폭등_26.08.20 | 여도은, 박명석, 박승영 [월스트리트 모닝브리핑]",
+      "title": "미 재무부 장기채 바이백 2배로…국가 부채 40조 달러 돌파 | SK하이닉스 40조 자사주 소각…국내 상장사 최대 규모 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=2XqWYZiy7q0",
       "thumbnail_url": "https://i3.ytimg.com/vi/2XqWYZiy7q0/hqdefault.jpg",
       "published_at": "2026-08-19T20:42:35+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate",
-        "bonds"
+        "fx"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
+          "topic": "fx",
           "stance": "neutral"
         }
       ],
@@ -661,25 +665,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Tln76jprMiE",
-      "title": "'안전하다'던 지갑 이제 믿을 수 없다…시드 문구까지 노리는 해킹 | 서동주, 김동환, 함지현 블록미디어 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=Tln76jprMiE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Tln76jprMiE/hqdefault.jpg",
-      "published_at": "2026-08-19T02:49:02+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "1XsDfJwblMc",

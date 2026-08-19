@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T12:54:36.206448+00:00",
+  "generated_at": "2026-08-19T13:48:08.717496+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "4knwksKwRrQ",
+      "title": "삼전닉스 덮친 빅테크 회사채의 역설ㅣ명민준, 박가영, 송재경 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=4knwksKwRrQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/4knwksKwRrQ/hqdefault.jpg",
+      "published_at": "2026-08-19T13:30:10+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ItS-av66OG8",
       "title": "삼전닉스보다 강한 소부장? 대형주가 버텨야 더 간다ㅣ명민준, 박가영, 유영화 [클로징벨 라이브]",
@@ -680,25 +699,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "fz7P0nFM8wA",
-      "title": "\"기판 쇼티지 또 온다\" 주가는 어떻게 될까? | 김민경 하나증권 리서치센터 선임연구원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=fz7P0nFM8wA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fz7P0nFM8wA/hqdefault.jpg",
-      "published_at": "2026-08-19T01:04:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "0z_ELrowFmw",

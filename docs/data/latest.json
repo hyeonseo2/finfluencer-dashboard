@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T08:41:38.980311+00:00",
+  "generated_at": "2026-08-19T09:37:48.656959+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -47,7 +47,7 @@
   "topics": [
     "bonds",
     "commodities",
-    "fx",
+    "etf",
     "interest_rate",
     "macro",
     "policy",
@@ -55,6 +55,111 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "7UdV_cazTlk",
+      "title": "극비리에 한국 찾은 UAE 사우디 전세계가 한국만 쳐다보는 이유 | 박현도 교수 3부",
+      "source_url": "https://www.youtube.com/watch?v=7UdV_cazTlk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7UdV_cazTlk/hqdefault.jpg",
+      "published_at": "2026-08-19T09:30:37+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities",
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "VDeFu3eeYBk",
+      "title": "반도체 수혜주 다 모인 삼성전자 말고 ‘이 ETF’  #김지훈",
+      "source_url": "https://www.youtube.com/shorts/VDeFu3eeYBk",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VDeFu3eeYBk/hqdefault.jpg",
+      "published_at": "2026-08-19T09:15:30+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks",
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "pNj1zY1f81A",
+      "title": "40조 호재 뜬 SK하이닉스…주가를 누른 건 반도체 악재가 아닌 '금리'ㅣ홍선애, 박병창 MP파트너스 [여의도 인사이트]",
+      "source_url": "https://www.youtube.com/watch?v=pNj1zY1f81A",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pNj1zY1f81A/hqdefault.jpg",
+      "published_at": "2026-08-19T09:13:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "IAy7Ul3rCrE",
+      "title": "주식 수익, 계속 굴리는 게 정답일까?ㅣ박병창 MP파트너스 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/shorts/IAy7Ul3rCrE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IAy7Ul3rCrE/hqdefault.jpg",
+      "published_at": "2026-08-19T09:00:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "oSo_w9_g4GI",
+      "title": "[8월 19일 마감시황] SK하이닉스, 40조 자사주 매입·소각 '초강수'…주주환원 새 역사 쓴다ㅣ홍선애, 이권희, 장우진 [클로징벨 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=oSo_w9_g4GI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/oSo_w9_g4GI/hqdefault.jpg",
+      "published_at": "2026-08-19T08:46:42+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "w9VnxvWz5_8",
       "title": "금값 70년전과 똑같다. 곧 상상못할 일 터진다｜조규원 대표",
@@ -148,7 +253,7 @@
     },
     {
       "video_id": "SouK7Kd2QN8",
-      "title": "“증권가는 쉬쉬하고 있다” 삼성전자 폭락한 진짜 이유 곧 무시무시한 일 벌어진다 | 김민수 대표 1부",
+      "title": "삼성전자 난리난 진짜 이유 곧 어마무시한 일 벌어진다 | 김민수 대표 1부",
       "source_url": "https://www.youtube.com/watch?v=SouK7Kd2QN8",
       "thumbnail_url": "https://i4.ytimg.com/vi/SouK7Kd2QN8/hqdefault.jpg",
       "published_at": "2026-08-19T07:30:06+00:00",
@@ -205,17 +310,17 @@
     },
     {
       "video_id": "5AStg3rVJnA",
-      "title": "차영주의 주(株)스토리ㅣ차영주 와이즈경제연구소 소장 [집중 오늘의 주식]",
+      "title": "급락장 뒤집은 하이닉스 40조 승부수…삼전닉스 반등, 내일도 이어질까?ㅣ명민준, 박가영, 유영화 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=5AStg3rVJnA",
       "thumbnail_url": "https://i2.ytimg.com/vi/5AStg3rVJnA/hqdefault.jpg",
       "published_at": "2026-08-19T05:18:56+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -402,73 +507,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "9r9AKeWDWTU",
-      "title": "\"이번은 7월과 다릅니다\" 금리가 시장을 흔든다…하반기 대응 전략은? | 박병창 MP파트너스 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=9r9AKeWDWTU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/9r9AKeWDWTU/hqdefault.jpg",
-      "published_at": "2026-08-19T00:12:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6V0DAab9eDE",
-      "title": "미국 국채 30년물 5.3%…19년 만에 최고 | LS일렉, 블룸에너지와 3400만 달러 계약 | 권순우 삼프로TV 취재팀장 [뉴스3]",
-      "source_url": "https://www.youtube.com/watch?v=6V0DAab9eDE",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6V0DAab9eDE/hqdefault.jpg",
-      "published_at": "2026-08-18T23:28:51+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "fx",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "lWl42osALZo",
-      "title": "미국 금리 어디까지 오르나? 돈이 마를수록 '이곳'에 몰리는 이유 | 신영증권 김효진 박사 [글로벌 인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=lWl42osALZo",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lWl42osALZo/hqdefault.jpg",
-      "published_at": "2026-08-18T23:02:56+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
@@ -961,25 +999,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "CBYA5kdMQbA",
-      "title": "베이징 상하이도 텅텅 비었다 죄다 망해버린 중국 경제 상황 | 강준영 교수 3부",
-      "source_url": "https://www.youtube.com/watch?v=CBYA5kdMQbA",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CBYA5kdMQbA/hqdefault.jpg",
-      "published_at": "2026-08-17T08:00:28+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "UXORX88wI9M",
       "title": "100만원으로 1500억 번 비결, 진짜 부자되는 방법 알려드리죠 (아정당 김민기 대표)",
       "source_url": "https://www.youtube.com/watch?v=UXORX88wI9M",
@@ -997,25 +1016,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "kWoHBKz4ELE",
-      "title": "\"기름 넘친다더니...\" 결국 한국에 손 내민 러시아 곧 한국에 엄청난 일 터진다 | 김민석 특파원 2부",
-      "source_url": "https://www.youtube.com/watch?v=kWoHBKz4ELE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/kWoHBKz4ELE/hqdefault.jpg",
-      "published_at": "2026-08-17T06:00:14+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "tRH4HE2KPlo",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-19T23:26:20.303206+00:00",
+  "generated_at": "2026-08-20T01:26:45.395713+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,63 @@
   ],
   "videos": [
     {
+      "video_id": "voDeVaf7oe8",
+      "title": "반도체 방향 돌렸다…지금부터 모아갈 때? | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=voDeVaf7oe8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/voDeVaf7oe8/hqdefault.jpg",
+      "published_at": "2026-08-20T00:43:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "6EnNyHiBvG4",
+      "title": "반도체에 바이오 같이 간다? 시장 분위기 바뀌었다 | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=6EnNyHiBvG4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6EnNyHiBvG4/hqdefault.jpg",
+      "published_at": "2026-08-20T00:02:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "78RxLn3Y74U",
+      "title": "한화 K9 자주포 미 육군 뚫었다…9년 만의 결실 | SK하이닉스 40조 자사주 소각…국내 상장사 최대 규모 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=78RxLn3Y74U",
+      "thumbnail_url": "https://i4.ytimg.com/vi/78RxLn3Y74U/hqdefault.jpg",
+      "published_at": "2026-08-19T23:26:10+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "9LPnKMwM4jI",
       "title": "하반기 박스권 장세 속 전략...반도체 주식 더 늘려도 되는 이유는? | 박승영 한화투자증권 PLUS자산전략팀장 [글로벌 인터뷰]",
       "source_url": "https://www.youtube.com/watch?v=9LPnKMwM4jI",
@@ -96,27 +153,17 @@
     },
     {
       "video_id": "2XqWYZiy7q0",
-      "title": "치솟은 글로벌 금리에 급한 불 끈 베선트, 국내증시 안정세 되찾을까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.08.20. | 여도은, 허재무, 박현지 [아침N투자]",
       "source_url": "https://www.youtube.com/watch?v=2XqWYZiy7q0",
       "thumbnail_url": "https://i3.ytimg.com/vi/2XqWYZiy7q0/hqdefault.jpg",
       "published_at": "2026-08-19T20:42:35+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
@@ -467,25 +514,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "oSo_w9_g4GI",
-      "title": "[8월 19일 마감시황] SK하이닉스, 40조 자사주 매입·소각 '초강수'…주주환원 새 역사 쓴다ㅣ홍선애, 이권희, 장우진 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=oSo_w9_g4GI",
-      "thumbnail_url": "https://i4.ytimg.com/vi/oSo_w9_g4GI/hqdefault.jpg",
-      "published_at": "2026-08-19T08:46:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "w9VnxvWz5_8",
       "title": "금값 70년전과 똑같다. 곧 상상못할 일 터진다｜조규원 대표",
       "source_url": "https://www.youtube.com/watch?v=w9VnxvWz5_8",
@@ -527,25 +555,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "37Ck2p_RxeU",
-      "title": "\"스트레스 너무 심하다\" 이럴 때 해야 할 행동 | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/shorts/37Ck2p_RxeU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/37Ck2p_RxeU/hqdefault.jpg",
-      "published_at": "2026-08-19T07:53:31+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "503NEYQ6xXo",
@@ -632,25 +641,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zRL8pKl43c0",
-      "title": "토큰화 주식 1년 새 30배 성장…그런데 대장주는 왜 적자? | 서동주, 김동환, 최윤영 한화투자증권 팀장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=zRL8pKl43c0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zRL8pKl43c0/hqdefault.jpg",
-      "published_at": "2026-08-19T03:15:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "p4ggZS252IA",

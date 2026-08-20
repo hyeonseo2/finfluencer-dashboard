@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T19:34:10.442825+00:00",
+  "generated_at": "2026-08-20T20:32:39.910092+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,40 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "NA850L55dEQ",
+      "title": "국채금리 다시 오르자 뉴욕증시 하락 전환...메모리주 동반 '상승'_26.08.21 | 여도은, 박명석, 문남중 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=NA850L55dEQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NA850L55dEQ/hqdefault.jpg",
+      "published_at": "2026-08-20T20:25:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "r4uoKEGXiFo",
       "title": "개미만 받아낸 외국인 수급 조롱, '진짜 매집' 구별하는 법ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
@@ -628,25 +662,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "DU1izB9hZtM",
-      "title": "SK하이닉스 40조 자사주 매입…주주환원 \"여기서 끝이 아니다\" | 권택중 하나증권 더센터필드W 부지점장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=DU1izB9hZtM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DU1izB9hZtM/hqdefault.jpg",
-      "published_at": "2026-08-20T01:23:38+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

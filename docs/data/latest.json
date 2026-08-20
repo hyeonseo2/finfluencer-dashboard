@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T21:31:36.349137+00:00",
+  "generated_at": "2026-08-20T22:31:22.509601+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,8 +58,32 @@
   ],
   "videos": [
     {
+      "video_id": "2qlnxigCfdQ",
+      "title": "미국 장기 금리 재차 상승...재무부 국채 매입도 소용 없나? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=2qlnxigCfdQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2qlnxigCfdQ/hqdefault.jpg",
+      "published_at": "2026-08-20T22:02:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "NA850L55dEQ",
-      "title": "국채금리 다시 오르자 뉴욕증시 하락 전환...메모리주 동반 '상승'_26.08.21 | 여도은, 박명석, 문남중 [월스트리트 모닝브리핑]",
+      "title": "미국 채권 바이백 무용론?…다시 오른 장기채, 유가도 상승 | 삼성전자 150조 주주환원…\"한국 기업 역사상 최대 규모\" | 정프로, 이주호, 권순우, 장우진 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=NA850L55dEQ",
       "thumbnail_url": "https://i3.ytimg.com/vi/NA850L55dEQ/hqdefault.jpg",
       "published_at": "2026-08-20T20:25:18+00:00",
@@ -67,7 +91,6 @@
       "topics": [
         "stocks",
         "commodities",
-        "interest_rate",
         "bonds"
       ],
       "topic_stances": [
@@ -77,10 +100,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         },
         {
@@ -643,25 +662,6 @@
       "topic_stances": [
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wEmqofICkhc",
-      "title": "빅테크도 이제 옥석 가리기 시작됐다…지금 담아야 할 투자 전략은?  | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=wEmqofICkhc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wEmqofICkhc/hqdefault.jpg",
-      "published_at": "2026-08-20T02:34:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

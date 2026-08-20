@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T10:34:52.430614+00:00",
+  "generated_at": "2026-08-20T11:30:16.948910+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,6 +58,49 @@
   ],
   "videos": [
     {
+      "video_id": "IJl4yRAL3Hw",
+      "title": "[26.08.20 오후 방송 전체보기] 베센트의 '깜짝 선물'부터 SK하이닉스 호재까지…빛났던 국내증시, 내일장 전망은?",
+      "source_url": "https://www.youtube.com/watch?v=IJl4yRAL3Hw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IJl4yRAL3Hw/hqdefault.jpg",
+      "published_at": "2026-08-20T11:06:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "kn0oxNIy8Lk",
+      "title": "\"\"무섭게 뜨고 있다\" 이 세 곳 2027년부터 제2의 강남 됩니다. 수도권 인구 싹 다 빨아들이고 있어요 | 김시덕 박사 2부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=kn0oxNIy8Lk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kn0oxNIy8Lk/hqdefault.jpg",
+      "published_at": "2026-08-20T10:30:21+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "psV7xpJa3vQ",
       "title": "직접 가보면 까무라친다 완전 초토화된 중국 현지 상황 | 강준영 교수 풀버전",
       "source_url": "https://www.youtube.com/watch?v=psV7xpJa3vQ",
@@ -78,7 +121,7 @@
     },
     {
       "video_id": "jKlApuf3j2w",
-      "title": "SK하이닉스 40조 소각 충격적 진실, 300만원 가려면 '이 조건' 필요하다 (슈퍼개미 이정윤 세무사)",
+      "title": "반도체 다음 텐배거 터질 유망섹터, 9월부터 진짜 미친듯이 오릅니다 (슈퍼개미 이정윤 세무사)",
       "source_url": "https://www.youtube.com/watch?v=jKlApuf3j2w",
       "thumbnail_url": "https://i3.ytimg.com/vi/jKlApuf3j2w/hqdefault.jpg",
       "published_at": "2026-08-20T10:15:26+00:00",
@@ -116,7 +159,7 @@
     },
     {
       "video_id": "xF4vpp8pzR8",
-      "title": "\"파킹통장, CMA, 저축은행 아니다. 대한민국 국민 누구나 10% 이자 주는 통장 떴다\" 지금 당장 만드세요. 나이제한, 소득제한 없어요 #김경필 #돈쭐남",
+      "title": "(광고x) \"나이제한x 소득제한x\" 대한민국 누구나 연 10% 이자 주는 적금 통장 떴다. 곧 소진될 거예요. 빨리 만드세요 #김경필 #돈쭐남",
       "source_url": "https://www.youtube.com/watch?v=xF4vpp8pzR8",
       "thumbnail_url": "https://i1.ytimg.com/vi/xF4vpp8pzR8/hqdefault.jpg",
       "published_at": "2026-08-20T09:34:23+00:00",
@@ -135,7 +178,7 @@
     },
     {
       "video_id": "ZdKqBq-kqAo",
-      "title": "결국 들고 일어난 김여정 발칵 뒤집힌 평양 현재 상황 | 김주성 탈북작가 4부",
+      "title": "드디어 움직인 김한솔에 발칵 곧 평양에 피바람 분다 | 김주성 탈북작가 4부",
       "source_url": "https://www.youtube.com/watch?v=ZdKqBq-kqAo",
       "thumbnail_url": "https://i3.ytimg.com/vi/ZdKqBq-kqAo/hqdefault.jpg",
       "published_at": "2026-08-20T09:30:14+00:00",
@@ -370,25 +413,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IJl4yRAL3Hw",
-      "title": "하이닉스 40조에 외국인 귀환…코스피 5.9% 폭등, 이제 다시 7천피?ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=IJl4yRAL3Hw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IJl4yRAL3Hw/hqdefault.jpg",
-      "published_at": "2026-08-20T05:45:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "fCw5eGNQGgg",
@@ -1104,25 +1128,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "S2nDlFmc8_g",
-      "title": "삼전닉스 말고 앞으로 이것 주목해라 #크리씨",
-      "source_url": "https://www.youtube.com/shorts/S2nDlFmc8_g",
-      "thumbnail_url": "https://i4.ytimg.com/vi/S2nDlFmc8_g/hqdefault.jpg",
-      "published_at": "2026-08-18T10:15:19+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

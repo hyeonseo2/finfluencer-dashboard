@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T07:46:45.752230+00:00",
+  "generated_at": "2026-08-21T08:45:34.344277+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -49,6 +49,7 @@
     "commodities",
     "crypto",
     "etf",
+    "fx",
     "interest_rate",
     "macro",
     "policy",
@@ -57,8 +58,89 @@
   ],
   "videos": [
     {
+      "video_id": "iITRwiYdGTw",
+      "title": "\"정부의 강남 죽이기 시작?\" 현금 없는 반백수 강남 집주인들 줄파산 위기 내몰렸다. 못 버틸 만큼 세금 올린다 | 염지훈 세무사 1부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=iITRwiYdGTw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iITRwiYdGTw/hqdefault.jpg",
+      "published_at": "2026-08-21T08:30:07+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Qw7QTepy5Sw",
+      "title": "\"시진핑 죽을 맛이다\" 일본 반격에 초토화 날벼락 맞은 중국 실제 상황 | 김정호 교수 풀버전 2",
+      "source_url": "https://www.youtube.com/watch?v=Qw7QTepy5Sw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Qw7QTepy5Sw/hqdefault.jpg",
+      "published_at": "2026-08-21T08:30:06+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "SDXXH2TjdL4",
+      "title": "[8월 21일 마감시황] 삼전닉스 빼면 뭐가 올랐나? 주주환원은 만병통치약이 아니다ㅣ홍선애, 김장열, 장우진 [클로징벨 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=SDXXH2TjdL4",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SDXXH2TjdL4/hqdefault.jpg",
+      "published_at": "2026-08-21T08:10:40+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jAAkCsk1_vU",
+      "title": "엔화를 지켜준 값은 이미 청구됐습니다…원화가 1,300원대로 내려온 뒤 다음 순서가 정해졌습니다 [Z1 NEWS - 1부]",
+      "source_url": "https://www.youtube.com/watch?v=jAAkCsk1_vU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jAAkCsk1_vU/hqdefault.jpg",
+      "published_at": "2026-08-21T08:00:28+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "yxpBaYZtyLY",
-      "title": "모스크바 내부 싸그리 초토화. 러시아 결국 쫄딱 망했다｜김민석 특파원 1부",
+      "title": "\"역대급 신무기 등장\" 우크라 무제한 폭격 개시. 러시아 본토 초토화 됐다｜김민석 특파원 1부",
       "source_url": "https://www.youtube.com/watch?v=yxpBaYZtyLY",
       "thumbnail_url": "https://i2.ytimg.com/vi/yxpBaYZtyLY/hqdefault.jpg",
       "published_at": "2026-08-21T07:30:02+00:00",
@@ -115,17 +197,22 @@
     },
     {
       "video_id": "XvhO3Ogy-yM",
-      "title": "삼성전자 역대급 주주환원 발표 임박, 반도체 랠리 다음 스텝은ㅣ홍선애, 민재기 KB증권 PRIME CLUB 팀장 [여의도 인사이트]",
+      "title": "원·달러 환율 1,300원대…미 국채 바이백과 잭슨홀, 달러 향방과 한은의 딜레마ㅣ홍선애, 김준송 김준송TV 대표 [여의도 인사이트]",
       "source_url": "https://www.youtube.com/watch?v=XvhO3Ogy-yM",
       "thumbnail_url": "https://i1.ytimg.com/vi/XvhO3Ogy-yM/hqdefault.jpg",
       "published_at": "2026-08-21T05:22:43+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks"
+        "fx",
+        "bonds"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -410,30 +497,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2qlnxigCfdQ",
-      "title": "미국 장기 금리 재차 상승...재무부 국채 매입도 소용 없나? [월가 뉴스레터]",
-      "source_url": "https://www.youtube.com/watch?v=2qlnxigCfdQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2qlnxigCfdQ/hqdefault.jpg",
-      "published_at": "2026-08-20T22:02:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -984,30 +1047,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "VDeFu3eeYBk",
-      "title": "반도체 수혜주 다 모인 삼성전자 말고 ‘이 ETF’  #김지훈",
-      "source_url": "https://www.youtube.com/shorts/VDeFu3eeYBk",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VDeFu3eeYBk/hqdefault.jpg",
-      "published_at": "2026-08-19T09:15:30+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "KcjMm1wV48w",
       "title": "\"노후에 월급 나온다\" 퇴직금 3억 여기 넣어라. 월 260만 원씩 따박따박 나옵니다 | 김정란 대표 3부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=KcjMm1wV48w",
@@ -1080,25 +1119,6 @@
       "source_url": "https://www.youtube.com/shorts/p4ggZS252IA",
       "thumbnail_url": "https://i1.ytimg.com/vi/p4ggZS252IA/hqdefault.jpg",
       "published_at": "2026-08-19T03:00:18+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1XsDfJwblMc",
-      "title": "ISA 포트폴리오 이렇게만 하세요 #크리씨",
-      "source_url": "https://www.youtube.com/shorts/1XsDfJwblMc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1XsDfJwblMc/hqdefault.jpg",
-      "published_at": "2026-08-19T02:00:28+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
         "macro"
@@ -1387,25 +1407,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "nNYjzOTA7LM",
-      "title": "미국 정부가 GPU 담보 대출 규제를 풀어준 날, 월가 큰손들이 한꺼번에 들어온 충격적인 이유",
-      "source_url": "https://www.youtube.com/watch?v=nNYjzOTA7LM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nNYjzOTA7LM/hqdefault.jpg",
-      "published_at": "2026-08-16T00:00:20+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "XyXohIM3ZO0",

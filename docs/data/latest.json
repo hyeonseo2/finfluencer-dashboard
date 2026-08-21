@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:28:53.105140+00:00",
+  "generated_at": "2026-08-21T23:27:30.283567+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,16 +58,40 @@
   ],
   "videos": [
     {
+      "video_id": "x9umzeOuiiM",
+      "title": "AI 랠리 아직 안 끝났다… ‘다음 주도주’ 골라야 할 때 | 장우진 금시공 대표&박명석 큐레이터 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=x9umzeOuiiM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/x9umzeOuiiM/hqdefault.jpg",
+      "published_at": "2026-08-21T23:00:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "tXUt9IWOiAE",
-      "title": "그냥효 버전: 비트코인이 1억을 회복한 배경을 정리했습니다…AI로 옮겨갔던 자금과 스트레티지 우려가 어떻게 풀렸는지 정리해 봤습니다",
+      "title": "비트코인이 왜 안 올랐고 지금은 왜 오르는지, 두 가지 이유로 정리했습니다",
       "source_url": "https://www.youtube.com/watch?v=tXUt9IWOiAE",
       "thumbnail_url": "https://i1.ytimg.com/vi/tXUt9IWOiAE/hqdefault.jpg",
       "published_at": "2026-08-21T22:00:29+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
+        "commodities",
         "crypto"
       ],
       "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
         {
           "topic": "crypto",
           "stance": "neutral"
@@ -672,25 +696,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "GS7ePT-UMhk",
-      "title": "미국, 결국 돈 푼다? 금리 잡기 시작했다 | 박준우 하나증권 리서치센터 연구위원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=GS7ePT-UMhk",
-      "thumbnail_url": "https://i4.ytimg.com/vi/GS7ePT-UMhk/hqdefault.jpg",
-      "published_at": "2026-08-21T01:54:37+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

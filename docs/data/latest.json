@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-20T23:29:07.707245+00:00",
+  "generated_at": "2026-08-21T01:37:30.922399+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,8 +58,61 @@
   ],
   "videos": [
     {
+      "video_id": "h9P5VBeMaJA",
+      "title": "삼성전자 호재에도 시장 못 간다…지금은 추격보다 현금 챙길 때 | 장우진 금시공 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=h9P5VBeMaJA",
+      "thumbnail_url": "https://i1.ytimg.com/vi/h9P5VBeMaJA/hqdefault.jpg",
+      "published_at": "2026-08-21T00:16:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "BtfgvJXCRGA",
+      "title": "삼성전자 150조 주주환원…\"한국 기업 역사상 최대 규모\" | 미국 채권 바이백 무용론?…다시 오른 장기채, 유가도 상승 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=BtfgvJXCRGA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BtfgvJXCRGA/hqdefault.jpg",
+      "published_at": "2026-08-20T23:23:31+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "RVgQWLtFf30",
-      "title": "\"금리 올라도 괜찮다\" 하반기 미국증시 방향은 이미 정해졌다? | 문남중 대신증권 리서치센터 수석연구위원 [글로벌 인터뷰]",
+      "title": "\"금리 올라도 괜찮다\" 하반기 미국 증시 방향은 이미 정해졌다? | 문남중 대신증권 리서치센터 수석연구위원 [글로벌 인터뷰]",
       "source_url": "https://www.youtube.com/watch?v=RVgQWLtFf30",
       "thumbnail_url": "https://i3.ytimg.com/vi/RVgQWLtFf30/hqdefault.jpg",
       "published_at": "2026-08-20T22:42:41+00:00",
@@ -112,20 +165,15 @@
     },
     {
       "video_id": "NA850L55dEQ",
-      "title": "삼전닉스 현금 곳간 풉니다…변덕 심한 8월 증시, 안정세 되찾을까 | 정프로, 이주호, 권순우, 장우진 [오늘아침 라이브]",
+      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.08.21. | 여도은, 허재무, 구혜영 [아침N투자]",
       "source_url": "https://www.youtube.com/watch?v=NA850L55dEQ",
       "thumbnail_url": "https://i3.ytimg.com/vi/NA850L55dEQ/hqdefault.jpg",
       "published_at": "2026-08-20T20:25:18+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -595,54 +643,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Wdy_nmDhRCI",
-      "title": "100배 코인 시대 끝났다? 이제 '배관'을 봐야 돈이 보인다 | 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=Wdy_nmDhRCI",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Wdy_nmDhRCI/hqdefault.jpg",
-      "published_at": "2026-08-20T03:22:08+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2XqWYZiy7q0",
-      "title": "[26.08.20 오전 방송 전체보기] 국채금리 하락 속 뉴욕증시 상승 마감...모더나 170%대 폭등",
-      "source_url": "https://www.youtube.com/watch?v=2XqWYZiy7q0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2XqWYZiy7q0/hqdefault.jpg",
-      "published_at": "2026-08-20T03:16:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T12:55:27.222907+00:00",
+  "generated_at": "2026-08-21T13:49:40.023314+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "GLprcIY_HFw",
+      "title": "환율 '뚝' 떨어졌지만…외국인이 한국에 베팅하지 않는 이유ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=GLprcIY_HFw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/GLprcIY_HFw/hqdefault.jpg",
+      "published_at": "2026-08-21T13:30:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "aAy9zvkafVE",
       "title": "시장을 실망시킨 건 '규모' 아닌 '방식'...삼성전자 110조 환원책에 주가가 돌아선 이유ㅣ명민준, 박가영, 황유현 [주린이 구조대]",
@@ -653,30 +672,6 @@
       "topic_stances": [
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zNuh1-ykza4",
-      "title": "호재에도 무덤덤한 시장...지금 증시가 못 오르는 진짜 이유 | 윤정식 바로자산운용 상무 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=zNuh1-ykza4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zNuh1-ykza4/hqdefault.jpg",
-      "published_at": "2026-08-21T01:44:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

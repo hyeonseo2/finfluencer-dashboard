@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T11:30:34.026059+00:00",
+  "generated_at": "2026-08-21T12:55:27.222907+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,68 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "aAy9zvkafVE",
+      "title": "시장을 실망시킨 건 '규모' 아닌 '방식'...삼성전자 110조 환원책에 주가가 돌아선 이유ㅣ명민준, 박가영, 황유현 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=aAy9zvkafVE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/aAy9zvkafVE/hqdefault.jpg",
+      "published_at": "2026-08-21T12:30:39+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "rf1IvtnlFyg",
+      "title": "4000만원으로 '이 주식' 다 사세요, 9월부터 정말 무섭게 오를 겁니다 (슈퍼개미 이정윤 세무사)",
+      "source_url": "https://www.youtube.com/watch?v=rf1IvtnlFyg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rf1IvtnlFyg/hqdefault.jpg",
+      "published_at": "2026-08-21T12:30:36+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "PfwUgAB3cVY",
+      "title": "삼전닉스 움직임이 만든 원화 강세, 환율 방향은 더 아래로?ㅣ홍선애, 김준송 김준송TV 대표 [여의도 인사이트]",
+      "source_url": "https://www.youtube.com/watch?v=PfwUgAB3cVY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PfwUgAB3cVY/hqdefault.jpg",
+      "published_at": "2026-08-21T11:30:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "vUMhXHuTqkk",
       "title": "삼성전자 110조 주주환원 발표, 오히려 주가 빠진 진짜 이유 (빈센트 위원)",
@@ -202,7 +264,7 @@
     },
     {
       "video_id": "3yhHoi2Ogn8",
-      "title": "\"전기차 배터리 전량 폐기\" 태풍으로 뒤집힌 중국 상황 | 윤석천 경제평론가 풀버전",
+      "title": "사상 최악의 대참사 터졌다 중국 전기차 싹다 폐기 처분 | 윤석천 경제평론가 풀버전",
       "source_url": "https://www.youtube.com/watch?v=3yhHoi2Ogn8",
       "thumbnail_url": "https://i4.ytimg.com/vi/3yhHoi2Ogn8/hqdefault.jpg",
       "published_at": "2026-08-21T09:30:00+00:00",
@@ -622,59 +684,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "h9P5VBeMaJA",
-      "title": "삼성전자 호재에도 시장 못 간다…지금은 추격보다 현금 챙길 때 | 장우진 금시공 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=h9P5VBeMaJA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/h9P5VBeMaJA/hqdefault.jpg",
-      "published_at": "2026-08-21T00:16:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "BtfgvJXCRGA",
-      "title": "삼성전자 150조 주주환원…\"한국 기업 역사상 최대 규모\" | 미국 채권 바이백 무용론?…다시 오른 장기채, 유가도 상승 | 권순우 삼프로TV 취재팀장 [뉴스3]",
-      "source_url": "https://www.youtube.com/watch?v=BtfgvJXCRGA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/BtfgvJXCRGA/hqdefault.jpg",
-      "published_at": "2026-08-20T23:23:31+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "kn0oxNIy8Lk",
       "title": "\"제가 장담합니다\" 국가가 강남 버린 진짜 이유. 부자들은 조용히 옮겨가고 있다. 앞으로 여기가 무섭게 뜬다 | 김시덕 박사 2부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=kn0oxNIy8Lk",
@@ -809,17 +818,17 @@
     },
     {
       "video_id": "BNUnLsnTxws",
-      "title": "10년 상승장이 유독 예뻤던 이유는 따로 있었습니다…그 돈이 AI 공사판으로 옮겨가며 금리가 튀었습니다 [구루 8월호 - 레이시 헌트]",
+      "title": "“AI가 생산성을 높이면 물가도 내려간다?” 레이시 헌트가 정반대 결론을 내린 결정적 이유 [구루 8월호 - 레이시 헌트]",
       "source_url": "https://www.youtube.com/watch?v=BNUnLsnTxws",
       "thumbnail_url": "https://i3.ytimg.com/vi/BNUnLsnTxws/hqdefault.jpg",
       "published_at": "2026-08-20T09:00:15+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "interest_rate"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "interest_rate",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1397,25 +1406,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "UXORX88wI9M",
-      "title": "100만원으로 1500억 번 비결, 진짜 부자되는 방법 알려드리죠 (아정당 김민기 대표)",
-      "source_url": "https://www.youtube.com/watch?v=UXORX88wI9M",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UXORX88wI9M/hqdefault.jpg",
-      "published_at": "2026-08-17T07:45:13+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T09:30:22.286758+00:00",
+  "generated_at": "2026-08-22T10:27:30.447051+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "S4ddDgv7YMQ",
+      "title": "중국 반도체 습격 조만간 터진다, 삼성전자, SK하이닉스 주가 뒤흔들 치킨게임 (김정호 교수)",
+      "source_url": "https://www.youtube.com/watch?v=S4ddDgv7YMQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/S4ddDgv7YMQ/hqdefault.jpg",
+      "published_at": "2026-08-22T10:00:32+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "mrT30YP8Wbo",
+      "title": "\"한국이 또 해냈다\" 미국 K9 자주포 충격 결단 캐나다 독일은 미칠지경 | 김대영 군사평론가 1부",
+      "source_url": "https://www.youtube.com/watch?v=mrT30YP8Wbo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/mrT30YP8Wbo/hqdefault.jpg",
+      "published_at": "2026-08-22T10:00:04+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "m0_BIjXajR0",
       "title": "한국 주식 조정에 흔들릴 때마다, 결국 '이 2개 주식만' 모아가세요 (하창봉 대표)",
@@ -983,25 +1021,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "ZdKqBq-kqAo",
-      "title": "드디어 움직인 김한솔에 발칵 곧 평양에 피바람 분다 | 김주성 탈북작가 4부",
-      "source_url": "https://www.youtube.com/watch?v=ZdKqBq-kqAo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZdKqBq-kqAo/hqdefault.jpg",
-      "published_at": "2026-08-20T09:30:14+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "BNUnLsnTxws",
       "title": "“AI가 생산성을 높이면 물가도 내려간다?” 레이시 헌트가 정반대 결론을 내린 결정적 이유 [구루 8월호 - 레이시 헌트]",
       "source_url": "https://www.youtube.com/watch?v=BNUnLsnTxws",
@@ -1372,25 +1391,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OVRFSiJQ1Ec",
-      "title": "《오디세이》 30분 완벽 총정리, 영화에선 안 보여준 뒷 이야기, 원작 『오디세이아』 완벽 정리 (김상근 교수)",
-      "source_url": "https://www.youtube.com/watch?v=OVRFSiJQ1Ec",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OVRFSiJQ1Ec/hqdefault.jpg",
-      "published_at": "2026-08-17T10:30:30+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "XyXohIM3ZO0",

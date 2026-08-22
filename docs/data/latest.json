@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T07:35:03.436314+00:00",
+  "generated_at": "2026-08-22T08:34:15.735580+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,11 +58,11 @@
   ],
   "videos": [
     {
-      "video_id": "hZ9aVxTKQLQ",
-      "title": "극비리에 한국 찾은 UAE 사우디. 한국에 대한 태도 급변한 이유｜박현도 교수, 김정호 교수, 김민석 특파원 특집",
-      "source_url": "https://www.youtube.com/watch?v=hZ9aVxTKQLQ",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hZ9aVxTKQLQ/hqdefault.jpg",
-      "published_at": "2026-08-22T06:00:35+00:00",
+      "video_id": "L4UuR2_zOu0",
+      "title": "극비리에 한국 찾은 UAE. 급 태세전환한 진짜 이유｜김민석 특파원 2부",
+      "source_url": "https://www.youtube.com/watch?v=L4UuR2_zOu0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/L4UuR2_zOu0/hqdefault.jpg",
+      "published_at": "2026-08-22T08:00:26+00:00",
       "channel_name": "달란트투자",
       "topics": [
         "commodities"
@@ -70,6 +70,25 @@
       "topic_stances": [
         {
           "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "hZ9aVxTKQLQ",
+      "title": "사우디 UAE 급 한국행. 한국에 엄청난 일 터진다｜박현도 교수, 김정호 교수, 김민석 특파원 특집",
+      "source_url": "https://www.youtube.com/watch?v=hZ9aVxTKQLQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hZ9aVxTKQLQ/hqdefault.jpg",
+      "published_at": "2026-08-22T06:00:35+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -957,25 +976,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VoNbPfg8VmA",
-      "title": "현대차 심상치 않다. 앞으로 '이 주식' 주목하세요 #김지훈",
-      "source_url": "https://www.youtube.com/shorts/VoNbPfg8VmA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VoNbPfg8VmA/hqdefault.jpg",
-      "published_at": "2026-08-20T09:15:29+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T22:26:00.794478+00:00",
+  "generated_at": "2026-08-22T23:24:04.616477+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "JW8zPwLuPlA",
+      "title": "주식도 성격 따라 다릅니다, 정신과 의사가 분석한 투자자 유형 | 최명기 청담허버드심리센터 연구소장 [신과대화]",
+      "source_url": "https://www.youtube.com/watch?v=JW8zPwLuPlA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/JW8zPwLuPlA/hqdefault.jpg",
+      "published_at": "2026-08-22T23:00:08+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "OPrI1j-j2E8",
       "title": "\"아플거면 지난주에 미리 말했어야지.\"",
@@ -914,35 +933,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "jVO661jP_s4",
-      "title": "비트코인 상승장 진짜 시작? 7개월 만에 자금 폭발…9월 크립토 법안이 변곡점? | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=jVO661jP_s4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jVO661jP_s4/hqdefault.jpg",
-      "published_at": "2026-08-21T02:52:00+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "kn0oxNIy8Lk",

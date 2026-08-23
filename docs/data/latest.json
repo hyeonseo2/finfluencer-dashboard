@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T19:24:48.498947+00:00",
+  "generated_at": "2026-08-23T20:27:50.375001+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,45 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "DMQZ-VYTovY",
+      "title": "국채금리 상승에도 뉴욕증시 3대지수 '반등'...비트코인 연일 '강세'_26.08.24 | 여도은, 박명석, 장우진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=DMQZ-VYTovY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/DMQZ-VYTovY/hqdefault.jpg",
+      "published_at": "2026-08-23T20:18:49+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "crypto",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "iqlCw-6GIjY",
       "title": "5000만원으로 '이것' 다 사세요, 9월부터 정말 무섭게 오를 겁니다 (빈센트 위원)",
@@ -1036,25 +1075,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "SDXXH2TjdL4",
-      "title": "[8월 21일 마감시황] 삼전닉스 빼면 뭐가 올랐나? 주주환원은 만병통치약이 아니다ㅣ홍선애, 김장열, 장우진 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=SDXXH2TjdL4",
-      "thumbnail_url": "https://i4.ytimg.com/vi/SDXXH2TjdL4/hqdefault.jpg",
-      "published_at": "2026-08-21T08:10:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "jAAkCsk1_vU",

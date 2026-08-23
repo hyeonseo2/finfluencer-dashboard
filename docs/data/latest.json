@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T09:31:32.718034+00:00",
+  "generated_at": "2026-08-23T10:27:32.847067+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "80Y-53O4QUM",
+      "title": "테슬라 곧 180도 뒤집힌다. 가진 주식 싹다 '이렇게' 해라｜김영웅 대표 2부",
+      "source_url": "https://www.youtube.com/watch?v=80Y-53O4QUM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/80Y-53O4QUM/hqdefault.jpg",
+      "published_at": "2026-08-23T10:00:35+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "BtpDNJQkJCk",
+      "title": "매일 아침마다 '이것' 먹고 있어요, 실제로 20kg 빠진 1등 아침 식단 (정재훈 약사)",
+      "source_url": "https://www.youtube.com/watch?v=BtpDNJQkJCk",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BtpDNJQkJCk/hqdefault.jpg",
+      "published_at": "2026-08-23T10:00:09+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "nm-EMqcnCnQ",
       "title": "현금의 70% '이 주식' 꼭 담으세요, 지금 안 사면 결국 후회합니다 (하창봉 대표)",
@@ -924,30 +962,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "NZA_lmCKPQw",
-      "title": "반도체 난리난 지금 삼성전자 말고 ‘이것’ 봐라 #이승조",
-      "source_url": "https://www.youtube.com/shorts/NZA_lmCKPQw",
-      "thumbnail_url": "https://i3.ytimg.com/vi/NZA_lmCKPQw/hqdefault.jpg",
-      "published_at": "2026-08-21T09:15:32+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "8Nzaf3yPIL0",
       "title": "바닥을 다지던 회사가 스스로 주식을 사들이기 시작했습니다…이제 팔 사람이 줄어드는 국면이 열립니다 [Z1 NEWS - 2부]",
       "source_url": "https://www.youtube.com/watch?v=8Nzaf3yPIL0",
@@ -1283,41 +1297,27 @@
     },
     {
       "video_id": "dHP6_zOmBFk",
-      "title": "\"재무제표는 어려워서 못 봐요\"...개별주식 사기 전에 단어 9개면 끝납니다 | 왕초보 탈출 4탄",
+      "title": "\"숫자 하나가 좋은 주식과 나쁜 주식을 가른다\"...재무제표 9단어 총정리 | 왕초보 탈출 4탄",
       "source_url": "https://www.youtube.com/watch?v=dHP6_zOmBFk",
       "thumbnail_url": "https://i1.ytimg.com/vi/dHP6_zOmBFk/hqdefault.jpg",
       "published_at": "2026-08-19T10:00:01+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5VJeRikBfnQ",
-      "title": "(긴급 증시 진단) 삼성전자 -7.8%, SK하이닉스 -9.7% 폭락, 자사주 소각 후 주가 '이렇게' 된다 (슈퍼개미 이정윤 세무사)",
-      "source_url": "https://www.youtube.com/watch?v=5VJeRikBfnQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5VJeRikBfnQ/hqdefault.jpg",
-      "published_at": "2026-08-19T09:35:51+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "503NEYQ6xXo",

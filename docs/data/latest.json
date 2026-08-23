@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T11:24:08.551261+00:00",
+  "generated_at": "2026-08-23T12:48:19.059034+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,6 +58,30 @@
   ],
   "videos": [
     {
+      "video_id": "W-FOZ0aiJJ0",
+      "title": "[슈카월드] 삼전닉스 주주환원 떴다. / AI 국민배당금으로 시끄러운 나라 / 모더나 획기적인 암 백신 발표 / 도대체 전쟁은 왜 했는가 / 평균 PER 130인 주식시장",
+      "source_url": "https://www.youtube.com/watch?v=W-FOZ0aiJJ0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/W-FOZ0aiJJ0/hqdefault.jpg",
+      "published_at": "2026-08-23T11:19:24+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "iqlCw-6GIjY",
       "title": "5000만원으로 '이것' 다 사세요, 9월부터 정말 무섭게 오를 겁니다 (빈센트 위원)",
       "source_url": "https://www.youtube.com/watch?v=iqlCw-6GIjY",
@@ -78,7 +102,7 @@
     },
     {
       "video_id": "80Y-53O4QUM",
-      "title": "테슬라 곧 180도 뒤집힌다. 가진 주식 싹다 '이렇게' 해라｜김영웅 대표 2부",
+      "title": "\"한국만 모르고 있어요\" 코스피 외국인이 싹다 판 이유. 월요일에 엄청난 일 터지나｜김영웅 대표 2부",
       "source_url": "https://www.youtube.com/watch?v=80Y-53O4QUM",
       "thumbnail_url": "https://i1.ytimg.com/vi/80Y-53O4QUM/hqdefault.jpg",
       "published_at": "2026-08-23T10:00:35+00:00",
@@ -97,7 +121,7 @@
     },
     {
       "video_id": "BtpDNJQkJCk",
-      "title": "매일 아침마다 '이것' 먹고 있어요, 실제로 20kg 빠진 1등 아침 식단 (정재훈 약사)",
+      "title": "깜짝 놀랍게 혈당 올리는 음식, 세상에서 가장 나쁜 음식 1순위 (정재훈 약사)",
       "source_url": "https://www.youtube.com/watch?v=BtpDNJQkJCk",
       "thumbnail_url": "https://i3.ytimg.com/vi/BtpDNJQkJCk/hqdefault.jpg",
       "published_at": "2026-08-23T10:00:09+00:00",
@@ -1463,25 +1487,6 @@
       "source_url": "https://www.youtube.com/shorts/RciVevkUhXc",
       "thumbnail_url": "https://i3.ytimg.com/vi/RciVevkUhXc/hqdefault.jpg",
       "published_at": "2026-08-12T07:08:09+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QIynCaN5oNo",
-      "title": "종부세, 양도세 대대적 개편 예고",
-      "source_url": "https://www.youtube.com/watch?v=QIynCaN5oNo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QIynCaN5oNo/hqdefault.jpg",
-      "published_at": "2026-08-11T10:18:52+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

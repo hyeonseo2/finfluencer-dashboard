@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T21:25:32.035686+00:00",
+  "generated_at": "2026-08-23T22:26:11.419383+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,18 +58,37 @@
   ],
   "videos": [
     {
+      "video_id": "ja8Xq4C663k",
+      "title": "트럼프 \"채권 시장, 필요하다면 군사력 사용할 것\"...테슬라, 9월 3일 사이버캡 공개 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=ja8Xq4C663k",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ja8Xq4C663k/hqdefault.jpg",
+      "published_at": "2026-08-23T22:04:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "BUIsnEGgWXA",
-      "title": "\"미국은 신용등급이 AA인데 엔비디아는 AAA를 받았다\"... 10조씩 돈을 마구 뿌려대도 아무런 문제가 없는 이유",
+      "title": "인텔과 스페이스X까지 사들인 엔비디아, 10조를 또 꺼낸 건 중국 때문이었습니다",
       "source_url": "https://www.youtube.com/watch?v=BUIsnEGgWXA",
       "thumbnail_url": "https://i3.ytimg.com/vi/BUIsnEGgWXA/hqdefault.jpg",
       "published_at": "2026-08-23T21:00:07+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -78,37 +97,17 @@
     },
     {
       "video_id": "DMQZ-VYTovY",
-      "title": "국채금리 상승에도 뉴욕증시 3대지수 '반등'...비트코인 연일 '강세'_26.08.24 | 여도은, 박명석, 장우진 [월스트리트 모닝브리핑]",
+      "title": "메모리 가격 상승, 엔비디아도 AI 서버 가격 인상 | 이번주 금통위...두달 연속 인상 vs 동결, 전문가 평가도 5:5 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=DMQZ-VYTovY",
       "thumbnail_url": "https://i1.ytimg.com/vi/DMQZ-VYTovY/hqdefault.jpg",
       "published_at": "2026-08-23T20:18:49+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "crypto",
-        "interest_rate",
-        "bonds"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1056,25 +1055,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "mlrgZ5oNTzo",
-      "title": "삼성전자, 역대급 주주환원! 최대 110조원 '통 큰 환원' 결정ㅣ홍선애, 민재기 KB증권 PRIME CLUB 팀장 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=mlrgZ5oNTzo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/mlrgZ5oNTzo/hqdefault.jpg",
-      "published_at": "2026-08-21T08:52:05+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "iITRwiYdGTw",

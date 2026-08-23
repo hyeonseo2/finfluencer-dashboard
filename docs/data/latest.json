@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T03:06:34.105076+00:00",
+  "generated_at": "2026-08-23T04:41:05.476785+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,6 +58,25 @@
   ],
   "videos": [
     {
+      "video_id": "-1dNgLNARzM",
+      "title": "\"나이제한X, 소득제한X\" 매달 50만원 '여기’에 넣으세요. 국가가 약속한 19.5% 역대급 대박 통장 떴습니다 | 이준호 대표 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=-1dNgLNARzM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-1dNgLNARzM/hqdefault.jpg",
+      "published_at": "2026-08-23T04:00:38+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "T2hR_kP7XnU",
       "title": "극비리에 한국 찾은 러시아. 곧 한국에 상상못할 일 터진다｜조의준 대표 풀버전",
       "source_url": "https://www.youtube.com/watch?v=T2hR_kP7XnU",
@@ -78,17 +97,17 @@
     },
     {
       "video_id": "OuS98cuS9Ho",
-      "title": "\"5060 필수 시청\" 통장에 현금 이정도 있으면 은퇴후 월 500만원씩 평생 씁니다 | 연금닥터 3부 #돈쭐남 #김경필",
+      "title": "이 통장 당장 만들어라 \"모르면 수천만원 손해다\" 건보료 90%에서 0원 됩니다 | 연금닥터 3부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=OuS98cuS9Ho",
       "thumbnail_url": "https://i4.ytimg.com/vi/OuS98cuS9Ho/hqdefault.jpg",
       "published_at": "2026-08-23T02:00:11+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -97,17 +116,17 @@
     },
     {
       "video_id": "lOFO3juqum4",
-      "title": "트럼프가 김정은을 다시 만나는 진짜 이유… 한국이 가장 위험해질 수 있다  | 조한범 통일연구원 석좌연구위원 [신과 대화]",
+      "title": "“80년 전쟁 끝낸다?” / 트럼프의 진짜 속셈은… | 조한범 통일연구원 석좌연구위원 [신과 대화]",
       "source_url": "https://www.youtube.com/watch?v=lOFO3juqum4",
       "thumbnail_url": "https://i1.ytimg.com/vi/lOFO3juqum4/hqdefault.jpg",
       "published_at": "2026-08-23T02:00:07+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1056,25 +1075,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "xF4vpp8pzR8",
-      "title": "(광고x) \"나이제한x 소득제한x\" 대한민국 누구나 연 10% 이자 주는 적금 통장 떴다. 곧 소진될 거예요. 빨리 만드세요 #김경필 #돈쭐남",
-      "source_url": "https://www.youtube.com/watch?v=xF4vpp8pzR8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xF4vpp8pzR8/hqdefault.jpg",
-      "published_at": "2026-08-20T09:34:23+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "BNUnLsnTxws",

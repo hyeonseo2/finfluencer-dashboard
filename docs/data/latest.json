@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T08:34:49.920372+00:00",
+  "generated_at": "2026-08-23T09:31:32.718034+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "nm-EMqcnCnQ",
+      "title": "현금의 70% '이 주식' 꼭 담으세요, 지금 안 사면 결국 후회합니다 (하창봉 대표)",
+      "source_url": "https://www.youtube.com/watch?v=nm-EMqcnCnQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nm-EMqcnCnQ/hqdefault.jpg",
+      "published_at": "2026-08-23T09:00:14+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "QruA_Z7CyL0",
       "title": "“폭우로 북한군 싹다 궤멸\" 난리 난 북한 현재 상황 | 김주성 탈북작가 풀버전",
@@ -1318,25 +1342,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "YhdBhJYs70w",
-      "title": "한국인이 유독 독종인 진짜 이유, 전 세계 역사학자들도 놀라요 (서울대 박정재 교수)",
-      "source_url": "https://www.youtube.com/watch?v=YhdBhJYs70w",
-      "thumbnail_url": "https://i2.ytimg.com/vi/YhdBhJYs70w/hqdefault.jpg",
-      "published_at": "2026-08-18T11:00:03+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ud4kRZ4hrCQ",

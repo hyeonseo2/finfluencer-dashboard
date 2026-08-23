@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T14:27:03.524963+00:00",
+  "generated_at": "2026-08-23T15:26:21.515499+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,30 +57,6 @@
     "stocks"
   ],
   "videos": [
-    {
-      "video_id": "W-FOZ0aiJJ0",
-      "title": "[슈카월드] 삼전닉스 주주환원 떴다. / AI 국민배당금으로 시끄러운 나라 / 모더나 획기적인 암 백신 발표 / 도대체 전쟁은 왜 했는가 / 평균 PER 130인 주식시장",
-      "source_url": "https://www.youtube.com/watch?v=W-FOZ0aiJJ0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/W-FOZ0aiJJ0/hqdefault.jpg",
-      "published_at": "2026-08-23T11:19:24+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
     {
       "video_id": "iqlCw-6GIjY",
       "title": "5000만원으로 '이것' 다 사세요, 9월부터 정말 무섭게 오를 겁니다 (빈센트 위원)",
@@ -1487,6 +1463,25 @@
       "source_url": "https://www.youtube.com/shorts/RciVevkUhXc",
       "thumbnail_url": "https://i3.ytimg.com/vi/RciVevkUhXc/hqdefault.jpg",
       "published_at": "2026-08-12T07:08:09+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "QIynCaN5oNo",
+      "title": "종부세, 양도세 대대적 개편 예고",
+      "source_url": "https://www.youtube.com/watch?v=QIynCaN5oNo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QIynCaN5oNo/hqdefault.jpg",
+      "published_at": "2026-08-11T10:18:52+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

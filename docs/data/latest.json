@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T20:27:50.375001+00:00",
+  "generated_at": "2026-08-23T21:25:32.035686+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "BUIsnEGgWXA",
+      "title": "\"미국은 신용등급이 AA인데 엔비디아는 AAA를 받았다\"... 10조씩 돈을 마구 뿌려대도 아무런 문제가 없는 이유",
+      "source_url": "https://www.youtube.com/watch?v=BUIsnEGgWXA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BUIsnEGgWXA/hqdefault.jpg",
+      "published_at": "2026-08-23T21:00:07+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "DMQZ-VYTovY",
       "title": "국채금리 상승에도 뉴욕증시 3대지수 '반등'...비트코인 연일 '강세'_26.08.24 | 여도은, 박명석, 장우진 [월스트리트 모닝브리핑]",
@@ -1333,30 +1352,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "503NEYQ6xXo",
-      "title": "미국 정부 부채 40조 달러, 진짜 파산하는 거냐고 묻는다면, 그 정도 상황은 아니라고 보는 이유",
-      "source_url": "https://www.youtube.com/watch?v=503NEYQ6xXo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/503NEYQ6xXo/hqdefault.jpg",
-      "published_at": "2026-08-19T07:45:18+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
           "stance": "neutral"
         }
       ],

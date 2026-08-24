@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T19:32:43.923790+00:00",
+  "generated_at": "2026-08-24T20:34:30.508880+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,40 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ZHmxKOPW9dU",
+      "title": "국채금리 하락 속 뉴욕증시 혼조 마감...엔비디아 7일 연속 '하락'_26.08.25 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=ZHmxKOPW9dU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZHmxKOPW9dU/hqdefault.jpg",
+      "published_at": "2026-08-24T20:19:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "jz68f9inVQY",
       "title": "엔비디아 실적발표, 과연 시장을 안도시킬 수 있을까?ㅣ명민준, 박세미, 송재경 [주린이 구조대]",
@@ -539,30 +573,6 @@
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "pTaYBq4oRWg",
-      "title": "삼성전자 주주환원에 시장 실망? 반도체에서 빠진 돈 어디로 가나 | 이지은 이지스탁 대표 [더블 체크]",
-      "source_url": "https://www.youtube.com/watch?v=pTaYBq4oRWg",
-      "thumbnail_url": "https://i1.ytimg.com/vi/pTaYBq4oRWg/hqdefault.jpg",
-      "published_at": "2026-08-24T01:11:22+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"

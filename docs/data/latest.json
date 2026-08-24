@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T13:56:13.565820+00:00",
+  "generated_at": "2026-08-24T14:49:26.263342+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "jz68f9inVQY",
+      "title": "엔비디아 실적발표, 과연 시장을 안도시킬 수 있을까?ㅣ명민준, 박세미, 송재경 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=jz68f9inVQY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jz68f9inVQY/hqdefault.jpg",
+      "published_at": "2026-08-24T14:00:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "b3qJfhC_FLc",
       "title": "삼전닉스 전고점 전망에도 코스닥을 봐야 하는 이유…9월 중소형주 반등 온다ㅣ명민준, 박세미, 유창희 [주린이 구조대]",
@@ -544,25 +563,6 @@
           "topic": "stocks",
           "stance": "neutral"
         },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ifbUacCKda0",
-      "title": "엔비디아·금통위·잭슨홀 몰려온다…이번 주 시장 대응 전략은? | 박병창 MP파트너스 대표 [마켓 인사이드]",
-      "source_url": "https://www.youtube.com/watch?v=ifbUacCKda0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ifbUacCKda0/hqdefault.jpg",
-      "published_at": "2026-08-24T00:26:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"

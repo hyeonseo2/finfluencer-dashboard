@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T12:57:51.232810+00:00",
+  "generated_at": "2026-08-24T13:56:13.565820+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
   ],
   "videos": [
     {
+      "video_id": "b3qJfhC_FLc",
+      "title": "삼전닉스 전고점 전망에도 코스닥을 봐야 하는 이유…9월 중소형주 반등 온다ㅣ명민준, 박세미, 유창희 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=b3qJfhC_FLc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/b3qJfhC_FLc/hqdefault.jpg",
+      "published_at": "2026-08-24T13:00:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "IHZXURtOmEU",
       "title": "삼전닉스 아직 매수 구간…그래도 반도체에 ‘몰빵’하면 위험한 이유ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
       "source_url": "https://www.youtube.com/watch?v=IHZXURtOmEU",
@@ -96,17 +115,17 @@
     },
     {
       "video_id": "HyBv1Fh_so0",
-      "title": "러시아 급 한국행한 이유 한국에 엄청난 일 터진다 | 조의준 대표, 김민석 특파원 특집",
+      "title": "극비리에 한국 찾은 러시아 한국에 엄청난 일 터진다 | 조의준 대표, 김민석 특파원 특집",
       "source_url": "https://www.youtube.com/watch?v=HyBv1Fh_so0",
       "thumbnail_url": "https://i1.ytimg.com/vi/HyBv1Fh_so0/hqdefault.jpg",
       "published_at": "2026-08-24T10:30:31+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -546,25 +565,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CWCyV17NjKg",
-      "title": "메모리 가격 상승에 엔비디아도 AI 서버 가격 인상 | 이번주 금통위...두달 연속 인상 vs 동결, 전문가 평가도 딱 5:5 | 권순우 삼프로TV 취재팀장 [뉴스3]",
-      "source_url": "https://www.youtube.com/watch?v=CWCyV17NjKg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CWCyV17NjKg/hqdefault.jpg",
-      "published_at": "2026-08-23T23:17:26+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

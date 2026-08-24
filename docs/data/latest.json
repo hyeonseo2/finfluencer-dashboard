@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T09:52:22.695895+00:00",
+  "generated_at": "2026-08-24T10:40:27.839248+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,6 +58,44 @@
   ],
   "videos": [
     {
+      "video_id": "HyBv1Fh_so0",
+      "title": "러시아 급 한국행한 이유 한국에 엄청난 일 터진다 | 조의준 대표, 김민석 특파원 특집",
+      "source_url": "https://www.youtube.com/watch?v=HyBv1Fh_so0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/HyBv1Fh_so0/hqdefault.jpg",
+      "published_at": "2026-08-24T10:30:31+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Wn98anui1OQ",
+      "title": "반도체 다음 먹거리 탄생했다, 전 세계 돈 싹슬이 합니다 (김정호 교수)",
+      "source_url": "https://www.youtube.com/watch?v=Wn98anui1OQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Wn98anui1OQ/hqdefault.jpg",
+      "published_at": "2026-08-24T10:15:06+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "3u69-LtA5Hk",
       "title": "역대급 주주환원에도 급락한 반도체 주가",
       "source_url": "https://www.youtube.com/watch?v=3u69-LtA5Hk",
@@ -78,17 +116,17 @@
     },
     {
       "video_id": "v-bE_q9WIks",
-      "title": "한국에 제대로 선넘은 우크라 싹다 까발려진 젤렌스키 실체 | 이춘근 박사 2부",
+      "title": "미국 사우디 충격 결단 한국에 엄청난 일 터진다 | 이춘근 박사 2부",
       "source_url": "https://www.youtube.com/watch?v=v-bE_q9WIks",
       "thumbnail_url": "https://i3.ytimg.com/vi/v-bE_q9WIks/hqdefault.jpg",
       "published_at": "2026-08-24T09:30:04+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -192,7 +230,7 @@
     },
     {
       "video_id": "gSAIj7P_ul4",
-      "title": "러시아가 중국에 잡아먹혔다, 러시아 본토 완전 초토화된 이유 (김정호 교수)",
+      "title": "러시아 본토가 완전히 뚫렸다, 충격적인 러시아·우크라이나 전쟁 현지 상황 (김정호 교수)",
       "source_url": "https://www.youtube.com/watch?v=gSAIj7P_ul4",
       "thumbnail_url": "https://i4.ytimg.com/vi/gSAIj7P_ul4/hqdefault.jpg",
       "published_at": "2026-08-24T08:00:14+00:00",
@@ -273,7 +311,7 @@
     },
     {
       "video_id": "iLHfTJqC-gc",
-      "title": "역대급 주주환원에도 급락...엔비디아 실적 발표 앞두고 흔들리는 반도체ㅣ명민준, 박세미, 유창희 [주린이 구조대]",
+      "title": "역대급 주주환원에도 급락...엔비디아 실적 발표 앞두고 흔들리는 반도체ㅣ명민준, 박세미, 송재경 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=iLHfTJqC-gc",
       "thumbnail_url": "https://i2.ytimg.com/vi/iLHfTJqC-gc/hqdefault.jpg",
       "published_at": "2026-08-24T05:20:03+00:00",
@@ -920,25 +958,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "hZ9aVxTKQLQ",
-      "title": "사우디 UAE 급 한국행. 한국에 엄청난 일 터진다｜박현도 교수, 김정호 교수, 김민석 특파원 특집",
-      "source_url": "https://www.youtube.com/watch?v=hZ9aVxTKQLQ",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hZ9aVxTKQLQ/hqdefault.jpg",
-      "published_at": "2026-08-22T06:00:35+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "AW3MxeiIAg4",
       "title": "\"50대 필수 ETF\" 연 22% 연금 통장에 꽂힌다. 가격도 싼데 배당도 퍼준다. 노후에 이걸로 현금 쓰세요 | 김정란 대표 풀버전 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=AW3MxeiIAg4",
@@ -1228,25 +1247,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "jKlApuf3j2w",
-      "title": "반도체 다음 텐배거 터질 유망섹터, 9월부터 진짜 미친듯이 오릅니다 (슈퍼개미 이정윤 세무사)",
-      "source_url": "https://www.youtube.com/watch?v=jKlApuf3j2w",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jKlApuf3j2w/hqdefault.jpg",
-      "published_at": "2026-08-20T10:15:26+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "dHAaIsSspe4",

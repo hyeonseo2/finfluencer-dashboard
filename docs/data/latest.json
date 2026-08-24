@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T11:32:24.150157+00:00",
+  "generated_at": "2026-08-24T12:57:51.232810+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,8 +57,27 @@
   ],
   "videos": [
     {
+      "video_id": "IHZXURtOmEU",
+      "title": "삼전닉스 아직 매수 구간…그래도 반도체에 ‘몰빵’하면 위험한 이유ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
+      "source_url": "https://www.youtube.com/watch?v=IHZXURtOmEU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IHZXURtOmEU/hqdefault.jpg",
+      "published_at": "2026-08-24T12:00:39+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "iLHfTJqC-gc",
-      "title": "[26.08.24 오후 방송 전체보기] 주주환원 효과 끝? 시장은 빅이벤트로 시선 집중...내일 시장은 회복할까요?",
+      "title": "[26.08.24 오후 방송 전체보기] 주주환원 효과 끝? 시장은 빅이벤트로 시선 집중…내일 시장은 회복할까요?",
       "source_url": "https://www.youtube.com/watch?v=iLHfTJqC-gc",
       "thumbnail_url": "https://i2.ytimg.com/vi/iLHfTJqC-gc/hqdefault.jpg",
       "published_at": "2026-08-24T11:03:38+00:00",
@@ -96,7 +115,7 @@
     },
     {
       "video_id": "ebgYldYtclw",
-      "title": "\"매일 커피 1잔씩 투자\" 50대부터 시작해도 됩니다. 이 ETF로 딱 5년만 모으세요. 노후에 현금 펑펑 쓴다 | 김운아 작가 1부 #돈쭐남 #김경필",
+      "title": "\"역대급 배당 폭탄 온다\" 5060은 그냥 이 ETF만 사 모아라. 통장에 돈벼락 터질 겁니다 | 김운아 작가 1부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=ebgYldYtclw",
       "thumbnail_url": "https://i2.ytimg.com/vi/ebgYldYtclw/hqdefault.jpg",
       "published_at": "2026-08-24T10:30:29+00:00",
@@ -120,17 +139,17 @@
     },
     {
       "video_id": "Wn98anui1OQ",
-      "title": "반도체 다음 먹거리 탄생했다, 전 세계 돈 싹슬이 합니다 (김정호 교수)",
+      "title": "반도체 다음 먹거리 탄생했다, 한국은 돈 잔치 시작입니다 (김정호 교수)",
       "source_url": "https://www.youtube.com/watch?v=Wn98anui1OQ",
       "thumbnail_url": "https://i4.ytimg.com/vi/Wn98anui1OQ/hqdefault.jpg",
       "published_at": "2026-08-24T10:15:06+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -546,25 +565,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "skuh4zNvDbk",
-      "title": "반도체 다시 오르는데 지금 사도 될까? 한 템포 늦춰야 하는 이유 | 장우진 금시공 대표 [글로벌 인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=skuh4zNvDbk",
-      "thumbnail_url": "https://i4.ytimg.com/vi/skuh4zNvDbk/hqdefault.jpg",
-      "published_at": "2026-08-23T22:54:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

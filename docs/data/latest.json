@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T10:40:27.839248+00:00",
+  "generated_at": "2026-08-24T11:32:24.150157+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -52,11 +52,29 @@
     "fx",
     "interest_rate",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "iLHfTJqC-gc",
+      "title": "[26.08.24 오후 방송 전체보기] 주주환원 효과 끝? 시장은 빅이벤트로 시선 집중...내일 시장은 회복할까요?",
+      "source_url": "https://www.youtube.com/watch?v=iLHfTJqC-gc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iLHfTJqC-gc/hqdefault.jpg",
+      "published_at": "2026-08-24T11:03:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "HyBv1Fh_so0",
       "title": "러시아 급 한국행한 이유 한국에 엄청난 일 터진다 | 조의준 대표, 김민석 특파원 특집",
@@ -75,6 +93,30 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ebgYldYtclw",
+      "title": "\"매일 커피 1잔씩 투자\" 50대부터 시작해도 됩니다. 이 ETF로 딱 5년만 모으세요. 노후에 현금 펑펑 쓴다 | 김운아 작가 1부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=ebgYldYtclw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ebgYldYtclw/hqdefault.jpg",
+      "published_at": "2026-08-24T10:30:29+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities",
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Wn98anui1OQ",
@@ -135,17 +177,17 @@
     },
     {
       "video_id": "HWiUXKuzPpo",
-      "title": "\"61년생부터 적용된다\" 기초연금 이제 못받는다? 올해부터 싹다 바뀔겁니다 | 연금닥터 풀버전 #돈쭐남 #김경필",
+      "title": "\"모르면 수천만원 손해다\" 건보료 0원 되는 '이 통장' 무조건 만드세요 | 연금닥터 풀버전 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=HWiUXKuzPpo",
       "thumbnail_url": "https://i1.ytimg.com/vi/HWiUXKuzPpo/hqdefault.jpg",
       "published_at": "2026-08-24T09:30:04+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -308,25 +350,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "iLHfTJqC-gc",
-      "title": "역대급 주주환원에도 급락...엔비디아 실적 발표 앞두고 흔들리는 반도체ㅣ명민준, 박세미, 송재경 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=iLHfTJqC-gc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/iLHfTJqC-gc/hqdefault.jpg",
-      "published_at": "2026-08-24T05:20:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "qgkF5kzYc9U",
@@ -1118,25 +1141,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "93_52yz-GCU",
-      "title": "\"이 법안 이미 통과 됐습니다\" 비거주 1주택 징벌과세 결정됐다. 내 집 안 살면 세금폭탄으로 강제매도 시킨다? | 염지훈 세무사 2부 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=93_52yz-GCU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/93_52yz-GCU/hqdefault.jpg",
-      "published_at": "2026-08-21T10:30:01+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "H0qNPB03Pqg",

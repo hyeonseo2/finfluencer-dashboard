@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T01:38:10.700622+00:00",
+  "generated_at": "2026-08-24T03:07:19.248637+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "YaKhLfRrLao",
+      "title": "삼성전자·SK하이닉스 엇갈리는 주가…슈퍼위크 후 9월 시장은? | 이혁진, 여도은, 허재무 [아침N투자]",
+      "source_url": "https://www.youtube.com/watch?v=YaKhLfRrLao",
+      "thumbnail_url": "https://i2.ytimg.com/vi/YaKhLfRrLao/hqdefault.jpg",
+      "published_at": "2026-08-24T02:23:26+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "hZoL_KHFucA",
+      "title": "삼전닉스 쉬어가면 그 다음은? 지금은 '순환매'에 집중할 때 | 이권희 위즈웨이브 대표 [더블 업]",
+      "source_url": "https://www.youtube.com/watch?v=hZoL_KHFucA",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hZoL_KHFucA/hqdefault.jpg",
+      "published_at": "2026-08-24T01:32:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "pTaYBq4oRWg",
       "title": "삼성전자 주주환원에 시장 실망? 반도체에서 빠진 돈 어디로 가나 | 이지은 이지스탁 대표 [더블 체크]",
@@ -178,17 +221,22 @@
     },
     {
       "video_id": "DMQZ-VYTovY",
-      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.08.24. | 여도은, 허재무, 이혁진 [아침N투자]",
+      "title": "비트코인 상승 랠리, 남은 관문은?…연말 상승장 대비 투자전략 | 김동환, 서동주, 박상혁, 김남웅 [크립토 PLUS]",
       "source_url": "https://www.youtube.com/watch?v=DMQZ-VYTovY",
       "thumbnail_url": "https://i1.ytimg.com/vi/DMQZ-VYTovY/hqdefault.jpg",
       "published_at": "2026-08-23T20:18:49+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "commodities"
+        "commodities",
+        "crypto"
       ],
       "topic_stances": [
         {
           "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "crypto",
           "stance": "neutral"
         }
       ],
@@ -235,7 +283,7 @@
     },
     {
       "video_id": "BtpDNJQkJCk",
-      "title": "깜짝 놀랍게 혈당 올리는 음식, 세상에서 가장 나쁜 음식 1순위 (정재훈 약사)",
+      "title": "세상에서 가장 나쁜 음식 1순위, 깜짝 놀랍게 혈당 올리는 음식 (정재훈 약사)",
       "source_url": "https://www.youtube.com/watch?v=BtpDNJQkJCk",
       "thumbnail_url": "https://i3.ytimg.com/vi/BtpDNJQkJCk/hqdefault.jpg",
       "published_at": "2026-08-23T10:00:09+00:00",
@@ -454,7 +502,7 @@
     },
     {
       "video_id": "lOFO3juqum4",
-      "title": "“80년 전쟁 끝낸다?” / 트럼프의 진짜 속셈은… | 조한범 통일연구원 석좌연구위원 [신과 대화]",
+      "title": "“80년 전쟁 끝낸다?” 트럼프의 진짜 속셈은… | 조한범 통일연구원 석좌연구위원 [신과 대화]",
       "source_url": "https://www.youtube.com/watch?v=lOFO3juqum4",
       "thumbnail_url": "https://i1.ytimg.com/vi/lOFO3juqum4/hqdefault.jpg",
       "published_at": "2026-08-23T02:00:07+00:00",
@@ -530,7 +578,7 @@
     },
     {
       "video_id": "JW8zPwLuPlA",
-      "title": "주식도 성격 따라 다릅니다, 정신과 의사가 분석한 투자자 유형 | 최명기 청담허버드심리센터 연구소장 [신과대화]",
+      "title": "주식도 성격 따라 다르다? 정신과 의사가 분석한 투자자 유형 | 최명기 청담하버드심리센터 연구소장 [신과대화]",
       "source_url": "https://www.youtube.com/watch?v=JW8zPwLuPlA",
       "thumbnail_url": "https://i3.ytimg.com/vi/JW8zPwLuPlA/hqdefault.jpg",
       "published_at": "2026-08-22T23:00:08+00:00",
@@ -781,25 +829,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "RClTi_6c9ac",
-      "title": "북한 경제성장률 3.7%… 무슨 일이 벌어진 걸까 | 이문영 서울대학교 통일평화연구원 교수 [주말인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=RClTi_6c9ac",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RClTi_6c9ac/hqdefault.jpg",
-      "published_at": "2026-08-22T02:00:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "SzC_cJce5P8",
       "title": "\"세재개편안 다시 발표?\" 서울 아파트 싹 다 뒤집힌다. 급매 폭탄 떨어진다. 내년부터 집값 무서울 겁니다 | 염지훈 세무사 3부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=SzC_cJce5P8",
@@ -836,25 +865,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "x9umzeOuiiM",
-      "title": "AI 랠리 아직 안 끝났다… ‘다음 주도주’ 골라야 할 때 | 장우진 금시공 대표&박명석 큐레이터 [주말인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=x9umzeOuiiM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/x9umzeOuiiM/hqdefault.jpg",
-      "published_at": "2026-08-21T23:00:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "tXUt9IWOiAE",

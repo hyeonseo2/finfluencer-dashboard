@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T08:52:40.429222+00:00",
+  "generated_at": "2026-08-24T09:52:22.695895+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,23 +58,94 @@
   ],
   "videos": [
     {
-      "video_id": "aaPCzwHQbu0",
-      "title": "\"건드리지 말았어야\" 비거주 1주택 세금 전면 재검토한다? 이미 부동산 현장은 난장판 됐습니다 | 염지훈 세무사 풀버전 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=aaPCzwHQbu0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aaPCzwHQbu0/hqdefault.jpg",
-      "published_at": "2026-08-24T08:30:03+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
+      "video_id": "3u69-LtA5Hk",
+      "title": "역대급 주주환원에도 급락한 반도체 주가",
+      "source_url": "https://www.youtube.com/watch?v=3u69-LtA5Hk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/3u69-LtA5Hk/hqdefault.jpg",
+      "published_at": "2026-08-24T09:36:32+00:00",
+      "channel_name": "슈카월드",
       "topics": [
-        "commodities",
-        "real_estate"
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "v-bE_q9WIks",
+      "title": "한국에 제대로 선넘은 우크라 싹다 까발려진 젤렌스키 실체 | 이춘근 박사 2부",
+      "source_url": "https://www.youtube.com/watch?v=v-bE_q9WIks",
+      "thumbnail_url": "https://i3.ytimg.com/vi/v-bE_q9WIks/hqdefault.jpg",
+      "published_at": "2026-08-24T09:30:04+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "HWiUXKuzPpo",
+      "title": "\"61년생부터 적용된다\" 기초연금 이제 못받는다? 올해부터 싹다 바뀔겁니다 | 연금닥터 풀버전 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=HWiUXKuzPpo",
+      "thumbnail_url": "https://i1.ytimg.com/vi/HWiUXKuzPpo/hqdefault.jpg",
+      "published_at": "2026-08-24T09:30:04+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
         {
-          "topic": "real_estate",
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "SG_D1ivD7VY",
+      "title": "하반기 '분산'을 '확산'으로…순환매가 향하는 '다음 병목'ㅣ홍선애, 목대균 KCGI자산운용 대표 [여의도 인사이트]",
+      "source_url": "https://www.youtube.com/watch?v=SG_D1ivD7VY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SG_D1ivD7VY/hqdefault.jpg",
+      "published_at": "2026-08-24T08:52:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "aaPCzwHQbu0",
+      "title": "\"징벌과세 2배 올렸다\" 강남 집주인들 줄파산 위기 내몰렸다. 못 버틸 만큼 세금 올린다 | 염지훈 세무사 풀버전 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=aaPCzwHQbu0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/aaPCzwHQbu0/hqdefault.jpg",
+      "published_at": "2026-08-24T08:30:03+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -202,17 +273,17 @@
     },
     {
       "video_id": "iLHfTJqC-gc",
-      "title": "이재규의 결정적 한 수(手)ㅣ이재규 SK증권 PB 차장 [집중 오늘의 주식]",
+      "title": "역대급 주주환원에도 급락...엔비디아 실적 발표 앞두고 흔들리는 반도체ㅣ명민준, 박세미, 유창희 [주린이 구조대]",
       "source_url": "https://www.youtube.com/watch?v=iLHfTJqC-gc",
       "thumbnail_url": "https://i2.ytimg.com/vi/iLHfTJqC-gc/hqdefault.jpg",
       "published_at": "2026-08-24T05:20:03+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -433,25 +504,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ja8Xq4C663k",
-      "title": "트럼프 \"채권 시장, 필요하다면 군사력 사용할 것\"...테슬라, 9월 3일 사이버캡 공개 [월가 뉴스레터]",
-      "source_url": "https://www.youtube.com/watch?v=ja8Xq4C663k",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ja8Xq4C663k/hqdefault.jpg",
-      "published_at": "2026-08-23T22:04:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -930,25 +982,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Veije8FPSXo",
-      "title": "미국 한미동맹 폭탄 선언. 중국 러시아 초비상 걸렸다｜이춘근 박사 1부",
-      "source_url": "https://www.youtube.com/watch?v=Veije8FPSXo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Veije8FPSXo/hqdefault.jpg",
-      "published_at": "2026-08-22T03:00:31+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "bTDpqPP7Q8I",
       "title": "“화웨이가 막히는 순간 한국에 자리가 생깁니다” 현대차·엔비디아가 피지컬 AI 밸류체인에서 유리한 이유 | 정지훈 박사 [풀영상]",
       "source_url": "https://www.youtube.com/watch?v=bTDpqPP7Q8I",
@@ -1123,30 +1156,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "__YO1WRobYM",
-      "title": "\"61년생 이상 필수 시청\" 기초연금 이제 못받는다? 이미 법안 통과 됐습니다 | 연금닥터 1부 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=__YO1WRobYM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/__YO1WRobYM/hqdefault.jpg",
-      "published_at": "2026-08-21T09:30:19+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "8Nzaf3yPIL0",
@@ -1483,25 +1492,6 @@
       "source_url": "https://www.youtube.com/shorts/RciVevkUhXc",
       "thumbnail_url": "https://i3.ytimg.com/vi/RciVevkUhXc/hqdefault.jpg",
       "published_at": "2026-08-12T07:08:09+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QIynCaN5oNo",
-      "title": "종부세, 양도세 대대적 개편 예고",
-      "source_url": "https://www.youtube.com/watch?v=QIynCaN5oNo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QIynCaN5oNo/hqdefault.jpg",
-      "published_at": "2026-08-11T10:18:52+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

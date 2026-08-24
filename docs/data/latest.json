@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T03:07:19.248637+00:00",
+  "generated_at": "2026-08-24T04:50:04.362810+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,102 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "qgkF5kzYc9U",
+      "title": "이제 알트코인 차례? 지금 주목해야 할 곳은 | 서동주, 김동환, 김남웅 포필러스 대표 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=qgkF5kzYc9U",
+      "thumbnail_url": "https://i2.ytimg.com/vi/qgkF5kzYc9U/hqdefault.jpg",
+      "published_at": "2026-08-24T03:28:49+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "DMQZ-VYTovY",
+      "title": "[26.08.24 오전 방송 전체보기] 국채금리 상승에도 뉴욕증시 3대지수 '반등'...비트코인 연일 '강세'",
+      "source_url": "https://www.youtube.com/watch?v=DMQZ-VYTovY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/DMQZ-VYTovY/hqdefault.jpg",
+      "published_at": "2026-08-24T03:22:09+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "crypto",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "yl0m-lxywNs",
+      "title": "삼성전자 실망 매물이 쏟아진 날, 냉정하게 숫자만 봤습니다. 배당수익률과 세금까지 따지면 판단이 달라질 수 있습니다",
+      "source_url": "https://www.youtube.com/watch?v=yl0m-lxywNs",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yl0m-lxywNs/hqdefault.jpg",
+      "published_at": "2026-08-24T03:13:12+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "6nqxlRMKaCM",
+      "title": "비트코인 3년 5개월 만에 최대 급등…상승장 다시 시작되나? 이번주 '이것' 주목 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=6nqxlRMKaCM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6nqxlRMKaCM/hqdefault.jpg",
+      "published_at": "2026-08-24T03:03:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "YaKhLfRrLao",
       "title": "삼성전자·SK하이닉스 엇갈리는 주가…슈퍼위크 후 9월 시장은? | 이혁진, 여도은, 허재무 [아침N투자]",
@@ -218,30 +314,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "DMQZ-VYTovY",
-      "title": "비트코인 상승 랠리, 남은 관문은?…연말 상승장 대비 투자전략 | 김동환, 서동주, 박상혁, 김남웅 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=DMQZ-VYTovY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DMQZ-VYTovY/hqdefault.jpg",
-      "published_at": "2026-08-23T20:18:49+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "iqlCw-6GIjY",
@@ -577,25 +649,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "JW8zPwLuPlA",
-      "title": "주식도 성격 따라 다르다? 정신과 의사가 분석한 투자자 유형 | 최명기 청담하버드심리센터 연구소장 [신과대화]",
-      "source_url": "https://www.youtube.com/watch?v=JW8zPwLuPlA",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JW8zPwLuPlA/hqdefault.jpg",
-      "published_at": "2026-08-22T23:00:08+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "OPrI1j-j2E8",
       "title": "\"아플거면 지난주에 미리 말했어야지.\"",
       "source_url": "https://www.youtube.com/watch?v=OPrI1j-j2E8",
@@ -732,25 +785,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ipEpOw4RvNM",
-      "title": "'기업이 원해서 찾아온다' 재생에너지 발전 현장 직접 가보고 충격먹은 이유ㅣ에코노믹스 EP.4",
-      "source_url": "https://www.youtube.com/watch?v=ipEpOw4RvNM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ipEpOw4RvNM/hqdefault.jpg",
-      "published_at": "2026-08-22T06:00:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "KCU3LopK02c",
@@ -1323,30 +1357,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "dHP6_zOmBFk",
-      "title": "\"숫자 하나가 좋은 주식과 나쁜 주식을 가른다\"...재무제표 9단어 총정리 | 왕초보 탈출 4탄",
-      "source_url": "https://www.youtube.com/watch?v=dHP6_zOmBFk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dHP6_zOmBFk/hqdefault.jpg",
-      "published_at": "2026-08-19T10:00:01+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ud4kRZ4hrCQ",

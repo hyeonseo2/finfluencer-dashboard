@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T23:24:42.668452+00:00",
+  "generated_at": "2026-08-24T01:38:10.700622+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "pTaYBq4oRWg",
+      "title": "삼성전자 주주환원에 시장 실망? 반도체에서 빠진 돈 어디로 가나 | 이지은 이지스탁 대표 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=pTaYBq4oRWg",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pTaYBq4oRWg/hqdefault.jpg",
+      "published_at": "2026-08-24T01:11:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ifbUacCKda0",
+      "title": "엔비디아·금통위·잭슨홀 몰려온다…이번 주 시장 대응 전략은? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=ifbUacCKda0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ifbUacCKda0/hqdefault.jpg",
+      "published_at": "2026-08-24T00:26:29+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "CWCyV17NjKg",
       "title": "메모리 가격 상승에 엔비디아도 AI 서버 가격 인상 | 이번주 금통위...두달 연속 인상 vs 동결, 전문가 평가도 딱 5:5 | 권순우 삼프로TV 취재팀장 [뉴스3]",
@@ -135,17 +178,17 @@
     },
     {
       "video_id": "DMQZ-VYTovY",
-      "title": "주주환원으로 기대감 살린 코스피…AI 슈퍼위크 관전포인트는? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.08.24. | 여도은, 허재무, 이혁진 [아침N투자]",
       "source_url": "https://www.youtube.com/watch?v=DMQZ-VYTovY",
       "thumbnail_url": "https://i1.ytimg.com/vi/DMQZ-VYTovY/hqdefault.jpg",
       "published_at": "2026-08-23T20:18:49+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -154,7 +197,7 @@
     },
     {
       "video_id": "iqlCw-6GIjY",
-      "title": "5000만원으로 '이것' 다 사세요, 9월부터 정말 무섭게 오를 겁니다 (빈센트 위원)",
+      "title": "SK하이닉스와 '이것' 함께 사세요, 바닥 찍고 역대급 반등 시작된다 (빈센트 위원)",
       "source_url": "https://www.youtube.com/watch?v=iqlCw-6GIjY",
       "thumbnail_url": "https://i2.ytimg.com/vi/iqlCw-6GIjY/hqdefault.jpg",
       "published_at": "2026-08-23T10:30:33+00:00",
@@ -349,17 +392,22 @@
     },
     {
       "video_id": "-1dNgLNARzM",
-      "title": "\"나이제한X, 소득제한X\" 매달 50만원 '여기’에 넣으세요. 국가가 약속한 19.5% 역대급 대박 통장 떴습니다 | 이준호 대표 풀버전",
+      "title": "\"남은 돈 다 써도 된다\" 전재산 5천만원으로 이 ETF 사두면 노후 돈 걱정 끝입니다. 맘 편히 묻어두세요 | 이준호 대표 풀버전",
       "source_url": "https://www.youtube.com/watch?v=-1dNgLNARzM",
       "thumbnail_url": "https://i2.ytimg.com/vi/-1dNgLNARzM/hqdefault.jpg",
       "published_at": "2026-08-23T04:00:38+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "macro"
+        "commodities",
+        "etf"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -831,44 +879,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "GLprcIY_HFw",
-      "title": "환율 '뚝' 떨어졌지만…외국인이 한국에 베팅하지 않는 이유ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=GLprcIY_HFw",
-      "thumbnail_url": "https://i4.ytimg.com/vi/GLprcIY_HFw/hqdefault.jpg",
-      "published_at": "2026-08-21T13:30:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "aAy9zvkafVE",
-      "title": "시장을 실망시킨 건 '규모' 아닌 '방식'...삼성전자 110조 환원책에 주가가 돌아선 이유ㅣ명민준, 박가영, 황유현 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=aAy9zvkafVE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/aAy9zvkafVE/hqdefault.jpg",
-      "published_at": "2026-08-21T12:30:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "rf1IvtnlFyg",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T21:33:09.567866+00:00",
+  "generated_at": "2026-08-24T22:30:24.990510+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,25 +57,44 @@
   ],
   "videos": [
     {
+      "video_id": "FdBgUoIcU6w",
+      "title": "CNBC \"재무부, 일반 계정(TGA) 잔고 투입 가능성\"…대이란 경제적 제재 강화 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=FdBgUoIcU6w",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FdBgUoIcU6w/hqdefault.jpg",
+      "published_at": "2026-08-24T22:09:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "ZHmxKOPW9dU",
-      "title": "국채금리 하락 속 뉴욕증시 혼조 마감...엔비디아 7일 연속 '하락'_26.08.25 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "미국, 국채 매입에 1조 달러 활용 검토…금리 잡기 안간힘 | “메모리도 계산” 삼성의 승부수…하닉은 20단 HBM | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=ZHmxKOPW9dU",
       "thumbnail_url": "https://i3.ytimg.com/vi/ZHmxKOPW9dU/hqdefault.jpg",
       "published_at": "2026-08-24T20:19:00+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities",
+        "fx",
         "interest_rate",
         "bonds"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "commodities",
           "stance": "neutral"
         },
         {
-          "topic": "commodities",
+          "topic": "fx",
           "stance": "neutral"
         },
         {
@@ -554,25 +573,6 @@
           "topic": "stocks",
           "stance": "neutral"
         },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hZoL_KHFucA",
-      "title": "삼전닉스 쉬어가면 그 다음은? 지금은 '순환매'에 집중할 때 | 이권희 위즈웨이브 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=hZoL_KHFucA",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hZoL_KHFucA/hqdefault.jpg",
-      "published_at": "2026-08-24T01:32:00+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
         {
           "topic": "commodities",
           "stance": "neutral"

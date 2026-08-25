@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T22:31:16.833402+00:00",
+  "generated_at": "2026-08-25T23:27:53.206503+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,6 +58,54 @@
   ],
   "videos": [
     {
+      "video_id": "r2sCLKyRaZU",
+      "title": "성과급 7억인데 주식 60%는 안돼, SK하이닉스 노사합의안 부결 | 캐나다, 미국에 200억 달러 보복관세…700개 품목에 15~50% | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=r2sCLKyRaZU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/r2sCLKyRaZU/hqdefault.jpg",
+      "published_at": "2026-08-25T23:18:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "fx",
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "fxDZ4aIldtQ",
+      "title": "엔비디아 실적 D-1, 숫자보다 중요한 '이것'… AI 반도체 수요 아직 안 꺾였다 | 김장열 유니스토리자산운용 리서치센터 센터장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=fxDZ4aIldtQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/fxDZ4aIldtQ/hqdefault.jpg",
+      "published_at": "2026-08-25T22:39:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "wwiAvQN3-Xs",
       "title": "엔비디아 실적 발표 전 체크포인트는? 국제유가, 휴전 합의 기대감에 급락 [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=wwiAvQN3-Xs",
@@ -78,22 +126,17 @@
     },
     {
       "video_id": "oZZqd5qfTCQ",
-      "title": "미국·캐나다 관세 전쟁 | 성과급 7억인데 주식 60%는 안돼, SK하이닉스 노사합의안 부결 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "WSJ \"공포의 한국 롤러코스피\"...빅이벤트 앞세워 다시 되살아날까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=oZZqd5qfTCQ",
       "thumbnail_url": "https://i4.ytimg.com/vi/oZZqd5qfTCQ/hqdefault.jpg",
       "published_at": "2026-08-25T20:28:45+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "policy"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
           "stance": "neutral"
         }
       ],
@@ -570,64 +613,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OLJbT2ddK6g",
-      "title": "베센트도 못 막는 미국 국채 금리…비트코인에 기회 될까 | 서동주, 김동환, 이윤수 에릭의 거장연구소 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=OLJbT2ddK6g",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OLJbT2ddK6g/hqdefault.jpg",
-      "published_at": "2026-08-25T03:27:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "interest_rate",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ZHmxKOPW9dU",
-      "title": "[26.08.25 오전 방송 전체보기] 국채금리 하락 속 뉴욕증시 혼조 마감...엔비디아 7일 연속 '하락'",
-      "source_url": "https://www.youtube.com/watch?v=ZHmxKOPW9dU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZHmxKOPW9dU/hqdefault.jpg",
-      "published_at": "2026-08-25T03:15:23+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "HyBv1Fh_so0",

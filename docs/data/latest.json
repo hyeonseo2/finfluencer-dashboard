@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:36:53.630390+00:00",
+  "generated_at": "2026-08-25T11:31:54.923247+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "t24sfOlvS8I",
+      "title": "[26.08.25 오후 방송 전체보기] 엔비디아 실적·잭슨홀 경계심에 던지는 외국인들…WSJ \"한국 증시, 공포의 롤러코스터\"",
+      "source_url": "https://www.youtube.com/watch?v=t24sfOlvS8I",
+      "thumbnail_url": "https://i1.ytimg.com/vi/t24sfOlvS8I/hqdefault.jpg",
+      "published_at": "2026-08-25T11:07:42+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "SCzseK-Aatg",
+      "title": "미국 사우디의 충격 결단 한국에 엄청난 일 터진다 | 김대영 군사평론가 3부",
+      "source_url": "https://www.youtube.com/watch?v=SCzseK-Aatg",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SCzseK-Aatg/hqdefault.jpg",
+      "published_at": "2026-08-25T10:30:39+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "UVpC8XLk-n4",
       "title": "\"시장이 보내는 마지막 경고\" 전세계 역사상 세번째 위기 왔다. 단 한번도 틀린적 없습니다 | 이현훈 교수 1부",
@@ -153,17 +191,17 @@
     },
     {
       "video_id": "hxQK2FhvCqg",
-      "title": "로켓 쏘던 회사가 실적 발표에서 완전히 다른 얼굴을 보여줬습니다. 머스크가 수년 내에 벌어질 일이라고 못 박은 변화 [Z1뉴스 2부]",
+      "title": "전혀 기대하지 않던 쪽에서 숫자가 터지면서 스페이스X를 보는 기준 자체가 달라져 버렸습니다 [Z1뉴스 2부]",
       "source_url": "https://www.youtube.com/watch?v=hxQK2FhvCqg",
       "thumbnail_url": "https://i1.ytimg.com/vi/hxQK2FhvCqg/hqdefault.jpg",
       "published_at": "2026-08-25T09:00:31+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -172,7 +210,7 @@
     },
     {
       "video_id": "osfqceB3fFA",
-      "title": "“금리는 계속 오른다”에 베팅하라? 점점 우량기업이 유리해지는 이유ㅣ홍선애, 김한진 삼프로TV 이코노미스트 [여의도 인사이트]",
+      "title": "\"금리는 계속 오른다\"에 베팅하라? 점점 우량기업이 유리해지는 이유ㅣ홍선애, 김한진 삼프로TV 이코노미스트 [여의도 인사이트]",
       "source_url": "https://www.youtube.com/watch?v=osfqceB3fFA",
       "thumbnail_url": "https://i4.ytimg.com/vi/osfqceB3fFA/hqdefault.jpg",
       "published_at": "2026-08-25T09:00:26+00:00",
@@ -210,7 +248,7 @@
     },
     {
       "video_id": "cP9REpl4LSc",
-      "title": "삼성전자, SK하이닉스 '이때는' 사고, 파세요, 그냥 사놓고 기다리면 큰돈 잃는다 (무극선생 이승조)",
+      "title": "삼성전자 '이 가격 밑으론' 겁없이 많이 사도 됩니다 (무극선생 이승조)",
       "source_url": "https://www.youtube.com/watch?v=cP9REpl4LSc",
       "thumbnail_url": "https://i4.ytimg.com/vi/cP9REpl4LSc/hqdefault.jpg",
       "published_at": "2026-08-25T08:45:12+00:00",
@@ -372,7 +410,7 @@
     },
     {
       "video_id": "W2uIzQOijek",
-      "title": "앞으로 코스피 진짜 무섭다 가진 주식 싹다 '이렇게' 해라 | 이영훈 영업이사 1부",
+      "title": "또 다시 폭락이 올 겁니다 삼성전자 '이때' 탈출 하세요 | 이영훈 영업이사 1부",
       "source_url": "https://www.youtube.com/watch?v=W2uIzQOijek",
       "thumbnail_url": "https://i4.ytimg.com/vi/W2uIzQOijek/hqdefault.jpg",
       "published_at": "2026-08-25T06:30:14+00:00",
@@ -388,25 +426,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "t24sfOlvS8I",
-      "title": "장중 4% 급락한 코스피...끝내 양전한 이유! 내일도 상승 분위기 그대로?ㅣ명민준, 서수진, 이지환 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=t24sfOlvS8I",
-      "thumbnail_url": "https://i1.ytimg.com/vi/t24sfOlvS8I/hqdefault.jpg",
-      "published_at": "2026-08-25T05:23:32+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "OLJbT2ddK6g",
@@ -984,25 +1003,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "HUYBl0RMXq0",
-      "title": "이란 사실상 쿠데타 발생 곧 테헤란이 무너져 내린다 | 박현도 교수 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=HUYBl0RMXq0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/HUYBl0RMXq0/hqdefault.jpg",
-      "published_at": "2026-08-23T06:00:25+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "fTao7IwkOVA",

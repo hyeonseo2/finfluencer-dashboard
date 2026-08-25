@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T12:54:07.613560+00:00",
+  "generated_at": "2026-08-25T13:53:33.417582+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "AImXBqcbOPA",
+      "title": "반도체·코스닥 흔드는 외국인…'엇박자 수급'에 휘둘리지 않는 투자법ㅣ명민준, 서수진, 이지환 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=AImXBqcbOPA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/AImXBqcbOPA/hqdefault.jpg",
+      "published_at": "2026-08-25T13:30:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "gjqZj-vJd_4",
       "title": "삼전닉스가 버티자 시작된 순환매…'되는 섹터' 안에서만 움직이세요ㅣ명민준, 서수진, 황유현 [주린이 구조대]",
@@ -608,25 +627,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "En_v2ZuYGpc",
-      "title": "'엇갈린 주주환원' 삼성전자 배당의 모든 것 | 백인재 부센터장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=En_v2ZuYGpc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/En_v2ZuYGpc/hqdefault.jpg",
-      "published_at": "2026-08-25T01:19:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

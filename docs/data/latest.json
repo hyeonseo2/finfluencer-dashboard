@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T23:27:53.206503+00:00",
+  "generated_at": "2026-08-26T01:38:11.299256+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "5ojc_L51ie8",
+      "title": "엔비디아 실적 D-1, 반도체 다음은 어디? 순환매 본격화되나 | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=5ojc_L51ie8",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5ojc_L51ie8/hqdefault.jpg",
+      "published_at": "2026-08-26T01:17:08+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "bdCNvmcb0fI",
+      "title": "\"순환매 상승 강도가 점점 세지고 있다\" 달라진 시장의 흐름 | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=bdCNvmcb0fI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/bdCNvmcb0fI/hqdefault.jpg",
+      "published_at": "2026-08-26T00:05:20+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "r2sCLKyRaZU",
       "title": "성과급 7억인데 주식 60%는 안돼, SK하이닉스 노사합의안 부결 | 캐나다, 미국에 200억 달러 보복관세…700개 품목에 15~50% | 권순우 삼프로TV 취재팀장 [뉴스3]",
@@ -126,17 +169,17 @@
     },
     {
       "video_id": "oZZqd5qfTCQ",
-      "title": "WSJ \"공포의 한국 롤러코스피\"...빅이벤트 앞세워 다시 되살아날까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.08.26. | 여도은, 허재무, 서영재, 차진호 [아침N투자]",
       "source_url": "https://www.youtube.com/watch?v=oZZqd5qfTCQ",
       "thumbnail_url": "https://i4.ytimg.com/vi/oZZqd5qfTCQ/hqdefault.jpg",
       "published_at": "2026-08-25T20:28:45+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "stocks",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -491,30 +534,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "UFzzAG1ueQc",
-      "title": "[8월 25일 마감시황] 삼전닉스 흔들려도 시장은 살아있다…코스피 박스권에서 시작된 종목장세ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=UFzzAG1ueQc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UFzzAG1ueQc/hqdefault.jpg",
-      "published_at": "2026-08-25T08:00:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "dxNuAbd9uDc",
       "title": "엔비디아 실적이 우리 증시까지 오는 경로는 하나뿐입니다. TSMC가 꽉 찬 지금 삼성전자가 거의 유일한 후보인 이유 [Z1뉴스 1부]",
       "source_url": "https://www.youtube.com/watch?v=dxNuAbd9uDc",
@@ -537,25 +556,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6ursH3y8NJU",
-      "title": "\"이제 오히려 다른 곳이 기회다\" 외국인들의 시선은? | 이주연 M인베스트먼트 대표",
-      "source_url": "https://www.youtube.com/shorts/6ursH3y8NJU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6ursH3y8NJU/hqdefault.jpg",
-      "published_at": "2026-08-25T07:56:49+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "tUwc97QGANU",

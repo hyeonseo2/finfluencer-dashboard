@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T19:06:01.256889+00:00",
+  "generated_at": "2026-08-26T22:56:12.151587+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,17 +45,91 @@
     }
   ],
   "topics": [
-    "bonds",
     "commodities",
     "crypto",
     "etf",
-    "fx",
     "interest_rate",
     "macro",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "S5K6pBU27O0",
+      "title": "[속보효] 엔비디아 젠슨황 \"100% 확신한다, 나는 행복하다\"",
+      "source_url": "https://www.youtube.com/watch?v=S5K6pBU27O0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/S5K6pBU27O0/hqdefault.jpg",
+      "published_at": "2026-08-26T22:28:51+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "WYNjdQ-y6fw",
+      "title": "[LIVE] 엔비디아 실적 컨콜 같이 들어볼까요?",
+      "source_url": "https://www.youtube.com/watch?v=WYNjdQ-y6fw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WYNjdQ-y6fw/hqdefault.jpg",
+      "published_at": "2026-08-26T22:25:11+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "sqnYRNnd4hE",
+      "title": "엔비디아, 호실적에도 주가 변동성…마이크론, 샌디스크 시간외 상승 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=sqnYRNnd4hE",
+      "thumbnail_url": "https://i4.ytimg.com/vi/sqnYRNnd4hE/hqdefault.jpg",
+      "published_at": "2026-08-26T22:11:24+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "SYkGMWGYh3g",
+      "title": "현대차, 2028년 엔비디아와 자율주행차…8천억 주식 소각 | 오픈AI, '할라페뇨' 성능 공개… 엔비디아 GPU 넘었다 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=SYkGMWGYh3g",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SYkGMWGYh3g/hqdefault.jpg",
+      "published_at": "2026-08-26T20:26:50+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Y-Dq3WGHLAo",
       "title": "이제 ETF도 옥석 가리기…'베타'보다 '알파'가 중요해진 이유ㅣ명민준, 박가영, 최창규 [주린이 구조대]",
@@ -738,49 +812,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "4DYb-vWuriE",
-      "title": "9월 미국 국채 바이백이 온다…비트코인 상승 이어질까? | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=4DYb-vWuriE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4DYb-vWuriE/hqdefault.jpg",
-      "published_at": "2026-08-26T02:54:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2StS4rEc_Qw",
-      "title": "AI 경쟁이 심화하면 할수록 '이 기업들'은 돈 번다! | 서영재, 차진호, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=2StS4rEc_Qw",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2StS4rEc_Qw/hqdefault.jpg",
-      "published_at": "2026-08-26T02:23:55+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "Xr-ZkcgNRvA",
       "title": "삼성전자 반등에 속지 마세요, 반도체 팔아야 할 타이밍 공개 (장우진 대표)",
       "source_url": "https://www.youtube.com/watch?v=Xr-ZkcgNRvA",
@@ -1326,59 +1357,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "jAAkCsk1_vU",
-      "title": "엔화를 지켜준 값은 이미 청구됐습니다…원화가 1,300원대로 내려온 뒤 다음 순서가 정해졌습니다 [Z1 NEWS - 1부]",
-      "source_url": "https://www.youtube.com/watch?v=jAAkCsk1_vU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jAAkCsk1_vU/hqdefault.jpg",
-      "published_at": "2026-08-21T08:00:28+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IF_7rS3Zdg8",
-      "title": "이번 주 금값과 비트코인이 동시에 뛴 이유, 시장은 반대로 읽고 있습니다. 베센트의 국채시장 개입 예고가 열어버린 진짜 경로",
-      "source_url": "https://www.youtube.com/watch?v=IF_7rS3Zdg8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IF_7rS3Zdg8/hqdefault.jpg",
-      "published_at": "2026-08-21T03:08:11+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities",
-        "crypto",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],

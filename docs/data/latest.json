@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T14:10:47.432303+00:00",
+  "generated_at": "2026-08-28T23:57:16.502748+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "BxFxkWc9f0Y",
+      "title": "[속보효] 케빈워시 발언이 시장에 미칠 영향을 분석하려면, 핵심은 이겁니다.",
+      "source_url": "https://www.youtube.com/watch?v=BxFxkWc9f0Y",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BxFxkWc9f0Y/hqdefault.jpg",
+      "published_at": "2026-08-28T23:14:36+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "0fW0hXBnFjI",
+      "title": "잭슨홀 미팅, 케빈워시 발언 전체를 읽어봤습니다!",
+      "source_url": "https://www.youtube.com/watch?v=0fW0hXBnFjI",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0fW0hXBnFjI/hqdefault.jpg",
+      "published_at": "2026-08-28T23:02:12+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "WJjnegPE_7M",
+      "title": "\"엔비디아 놀라운 실적에도\" 너무나 위험하다ㅣ장우진 금시공 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=WJjnegPE_7M",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WJjnegPE_7M/hqdefault.jpg",
+      "published_at": "2026-08-28T23:00:36+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "lL2VzH8IYyk",
       "title": "엔비디아 가격 인상은 삼전닉스 호재…그런데도 외국인이 계속 파는 진짜 이유ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
@@ -569,25 +626,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "AL127vDKsRU",
-      "title": "\"오히려 좋은데?\" 반도체 관세가 미국 자충수인 이유 | 이형수 HSL파트너스 대표 [더블업]",
-      "source_url": "https://www.youtube.com/shorts/AL127vDKsRU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/AL127vDKsRU/hqdefault.jpg",
-      "published_at": "2026-08-28T01:47:51+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
           "stance": "neutral"
         }
       ],
@@ -1352,25 +1390,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "qGYapq6fUa0",
-      "title": "투자를 잘하려면 당신의 뇌부터 '이렇게' 만들어야 합니다",
-      "source_url": "https://www.youtube.com/watch?v=qGYapq6fUa0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qGYapq6fUa0/hqdefault.jpg",
-      "published_at": "2026-08-23T00:00:19+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "OPrI1j-j2E8",
       "title": "\"아플거면 지난주에 미리 말했어야지.\"",
       "source_url": "https://www.youtube.com/watch?v=OPrI1j-j2E8",
@@ -1388,25 +1407,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "bTDpqPP7Q8I",
-      "title": "“화웨이가 막히는 순간 한국에 자리가 생깁니다” 현대차·엔비디아가 피지컬 AI 밸류체인에서 유리한 이유 | 정지훈 박사 [풀영상]",
-      "source_url": "https://www.youtube.com/watch?v=bTDpqPP7Q8I",
-      "thumbnail_url": "https://i3.ytimg.com/vi/bTDpqPP7Q8I/hqdefault.jpg",
-      "published_at": "2026-08-22T03:00:03+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "TsjGmQg59a4",

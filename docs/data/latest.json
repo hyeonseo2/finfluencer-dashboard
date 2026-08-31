@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T22:32:59.721313+00:00",
+  "generated_at": "2026-08-31T01:14:12.082470+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,92 @@
   ],
   "videos": [
     {
+      "video_id": "L-2caYIMLk8",
+      "title": "\"미국 중간선거 이후엔...\" 반도체 투자자들 너무 급하다 | 하창완 하보노의 주식 이야기 대표 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=L-2caYIMLk8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/L-2caYIMLk8/hqdefault.jpg",
+      "published_at": "2026-08-31T01:01:09+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "sWn4knwJJYQ",
+      "title": "매파로 돌아선 연준? 9월 금리인상 가능성에 코스피 어디까지 흔들리나 | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=sWn4knwJJYQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/sWn4knwJJYQ/hqdefault.jpg",
+      "published_at": "2026-08-31T00:05:59+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "SGbIk_OQqqU",
+      "title": "물가 안 잡히면 금리 인하 없다…잭슨홀 추가 긴축 시사 | 한국 성장률 보수적으로 봐도 3.3%…주요 기관 더 높게 전망 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=SGbIk_OQqqU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SGbIk_OQqqU/hqdefault.jpg",
+      "published_at": "2026-08-30T23:16:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "gZCeHFiI_Lw",
+      "title": "금리 올라도 반도체 괜찮다? AI 투자·빅테크 펀더멘털에 주목 | 김장열 유니스토리자산운용 리서치센터 센터장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=gZCeHFiI_Lw",
+      "thumbnail_url": "https://i4.ytimg.com/vi/gZCeHFiI_Lw/hqdefault.jpg",
+      "published_at": "2026-08-30T22:54:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "VOs_9cbESzw",
       "title": "워시 연준 의장의 매파적 잭슨홀 연설...9월 금리인상 가능성 53% [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=VOs_9cbESzw",
@@ -75,22 +161,17 @@
     },
     {
       "video_id": "BVHHZye-jec",
-      "title": "물가 안 잡히면 금리 인하 없다…잭슨홀 추가 긴축 시사 | 한국 성장률 보수적으로 봐도 3.3%…주요 기관 더 높게 전망 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.08.31. | 여도은, 허재무, 이혁진 [아침N투자]",
       "source_url": "https://www.youtube.com/watch?v=BVHHZye-jec",
       "thumbnail_url": "https://i3.ytimg.com/vi/BVHHZye-jec/hqdefault.jpg",
       "published_at": "2026-08-30T20:29:23+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "interest_rate",
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -199,7 +280,7 @@
     },
     {
       "video_id": "hMfHoDyQvhM",
-      "title": "주한미군 뺄 수 있으면 빼봐라 철수하면 벌어질 충격적인 일 | 김대영 군사평론가 풀버전",
+      "title": "주한미군 발 뺀다던 미국 갑자기 한국에 안달 난 이유 | 김대영 군사평론가 풀버전",
       "source_url": "https://www.youtube.com/watch?v=hMfHoDyQvhM",
       "thumbnail_url": "https://i1.ytimg.com/vi/hMfHoDyQvhM/hqdefault.jpg",
       "published_at": "2026-08-30T06:00:39+00:00",
@@ -850,25 +931,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "bLZxaEtRcs0",
-      "title": "삼전닉스 신용 물타기 경고…9월엔 떨어질 때 말고 '돌파할 때' 사세요ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=bLZxaEtRcs0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/bLZxaEtRcs0/hqdefault.jpg",
-      "published_at": "2026-08-28T12:30:16+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "hon9BH17oGA",
       "title": "한국에서 '이 주식' 넘을 기업 없다, 주가 흔들릴 때마다 사 모으세요 (강관우 대표)",
       "source_url": "https://www.youtube.com/watch?v=hon9BH17oGA",
@@ -886,54 +948,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "CZ0jLa81b90",
-      "title": "9월 조정은 '사야 할 바닥'…외국인 복귀가 늦어지는 이유와 '빈집' 공략법ㅣ명민준, 이혁진 NH투자증권 주식전략팀장 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=CZ0jLa81b90",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CZ0jLa81b90/hqdefault.jpg",
-      "published_at": "2026-08-28T11:30:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "vnMwuE-xHbg",
-      "title": "[26.08.28 오후 방송 전체보기] 금리·물가 부담에 잭슨홀 미팅까지...경계감 커진 국내증시 언제까지 쉬어가나요?",
-      "source_url": "https://www.youtube.com/watch?v=vnMwuE-xHbg",
-      "thumbnail_url": "https://i3.ytimg.com/vi/vnMwuE-xHbg/hqdefault.jpg",
-      "published_at": "2026-08-28T11:02:38+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "T50_ygCD4qU",
@@ -1015,25 +1029,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "fkJrmvBFNVQ",
-      "title": "어디까지 오를까? 지금 들어가도 돼요? | 이주연 M인베스트먼트 대표",
-      "source_url": "https://www.youtube.com/shorts/fkJrmvBFNVQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fkJrmvBFNVQ/hqdefault.jpg",
-      "published_at": "2026-08-28T08:58:44+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "vpPn0NEKoiA",

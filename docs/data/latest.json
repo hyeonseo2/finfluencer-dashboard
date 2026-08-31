@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T16:54:28.766885+00:00",
+  "generated_at": "2026-08-31T21:49:28.072241+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "XhOcnyM84nM",
+      "title": "호르무즈 긴장 고조 속 뉴욕증시 하락 마감...반도체 지수 소폭 상승_26.09.01 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=XhOcnyM84nM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/XhOcnyM84nM/hqdefault.jpg",
+      "published_at": "2026-08-31T20:22:59+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "35lrcnrMoWk",
       "title": "9월 금리인상보다 중요한 변화…시장은 이미 '다음 승자'를 찾고 있다ㅣ명민준, 서수진, 송재경 [주린이 구조대]",
@@ -632,30 +656,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MX1psQrYd38",
-      "title": "9월 증시, 조정 염두에 두지만, 주식은 사야 한다! 반도체 외의 자산 이동은 어디로? | 이혁진, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=MX1psQrYd38",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MX1psQrYd38/hqdefault.jpg",
-      "published_at": "2026-08-31T02:24:00+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

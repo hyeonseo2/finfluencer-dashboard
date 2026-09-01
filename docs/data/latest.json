@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-01T17:43:19.865260+00:00",
+  "generated_at": "2026-09-01T20:49:23.191900+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,12 +48,43 @@
     "commodities",
     "crypto",
     "etf",
+    "fx",
+    "interest_rate",
     "macro",
     "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Q-qlewsoq1s",
+      "title": "미·이란 전쟁 격화에 WTI 유가 90달러 돌파...뉴욕증시 하락 마감_26.09.02 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=Q-qlewsoq1s",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Q-qlewsoq1s/hqdefault.jpg",
+      "published_at": "2026-09-01T20:27:16+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "tBmOG0of1q8",
       "title": "미국 재무장관의 명언",
@@ -590,25 +621,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2bAYZLfmsBQ",
-      "title": "9월 '무추세 장세', 왜 이렇게 시장은 갇혀있나…테슬라 '사이버캡' 영향은? | 정우창, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=2bAYZLfmsBQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2bAYZLfmsBQ/hqdefault.jpg",
-      "published_at": "2026-09-01T02:14:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1189,17 +1201,17 @@
     },
     {
       "video_id": "BxFxkWc9f0Y",
-      "title": "[속보효] 케빈워시 발언이 시장에 미칠 영향을 분석하려면, 핵심은 이겁니다.",
+      "title": "[속보효]  베센트 재무장관이 CNBC에서 남긴 \"연준과 함께 움직이겠다\"는 발언이 이번 해석의 결정적 단서가 된 충격적 이유",
       "source_url": "https://www.youtube.com/watch?v=BxFxkWc9f0Y",
       "thumbnail_url": "https://i3.ytimg.com/vi/BxFxkWc9f0Y/hqdefault.jpg",
       "published_at": "2026-08-28T23:14:36+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "interest_rate"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-31T21:49:28.072241+00:00",
+  "generated_at": "2026-09-01T01:07:25.171715+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,7 +48,6 @@
     "commodities",
     "crypto",
     "etf",
-    "fx",
     "interest_rate",
     "macro",
     "real_estate",
@@ -56,21 +55,102 @@
   ],
   "videos": [
     {
+      "video_id": "iCLS_QscPYQ",
+      "title": "\"9월은 종목 장세\" 반도체 쉬는 사이 수급 몰리는 곳은? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=iCLS_QscPYQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iCLS_QscPYQ/hqdefault.jpg",
+      "published_at": "2026-09-01T00:03:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "YnOjUcYtqOg",
+      "title": "트럼프 \"금리 너무 높다“ 압박…꼬이는 이란전, 유가는 급등 | K-방산 빅4 모두 글로벌 톱 100…한화 16위로 한국 기업 중 1위 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=YnOjUcYtqOg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/YnOjUcYtqOg/hqdefault.jpg",
+      "published_at": "2026-08-31T23:10:28+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "5gRibV_pxbM",
+      "title": "9월 금리 올릴까? 워시는 달라지지 않았다 | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=5gRibV_pxbM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5gRibV_pxbM/hqdefault.jpg",
+      "published_at": "2026-08-31T22:35:39+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Fy_S9mRrsek",
+      "title": "국제유가 급등에 금리 신고가 경신...진짜만 살아남는 시장 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=Fy_S9mRrsek",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Fy_S9mRrsek/hqdefault.jpg",
+      "published_at": "2026-08-31T22:01:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "XhOcnyM84nM",
-      "title": "호르무즈 긴장 고조 속 뉴욕증시 하락 마감...반도체 지수 소폭 상승_26.09.01 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "title": "당신의 투자 고민, 시원하게 날려주는 맞춤형 투자상담 방송!_26.09.01. | 여도은, 허재무, 정우창, 박지훈 [아침N투자]",
       "source_url": "https://www.youtube.com/watch?v=XhOcnyM84nM",
       "thumbnail_url": "https://i1.ytimg.com/vi/XhOcnyM84nM/hqdefault.jpg",
       "published_at": "2026-08-31T20:22:59+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -565,102 +645,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "_vfcPX39fwM",
-      "title": "\"금리 인상 후 오히려...\" 더 오를 수 있다? | 박준우 하나증권 리서치센터 연구위원 [더블 업]",
-      "source_url": "https://www.youtube.com/shorts/_vfcPX39fwM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_vfcPX39fwM/hqdefault.jpg",
-      "published_at": "2026-08-31T05:54:20+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "BVHHZye-jec",
-      "title": "[26.08.31 오전 방송 전체보기] '매파적 워시' 발언에 뉴욕증시 하락 마감...금리인상 우려, 영향은?",
-      "source_url": "https://www.youtube.com/watch?v=BVHHZye-jec",
-      "thumbnail_url": "https://i3.ytimg.com/vi/BVHHZye-jec/hqdefault.jpg",
-      "published_at": "2026-08-31T03:20:31+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VJcP2PXJZfQ",
-      "title": "비트코인으로 돈 버는 시대 끝났다? 금융사들이 진짜 노리는 시장 | 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=VJcP2PXJZfQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VJcP2PXJZfQ/hqdefault.jpg",
-      "published_at": "2026-08-31T03:19:41+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MkPwcDlLsSo",
-      "title": "비트코인 8만달러 붕괴…워시 매파 발언에 9월 금리인상 우려 커졌다 | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=MkPwcDlLsSo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MkPwcDlLsSo/hqdefault.jpg",
-      "published_at": "2026-08-31T02:54:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "fx",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "xJ71q7mqDg8",

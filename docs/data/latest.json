@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T13:26:30.675292+00:00",
+  "generated_at": "2026-09-02T17:45:45.816630+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,6 +45,7 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -56,6 +57,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "zdM7cEZi16A",
+      "title": "빅테크 AI 투자 경쟁이 만든 공급 쇼크…국채금리가 쉽게 못 내려가는 이유ㅣ명민준, 박가영, 신얼 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=zdM7cEZi16A",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zdM7cEZi16A/hqdefault.jpg",
+      "published_at": "2026-09-02T13:30:06+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Fj1dHmEN5vI",
       "title": "유튜브 알고리즘의 노예가 되어가는 과정",
@@ -685,30 +710,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "u6eM9asOsvM",
-      "title": "9월 증시 부진할까? '확산'의 기회는 여기…실적 좋은 삼전닉스 주가는 왜? | 박지훈, 이태원, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=u6eM9asOsvM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/u6eM9asOsvM/hqdefault.jpg",
-      "published_at": "2026-09-02T02:30:49+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

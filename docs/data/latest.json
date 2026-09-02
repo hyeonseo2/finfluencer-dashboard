@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:48:53.970869+00:00",
+  "generated_at": "2026-09-02T23:09:16.937799+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,25 +58,63 @@
   ],
   "videos": [
     {
+      "video_id": "hKDmNQPhd1w",
+      "title": "\"금리 때문에 주가 빠지진 않을 것\" 지금 시장을 다르게 봐야 하는 이유 | 이권희 위즈웨이브 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=hKDmNQPhd1w",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hKDmNQPhd1w/hqdefault.jpg",
+      "published_at": "2026-09-02T22:44:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "5X7zz1WKULQ",
+      "title": "고용 지표 부진에 금리 소폭 하락…델 15%, 엔비디아 3% 상승 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=5X7zz1WKULQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5X7zz1WKULQ/hqdefault.jpg",
+      "published_at": "2026-09-02T22:09:30+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "EAYpN_J1Kl8",
-      "title": "국채금리 '진정' 속 뉴욕증시 '반등' 마감...브로드컴 실적 발표_26.09.03 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "title": "국채금리 숨고르기 들어갔다...9월 코스피 안정세로 들어올까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=EAYpN_J1Kl8",
       "thumbnail_url": "https://i2.ytimg.com/vi/EAYpN_J1Kl8/hqdefault.jpg",
       "published_at": "2026-09-02T20:30:12+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities",
         "interest_rate",
         "bonds"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         },
         {
@@ -672,49 +710,6 @@
         },
         {
           "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "tA_BHpCz5kw",
-      "title": "\"코인은 이제 지분\" 코인 시장의 룰이 바뀌었다…이제 '바이백'을 봐야 하는 이유 | 서동주, 김동환, 조동현 언디파인드랩스 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=tA_BHpCz5kw",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tA_BHpCz5kw/hqdefault.jpg",
-      "published_at": "2026-09-02T03:18:26+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "w9ddDhFaWSw",
-      "title": "일주일은 왜 7일일까?  | 주원준 한님성서연구소 수석연구원 [에인션트]",
-      "source_url": "https://www.youtube.com/shorts/w9ddDhFaWSw",
-      "thumbnail_url": "https://i4.ytimg.com/vi/w9ddDhFaWSw/hqdefault.jpg",
-      "published_at": "2026-09-02T03:00:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

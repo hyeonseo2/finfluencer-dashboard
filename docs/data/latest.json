@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T17:45:45.816630+00:00",
+  "generated_at": "2026-09-02T20:48:53.970869+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,40 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "EAYpN_J1Kl8",
+      "title": "국채금리 '진정' 속 뉴욕증시 '반등' 마감...브로드컴 실적 발표_26.09.03 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=EAYpN_J1Kl8",
+      "thumbnail_url": "https://i2.ytimg.com/vi/EAYpN_J1Kl8/hqdefault.jpg",
+      "published_at": "2026-09-02T20:30:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "zdM7cEZi16A",
       "title": "빅테크 AI 투자 경쟁이 만든 공급 쇼크…국채금리가 쉽게 못 내려가는 이유ㅣ명민준, 박가영, 신얼 [주린이 구조대]",
@@ -681,35 +715,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-T1hdNfgil4",
-      "title": "미·이란 충돌에 유가 폭등…9월 금리인상 우려, 비트코인 어디로? | 서동주, 김동환, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=-T1hdNfgil4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-T1hdNfgil4/hqdefault.jpg",
-      "published_at": "2026-09-02T02:47:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

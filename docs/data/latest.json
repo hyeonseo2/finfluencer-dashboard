@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T20:45:48.484520+00:00",
+  "generated_at": "2026-09-03T23:06:22.176041+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,24 +57,38 @@
   ],
   "videos": [
     {
+      "video_id": "7VYu-P9tQZA",
+      "title": "연준 월러 이사 \"물가 안정되면 9월 동결 지지\"…테슬라, 사이버캡 발표 앞두고 급등 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=7VYu-P9tQZA",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7VYu-P9tQZA/hqdefault.jpg",
+      "published_at": "2026-09-03T22:03:33+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "njkQc7Di80c",
-      "title": "월러 '금리 동결' 발언에 뉴욕증시 상승 마감...M7 일제히 강세_26.09.04 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "금리 동결 기대감에도 미국 반도체는 '시무룩'…국내증시는 반전 나올까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=njkQc7Di80c",
       "thumbnail_url": "https://i3.ytimg.com/vi/njkQc7Di80c/hqdefault.jpg",
       "published_at": "2026-09-03T20:21:32+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities",
         "interest_rate"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         },
         {
@@ -755,30 +769,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "9xqkM7oz490",
-      "title": "뉴욕 3대 증시 동반 상승에도 비트코인 횡보하는 진짜 이유 | 서동주, 김동환, 박현영기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=9xqkM7oz490",
-      "thumbnail_url": "https://i2.ytimg.com/vi/9xqkM7oz490/hqdefault.jpg",
-      "published_at": "2026-09-03T04:42:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-03T17:41:23.034879+00:00",
+  "generated_at": "2026-09-03T20:45:48.484520+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,7 +45,6 @@
     }
   ],
   "topics": [
-    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -57,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "njkQc7Di80c",
+      "title": "월러 '금리 동결' 발언에 뉴욕증시 상승 마감...M7 일제히 강세_26.09.04 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=njkQc7Di80c",
+      "thumbnail_url": "https://i3.ytimg.com/vi/njkQc7Di80c/hqdefault.jpg",
+      "published_at": "2026-09-03T20:21:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "W30kTQJgaos",
       "title": "슈카월드 상장하면 사냐?",
@@ -751,35 +779,6 @@
         },
         {
           "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "EAYpN_J1Kl8",
-      "title": "[26.09.03 오전 방송 전체보기] 국채금리 '진정' 속 뉴욕증시 '반등' 마감...브로드컴 실적 발표",
-      "source_url": "https://www.youtube.com/watch?v=EAYpN_J1Kl8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/EAYpN_J1Kl8/hqdefault.jpg",
-      "published_at": "2026-09-03T03:20:32+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate",
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T13:19:33.288984+00:00",
+  "generated_at": "2026-09-04T17:29:02.774507+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "7aEsFWIqcQE",
+      "title": "알테오젠은 덜어낼 때…업종보다 '종목 선택'이 중요해진 시장ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=7aEsFWIqcQE",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7aEsFWIqcQE/hqdefault.jpg",
+      "published_at": "2026-09-04T13:30:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "i0S1pY4XkBE",
       "title": "외국인 선물 매수도 한계에 왔다…‘옵션만기일’ 앞두고 급등주 추격을 경계해야 하는 이유ㅣ명민준, 박가영, 황유현 [주린이 구조대]",
@@ -345,7 +364,7 @@
     },
     {
       "video_id": "dJglLDp0Jg0",
-      "title": "중국 역대급 대참사 발생. 반도체 전기차 싹다 망했다｜김대호 박사 풀버전",
+      "title": "\"한국 경제 조짐 심상치 않다\" 올 9월 어마무시한 일 터진다｜김대호 박사 풀버전",
       "source_url": "https://www.youtube.com/watch?v=dJglLDp0Jg0",
       "thumbnail_url": "https://i1.ytimg.com/vi/dJglLDp0Jg0/hqdefault.jpg",
       "published_at": "2026-09-04T08:30:32+00:00",
@@ -683,25 +702,6 @@
       "source_url": "https://www.youtube.com/watch?v=79RwHEfETxc",
       "thumbnail_url": "https://i4.ytimg.com/vi/79RwHEfETxc/hqdefault.jpg",
       "published_at": "2026-09-04T02:48:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "nN1mU7dVLVQ",
-      "title": "\"기대감 다시 살아난다\" 화장품 쇼티지 봐라 | 김문정 하나증권 범어동지점 PB [더블크루]",
-      "source_url": "https://www.youtube.com/watch?v=nN1mU7dVLVQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nN1mU7dVLVQ/hqdefault.jpg",
-      "published_at": "2026-09-04T02:07:56+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"

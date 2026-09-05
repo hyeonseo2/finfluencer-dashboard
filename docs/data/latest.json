@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T21:01:35.807848+00:00",
+  "generated_at": "2026-09-05T23:39:41.873164+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "rKwQv6QcRsU",
+      "title": "싸도 못 오르는 이유…코스피 위에 쌓인 91조의 정체 | 빈센트 하나증권 애널리스트 [빈센트의 체크포인트]",
+      "source_url": "https://www.youtube.com/watch?v=rKwQv6QcRsU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rKwQv6QcRsU/hqdefault.jpg",
+      "published_at": "2026-09-05T23:00:07+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "VioGO_m1tKg",
       "title": "삼성전자, SK하이닉스 비상 걸렸다, '이 가격까지' 오르면 주식 파세요 (남석관 회장)",
@@ -812,25 +831,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KkSFE9N8g2k",
-      "title": "[9월 4일 마감시황] 금리 동결 기대에 양시장 불기둥…반도체·로봇주가 이끈 반전 마감ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=KkSFE9N8g2k",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KkSFE9N8g2k/hqdefault.jpg",
-      "published_at": "2026-09-04T08:17:58+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "UF0h-3d5IqI",

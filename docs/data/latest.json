@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T10:17:04.837026+00:00",
+  "generated_at": "2026-09-05T13:45:58.809624+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "VioGO_m1tKg",
+      "title": "삼성전자, SK하이닉스 비상 걸렸다, '이 가격까지' 오르면 주식 파세요 (남석관 회장)",
+      "source_url": "https://www.youtube.com/watch?v=VioGO_m1tKg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VioGO_m1tKg/hqdefault.jpg",
+      "published_at": "2026-09-05T10:30:06+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "znPInf4OZ7g",
       "title": "\"2차 한류 열풍 또 터졌다\" 서울 다녀간 미국인들 다 걸렸다 미국에서 벌어지는 이상 현상 | 김상조 교수 3부",
@@ -153,17 +172,17 @@
     },
     {
       "video_id": "01zmW7GiIiI",
-      "title": "두산에너빌리티 난리난 이유 곧 상상도 못할 일 터진다 | 염승환 이사 3부",
+      "title": "심상치 않은 삼전닉스 분위기 월요일 아침 무서운 일 터지나 | 염승환 이사 3부",
       "source_url": "https://www.youtube.com/watch?v=01zmW7GiIiI",
       "thumbnail_url": "https://i1.ytimg.com/vi/01zmW7GiIiI/hqdefault.jpg",
       "published_at": "2026-09-05T08:00:11+00:00",
       "channel_name": "달란트투자",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1335,25 +1354,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KlxIkMhAYDE",
-      "title": "비트코인, 이더리움, 리플 꼭 사세요, 공포에 모아가면 인생 역전합니다 (문창훈 대표)",
-      "source_url": "https://www.youtube.com/watch?v=KlxIkMhAYDE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KlxIkMhAYDE/hqdefault.jpg",
-      "published_at": "2026-09-01T09:30:27+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
           "stance": "neutral"
         }
       ],

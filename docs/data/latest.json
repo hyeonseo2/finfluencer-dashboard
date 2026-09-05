@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-04T22:53:55.619511+00:00",
+  "generated_at": "2026-09-05T00:45:07.060897+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,106 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "5VIx7lNz6Gg",
+      "title": "[모닝효라이브] 09.05",
+      "source_url": "https://www.youtube.com/watch?v=5VIx7lNz6Gg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5VIx7lNz6Gg/hqdefault.jpg",
+      "published_at": "2026-09-05T00:35:23+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "1eVXz4btWBU",
+      "title": "\"5060 당장 신청해라\" 19.5%씩 저절로 돈 불어나는 ISA보다 더쎈 통장 떴다 | 안유화 교수 3부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=1eVXz4btWBU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/1eVXz4btWBU/hqdefault.jpg",
+      "published_at": "2026-09-05T00:00:31+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "IahaFGIdxhE",
+      "title": "\"나스닥100은 매년 상위 100개 종목을 자동으로 갈아 끼웁니다\"...제가 나스닥만 고집하는 이유\"",
+      "source_url": "https://www.youtube.com/watch?v=IahaFGIdxhE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/IahaFGIdxhE/hqdefault.jpg",
+      "published_at": "2026-09-05T00:00:10+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "sb3GPdRy28s",
+      "title": "극비리에 한국 찾은 러시아 곧 한국에 상상못할 일 생긴다 | 김종대 교수 풀버전 1",
+      "source_url": "https://www.youtube.com/watch?v=sb3GPdRy28s",
+      "thumbnail_url": "https://i4.ytimg.com/vi/sb3GPdRy28s/hqdefault.jpg",
+      "published_at": "2026-09-05T00:00:07+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "djm-5Atf2i0",
+      "title": "\"반도체 주춤할 때 '이 업종' 터진다\" 10월에 주가 뒤집힐 업종은? | 여도은, 이선엽 AFW파트너스 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=djm-5Atf2i0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/djm-5Atf2i0/hqdefault.jpg",
+      "published_at": "2026-09-04T23:00:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "7aEsFWIqcQE",
       "title": "알테오젠은 덜어낼 때…업종보다 '종목 선택'이 중요해진 시장ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
@@ -697,25 +797,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "79RwHEfETxc",
-      "title": "3분기부터 무섭게 올라갈 새로운 수혜주, 9월 핵심 지표는? | 허재무, 박지훈, 백찬규 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=79RwHEfETxc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/79RwHEfETxc/hqdefault.jpg",
-      "published_at": "2026-09-04T02:48:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "BWw2oh83EMc",
       "title": "반 토막 난 현대차 앞으로 '이렇게' 하세요 #이권희",
       "source_url": "https://www.youtube.com/shorts/BWw2oh83EMc",
@@ -849,25 +930,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "uD3liU352bQ",
-      "title": "예적금 할때 아닙니다. 이 1가지만 주목하세요 #이준호",
-      "source_url": "https://www.youtube.com/shorts/uD3liU352bQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/uD3liU352bQ/hqdefault.jpg",
-      "published_at": "2026-09-03T10:40:29+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "Kj0UDQfpDIM",
       "title": "독도 건들다 개망신 당했다 일본 납작 엎드린 진짜 이유 | 호사카유지 교수 1부",
       "source_url": "https://www.youtube.com/watch?v=Kj0UDQfpDIM",
@@ -994,25 +1056,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1J3l54ekeCc",
-      "title": "삼전닉스 역대급 돈축제 터졌다 연말 증시 180도 뒤집힌다 | 염승환 이사 2부",
-      "source_url": "https://www.youtube.com/watch?v=1J3l54ekeCc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1J3l54ekeCc/hqdefault.jpg",
-      "published_at": "2026-09-03T06:30:39+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -1239,25 +1282,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "KaWe-AkBwMc",
-      "title": "\"클로드 좋다면서 왜 GPT로 돌아가지?\" 성격 급한 한국 사람들이 먼저 클로드를 버리고 GPT로 떠나가기 시작한 이유",
-      "source_url": "https://www.youtube.com/watch?v=KaWe-AkBwMc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KaWe-AkBwMc/hqdefault.jpg",
-      "published_at": "2026-09-01T11:52:20+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "XTkOtZrc0uc",
       "title": "세계 자원 강국 1위 칠레가 한국보다 못 사는 충격적인 이유 (민원정 교수)",
       "source_url": "https://www.youtube.com/watch?v=XTkOtZrc0uc",
@@ -1332,25 +1356,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cK2jjjSfJrE",
-      "title": "성산일출봉 달리기 #4주년이벤트",
-      "source_url": "https://www.youtube.com/shorts/cK2jjjSfJrE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cK2jjjSfJrE/hqdefault.jpg",
-      "published_at": "2026-08-31T13:16:28+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "HAdKIp0yeE0",

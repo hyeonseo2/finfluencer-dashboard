@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T12:43:57.357861+00:00",
+  "generated_at": "2026-09-06T16:03:58.619900+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,23 +57,23 @@
   ],
   "videos": [
     {
-      "video_id": "ZvI7Od1uXkc",
-      "title": "[슈카월드] 아베노믹스는 끝났는가?/ 2차 공공기관 이전이 시작된다./ 드디어 등장한 테슬라 로보택시 사이버캡/ 일본은 왜 북극항로를 싫어하는가/ AI가 들이닥친 영상산업 근황",
-      "source_url": "https://www.youtube.com/watch?v=ZvI7Od1uXkc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZvI7Od1uXkc/hqdefault.jpg",
-      "published_at": "2026-09-06T11:26:04+00:00",
-      "channel_name": "슈카월드",
+      "video_id": "A3DdYah0Vkg",
+      "title": "\"연준 금리인상 확률 9월 60%→12월 85%\"…이 와중에도 AI 투자 멈추면 안 되는 이유",
+      "source_url": "https://www.youtube.com/watch?v=A3DdYah0Vkg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/A3DdYah0Vkg/hqdefault.jpg",
+      "published_at": "2026-09-06T13:49:56+00:00",
+      "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "interest_rate"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "-8f4ZbWozTQ",
@@ -1290,25 +1290,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "xhVVDFDA0Tk",
-      "title": "미국이 금리를 놓고 벌이는 진짜 게임, 케빈 워시와 베센트의 역할 분담을 그림 한 장으로 정리했습니다",
-      "source_url": "https://www.youtube.com/watch?v=xhVVDFDA0Tk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xhVVDFDA0Tk/hqdefault.jpg",
-      "published_at": "2026-09-03T02:37:47+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "Fj1dHmEN5vI",
       "title": "유튜브 알고리즘의 노예가 되어가는 과정",
       "source_url": "https://www.youtube.com/shorts/Fj1dHmEN5vI",
@@ -1483,6 +1464,25 @@
       "topic_stances": [
         {
           "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "2lFgnNyvBCs",
+      "title": "이란의 비핵화가 목표라면, 북한은??",
+      "source_url": "https://www.youtube.com/watch?v=2lFgnNyvBCs",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2lFgnNyvBCs/hqdefault.jpg",
+      "published_at": "2026-08-26T11:56:50+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],

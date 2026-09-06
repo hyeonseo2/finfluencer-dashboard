@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T21:12:00.675885+00:00",
+  "generated_at": "2026-09-06T23:38:16.283599+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,28 +57,75 @@
   ],
   "videos": [
     {
+      "video_id": "vtIrPoRGYBw",
+      "title": "현대차그룹, 미국서 만든 철강으로 자동차·로봇 만든다 | 수출, 이미 작년 실적 돌파...‘세계 4번째 수출 1조 달러’ 가시화 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=vtIrPoRGYBw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/vtIrPoRGYBw/hqdefault.jpg",
+      "published_at": "2026-09-06T23:20:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "WzAytqw-_mk",
+      "title": "금리보다 수요가 중요해졌다…다시 주목받는 메모리 반도체, 국내주는 왜 못 올랐나 | 김장열 유니스토리자산운용 센터장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=WzAytqw-_mk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WzAytqw-_mk/hqdefault.jpg",
+      "published_at": "2026-09-06T22:50:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "KVRGQGhMGEU",
+      "title": "고용 서프라이즈에 금리인상 전망 60%...반도체는 상승 마감 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=KVRGQGhMGEU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KVRGQGhMGEU/hqdefault.jpg",
+      "published_at": "2026-09-06T22:03:31+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "zDoL5gjsVq4",
-      "title": "금리인상 경계감에 뉴욕증시 하락...반도체주 동반 '급등'_26.09.07 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "title": "미국 고용지표 가고 물가지표 온다…국내증시 이번주 예상 시나리오는? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=zDoL5gjsVq4",
       "thumbnail_url": "https://i3.ytimg.com/vi/zDoL5gjsVq4/hqdefault.jpg",
       "published_at": "2026-09-06T20:24:19+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
@@ -884,63 +931,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "djm-5Atf2i0",
-      "title": "\"반도체 주춤할 때 준비해야 할 시장을 뒤집을 전략은? | 여도은, 이선엽 AFW파트너스 대표 [주말인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=djm-5Atf2i0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/djm-5Atf2i0/hqdefault.jpg",
-      "published_at": "2026-09-04T23:00:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "7aEsFWIqcQE",
-      "title": "알테오젠은 덜어낼 때…업종보다 '종목 선택'이 중요해진 시장ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=7aEsFWIqcQE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/7aEsFWIqcQE/hqdefault.jpg",
-      "published_at": "2026-09-04T13:30:32+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "i0S1pY4XkBE",
-      "title": "외국인 선물 매수도 한계에 왔다…‘옵션만기일’ 앞두고 급등주 추격을 경계해야 하는 이유ㅣ명민준, 박가영, 황유현 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=i0S1pY4XkBE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/i0S1pY4XkBE/hqdefault.jpg",
-      "published_at": "2026-09-04T12:30:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "9yoONXkUVnQ",

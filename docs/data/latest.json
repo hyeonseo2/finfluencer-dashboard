@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T08:31:36.883803+00:00",
+  "generated_at": "2026-09-06T12:43:57.357861+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,87 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ZvI7Od1uXkc",
+      "title": "[슈카월드] 아베노믹스는 끝났는가?/ 2차 공공기관 이전이 시작된다./ 드디어 등장한 테슬라 로보택시 사이버캡/ 일본은 왜 북극항로를 싫어하는가/ AI가 들이닥친 영상산업 근황",
+      "source_url": "https://www.youtube.com/watch?v=ZvI7Od1uXkc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZvI7Od1uXkc/hqdefault.jpg",
+      "published_at": "2026-09-06T11:26:04+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "-8f4ZbWozTQ",
+      "title": "성매매로 발칵 뒤집힌 일본 일본 여자들 난리난 진짜 이유 | 호사카유지 교수 2부",
+      "source_url": "https://www.youtube.com/watch?v=-8f4ZbWozTQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-8f4ZbWozTQ/hqdefault.jpg",
+      "published_at": "2026-09-06T10:00:14+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jXMvkRBQQ4o",
+      "title": "코인에 제 전 재산을 걸었습니다, 지금 당장 모아가야 할 코인 3개 (문창훈 대표 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=jXMvkRBQQ4o",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jXMvkRBQQ4o/hqdefault.jpg",
+      "published_at": "2026-09-06T10:00:06+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "commodities",
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "XFE0AxextAM",
+      "title": "《오디세이》 핵심 키워드 4가지, '이것' 모르면 영화관 돈 버린다 (김상근 교수 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=XFE0AxextAM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/XFE0AxextAM/hqdefault.jpg",
+      "published_at": "2026-09-06T09:00:30+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "TfgEzopq2Aw",
       "title": "\"한국만 모르고 있어요\" 삼성전자 관련 충격 소문 | 김지훈 대표 2부",
@@ -120,17 +201,17 @@
     },
     {
       "video_id": "lmAtI0lCrYY",
-      "title": "승률 80%여도 몰빵 하지마세요, 한순간에 계좌 잔고 0원 된다 (박소연 이사)",
+      "title": "수학 천재가 찾아낸 절대 잃지 않는 투자법, 부자들이 무조건 현금 지키는 이유 (박소연 이사)",
       "source_url": "https://www.youtube.com/watch?v=lmAtI0lCrYY",
       "thumbnail_url": "https://i1.ytimg.com/vi/lmAtI0lCrYY/hqdefault.jpg",
       "published_at": "2026-09-06T07:00:34+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1033,25 +1114,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "dJglLDp0Jg0",
-      "title": "\"한국 경제 조짐 심상치 않다\" 올 9월 어마무시한 일 터진다｜김대호 박사 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=dJglLDp0Jg0",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dJglLDp0Jg0/hqdefault.jpg",
-      "published_at": "2026-09-04T08:30:32+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "LrT7E-PCBbE",
       "title": "10억보다 월 300만원이 먼저다, 당장 '이 구조' 안 짜면 후회한다 (박소연 이사)",
       "source_url": "https://www.youtube.com/watch?v=LrT7E-PCBbE",
@@ -1309,49 +1371,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "vemKSgWOX78",
-      "title": "마이너스 계좌 존버하는 자, 주식 원금 회복~ 할렐루야! (최병욱 전도사)",
-      "source_url": "https://www.youtube.com/shorts/vemKSgWOX78",
-      "thumbnail_url": "https://i3.ytimg.com/vi/vemKSgWOX78/hqdefault.jpg",
-      "published_at": "2026-09-02T10:00:01+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VNTJLsNj2uo",
-      "title": "내가 한 것은 장기투자가 아니요, 사탄의 잡주에서 나를 구원하소서 (최병욱 전도사)",
-      "source_url": "https://www.youtube.com/shorts/VNTJLsNj2uo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VNTJLsNj2uo/hqdefault.jpg",
-      "published_at": "2026-09-02T09:00:16+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "tBmOG0of1q8",
       "title": "미국 재무장관의 명언",
       "source_url": "https://www.youtube.com/shorts/tBmOG0of1q8",
@@ -1464,25 +1483,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2lFgnNyvBCs",
-      "title": "이란의 비핵화가 목표라면, 북한은??",
-      "source_url": "https://www.youtube.com/watch?v=2lFgnNyvBCs",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2lFgnNyvBCs/hqdefault.jpg",
-      "published_at": "2026-08-26T11:56:50+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

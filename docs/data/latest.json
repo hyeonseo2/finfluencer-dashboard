@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T18:57:12.435490+00:00",
+  "generated_at": "2026-09-06T21:12:00.675885+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "zDoL5gjsVq4",
+      "title": "금리인상 경계감에 뉴욕증시 하락...반도체주 동반 '급등'_26.09.07 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=zDoL5gjsVq4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zDoL5gjsVq4/hqdefault.jpg",
+      "published_at": "2026-09-06T20:24:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "A3DdYah0Vkg",
       "title": "\"연준 금리인상 확률 9월 60%→12월 85%\"…이 와중에도 AI 투자 멈추면 안 되는 이유",
@@ -907,30 +936,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "oMUL1Gh-SYI",
-      "title": "금리 급락도 호재가 아니다…9월 증시가 원하는 '딱 한 가지'ㅣ홍선애, 염승환 LS증권 이사 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=oMUL1Gh-SYI",
-      "thumbnail_url": "https://i4.ytimg.com/vi/oMUL1Gh-SYI/hqdefault.jpg",
-      "published_at": "2026-09-04T11:30:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

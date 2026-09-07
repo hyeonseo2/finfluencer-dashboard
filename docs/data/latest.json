@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-06T23:38:16.283599+00:00",
+  "generated_at": "2026-09-07T03:50:33.453363+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,6 +45,7 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -56,6 +57,164 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "gGmeeLLKqBg",
+      "title": "마이크로스트레티지 다음 타자는? 기관들의 비트코인 옥석 가리기가 시작됐다 | 서동주, 김동환, 백훈종 스매시파이 대표 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=gGmeeLLKqBg",
+      "thumbnail_url": "https://i4.ytimg.com/vi/gGmeeLLKqBg/hqdefault.jpg",
+      "published_at": "2026-09-07T03:42:32+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zDoL5gjsVq4",
+      "title": "[26.09.07 오전 방송 전체보기] 금리인상 경계감에 뉴욕증시 하락...반도체주 동반 '급등'",
+      "source_url": "https://www.youtube.com/watch?v=zDoL5gjsVq4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zDoL5gjsVq4/hqdefault.jpg",
+      "published_at": "2026-09-07T03:20:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "7-hNQ7Pe-Yg",
+      "title": "'CPI ‧ 국채금리 ‧ 중동전쟁‧국채금리 5% 돌파 공포까지' 이번주 비트코인 핵심 변수는? | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/watch?v=7-hNQ7Pe-Yg",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7-hNQ7Pe-Yg/hqdefault.jpg",
+      "published_at": "2026-09-07T03:18:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "crypto",
+        "interest_rate",
+        "macro",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Vro5Ci0EhNA",
+      "title": "'사이드' 나와야 할 이슈에도 한국증시는 '주춤'...왜? | 이혁진팀장, 여도은, 허재무 [아침N투자]",
+      "source_url": "https://www.youtube.com/watch?v=Vro5Ci0EhNA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Vro5Ci0EhNA/hqdefault.jpg",
+      "published_at": "2026-09-07T02:45:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "AFRQN8686UU",
+      "title": "\"머뭇거리는 투심 깨지는 순간\" 대폭발 시작된다 | 이권희 위즈웨이브 대표 [더블 업]",
+      "source_url": "https://www.youtube.com/watch?v=AFRQN8686UU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/AFRQN8686UU/hqdefault.jpg",
+      "published_at": "2026-09-07T01:29:09+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "TPbTYzx4bCQ",
+      "title": "\"7,000 돌파 후 향방은?\" 외국인 움직임이 결정한다 | 이지은 이지스탁 대표 [더블 체크]",
+      "source_url": "https://www.youtube.com/watch?v=TPbTYzx4bCQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/TPbTYzx4bCQ/hqdefault.jpg",
+      "published_at": "2026-09-07T01:03:47+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "rhiaXoLMVBw",
+      "title": "반도체 상승 분위기 만들어졌다…삼성전자·SK하이닉스 이제 따라갈 차례? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=rhiaXoLMVBw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/rhiaXoLMVBw/hqdefault.jpg",
+      "published_at": "2026-09-07T00:12:38+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "vtIrPoRGYBw",
       "title": "현대차그룹, 미국서 만든 철강으로 자동차·로봇 만든다 | 수출, 이미 작년 실적 돌파...‘세계 4번째 수출 1조 달러’ 가시화 | 권순우 삼프로TV 취재팀장 [뉴스3]",
@@ -107,25 +266,6 @@
       "topic_stances": [
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zDoL5gjsVq4",
-      "title": "미국 고용지표 가고 물가지표 온다…국내증시 이번주 예상 시나리오는? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=zDoL5gjsVq4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zDoL5gjsVq4/hqdefault.jpg",
-      "published_at": "2026-09-06T20:24:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -439,22 +579,17 @@
     },
     {
       "video_id": "htiPKnKoGBY",
-      "title": "\"지금 전세계 부가 향하는 곳\" 부자들은 이미 '이곳'으로 돈을 옮겼다 | 안유화 교수 4부 #돈쭐남 #김경필",
+      "title": "단 5년, 대한민국은 끝난다? 진짜 위험 신호 터졌다. 싹다 팔고 도망가세요 | 안유화 교수 4부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=htiPKnKoGBY",
       "thumbnail_url": "https://i1.ytimg.com/vi/htiPKnKoGBY/hqdefault.jpg",
       "published_at": "2026-09-06T02:00:09+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "commodities",
-        "real_estate"
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
           "stance": "neutral"
         }
       ],
@@ -463,7 +598,7 @@
     },
     {
       "video_id": "PdAPcpSw3oo",
-      "title": "\"100년 역사가 증명하고 있다\" S&P500 폭럭 날짜 떴습니다. 당장 현금 확보하세요 #돈쭐남 #김경필",
+      "title": "\"100년 역사가 증명하고 있다\" S&P500 폭락 날짜 떴습니다. 당장 현금 확보하세요 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=PdAPcpSw3oo",
       "thumbnail_url": "https://i1.ytimg.com/vi/PdAPcpSw3oo/hqdefault.jpg",
       "published_at": "2026-09-06T00:00:28+00:00",
@@ -524,44 +659,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "k9ubrPplSPM",
-      "title": "한국 증시가 못 오르는 진짜 이유 | 빈센트 하나증권 애널리스트 [빈센트의 체크포인트]",
-      "source_url": "https://www.youtube.com/shorts/k9ubrPplSPM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/k9ubrPplSPM/hqdefault.jpg",
-      "published_at": "2026-09-05T23:57:26+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "rKwQv6QcRsU",
-      "title": "싸도 못 오르는 이유…코스피 위에 쌓인 91조의 정체 | 빈센트 하나증권 애널리스트 [빈센트의 체크포인트]",
-      "source_url": "https://www.youtube.com/watch?v=rKwQv6QcRsU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/rKwQv6QcRsU/hqdefault.jpg",
-      "published_at": "2026-09-05T23:00:07+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "VioGO_m1tKg",
       "title": "삼성전자, SK하이닉스 비상 걸렸다, '이 가격까지' 오르면 주식 파세요 (남석관 회장)",
       "source_url": "https://www.youtube.com/watch?v=VioGO_m1tKg",
@@ -619,25 +716,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "AtJiZzG5x7Y",
-      "title": "하루만에 6% 급등한 비트코인, 상승 전환일까?",
-      "source_url": "https://www.youtube.com/shorts/AtJiZzG5x7Y",
-      "thumbnail_url": "https://i2.ytimg.com/vi/AtJiZzG5x7Y/hqdefault.jpg",
-      "published_at": "2026-09-05T09:00:16+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "XnapjbjPhbs",
       "title": "삼성전자 정말 무서울 겁니다, 100년에 1번 나오는 폭등 나온다 (강관우 대표 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=XnapjbjPhbs",
@@ -655,25 +733,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "XUiAcJ4HKPE",
-      "title": "AI 때문에 월 전기료 30만 원 나올 수도 있습니다ㅣ에코노믹스 EP.5",
-      "source_url": "https://www.youtube.com/watch?v=XUiAcJ4HKPE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/XUiAcJ4HKPE/hqdefault.jpg",
-      "published_at": "2026-09-05T08:00:16+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "01zmW7GiIiI",
@@ -712,25 +771,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zyEXMySdimY",
-      "title": "성경에서 ‘해·달·별’의 이름이 사라진 진짜 이유 | 주원준 한님성서연구소 수석연구원 [에인션트]",
-      "source_url": "https://www.youtube.com/watch?v=zyEXMySdimY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zyEXMySdimY/hqdefault.jpg",
-      "published_at": "2026-09-05T06:00:17+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "tu5J1bYIVQY",
@@ -812,25 +852,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "uljbMdrNeYE",
-      "title": "\"삼전닉스 이후의 시대\" 반드시 여기로 흐른다  | 성상현 ABP자산운용 전무 [주말인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=uljbMdrNeYE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/uljbMdrNeYE/hqdefault.jpg",
-      "published_at": "2026-09-05T02:00:37+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Xzc-jgIUizM",

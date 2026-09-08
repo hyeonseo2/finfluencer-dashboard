@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T12:44:15.161621+00:00",
+  "generated_at": "2026-09-08T17:09:10.288417+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,44 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "cZaWZ9Qg3ko",
+      "title": "외국인은 삼전닉스를 샀는데 장 막판 왜 밀렸나… '공포의 2시' 급락에 숨은 '수급의 계산' ㅣ 명민준, 서수진, 이지환 대표 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=cZaWZ9Qg3ko",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cZaWZ9Qg3ko/hqdefault.jpg",
+      "published_at": "2026-09-08T13:30:29+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8cQuGIhLGqM",
+      "title": "개인은 14조 팔고 떠났는데 빚투는 늘었다…급락장에서 드러난 수급의 경고 ㅣ 명민준, 서수진, 황유현 팀장 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=8cQuGIhLGqM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8cQuGIhLGqM/hqdefault.jpg",
+      "published_at": "2026-09-08T13:00:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "XvGAwYAs8rU",
       "title": "오늘 급락에도 반도체를 안 파는 이유…AI 랠리의 다음 열쇠는 '생산성' ㅣ 김장열 유니스토리자산운용 리서치센터장 [집중 오늘의 주식]",
@@ -115,17 +153,22 @@
     },
     {
       "video_id": "9faeuNsH1yg",
-      "title": "증시 폭락할 때 '이 주식' 사세요, 1년만 기다리면 큰 부가 된다 (남석관 회장)",
+      "title": "현금 5000만원 '이 타이밍' 노려라, 급등했다 제자리 온 '이 주식' 사세요 (남석관 회장)",
       "source_url": "https://www.youtube.com/watch?v=9faeuNsH1yg",
       "thumbnail_url": "https://i2.ytimg.com/vi/9faeuNsH1yg/hqdefault.jpg",
       "published_at": "2026-09-08T11:00:08+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -172,7 +215,7 @@
     },
     {
       "video_id": "lCyHVg-JIp4",
-      "title": "코스피 7000 뚫기 어려운 이유, 살아남으려면 '이 주식' 사모아라 (슈퍼개미 이정윤 세무사)",
+      "title": "앞으로 '이 주식' 무섭게 오른다, 조정 올 때마다 사 모아가세요 (슈퍼개미 이정윤 세무사)",
       "source_url": "https://www.youtube.com/watch?v=lCyHVg-JIp4",
       "thumbnail_url": "https://i1.ytimg.com/vi/lCyHVg-JIp4/hqdefault.jpg",
       "published_at": "2026-09-08T09:48:37+00:00",
@@ -579,49 +622,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "JgyRlZWwtSg",
-      "title": "삼전닉스로 쏠린 관심...뒷받침되는 실적 속 소외된 코스닥 강소 기업은 어디? |  노영래, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=JgyRlZWwtSg",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JgyRlZWwtSg/hqdefault.jpg",
-      "published_at": "2026-09-08T02:23:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ARrfr40ayK8",
-      "title": "트럼프 금리 인하 압박 vs 연준의 속내! 9월 금리 동결과 반도체 반등 시나리오 | 백인재 하나증권 영업부금융센터 부센터장 [더블 크루]",
-      "source_url": "https://www.youtube.com/watch?v=ARrfr40ayK8",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ARrfr40ayK8/hqdefault.jpg",
-      "published_at": "2026-09-08T01:54:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

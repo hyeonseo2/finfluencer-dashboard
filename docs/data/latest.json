@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T22:39:41.956031+00:00",
+  "generated_at": "2026-09-08T01:01:32.170746+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,8 +57,89 @@
   ],
   "videos": [
     {
+      "video_id": "YfNd47ZAnlI",
+      "title": "삼성전자 전고점 돌파하면 매수세 붙는다…코스피 다음 시나리오는? | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=YfNd47ZAnlI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/YfNd47ZAnlI/hqdefault.jpg",
+      "published_at": "2026-09-08T00:09:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "YNjMpEz2lhU",
+      "title": "\"있을 수가 없습니다\"…운용·리서치·교육·사업 다 해본 20년 차 투자자가 모든 것을 담은 '이것'",
+      "source_url": "https://www.youtube.com/watch?v=YNjMpEz2lhU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/YNjMpEz2lhU/hqdefault.jpg",
+      "published_at": "2026-09-08T00:00:05+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "hZxMe5De8NY",
+      "title": "300조 대미투자펀드 1호 원전·화력 70%…한국 기업 참여 핵심 | 젠슨 황 “일반 인공지능 시대 왔다”…괴물 AI의 정체 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=hZxMe5De8NY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hZxMe5De8NY/hqdefault.jpg",
+      "published_at": "2026-09-07T23:24:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "yZJQ5putBx0",
+      "title": "금리인상 확률 내려간다? 9월 증시 반등의 조건 | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=yZJQ5putBx0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yZJQ5putBx0/hqdefault.jpg",
+      "published_at": "2026-09-07T22:51:28+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "PU69fR101z8",
-      "title": "GPT-6 Astra 효과, 젠슨 황 \"AGI 시대 도래\"...골드만삭스 \"향후 1년 내 코스피 12,000p\" [월가 뉴스레터]",
+      "title": "GPT-6 아스트라 효과, 젠슨 황 \"AGI 시대 도래\"...골드만삭스 \"향후 1년 내 코스피 12,000p\" [월가 뉴스레터]",
       "source_url": "https://www.youtube.com/watch?v=PU69fR101z8",
       "thumbnail_url": "https://i1.ytimg.com/vi/PU69fR101z8/hqdefault.jpg",
       "published_at": "2026-09-07T22:09:27+00:00",
@@ -77,7 +158,7 @@
     },
     {
       "video_id": "FD2V1D99dKo",
-      "title": "300조 대미투자펀드 1호 원전·화력 70%…한국 기업 참여 핵심 | 젠슨 황 \"AGI 시대 왔다\"…괴물 AI의 정체 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "title": "[9월 8일 개장시황] 빈센트, 정프로, 이주연, 편다송, 백인재 [더블 밸류업]",
       "source_url": "https://www.youtube.com/watch?v=FD2V1D99dKo",
       "thumbnail_url": "https://i3.ytimg.com/vi/FD2V1D99dKo/hqdefault.jpg",
       "published_at": "2026-09-07T20:20:20+00:00",
@@ -439,7 +520,7 @@
     },
     {
       "video_id": "VJbgnF7SI6U",
-      "title": "주식투자로 개인이 큰돈 못 버는 진짜 이유, '이것' 버려야 진짜 큰돈을 번다 (내일은 투자왕 김단테 대표)",
+      "title": "주식투자 몇 년간 해보니까, '이런 사람이' 큰돈 벌어요 (내일은 투자왕 김단테 대표)",
       "source_url": "https://www.youtube.com/watch?v=VJbgnF7SI6U",
       "thumbnail_url": "https://i3.ytimg.com/vi/VJbgnF7SI6U/hqdefault.jpg",
       "published_at": "2026-09-07T09:45:13+00:00",
@@ -582,7 +663,7 @@
     },
     {
       "video_id": "qbiaWz4J0UI",
-      "title": "\"사상 최악의 5경 빚더미\" 이때부터 미국이 무너진다. 현금 싹 다 여기로 옮겨라 | 신지은 1부 #경제위기",
+      "title": "\"연 19.5% 확정 수익\" ISA보다 더 쎈 통장 떴다. 5060 현금 여기로 싹 다 옮겨라 | 신지은 1부 #노후준비",
       "source_url": "https://www.youtube.com/watch?v=qbiaWz4J0UI",
       "thumbnail_url": "https://i2.ytimg.com/vi/qbiaWz4J0UI/hqdefault.jpg",
       "published_at": "2026-09-07T08:30:12+00:00",
@@ -708,68 +789,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ynFIJ9GGtJU",
-      "title": "\"금리도 씹어 먹는 랠리 온다?\" 폭등의 이유는 | 이권희 위즈웨이브 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/shorts/ynFIJ9GGtJU",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ynFIJ9GGtJU/hqdefault.jpg",
-      "published_at": "2026-09-07T05:56:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "gGmeeLLKqBg",
-      "title": "기관의 비트코인 옥석 가리기 시작, 마이크로스트래티지 다음 타자는? | 서동주, 김동환, 백훈종 스매시파이 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=gGmeeLLKqBg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/gGmeeLLKqBg/hqdefault.jpg",
-      "published_at": "2026-09-07T03:42:32+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zDoL5gjsVq4",
-      "title": "[26.09.07 오전 방송 전체보기] 금리인상 경계감에 뉴욕증시 하락...반도체주 동반 '급등'",
-      "source_url": "https://www.youtube.com/watch?v=zDoL5gjsVq4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zDoL5gjsVq4/hqdefault.jpg",
-      "published_at": "2026-09-07T03:20:05+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "A3DdYah0Vkg",
@@ -1351,25 +1370,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hqzviXVaUio",
-      "title": "삼성 파운드리 점유율이 1년 만에 11.5%에서 7.3%로 빠졌습니다, 그런데 이번 하락은 다르게 봐야 한다고 말합니다 [월간 아신 9월호 2부]",
-      "source_url": "https://www.youtube.com/watch?v=hqzviXVaUio",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hqzviXVaUio/hqdefault.jpg",
-      "published_at": "2026-09-03T10:00:28+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Fj1dHmEN5vI",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T17:42:56.693563+00:00",
+  "generated_at": "2026-09-09T20:43:58.645191+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "fDvhak-yeb4",
+      "title": "유가·금리 상승 속 뉴욕증시 하락 지속...반도체주 연일 '강세'_26.09.10 | 여도은, 박명석, 이권희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=fDvhak-yeb4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/fDvhak-yeb4/hqdefault.jpg",
+      "published_at": "2026-09-09T20:23:01+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "masM-MrBlMw",
       "title": "실적 vs 매크로? 결국 성장성이 가른다…달라진 시장의 투자 셈법ㅣ명민준, 박가영, 신혁승 [주린이 구조대]",
@@ -767,25 +796,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2eT6FQrl1LE",
-      "title": "돈 버는 투자자는 다릅니다 | 김정남 네덜란드연금자산운용 전 본부장 [주말인터뷰]",
-      "source_url": "https://www.youtube.com/shorts/2eT6FQrl1LE",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2eT6FQrl1LE/hqdefault.jpg",
-      "published_at": "2026-09-09T03:00:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

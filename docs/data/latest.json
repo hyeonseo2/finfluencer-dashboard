@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T17:35:29.926874+00:00",
+  "generated_at": "2026-09-10T20:39:03.451477+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "aqi3MLsQwyk",
+      "title": "유가·금리 연일 급등 속 뉴욕증시 나흘째 '하락'...애플+3%·오라클, 1분기 매출 30% 증가_26.09.11 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=aqi3MLsQwyk",
+      "thumbnail_url": "https://i2.ytimg.com/vi/aqi3MLsQwyk/hqdefault.jpg",
+      "published_at": "2026-09-10T20:26:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Bx1fHUDNsd0",
       "title": "급등 뒤 밀리는 주도주, 왜 다시 봐야 하나…외국인 '매집 구간'에서 나타나는 신호ㅣ명민준, 서수진, 이지환 [주린이 구조대]",
@@ -643,25 +672,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "eAzr80zp7BI",
-      "title": "반도체 지수 리밸런싱, 시장은 '출렁' 반도체는 상승 시작? |  박현지, 최창규, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=eAzr80zp7BI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/eAzr80zp7BI/hqdefault.jpg",
-      "published_at": "2026-09-10T02:21:39+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "PnTvshurdL4",
       "title": "4050 노후준비 끝 이 1가지만 계속 담아라 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/shorts/PnTvshurdL4",
@@ -1039,22 +1049,17 @@
     },
     {
       "video_id": "HK9thAanrLU",
-      "title": "기름값이 오르니 다시 금리가 무서워졌습니다. 이번 주 금요일 물가 지표까지 남은 며칠이 왜 중요한지 정리했습니다",
+      "title": "유가만 쳐다보면 물가의 절반을 놓칩니다. 정유 회사들의 마진이 지금 어디까지 벌어졌는지 확인해봤습니다",
       "source_url": "https://www.youtube.com/watch?v=HK9thAanrLU",
       "thumbnail_url": "https://i1.ytimg.com/vi/HK9thAanrLU/hqdefault.jpg",
       "published_at": "2026-09-09T04:23:10+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities",
-        "interest_rate"
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

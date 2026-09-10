@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T20:39:03.451477+00:00",
+  "generated_at": "2026-09-10T23:00:51.253397+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -47,7 +47,6 @@
   "topics": [
     "bonds",
     "commodities",
-    "crypto",
     "etf",
     "interest_rate",
     "macro",
@@ -56,16 +55,44 @@
   ],
   "videos": [
     {
+      "video_id": "et9lnBRcfKk",
+      "title": "10년물 국채 금리 5% 근접…WTI $100 돌파 부담감 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=et9lnBRcfKk",
+      "thumbnail_url": "https://i2.ytimg.com/vi/et9lnBRcfKk/hqdefault.jpg",
+      "published_at": "2026-09-10T21:58:39+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "aqi3MLsQwyk",
-      "title": "유가·금리 연일 급등 속 뉴욕증시 나흘째 '하락'...애플+3%·오라클, 1분기 매출 30% 증가_26.09.11 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "title": "미국 반도체주 급락, 눈치보는 국내증시...'검은 금요일' 피할 수 있을까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=aqi3MLsQwyk",
       "thumbnail_url": "https://i2.ytimg.com/vi/aqi3MLsQwyk/hqdefault.jpg",
       "published_at": "2026-09-10T20:26:19+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities",
-        "interest_rate"
+        "commodities"
       ],
       "topic_stances": [
         {
@@ -74,10 +101,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],
@@ -632,35 +655,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "m0lJahRufJE",
-      "title": "\"바이백도 못 잡았다\" 금리·유가 폭등에 비트코인 7만 8천불 휘청  | 서동주, 김동환, 박현영 뉴스1 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=m0lJahRufJE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/m0lJahRufJE/hqdefault.jpg",
-      "published_at": "2026-09-10T02:59:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
           "stance": "neutral"
         },
         {

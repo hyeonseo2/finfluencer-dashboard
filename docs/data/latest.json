@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T13:24:23.730884+00:00",
+  "generated_at": "2026-09-11T17:38:43.253490+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "XYhepi7nK8g",
+      "title": "두 달 만에 급변한 원·달러 환율…기업들이 적응할 시간을 잃어버린 이유ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
+      "source_url": "https://www.youtube.com/watch?v=XYhepi7nK8g",
+      "thumbnail_url": "https://i1.ytimg.com/vi/XYhepi7nK8g/hqdefault.jpg",
+      "published_at": "2026-09-11T13:30:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "OeEcenkujH4",
       "title": "변동성을 견디지 못하면 수익도 없다…‘마음 편한 종목’을 경계해야 하는 이유ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
@@ -211,20 +230,15 @@
     },
     {
       "video_id": "kro_ZG6WbrE",
-      "title": "S&P500 살 때 아닙니다. ISA에 지금 이것 담으세요 | 조윤진 작가 2부 #돈쭐남 #김경필",
+      "title": "\"JEPI 팔고 이것 샀더니\" 배당금 2배로 불어납니다. 지금 시작해도 30년 먹고 삽니다 | 조윤진 작가 2부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=kro_ZG6WbrE",
       "thumbnail_url": "https://i4.ytimg.com/vi/kro_ZG6WbrE/hqdefault.jpg",
       "published_at": "2026-09-11T09:30:32+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -412,17 +426,17 @@
     },
     {
       "video_id": "LKj0T9Ad10E",
-      "title": "\"5060 위한 초고속 ETF떴다\" 월배당 300씩 평생 받는 포트폴리오 공개합니다 | 조윤진 작가 1부 #김경필 #돈쭐남",
+      "title": "\"배당금으로 놀고 먹어요\" 지금 5천만원만 있으면 됩니다. 6억 들고 은퇴하는 방법 공개 해드리죠 | 조윤진 작가 1부 #김경필 #돈쭐남",
       "source_url": "https://www.youtube.com/watch?v=LKj0T9Ad10E",
       "thumbnail_url": "https://i1.ytimg.com/vi/LKj0T9Ad10E/hqdefault.jpg",
       "published_at": "2026-09-11T07:00:07+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "etf"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "etf",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -571,25 +585,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "mjaykPgHfOw",
-      "title": "금리 동결로 '강한 모멘텀' 올까? | 박준우 하나증권 리서치센터 연구위원 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=mjaykPgHfOw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/mjaykPgHfOw/hqdefault.jpg",
-      "published_at": "2026-09-11T01:17:44+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

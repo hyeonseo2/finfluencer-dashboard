@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T20:44:17.941791+00:00",
+  "generated_at": "2026-09-11T23:05:27.914848+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ev79s2IN_H4",
+      "title": "[모닝효] 9월 금리인상이 확정된 날, 시장이 찍어준 종목 2개 | AI시대 투자에 대해서...",
+      "source_url": "https://www.youtube.com/watch?v=ev79s2IN_H4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ev79s2IN_H4/hqdefault.jpg",
+      "published_at": "2026-09-11T22:53:45+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "XYhepi7nK8g",
       "title": "두 달 만에 급변한 원·달러 환율…기업들이 적응할 시간을 잃어버린 이유ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
@@ -1359,25 +1378,6 @@
       "source_url": "https://www.youtube.com/watch?v=fiINV2VrfO4",
       "thumbnail_url": "https://i3.ytimg.com/vi/fiINV2VrfO4/hqdefault.jpg",
       "published_at": "2026-09-06T07:30:44+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "D7BNPiC-Xis",
-      "title": "\"반도체 이제 끝난걸까?\" 내년 상반기까지 기회가 남아 있다고 보는 근거[월간 아신 9월호 풀영상]",
-      "source_url": "https://www.youtube.com/watch?v=D7BNPiC-Xis",
-      "thumbnail_url": "https://i1.ytimg.com/vi/D7BNPiC-Xis/hqdefault.jpg",
-      "published_at": "2026-09-06T04:00:20+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "macro"

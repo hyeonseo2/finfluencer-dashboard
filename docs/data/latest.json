@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T21:18:04.746720+00:00",
+  "generated_at": "2026-09-13T23:58:36.216379+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -49,7 +49,6 @@
     "commodities",
     "crypto",
     "etf",
-    "fx",
     "interest_rate",
     "macro",
     "real_estate",
@@ -57,16 +56,53 @@
   ],
   "videos": [
     {
-      "video_id": "cYsrlkO4dvU",
-      "title": "'금리인상' 확률 증가 속 유가·금리 하락...뉴욕증시 5일만의 '반등'_26.09.14 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=cYsrlkO4dvU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cYsrlkO4dvU/hqdefault.jpg",
-      "published_at": "2026-09-13T20:19:44+00:00",
+      "video_id": "BVYUrEOvXyU",
+      "title": "AI 수장들 인류 멸망 경고…\"이러다 다 죽어\" | 트럼프 \"중국차 미국서 생산해도 된다\"…정상회담 의제 되나 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=BVYUrEOvXyU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BVYUrEOvXyU/hqdefault.jpg",
+      "published_at": "2026-09-13T23:19:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "nGaM_gCtccI",
+      "title": "AI 속도조절 논란, 인프라 투자도 흔들리나? 결국 봐야 할 것은 '이것’ | 김장열 유니스토리자산운용 센터장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=nGaM_gCtccI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nGaM_gCtccI/hqdefault.jpg",
+      "published_at": "2026-09-13T22:43:45+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "uuhKDr9a66o",
+      "title": "뉴욕증시, CPI 예상치 상회에도 상승 마감...아모데이 앤트로픽 CEO \"AI 발전 속도 늦춰야 한다\" [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=uuhKDr9a66o",
+      "thumbnail_url": "https://i2.ytimg.com/vi/uuhKDr9a66o/hqdefault.jpg",
+      "published_at": "2026-09-13T22:12:54+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities",
-        "interest_rate"
+        "macro"
       ],
       "topic_stances": [
         {
@@ -74,11 +110,26 @@
           "stance": "neutral"
         },
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "cYsrlkO4dvU",
+      "title": "[9월 14일 개장시황] 빈센트, 정프로, 이지은, 편다송, 노근창 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=cYsrlkO4dvU",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cYsrlkO4dvU/hqdefault.jpg",
+      "published_at": "2026-09-13T20:19:44+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
         {
-          "topic": "interest_rate",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -859,61 +910,18 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "XYhepi7nK8g",
-      "title": "두 달 만에 급변한 원·달러 환율…기업들이 적응할 시간을 잃어버린 이유ㅣ명민준, 박가영, 차영주 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=XYhepi7nK8g",
-      "thumbnail_url": "https://i1.ytimg.com/vi/XYhepi7nK8g/hqdefault.jpg",
-      "published_at": "2026-09-11T13:30:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OeEcenkujH4",
-      "title": "변동성을 견디지 못하면 수익도 없다…‘마음 편한 종목’을 경계해야 하는 이유ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=OeEcenkujH4",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OeEcenkujH4/hqdefault.jpg",
-      "published_at": "2026-09-11T12:30:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "jEDZo8c6zVk",
-      "title": "강남 아파트 50억 깔고 앉아도, 현금 흐름 없으면 파산합니다 (안유화 교수)",
+      "title": "매일 마시는 커피값 5천 원으로, '이런 주식을' 계속 사 모으세요 (안유화 교수)",
       "source_url": "https://www.youtube.com/watch?v=jEDZo8c6zVk",
       "thumbnail_url": "https://i3.ytimg.com/vi/jEDZo8c6zVk/hqdefault.jpg",
       "published_at": "2026-09-11T12:15:24+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities",
-        "real_estate"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],
@@ -943,30 +951,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "yTSmOx32AeM",
-      "title": "[26.09.11 오후 방송 전체보기] '마의 7,000선' 안착 시험대 오른 코스피……커지는 증시 변동성, 투심은 다시 움츠러들었다",
-      "source_url": "https://www.youtube.com/watch?v=yTSmOx32AeM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yTSmOx32AeM/hqdefault.jpg",
-      "published_at": "2026-09-11T11:10:12+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Dhh2HNHF8u4",

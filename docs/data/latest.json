@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T22:03:07.708285+00:00",
+  "generated_at": "2026-09-13T00:42:24.689841+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,87 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "XLYOA2SMTmM",
+      "title": "“이란보다 센 상대 건드렸다” 튀르키예 군시설 때린 이스라엘 중동 전쟁판 완전히 뒤집혔다 | 김민석 특파원 풀버전 2",
+      "source_url": "https://www.youtube.com/watch?v=XLYOA2SMTmM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/XLYOA2SMTmM/hqdefault.jpg",
+      "published_at": "2026-09-13T00:00:34+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "qjSgZ0SpDFk",
+      "title": "\"금모아서 갚은거 아니었나?\" IMF 끝난줄 알았는데, 30년 째 빚 못갚고 있습니다 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=qjSgZ0SpDFk",
+      "thumbnail_url": "https://i2.ytimg.com/vi/qjSgZ0SpDFk/hqdefault.jpg",
+      "published_at": "2026-09-13T00:00:30+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "cuCl7n5c7Ko",
+      "title": "금리 5% 구간에서 개인이 가장 많이 저지르는 실수, 지나고 나서 가슴 치는 선택은 따로 있습니다",
+      "source_url": "https://www.youtube.com/watch?v=cuCl7n5c7Ko",
+      "thumbnail_url": "https://i4.ytimg.com/vi/cuCl7n5c7Ko/hqdefault.jpg",
+      "published_at": "2026-09-13T00:00:28+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "pWYo2eeJ2aM",
+      "title": "반도체는 잘 나가는데, 한국 경제가 더 불안해진 이유 l 조영무 NH금융연구소 소장 [신과대화]",
+      "source_url": "https://www.youtube.com/watch?v=pWYo2eeJ2aM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pWYo2eeJ2aM/hqdefault.jpg",
+      "published_at": "2026-09-12T23:00:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "NtKuRcw5JEA",
       "title": "한국 주식 지금 심상치않다, 지금 안 팔면 '이렇게' 된다 (염승환 이사)",
@@ -834,25 +915,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "dKbW6nxlt8o",
-      "title": "금리 인상 횟수와 시기는 언제일까?  | 박준우 하나증권 리서치센터 연구위원 [더블 업]",
-      "source_url": "https://www.youtube.com/shorts/dKbW6nxlt8o",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dKbW6nxlt8o/hqdefault.jpg",
-      "published_at": "2026-09-11T05:17:04+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "VWeqxIsIPME",
       "title": "앞으로 10배 오를 주식 '이 중에서' 결정하세요 (세상학개론 한정수 작가)",
       "source_url": "https://www.youtube.com/watch?v=VWeqxIsIPME",
@@ -889,25 +951,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Wy7MMFOdHJI",
-      "title": "미국 전역에 싹다 퍼졌다 한국에 대한 기막힌 소문 | 김상조 교수 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=Wy7MMFOdHJI",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Wy7MMFOdHJI/hqdefault.jpg",
-      "published_at": "2026-09-10T10:30:18+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "gGJEoJlLErI",
@@ -1027,25 +1070,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "glBAQgqLUpg",
-      "title": "\"유래 없는 대폭락 온다\" 금값 1971년과 판박이다. 당장 이렇게 하셔야 합니다 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=glBAQgqLUpg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/glBAQgqLUpg/hqdefault.jpg",
-      "published_at": "2026-09-10T07:00:14+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "6lmUf6KKt8k",
@@ -1192,17 +1216,17 @@
     },
     {
       "video_id": "HK9thAanrLU",
-      "title": "유가만 쳐다보면 물가의 절반을 놓칩니다. 정유 회사들의 마진이 지금 어디까지 벌어졌는지 확인해봤습니다",
+      "title": "사우디가 똥줄이 탄다\"...원유를 할인해도 기름값이 안 빠지는 '진짜 범인'",
       "source_url": "https://www.youtube.com/watch?v=HK9thAanrLU",
       "thumbnail_url": "https://i1.ytimg.com/vi/HK9thAanrLU/hqdefault.jpg",
       "published_at": "2026-09-09T04:23:10+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1389,25 +1413,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "A3DdYah0Vkg",
-      "title": "\"연준 금리인상 확률 9월 60%→12월 85%\"…이 와중에도 AI 투자 멈추면 안 되는 이유",
-      "source_url": "https://www.youtube.com/watch?v=A3DdYah0Vkg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/A3DdYah0Vkg/hqdefault.jpg",
-      "published_at": "2026-09-06T13:49:56+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

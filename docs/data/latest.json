@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:48:41.721771+00:00",
+  "generated_at": "2026-09-14T23:45:29.887736+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,11 +58,11 @@
   ],
   "videos": [
     {
-      "video_id": "b6wmE6L2DkY",
-      "title": "'AI 속도조절론'에 반도체주 동반 '하락'...WTI, 100달러 재돌파_26.09.15 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=b6wmE6L2DkY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/b6wmE6L2DkY/hqdefault.jpg",
-      "published_at": "2026-09-14T20:26:04+00:00",
+      "video_id": "eJVpuAHOmdk",
+      "title": "KRX 애프터마켓 첫날 1.8조 몰려…\"정규장 대비 4배 높은 변동성\" | 사우디 송유관 폐쇄에 국제유가 105달러 돌파 | 류종은 삼프로TV 기자 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=eJVpuAHOmdk",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eJVpuAHOmdk/hqdefault.jpg",
+      "published_at": "2026-09-14T23:28:04+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities",
@@ -75,6 +75,68 @@
         },
         {
           "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "18Pg9rk8Gdw",
+      "title": "10년물 금리 5% 돌파…AI 속도조절론 확산, 반도체 수요는 괜찮을까? | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=18Pg9rk8Gdw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/18Pg9rk8Gdw/hqdefault.jpg",
+      "published_at": "2026-09-14T23:02:53+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "xfPClGNWSsc",
+      "title": "AI 속도 조절론에 반도체 약세…10년물 국채 금리 5% 터치 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=xfPClGNWSsc",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xfPClGNWSsc/hqdefault.jpg",
+      "published_at": "2026-09-14T22:04:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "b6wmE6L2DkY",
+      "title": "[9월 15일 개장시황] 빈센트, 정프로, 이주연, 편다송, 윤재성 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=b6wmE6L2DkY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/b6wmE6L2DkY/hqdefault.jpg",
+      "published_at": "2026-09-14T20:26:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -202,7 +264,7 @@
     },
     {
       "video_id": "JcONuQXR-1Q",
-      "title": "한국 살아본 일본인이 한국을 못 떠나는 충격 이유 | 나나세 1부",
+      "title": "나도 한국인처럼 되고 싶다” 일본 전역에 싹다 퍼졌다 한국에 대한 기막힌 소문 | 나나세 1부",
       "source_url": "https://www.youtube.com/watch?v=JcONuQXR-1Q",
       "thumbnail_url": "https://i3.ytimg.com/vi/JcONuQXR-1Q/hqdefault.jpg",
       "published_at": "2026-09-14T10:30:08+00:00",
@@ -530,35 +592,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "cYsrlkO4dvU",
-      "title": "[26.09.14 오전 방송 전체보기] '금리인상' 확률 증가 속 유가·금리 하락...뉴욕증시 5일만의 '반등'",
-      "source_url": "https://www.youtube.com/watch?v=cYsrlkO4dvU",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cYsrlkO4dvU/hqdefault.jpg",
-      "published_at": "2026-09-14T03:18:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "EsJk8Q7Hdgo",
       "title": "5060 위한 맞춤 전략 이것을 주목하세요 #신지은 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/shorts/EsJk8Q7Hdgo",
@@ -576,64 +609,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wnalIjX0h3A",
-      "title": "유가 100달러·금리 5% 폭풍에 갇혀버린 비트코인 다음 방향은? | 서동주, 김동환, 이윤수 에릭의 거장연구소 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=wnalIjX0h3A",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wnalIjX0h3A/hqdefault.jpg",
-      "published_at": "2026-09-14T03:11:20+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto",
-        "fx",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "xyZGJx_V4xc",
-      "title": "'클래리티 법안 발표 D-2' 박스권 들어선 비트코인 판도 바뀔까? | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=xyZGJx_V4xc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xyZGJx_V4xc/hqdefault.jpg",
-      "published_at": "2026-09-14T02:50:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "3Tc2pd-zFgg",

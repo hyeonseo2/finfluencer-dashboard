@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T16:52:39.535773+00:00",
+  "generated_at": "2026-09-14T20:48:41.721771+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "b6wmE6L2DkY",
+      "title": "'AI 속도조절론'에 반도체주 동반 '하락'...WTI, 100달러 재돌파_26.09.15 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=b6wmE6L2DkY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/b6wmE6L2DkY/hqdefault.jpg",
+      "published_at": "2026-09-14T20:26:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "rdYy2le7EWk",
       "title": "AI 투자 속도조절에 중동 리스크까지…다시 커지는 '인플레이션 재발' 가능성ㅣ명민준, 서수진, 송재경 [주린이 구조대]",
@@ -629,30 +653,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "JeRSlJOPAJ4",
-      "title": "인플레 부담 덜어낸 미국과 'AI 속도조절론' 9월 증시 조정 뒷면에 숨은 기회 | 여도은, 이혁진 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=JeRSlJOPAJ4",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JeRSlJOPAJ4/hqdefault.jpg",
-      "published_at": "2026-09-14T02:26:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "JSCTaCuGD00",

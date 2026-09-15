@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T18:47:52.129315+00:00",
+  "generated_at": "2026-09-15T21:59:34.839533+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "C-JbE3mFuXs",
+      "title": "치솟는 금리·유가 속 뉴욕증시 하락 마감...반도체주 소폭 '반등'_26.09.16 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=C-JbE3mFuXs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/C-JbE3mFuXs/hqdefault.jpg",
+      "published_at": "2026-09-15T20:23:46+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "rw7mkNe9Cu4",
       "title": "미 국채금리 5%·AI 속도조절론까지 버텨낸 증시의 '이상한 반응'ㅣ명민준, 서수진, 이지환 [주린이 구조대]",
@@ -705,25 +734,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "oE_Bn8cmupc",
-      "title": "\"AI 늦추면 중국에 진다\" AI 속도조절론 크게 신경 안 써도 됩니다 | 정우창, 여도은 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=oE_Bn8cmupc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/oE_Bn8cmupc/hqdefault.jpg",
-      "published_at": "2026-09-15T02:34:43+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

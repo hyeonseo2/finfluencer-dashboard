@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T21:59:34.839533+00:00",
+  "generated_at": "2026-09-16T00:10:55.824058+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,15 +58,67 @@
   ],
   "videos": [
     {
-      "video_id": "C-JbE3mFuXs",
-      "title": "치솟는 금리·유가 속 뉴욕증시 하락 마감...반도체주 소폭 '반등'_26.09.16 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=C-JbE3mFuXs",
-      "thumbnail_url": "https://i4.ytimg.com/vi/C-JbE3mFuXs/hqdefault.jpg",
-      "published_at": "2026-09-15T20:23:46+00:00",
+      "video_id": "-ZEaY-oIMv0",
+      "title": "AI 종말론 맞선 젠슨 황·트럼프…\"중국만 기뻐할 것\" | 미국채 10년물 5% 터치…금리 인상 가능성 90% | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=-ZEaY-oIMv0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-ZEaY-oIMv0/hqdefault.jpg",
+      "published_at": "2026-09-15T23:42:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "T2cSylKqQws",
+      "title": "금리 5%·유가 100달러…당분간 시장이 답답할 수밖에 없는 이유 | 신영증권 김효진 박사 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=T2cSylKqQws",
+      "thumbnail_url": "https://i1.ytimg.com/vi/T2cSylKqQws/hqdefault.jpg",
+      "published_at": "2026-09-15T22:54:56+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "e6LV-q_V7b0",
+      "title": "FOMC 금리인상 기정 사실화?…하루 전 잔뜩 움츠린 뉴욕증시 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=e6LV-q_V7b0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/e6LV-q_V7b0/hqdefault.jpg",
+      "published_at": "2026-09-15T22:19:50+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities",
         "interest_rate"
       ],
       "topic_stances": [
@@ -75,11 +127,26 @@
           "stance": "neutral"
         },
         {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
           "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "C-JbE3mFuXs",
+      "title": "[9월 16일 개장시황] 빈센트, 정프로, 하창완, 편다송, 권태우 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=C-JbE3mFuXs",
+      "thumbnail_url": "https://i4.ytimg.com/vi/C-JbE3mFuXs/hqdefault.jpg",
+      "published_at": "2026-09-15T20:23:46+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -674,73 +741,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "b6wmE6L2DkY",
-      "title": "[26.09.15 오전 방송 전체보기] 'AI 속도조절론'에 반도체주 동반 '하락'...WTI, 100달러 재돌파",
-      "source_url": "https://www.youtube.com/watch?v=b6wmE6L2DkY",
-      "thumbnail_url": "https://i3.ytimg.com/vi/b6wmE6L2DkY/hqdefault.jpg",
-      "published_at": "2026-09-15T03:18:57+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ouKaviTbXa8",
-      "title": "알트코인 순환매 기대해도 될까? 다시 불붙은 알트코인 시장 | 서동주, 김동환, 조동현 언디파인드랩스 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=ouKaviTbXa8",
-      "thumbnail_url": "https://i4.ytimg.com/vi/ouKaviTbXa8/hqdefault.jpg",
-      "published_at": "2026-09-15T03:17:32+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qAXqBO2KwU4",
-      "title": "클래리티법 표결 앞두고 장 초반 상승, 대중의 기대 반영될까? | 서동주, 김동환, 함지현 블록미디어 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=qAXqBO2KwU4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qAXqBO2KwU4/hqdefault.jpg",
-      "published_at": "2026-09-15T02:52:43+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "ZFbRx3xPCQ0",
       "title": "[LIVE] AI시대 오픈북 테스트가 되어버린 지금 이것만이라도 꼭 알고 투자해야합니다",
       "source_url": "https://www.youtube.com/watch?v=ZFbRx3xPCQ0",
@@ -1162,7 +1162,7 @@
     },
     {
       "video_id": "pa8xBVl7R4o",
-      "title": "결국 반도체 황제주가 된다, '진짜 1등 주식' 죽어라 사세요 (슈퍼개미 이정윤 세무사 풀버전)",
+      "title": "10월 증시 대격변 시작된다, 숨도 쉬지 말고 '이 주식' 사세요 (슈퍼개미 이정윤 세무사 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=pa8xBVl7R4o",
       "thumbnail_url": "https://i1.ytimg.com/vi/pa8xBVl7R4o/hqdefault.jpg",
       "published_at": "2026-09-13T04:45:03+00:00",

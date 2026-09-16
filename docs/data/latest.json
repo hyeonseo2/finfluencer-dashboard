@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T19:54:47.438250+00:00",
+  "generated_at": "2026-09-16T22:46:25.507734+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "mAI2llpYH5Q",
+      "title": "연준, 3년 만에 금리인상…워시 \"인플레이션이 너무 오랫동안 높다\" [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=mAI2llpYH5Q",
+      "thumbnail_url": "https://i2.ytimg.com/vi/mAI2llpYH5Q/hqdefault.jpg",
+      "published_at": "2026-09-16T22:00:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "QnWU3_Gh1lo",
+      "title": "[속보효] 9월 FOMC 리뷰 - 당신들이 심각하게 착각하고 있는 것들",
+      "source_url": "https://www.youtube.com/watch?v=QnWU3_Gh1lo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QnWU3_Gh1lo/hqdefault.jpg",
+      "published_at": "2026-09-16T21:58:22+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "l8puPRjHa9E",
+      "title": "미국 기준금리 0.25%p 인상, 3년 만에 긴축…워시, 트럼프 맞서 | \"SK하닉, 미국서 메모리 생산 논의 중\" | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=l8puPRjHa9E",
+      "thumbnail_url": "https://i1.ytimg.com/vi/l8puPRjHa9E/hqdefault.jpg",
+      "published_at": "2026-09-16T20:26:20+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "bxVHDMXt4qM",
       "title": "시장의 '뉴노멀'이 바뀐다…고금리·고유가에 맞춰 투자 기준도 바꿀 때ㅣ명민준, 박가영, 송재경 [주린이 구조대]",
@@ -610,64 +667,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "C-JbE3mFuXs",
-      "title": "[26.09.16 오전 방송 전체보기] 치솟는 금리·유가 속 뉴욕증시 하락 마감...반도체주 소폭 '반등'",
-      "source_url": "https://www.youtube.com/watch?v=C-JbE3mFuXs",
-      "thumbnail_url": "https://i4.ytimg.com/vi/C-JbE3mFuXs/hqdefault.jpg",
-      "published_at": "2026-09-16T03:21:43+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "oNXlNpeVYtc",
-      "title": "'클래리티 법안 부결' 사실 예정된 일? 클래리티 부결이 낳은 비트코인 전망 | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=oNXlNpeVYtc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/oNXlNpeVYtc/hqdefault.jpg",
-      "published_at": "2026-09-16T02:46:08+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
           "stance": "neutral"
         },
         {
@@ -1378,25 +1377,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ev79s2IN_H4",
-      "title": "[모닝효] 9월 금리인상이 확정된 날, 시장이 찍어준 종목 2개 | AI시대 투자에 대해서...",
-      "source_url": "https://www.youtube.com/watch?v=ev79s2IN_H4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ev79s2IN_H4/hqdefault.jpg",
-      "published_at": "2026-09-11T23:24:34+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

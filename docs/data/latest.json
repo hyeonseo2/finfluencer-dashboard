@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T21:59:22.509950+00:00",
+  "generated_at": "2026-09-18T00:06:56.368543+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -58,28 +58,104 @@
   ],
   "videos": [
     {
-      "video_id": "yN4U74ydKHc",
-      "title": "금리·유가 하락 속 뉴욕증시 3대지수 '반등'...기술주 중심 강세 뚜렷_26.09.18 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=yN4U74ydKHc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yN4U74ydKHc/hqdefault.jpg",
-      "published_at": "2026-09-17T20:30:27+00:00",
+      "video_id": "-j2sAjRFKhY",
+      "title": "경영권 살 때 의무공개매수 '50%+1주’…개미도 경영권 프리미엄 | AI 붐 올라탄 두산 | 한화시스템 '대공망 UAE 수출' 임박 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=-j2sAjRFKhY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-j2sAjRFKhY/hqdefault.jpg",
+      "published_at": "2026-09-17T23:23:13+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "stocks",
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "xt2yEr54soI",
+      "title": "금리인상, 시장은 버텼다…9월 시장의 진짜 변수는? | 이선엽 AFW파트너스 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=xt2yEr54soI",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xt2yEr54soI/hqdefault.jpg",
+      "published_at": "2026-09-17T23:00:59+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
         "commodities",
         "interest_rate"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
         },
         {
           "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "r5pOD_4azRY",
+      "title": "미국 10년물 국채 금리 하락…반도체 등 AI H/W 섹터 강세 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=r5pOD_4azRY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/r5pOD_4azRY/hqdefault.jpg",
+      "published_at": "2026-09-17T22:06:09+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "pEyMXFhFKHg",
+      "title": "쏟아지는 뉴스 속에서 일반인이 알아차려야 할 신호는?| 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
+      "source_url": "https://www.youtube.com/shorts/pEyMXFhFKHg",
+      "thumbnail_url": "https://i1.ytimg.com/vi/pEyMXFhFKHg/hqdefault.jpg",
+      "published_at": "2026-09-17T22:00:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "yN4U74ydKHc",
+      "title": "[9월 18일 개장시황] 빈센트, 정프로, 하창완, 편다송, 박성봉 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=yN4U74ydKHc",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yN4U74ydKHc/hqdefault.jpg",
+      "published_at": "2026-09-17T20:30:27+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -332,7 +408,7 @@
     },
     {
       "video_id": "fSS8qGO6iRk",
-      "title": "태국 한국 호위함 전격 협상. 중국 전역 초비상 걸렸다 | 김민석 특파원 2부",
+      "title": "한국 핵잠수함 전격 돌입. 중국 북한 초비상 걸렸다 | 김민석 특파원 2부",
       "source_url": "https://www.youtube.com/watch?v=fSS8qGO6iRk",
       "thumbnail_url": "https://i3.ytimg.com/vi/fSS8qGO6iRk/hqdefault.jpg",
       "published_at": "2026-09-17T09:30:19+00:00",
@@ -601,107 +677,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "yOAByPHZ5Y4",
-      "title": "단순한 금융 허브를 넘어 월가가 싱가포르를 주목하는 진짜 이유 | 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=yOAByPHZ5Y4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yOAByPHZ5Y4/hqdefault.jpg",
-      "published_at": "2026-09-17T03:30:23+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "l8puPRjHa9E",
-      "title": "[26.09.17 오전 방송 전체보기] 기준금리 25bp 인상 속 뉴욕증시 하락 마감...연내 추가 금리인상 시사",
-      "source_url": "https://www.youtube.com/watch?v=l8puPRjHa9E",
-      "thumbnail_url": "https://i1.ytimg.com/vi/l8puPRjHa9E/hqdefault.jpg",
-      "published_at": "2026-09-17T03:21:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Iahk-uvfDsw",
-      "title": "FOMC 기준금리 25bp 인상, 증시는 흔들렸지만 비트코인은 견고했다 | 서동주, 김동환, 박현영 뉴스1 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=Iahk-uvfDsw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Iahk-uvfDsw/hqdefault.jpg",
-      "published_at": "2026-09-17T02:54:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "crypto",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "SxckcM6_jSk",
-      "title": "매크로 변수 넘치는 요즘 같은 시기에 담아야 하는 ETF? | 박현지, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=SxckcM6_jSk",
-      "thumbnail_url": "https://i4.ytimg.com/vi/SxckcM6_jSk/hqdefault.jpg",
-      "published_at": "2026-09-17T02:16:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "QnWU3_Gh1lo",

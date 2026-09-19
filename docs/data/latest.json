@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T10:36:15.325691+00:00",
+  "generated_at": "2026-09-19T14:14:06.974611+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "wltNCTeehO0",
+      "title": "진짜 부자들은 '이곳'에 돈 씁니다, 모르면 10년 뒤 벼락 거지 된다 (김용섭 소장)",
+      "source_url": "https://www.youtube.com/watch?v=wltNCTeehO0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wltNCTeehO0/hqdefault.jpg",
+      "published_at": "2026-09-19T11:00:33+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "93iH1jbSiPw",
       "title": "821조원, 역대 최대 국가 예산 발표",
@@ -1280,25 +1299,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QYp7Hhqyfzk",
-      "title": "아파트 아무거나 사면 큰일난다, 결국 '이 아파트만' 폭등합니다 (빠숑 김학렬 소장)",
-      "source_url": "https://www.youtube.com/watch?v=QYp7Hhqyfzk",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QYp7Hhqyfzk/hqdefault.jpg",
-      "published_at": "2026-09-16T10:00:37+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Y0_8xWvKrjM",

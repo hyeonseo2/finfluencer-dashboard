@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T18:07:55.760493+00:00",
+  "generated_at": "2026-09-20T21:19:02.236570+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,40 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ZnSm4IcOLh8",
+      "title": "국채금리 상승에도 반도체주 랠리...뉴욕증시 상승 마감_26.09.21 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=ZnSm4IcOLh8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZnSm4IcOLh8/hqdefault.jpg",
+      "published_at": "2026-09-20T20:27:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "52AGM7vy73s",
       "title": "미중 정상회담 핵심 체크포인트 #미중정상회담 #트럼프 #시진핑",
@@ -900,30 +934,6 @@
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "eyKaARHmvgc",
-      "title": "반도체가 다시 끌어올린 코스피, 지금은 '빨리 오르는 게' 오히려 문제ㅣ명민준, 여도은, 황유현 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=eyKaARHmvgc",
-      "thumbnail_url": "https://i2.ytimg.com/vi/eyKaARHmvgc/hqdefault.jpg",
-      "published_at": "2026-09-18T12:30:22+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"

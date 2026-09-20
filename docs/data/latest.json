@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T21:19:02.236570+00:00",
+  "generated_at": "2026-09-20T23:58:56.441300+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,17 +57,72 @@
   ],
   "videos": [
     {
-      "video_id": "ZnSm4IcOLh8",
-      "title": "국채금리 상승에도 반도체주 랠리...뉴욕증시 상승 마감_26.09.21 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=ZnSm4IcOLh8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/ZnSm4IcOLh8/hqdefault.jpg",
-      "published_at": "2026-09-20T20:27:03+00:00",
+      "video_id": "lRAivLFl7H4",
+      "title": "[전략효] 9월 21일 아침 시황 정리 및 미중 정상회담 투자 포인트",
+      "source_url": "https://www.youtube.com/watch?v=lRAivLFl7H4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lRAivLFl7H4/hqdefault.jpg",
+      "published_at": "2026-09-20T23:51:52+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NNfex-Rf6AA",
+      "title": "중간선거 앞둔 트럼프 좌충우돌…직접 공항 가서 시진핑 환대한다 | 개발속도 함께 늦추는건 담합…미국 AI기업 4곳 고소당했다 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=NNfex-Rf6AA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NNfex-Rf6AA/hqdefault.jpg",
+      "published_at": "2026-09-20T23:22:26+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "5XtQTAd9qQg",
+      "title": "AI 속도조절론, 메모리 수요에 영향 줄까? 핵심은 가격 | 김장열 유니스토리자산운용 리서치센터 센터장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=5XtQTAd9qQg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5XtQTAd9qQg/hqdefault.jpg",
+      "published_at": "2026-09-20T22:49:26+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Zy9s5cLNt-I",
+      "title": "뉴욕증시, 만기일 긍정적 변동성...반도체·암호화폐 등 강세 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=Zy9s5cLNt-I",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Zy9s5cLNt-I/hqdefault.jpg",
+      "published_at": "2026-09-20T22:03:49+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
-        "commodities",
-        "interest_rate",
-        "bonds"
+        "crypto"
       ],
       "topic_stances": [
         {
@@ -75,15 +130,26 @@
           "stance": "neutral"
         },
         {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ZnSm4IcOLh8",
+      "title": "[9월 21일 개장시황] 빈센트, 정프로, 이지은, 손수연, 편다송, 이권희 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=ZnSm4IcOLh8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/ZnSm4IcOLh8/hqdefault.jpg",
+      "published_at": "2026-09-20T20:27:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
           "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -582,7 +648,7 @@
     },
     {
       "video_id": "7oa1Mvo6J2U",
-      "title": "\"한국이 어떻게 하는지 봐라\" 일본인들이 폭발한 충격 이유 | 나나세 3부",
+      "title": "\"한국 좀 봐라\" 애플에 배신당한 일본인들 일본이 삼성으로 갈아탄 이유 | 나나세 3부",
       "source_url": "https://www.youtube.com/watch?v=7oa1Mvo6J2U",
       "thumbnail_url": "https://i4.ytimg.com/vi/7oa1Mvo6J2U/hqdefault.jpg",
       "published_at": "2026-09-19T08:00:23+00:00",
@@ -886,63 +952,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "dGOxavRF2mI",
-      "title": "1조 수주해도 이거 없으면 배 못 만듭니다",
-      "source_url": "https://www.youtube.com/shorts/dGOxavRF2mI",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dGOxavRF2mI/hqdefault.jpg",
-      "published_at": "2026-09-18T23:00:22+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QkOCO23OXrM",
-      "title": "북극항로 출발점, 왜 부산이 주목받을까?",
-      "source_url": "https://www.youtube.com/shorts/QkOCO23OXrM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QkOCO23OXrM/hqdefault.jpg",
-      "published_at": "2026-09-18T23:00:16+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qy0gc9WjNZE",
-      "title": "\"AI 거품론 쏙 들어갈 것\" 차영주 소장이 말하는 AI 산업 사이클 진화와 미래 주도주 총정리ㅣ명민준, 여도은, 차영주 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=qy0gc9WjNZE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qy0gc9WjNZE/hqdefault.jpg",
-      "published_at": "2026-09-18T13:30:17+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "x65FxA3UZ6o",
       "title": "\"지금이라도 사야 하나?\" 기로에 선 일본 청년들",
       "source_url": "https://www.youtube.com/watch?v=x65FxA3UZ6o",
@@ -1030,7 +1039,7 @@
     },
     {
       "video_id": "jgv3trhy2UI",
-      "title": "\"천궁2 팔아라\" 트럼프의 충격 발언 곧 한국에 엄청난 일 생긴다 | 김대영 군사평론가 2부",
+      "title": "한국 6세대 전투기 전격 발표 미국 발칵 뒤집힌 이유 | 김대영 군사평론가 2부",
       "source_url": "https://www.youtube.com/watch?v=jgv3trhy2UI",
       "thumbnail_url": "https://i3.ytimg.com/vi/jgv3trhy2UI/hqdefault.jpg",
       "published_at": "2026-09-18T10:30:10+00:00",
@@ -1154,7 +1163,7 @@
     },
     {
       "video_id": "Tg_gcB_FWfs",
-      "title": "[LIVE] 그냥 다 알려드립니다 NEW 수혜주 한방에 끝내는 총정리",
+      "title": "[LIVE] 오늘 저녁 6시, 여러분이 궁금해하시는 돈 되는 AI 수혜주에 대해서 끝장을 내보겠습니다.",
       "source_url": "https://www.youtube.com/watch?v=Tg_gcB_FWfs",
       "thumbnail_url": "https://i1.ytimg.com/vi/Tg_gcB_FWfs/hqdefault.jpg",
       "published_at": "2026-09-18T04:51:46+00:00",
@@ -1313,30 +1322,6 @@
         },
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "m5QHI7AS9zE",
-      "title": "9월 FOMC, 금리 인상은 사실상 끝난 얘기입니다. 회의 결과 대신 점도표의 점 하나를 보라고 한 이유가 있었습니다 [Z1 뉴스 - 1부]",
-      "source_url": "https://www.youtube.com/watch?v=m5QHI7AS9zE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/m5QHI7AS9zE/hqdefault.jpg",
-      "published_at": "2026-09-16T12:00:16+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T16:53:54.040285+00:00",
+  "generated_at": "2026-09-21T20:54:12.887404+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "hqWVas4kYn8",
+      "title": "AI관련주 급등 속 뉴욕증시 상승 마감...나스닥 '사상 최고치'_26.09.22 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=hqWVas4kYn8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hqWVas4kYn8/hqdefault.jpg",
+      "published_at": "2026-09-21T20:21:59+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "GB-xHNnToUs",
       "title": "드러켄밀러 포트폴리오에서 찾은 힌트…지금 '한 방향 베팅'이 위험한 이유ㅣ명민준, 서수진, 송재경 [주린이 구조대]",
@@ -552,25 +576,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Amf6hIBJkSw",
-      "title": "\"수급 걱정되죠?\"어차피 미친듯이 몰려온다 | 이권희 위즈웨이브 대표 [더블 업]",
-      "source_url": "https://www.youtube.com/watch?v=Amf6hIBJkSw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Amf6hIBJkSw/hqdefault.jpg",
-      "published_at": "2026-09-21T01:53:40+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

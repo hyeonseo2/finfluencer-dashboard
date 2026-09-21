@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T20:54:12.887404+00:00",
+  "generated_at": "2026-09-21T23:57:06.503058+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -52,29 +52,99 @@
     "fx",
     "interest_rate",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
     {
-      "video_id": "hqWVas4kYn8",
-      "title": "AI관련주 급등 속 뉴욕증시 상승 마감...나스닥 '사상 최고치'_26.09.22 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=hqWVas4kYn8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hqWVas4kYn8/hqdefault.jpg",
-      "published_at": "2026-09-21T20:21:59+00:00",
-      "channel_name": "삼프로TV 3PROTV",
+      "video_id": "k4gT2j4O-aM",
+      "title": "[모닝효] 매크로가 말썽만 안 부리면! AI 주식 날았다. 나스닥 사상최고치",
+      "source_url": "https://www.youtube.com/watch?v=k4gT2j4O-aM",
+      "thumbnail_url": "https://i4.ytimg.com/vi/k4gT2j4O-aM/hqdefault.jpg",
+      "published_at": "2026-09-21T23:41:59+00:00",
+      "channel_name": "이효석아카데미",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
           "stance": "neutral"
-        },
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zaBS4F3PjVs",
+      "title": "젠슨 황 \"AI로 인류멸망 가능성 0\"…삼성전자 파운드리 생산능력 확대 | 미국차 업계 \"중국차 공장 허용 말라\" | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=zaBS4F3PjVs",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zaBS4F3PjVs/hqdefault.jpg",
+      "published_at": "2026-09-21T23:24:52+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "fG3Thzxdz50",
+      "title": "고점 부담 커진 증시, 7:3 원칙으로 대응할 때? 10월 증시 '이것' 보세요 | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=fG3Thzxdz50",
+      "thumbnail_url": "https://i3.ytimg.com/vi/fG3Thzxdz50/hqdefault.jpg",
+      "published_at": "2026-09-21T22:48:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Q0efG3V5UCg",
+      "title": "메타 Muse 효과에 CPU 등 AI 섹터 급등...AMD, 시가총액 1조 달러 돌파 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=Q0efG3V5UCg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Q0efG3V5UCg/hqdefault.jpg",
+      "published_at": "2026-09-21T22:02:13+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "hqWVas4kYn8",
+      "title": "[9월 22일 개장시황] 빈센트, 정프로, 이주연, 김민수, 편다송, 백인재 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=hqWVas4kYn8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hqWVas4kYn8/hqdefault.jpg",
+      "published_at": "2026-09-21T20:21:59+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -509,73 +579,6 @@
         },
         {
           "topic": "bonds",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "7SKiBfq8bdc",
-      "title": "클래리티 법안 막혀도 혁신은 계속된다? 돌아온 사이퍼펑크 정신 | 서동주, 김동환, 김남웅 포필러스 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=7SKiBfq8bdc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/7SKiBfq8bdc/hqdefault.jpg",
-      "published_at": "2026-09-21T03:17:10+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "AU349QYVmLg",
-      "title": "규제 공백과 금리 변수의 연속, CFTC•SEC 클래리티 공백 메울 수 있을까? | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=AU349QYVmLg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/AU349QYVmLg/hqdefault.jpg",
-      "published_at": "2026-09-21T02:56:05+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate",
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "T1jNZMxmvnI",
-      "title": "미중 정상회담 임박! 반도체, 이차전지 등 국내 기업들에 미칠 영향은? | 소진웅, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=T1jNZMxmvnI",
-      "thumbnail_url": "https://i1.ytimg.com/vi/T1jNZMxmvnI/hqdefault.jpg",
-      "published_at": "2026-09-21T02:23:32+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1343,30 +1346,6 @@
         },
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "m5QHI7AS9zE",
-      "title": "9월 FOMC, 금리 인상은 사실상 끝난 얘기입니다. 회의 결과 대신 점도표의 점 하나를 보라고 한 이유가 있었습니다 [Z1 뉴스 - 1부]",
-      "source_url": "https://www.youtube.com/watch?v=m5QHI7AS9zE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/m5QHI7AS9zE/hqdefault.jpg",
-      "published_at": "2026-09-16T12:00:16+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

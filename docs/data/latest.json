@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T18:38:26.946765+00:00",
+  "generated_at": "2026-09-22T21:53:32.110104+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "NQKU00EJyN0",
+      "title": "미·이란 만났다! 국제유가 하락 속 나스닥 또 '사상 최고'_26.09.23 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=NQKU00EJyN0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NQKU00EJyN0/hqdefault.jpg",
+      "published_at": "2026-09-22T20:23:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "rKS4pq4uaiY",
       "title": "광고로 먹고살던 메타가 돈을 벌기 시작하면 무슨 일이 생기나? AI에서 수익이 도는 순서가 이제야 보이기 시작했습니다 [Z1 뉴스 - 1부]",
@@ -584,25 +608,6 @@
         },
         {
           "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hqWVas4kYn8",
-      "title": "[26.09.22 오전 방송 전체보기] AI관련주 급등 속 뉴욕증시 상승 마감...나스닥 '사상 최고치'",
-      "source_url": "https://www.youtube.com/watch?v=hqWVas4kYn8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hqWVas4kYn8/hqdefault.jpg",
-      "published_at": "2026-09-22T03:14:51+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

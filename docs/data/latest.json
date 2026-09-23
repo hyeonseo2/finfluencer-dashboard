@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T20:02:30.137355+00:00",
+  "generated_at": "2026-09-23T23:29:23.624865+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "wb7AhP1iyW0",
+      "title": "추석 연휴 주식 기초 강의 모음 zip 무한 반복 재생. 이것만 봐도 주식 초보 탈출",
+      "source_url": "https://www.youtube.com/watch?v=wb7AhP1iyW0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wb7AhP1iyW0/hqdefault.jpg",
+      "published_at": "2026-09-23T23:23:31+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "avepNAzf1tY",
+      "title": "지금 주식에 올인하지 않는 이유…‘진짜 기회’는?ㅣ장우진 금시공 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=avepNAzf1tY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/avepNAzf1tY/hqdefault.jpg",
+      "published_at": "2026-09-23T23:00:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Z6Qae1B4Dv0",
       "title": "[모닝효LIVE] 9월 24일 미국 시황 분석 | 다시보기X",
@@ -657,25 +700,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "5RThgRXxUEw",
-      "title": "10월, 반도체가 움직인다...삼성·SK·소부장 동반 반등 기대 | 여도은, 허재무, 박지훈 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=5RThgRXxUEw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5RThgRXxUEw/hqdefault.jpg",
-      "published_at": "2026-09-23T02:23:25+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "PA-JI5GXm4g",
       "title": "\"메타가 투자 멈추면 망하는 건데\"...저커버그가 수수료로 방향을 선회한 충격적인 이유",
       "source_url": "https://www.youtube.com/watch?v=PA-JI5GXm4g",
@@ -774,25 +798,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wb7AhP1iyW0",
-      "title": "추석 연휴 주식 기초 강의 모음 zip 무한 반복 재생. 이것만 봐도 주식 초보 탈출",
-      "source_url": "https://www.youtube.com/watch?v=wb7AhP1iyW0",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wb7AhP1iyW0/hqdefault.jpg",
-      "published_at": "2026-09-22T10:23:40+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "VXtp9HEqrx0",

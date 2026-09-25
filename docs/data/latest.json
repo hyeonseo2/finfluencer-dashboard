@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T13:27:12.653239+00:00",
+  "generated_at": "2026-09-25T18:21:46.859422+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
   ],
   "videos": [
     {
+      "video_id": "14eXWET5JWM",
+      "title": "제발 지금까지 경제는 잊으세요! 저도 처음 보는 경제가 오고 있습니다.",
+      "source_url": "https://www.youtube.com/watch?v=14eXWET5JWM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/14eXWET5JWM/hqdefault.jpg",
+      "published_at": "2026-09-25T15:28:02+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "nOdLfDOAMvg",
       "title": "왜 미국인들은 집에서 신발을 신을까?",
       "source_url": "https://www.youtube.com/watch?v=nOdLfDOAMvg",
@@ -75,7 +94,7 @@
     },
     {
       "video_id": "vC49DyvGLAU",
-      "title": "\"팔고 싶은 주식이 없어요\" 추석 이후 하반기 투자전략 (박세익 전무, 김학균 센터장, 소현철 박사)",
+      "title": "미국 주식, 한국 주식, 현금..하반기 셋 중 뭘 들고 가야 할까 (박세익 전무, 김학균 센터장, 소현철 박사)",
       "source_url": "https://www.youtube.com/watch?v=vC49DyvGLAU",
       "thumbnail_url": "https://i3.ytimg.com/vi/vC49DyvGLAU/hqdefault.jpg",
       "published_at": "2026-09-25T10:57:16+00:00",
@@ -1339,25 +1358,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-NbdYl8HPOg",
-      "title": "\"에이전트 AI 시대의 중심은 이것\"...D램 다음 병목이 어디로 가는지 3시간 30분 동안 끝장 토론 한 결과를 알려드립니다",
-      "source_url": "https://www.youtube.com/watch?v=-NbdYl8HPOg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-NbdYl8HPOg/hqdefault.jpg",
-      "published_at": "2026-09-22T06:56:39+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "amKJfvXQ6E4",

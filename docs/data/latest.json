@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T07:24:05.302915+00:00",
+  "generated_at": "2026-09-25T13:27:12.653239+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -47,15 +47,132 @@
   "topics": [
     "bonds",
     "commodities",
-    "crypto",
     "etf",
-    "fx",
     "interest_rate",
     "macro",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "nOdLfDOAMvg",
+      "title": "왜 미국인들은 집에서 신발을 신을까?",
+      "source_url": "https://www.youtube.com/watch?v=nOdLfDOAMvg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nOdLfDOAMvg/hqdefault.jpg",
+      "published_at": "2026-09-25T11:03:16+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "vC49DyvGLAU",
+      "title": "\"팔고 싶은 주식이 없어요\" 추석 이후 하반기 투자전략 (박세익 전무, 김학균 센터장, 소현철 박사)",
+      "source_url": "https://www.youtube.com/watch?v=vC49DyvGLAU",
+      "thumbnail_url": "https://i3.ytimg.com/vi/vC49DyvGLAU/hqdefault.jpg",
+      "published_at": "2026-09-25T10:57:16+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "5Zv2aTEY5ow",
+      "title": "성매매로 발칵 뒤집힌 일본 일본 여자들 난리난 진짜 이유 | 나리카와 아야 기자 2부",
+      "source_url": "https://www.youtube.com/watch?v=5Zv2aTEY5ow",
+      "thumbnail_url": "https://i2.ytimg.com/vi/5Zv2aTEY5ow/hqdefault.jpg",
+      "published_at": "2026-09-25T10:00:30+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "CTB5U9TZubQ",
+      "title": "1000년 만에 부자될 기회 왔다, '이 1가지' 모르면 평생 후회한다 (박정호 교수)",
+      "source_url": "https://www.youtube.com/watch?v=CTB5U9TZubQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CTB5U9TZubQ/hqdefault.jpg",
+      "published_at": "2026-09-25T09:30:04+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "sozcBbtoSGk",
+      "title": "북한 장마당에 싹다 퍼졌다. 한국에 대한 충격 소문｜강민국 1부",
+      "source_url": "https://www.youtube.com/watch?v=sozcBbtoSGk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/sozcBbtoSGk/hqdefault.jpg",
+      "published_at": "2026-09-25T08:00:37+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "oLIvYBO5whQ",
+      "title": "버틸 것인가 담을 것인가, 개장 전 봐야 할 한 가지 (박세익 전무, 김학균 센터장)",
+      "source_url": "https://www.youtube.com/watch?v=oLIvYBO5whQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/oLIvYBO5whQ/hqdefault.jpg",
+      "published_at": "2026-09-25T07:59:26+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "tfEtMqqbi4c",
       "title": "어디는 투자! 어디는 반대.. AI로 시끄러운 미국 | 김프로의 세계여행 MONOPOLY",
@@ -77,7 +194,7 @@
     },
     {
       "video_id": "niU4xvDszd0",
-      "title": "외국인 삼성전자 쓸어담고 있다, SK하이닉스 계속 파는 진짜 이유 (김동엽 대표)",
+      "title": "삼성전자 조짐 심상치 않아요, 6일 뒤 상상 못할 일 터진다 (김동엽 대표)",
       "source_url": "https://www.youtube.com/watch?v=niU4xvDszd0",
       "thumbnail_url": "https://i3.ytimg.com/vi/niU4xvDszd0/hqdefault.jpg",
       "published_at": "2026-09-25T06:15:34+00:00",
@@ -96,7 +213,7 @@
     },
     {
       "video_id": "dwrJcuWVh8U",
-      "title": "\"76~57년생 필수 시청\" 5년 납입하고 평생 받아요. 5060을 위한 초고속 연금 떴습니다 | 김정남 본부장 풀버전",
+      "title": "\"현금 1억 있다면 이걸 사라\" 100년에 한번 오는 기회입니다. 거대한 부의 갈림길 옵니다 | 김정남 본부장 풀버전",
       "source_url": "https://www.youtube.com/watch?v=dwrJcuWVh8U",
       "thumbnail_url": "https://i1.ytimg.com/vi/dwrJcuWVh8U/hqdefault.jpg",
       "published_at": "2026-09-25T06:00:24+00:00",
@@ -253,7 +370,7 @@
     },
     {
       "video_id": "avtqvUjq6dc",
-      "title": "\"월 500씩 배당 나와요\" 단 2개 ETF만 있으면 평생 배당으로 놀고 먹을 수 있습니다 | 제도권주식분석 최기원 작가 1부 #돈쭐남 #김경필",
+      "title": "\"매달 100만원이면 됩니다\" 5060을 위한 고배당 ETF 공개. 22억까지 무섭게 불어납니다 | 제도권주식분석 최기원 작가 1부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=avtqvUjq6dc",
       "thumbnail_url": "https://i2.ytimg.com/vi/avtqvUjq6dc/hqdefault.jpg",
       "published_at": "2026-09-25T02:00:30+00:00",
@@ -819,25 +936,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "-HxVViG_0ZQ",
-      "title": "삼성전자 지금이 마지막 기회다 안팔면 결국 '이렇게' 됩니다 | 빈센트 위원 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=-HxVViG_0ZQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-HxVViG_0ZQ/hqdefault.jpg",
-      "published_at": "2026-09-24T00:00:02+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "avepNAzf1tY",
       "title": "지금 주식에 올인하지 않는 이유…‘진짜 기회’는?ㅣ장우진 금시공 대표 [주말인터뷰]",
       "source_url": "https://www.youtube.com/watch?v=avepNAzf1tY",
@@ -1029,42 +1127,18 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "1Uj09rvdHtQ",
-      "title": "\"한국 4만 달러 시대\" 초강대국 된 한국에 충격 일본 완전 미칠지경이다 | 나리카와 아야 기자 1부",
-      "source_url": "https://www.youtube.com/watch?v=1Uj09rvdHtQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1Uj09rvdHtQ/hqdefault.jpg",
-      "published_at": "2026-09-23T10:30:11+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "x2QT8jM4_LY",
-      "title": "삼성전자 지금 절대 팔지마세요, 버티기만 하면 상상초월 터진다 (박세익 대표)",
+      "title": "삼성전자 10월에 '이렇게' 된다, 본전 된다고 절대 팔지마세요 (박세익 대표)",
       "source_url": "https://www.youtube.com/watch?v=x2QT8jM4_LY",
       "thumbnail_url": "https://i1.ytimg.com/vi/x2QT8jM4_LY/hqdefault.jpg",
       "published_at": "2026-09-23T10:15:22+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
-        "commodities"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1173,17 +1247,17 @@
     },
     {
       "video_id": "4PwpMUr5oLw",
-      "title": "비트코인 10월 랠리를 기다리며 관망하던 사람들 앞에서 가격이 먼저 움직이기 시작했습니다 [Z1 뉴스 - 2부]",
+      "title": "해마다 이맘때면 나오던 계절 랠리 이야기가 올해는 1월 이후 최고가와 함께 왔습니다. 예년과 결정적으로 달라진 재료가 하나 있습니다 [Z1 뉴스 - 2부]",
       "source_url": "https://www.youtube.com/watch?v=4PwpMUr5oLw",
       "thumbnail_url": "https://i1.ytimg.com/vi/4PwpMUr5oLw/hqdefault.jpg",
       "published_at": "2026-09-23T04:00:10+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "crypto"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "crypto",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1267,25 +1341,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "zVwhhhb7Ek0",
-      "title": "10월부터 주식 정말 많이 사세요, '이때부터' 엄청난 강세장 펼쳐진다 (박세익 대표)",
-      "source_url": "https://www.youtube.com/watch?v=zVwhhhb7Ek0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zVwhhhb7Ek0/hqdefault.jpg",
-      "published_at": "2026-09-22T09:38:26+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "-NbdYl8HPOg",
       "title": "\"에이전트 AI 시대의 중심은 이것\"...D램 다음 병목이 어디로 가는지 3시간 30분 동안 끝장 토론 한 결과를 알려드립니다",
       "source_url": "https://www.youtube.com/watch?v=-NbdYl8HPOg",
@@ -1322,44 +1377,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ddQ0jqGj2oY",
-      "title": "부자가 남몰래 쌓아가는 '이것', 직장인이 부자되는 확실한 방법 (터보832)",
-      "source_url": "https://www.youtube.com/watch?v=ddQ0jqGj2oY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/ddQ0jqGj2oY/hqdefault.jpg",
-      "published_at": "2026-09-21T11:30:10+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "DW8303_Fv74",
-      "title": "부자들이 돈이 많아도 공허한 이유, 돈으로 절대 못 사는 부자의 비밀 (터보832)",
-      "source_url": "https://www.youtube.com/watch?v=DW8303_Fv74",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DW8303_Fv74/hqdefault.jpg",
-      "published_at": "2026-09-21T10:30:15+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "XT11yoScLBA",
@@ -1462,25 +1479,6 @@
       "source_url": "https://www.youtube.com/watch?v=q836AS_27GE",
       "thumbnail_url": "https://i2.ytimg.com/vi/q836AS_27GE/hqdefault.jpg",
       "published_at": "2026-09-15T10:11:11+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IR9mLZlMZVo",
-      "title": "아이폰 최초 폴더블폰, 509만원 살만할까?",
-      "source_url": "https://www.youtube.com/watch?v=IR9mLZlMZVo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IR9mLZlMZVo/hqdefault.jpg",
-      "published_at": "2026-09-14T10:20:50+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

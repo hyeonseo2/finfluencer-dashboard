@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T13:43:53.882512+00:00",
+  "generated_at": "2026-09-27T18:10:04.687231+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,25 @@
   ],
   "videos": [
     {
+      "video_id": "kfFKLfgepEI",
+      "title": "[주말효] AI vs. 매크로 | 전체 내용은 '꼭' 댓글을 확인하세요",
+      "source_url": "https://www.youtube.com/watch?v=kfFKLfgepEI",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kfFKLfgepEI/hqdefault.jpg",
+      "published_at": "2026-09-27T13:41:00+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "w-7dehkzkSE",
       "title": "삼성전자, SK하이닉스 다음 폭발할 주도주, 숨도 안 쉬고 무섭게 오른다 (김광석 교수)",
       "source_url": "https://www.youtube.com/watch?v=w-7dehkzkSE",
@@ -76,27 +95,8 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "okUfNb7S6Fc",
-      "title": "[슈카월드] 트럼프-시진핑 정상회담 그 결과는? / 커지는 장기 전세 갈등/ 50조원을 털린 개미들 / 30만 명이 몰린 부산 상어 근황 / 메타 새로운 AI, 뮤즈 발표",
-      "source_url": "https://www.youtube.com/watch?v=okUfNb7S6Fc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/okUfNb7S6Fc/hqdefault.jpg",
-      "published_at": "2026-09-27T11:21:37+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "t8gPVqExfSQ",
-      "title": "내일 장 열리기 전에 봐야 할 10월 포트폴리오 총정리 (박세익 전무, 김학균 센터장, 소현철 박사)",
+      "title": "오늘 장 열리기 전에 봐야 할 10월 포트폴리오 총정리 (박세익 전무, 김학균 센터장, 소현철 박사)",
       "source_url": "https://www.youtube.com/watch?v=t8gPVqExfSQ",
       "thumbnail_url": "https://i1.ytimg.com/vi/t8gPVqExfSQ/hqdefault.jpg",
       "published_at": "2026-09-27T10:49:47+00:00",
@@ -1329,25 +1329,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "uomxBT10tBY",
-      "title": "미국 주식 수익률만 보고 계신다면 절반만 보고 계신 겁니다. 주가가 올라도 손실이 될 수 있는 이유 | 왕초보 탈출 9탄",
-      "source_url": "https://www.youtube.com/watch?v=uomxBT10tBY",
-      "thumbnail_url": "https://i2.ytimg.com/vi/uomxBT10tBY/hqdefault.jpg",
-      "published_at": "2026-09-23T08:00:01+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "TqwwF2cJJgA",
       "title": "Ai 위험론이 사기인 이유",
       "source_url": "https://www.youtube.com/shorts/TqwwF2cJJgA",
@@ -1486,6 +1467,25 @@
       "source_url": "https://www.youtube.com/watch?v=tmYmdAykjuQ",
       "thumbnail_url": "https://i1.ytimg.com/vi/tmYmdAykjuQ/hqdefault.jpg",
       "published_at": "2026-09-16T10:50:18+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "q836AS_27GE",
+      "title": "GPT-6 Astra, 이번에야말로 호들갑 아니다??",
+      "source_url": "https://www.youtube.com/watch?v=q836AS_27GE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/q836AS_27GE/hqdefault.jpg",
+      "published_at": "2026-09-15T10:11:11+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

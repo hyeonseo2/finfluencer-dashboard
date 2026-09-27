@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-26T22:33:24.341363+00:00",
+  "generated_at": "2026-09-27T01:13:15.261433+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -52,10 +52,97 @@
     "fx",
     "interest_rate",
     "macro",
+    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "PGg1ztLS9F4",
+      "title": "\"충격적인 계산! 미국 가계 순자산 60조→170조 달러\"…금리 5%에도 AI 주식으로 흘러갈 돈이 쌓이고 있는 이유",
+      "source_url": "https://www.youtube.com/watch?v=PGg1ztLS9F4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PGg1ztLS9F4/hqdefault.jpg",
+      "published_at": "2026-09-27T00:00:37+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks",
+        "fx",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "_KEnp7Ohz3E",
+      "title": "\"중국 미사일 썼다가 대참사\" 사우디 급 한국 찾은 이유 곧 무시무시한 일 벌어진다 | 김민석 특파원 2부",
+      "source_url": "https://www.youtube.com/watch?v=_KEnp7Ohz3E",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_KEnp7Ohz3E/hqdefault.jpg",
+      "published_at": "2026-09-27T00:00:29+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NYy6DCLFdAM",
+      "title": "\"충격 법안 또 떴다\" 집값 폭락하면 국가가 몰수? 내집마련 꿈 영원히 뺏긴다 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=NYy6DCLFdAM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NYy6DCLFdAM/hqdefault.jpg",
+      "published_at": "2026-09-27T00:00:29+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "mwz0IhjslsE",
+      "title": "추석 이후 증시 어디로? 결정적 변수는... | 이선엽 AFW파트너스 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=mwz0IhjslsE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/mwz0IhjslsE/hqdefault.jpg",
+      "published_at": "2026-09-26T23:00:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "rB9VRw3usOU",
       "title": "코인에 전 재산을 걸었어요, 지금 당장 사야할 코인 3개 (문창훈 대표 풀버전)",
@@ -971,25 +1058,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "ejj5VbBW8QI",
-      "title": "한국 얕봤다가 초비상 이란 급 꼬리내린 진짜 이유 | 김대영 군사평론가 풀버전",
-      "source_url": "https://www.youtube.com/watch?v=ejj5VbBW8QI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ejj5VbBW8QI/hqdefault.jpg",
-      "published_at": "2026-09-24T10:00:36+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "s7cPzKqb65M",
       "title": "트럼프 곁을 떠나지 않는다는 금발의 특별 보좌관 논란",
       "source_url": "https://www.youtube.com/watch?v=s7cPzKqb65M",
@@ -1157,25 +1225,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "WQ0gioaPdpg",
-      "title": "\"이런 보고서는 처음\" 뱅크오브아메리카 충격 경고 떴다. S&P500 10년간추락한다 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=WQ0gioaPdpg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WQ0gioaPdpg/hqdefault.jpg",
-      "published_at": "2026-09-24T00:00:18+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "avepNAzf1tY",
       "title": "지금 주식에 올인하지 않는 이유…‘진짜 기회’는?ㅣ장우진 금시공 대표 [주말인터뷰]",
       "source_url": "https://www.youtube.com/watch?v=avepNAzf1tY",
@@ -1212,25 +1261,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ErXY42MZcKo",
-      "title": "삼전닉스보다 소부장 수익률이 높을까…유창희 대표가 제시한 기업 선별 기준ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=ErXY42MZcKo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/ErXY42MZcKo/hqdefault.jpg",
-      "published_at": "2026-09-23T12:30:26+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1300,25 +1330,6 @@
       "source_url": "https://www.youtube.com/watch?v=4PwpMUr5oLw",
       "thumbnail_url": "https://i1.ytimg.com/vi/4PwpMUr5oLw/hqdefault.jpg",
       "published_at": "2026-09-23T04:00:10+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "PA-JI5GXm4g",
-      "title": "\"메타가 투자 멈추면 망하는 건데\"...저커버그가 수수료로 방향을 선회한 충격적인 이유",
-      "source_url": "https://www.youtube.com/watch?v=PA-JI5GXm4g",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PA-JI5GXm4g/hqdefault.jpg",
-      "published_at": "2026-09-23T01:38:51+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "macro"

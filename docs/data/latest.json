@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T18:10:04.687231+00:00",
+  "generated_at": "2026-09-27T21:55:35.637739+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "dEBBDvcow8s",
+      "title": "유가 하락·금리 상승 속 뉴욕증시 상승 마감...AI·반도체주 강세_26.09.28 | 여도은, 박명석, 성상영 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=dEBBDvcow8s",
+      "thumbnail_url": "https://i1.ytimg.com/vi/dEBBDvcow8s/hqdefault.jpg",
+      "published_at": "2026-09-27T20:41:20+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "kfFKLfgepEI",
       "title": "[주말효] AI vs. 매크로 | 전체 내용은 '꼭' 댓글을 확인하세요",
@@ -1236,25 +1265,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "A1XyqbUAN74",
-      "title": "\"금리 올라도 최고치\" 반도체 어떻게 될까? | 빈센트 하나증권 애널리스트 [빈센트의 체크포인트]",
-      "source_url": "https://www.youtube.com/watch?v=A1XyqbUAN74",
-      "thumbnail_url": "https://i2.ytimg.com/vi/A1XyqbUAN74/hqdefault.jpg",
-      "published_at": "2026-09-24T02:00:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

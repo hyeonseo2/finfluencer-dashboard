@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T15:09:24.642179+00:00",
+  "generated_at": "2026-09-28T21:42:41.770114+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "VO0nNOKlKks",
+      "title": "휴전 불확실성 속 뉴욕증시 하락 마감...엔비디아만 '상승'...왜?_26.09.29 | 여도은, 박명석, 한상희 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=VO0nNOKlKks",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VO0nNOKlKks/hqdefault.jpg",
+      "published_at": "2026-09-28T20:22:57+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Gy9zZfrYwUo",
       "title": "그들이 사는 세상 (주식 버전)",
@@ -623,25 +647,6 @@
       "topic_stances": [
         {
           "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "SX8lyt52wEQ",
-      "title": "세계 5위 거래소 비트겟 추석 빈틈에 털렸다 이용자 자산은 안전할까? | 김동환, 서동주, 박상혁 디지털애셋 편집장 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=SX8lyt52wEQ",
-      "thumbnail_url": "https://i4.ytimg.com/vi/SX8lyt52wEQ/hqdefault.jpg",
-      "published_at": "2026-09-28T03:15:57+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

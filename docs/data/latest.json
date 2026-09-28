@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T21:55:35.637739+00:00",
+  "generated_at": "2026-09-28T00:27:09.849299+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -52,16 +52,103 @@
     "fx",
     "interest_rate",
     "macro",
+    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
     {
-      "video_id": "dEBBDvcow8s",
-      "title": "유가 하락·금리 상승 속 뉴욕증시 상승 마감...AI·반도체주 강세_26.09.28 | 여도은, 박명석, 성상영 [월스트리트 모닝브리핑]",
-      "source_url": "https://www.youtube.com/watch?v=dEBBDvcow8s",
-      "thumbnail_url": "https://i1.ytimg.com/vi/dEBBDvcow8s/hqdefault.jpg",
-      "published_at": "2026-09-27T20:41:20+00:00",
+      "video_id": "giCNupq2uLc",
+      "title": "고금리에도 AI 투자는 계속된다? 반도체·메모리 시장의 변화 | 박병창 MP파트너스 대표 [마켓 인사이드]",
+      "source_url": "https://www.youtube.com/watch?v=giCNupq2uLc",
+      "thumbnail_url": "https://i4.ytimg.com/vi/giCNupq2uLc/hqdefault.jpg",
+      "published_at": "2026-09-28T00:05:30+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Vk6E9VPPmhQ",
+      "title": "[속보효] AI 속도조절론, 아직 안 끝났다?? (feat. OpenAI 쌤알트만)",
+      "source_url": "https://www.youtube.com/watch?v=Vk6E9VPPmhQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Vk6E9VPPmhQ/hqdefault.jpg",
+      "published_at": "2026-09-27T23:40:22+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "_-0MMS4DvpY",
+      "title": "소문난 잔치로 끝난 미중 정상회담…\"300억弗 관세 인하“ | 미국 5년 국채도 5% 고금리의 일상화…그래도 AI는 간다는 월가 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=_-0MMS4DvpY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_-0MMS4DvpY/hqdefault.jpg",
+      "published_at": "2026-09-27T23:17:58+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "policy",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "0pO9IcagUjM",
+      "title": "9월 28일 부티플 오늘의 증시와 이슈",
+      "source_url": "https://www.youtube.com/watch?v=0pO9IcagUjM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0pO9IcagUjM/hqdefault.jpg",
+      "published_at": "2026-09-27T23:04:34+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jgStSQNvJ5I",
+      "title": "높은 금리가 만든 증시 양극화…실적 버티는 섹터만 오른다 | 성상현 ABP자산운용 전무 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=jgStSQNvJ5I",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jgStSQNvJ5I/hqdefault.jpg",
+      "published_at": "2026-09-27T23:01:40+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks",
@@ -79,6 +166,54 @@
         },
         {
           "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "FucMcZ4c6Io",
+      "title": "금리 급등에도 선방한 뉴욕증시...이번주 마이크론 실적 전망은? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=FucMcZ4c6Io",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FucMcZ4c6Io/hqdefault.jpg",
+      "published_at": "2026-09-27T22:03:20+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "dEBBDvcow8s",
+      "title": "[9월 28일 개장시황] 빈센트, 정프로, 이지은, 편다송, 이경수 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=dEBBDvcow8s",
+      "thumbnail_url": "https://i1.ytimg.com/vi/dEBBDvcow8s/hqdefault.jpg",
+      "published_at": "2026-09-27T20:41:20+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -182,7 +317,7 @@
     },
     {
       "video_id": "dhOsoSGzkds",
-      "title": "울컥한 일본 \"한국 좀 봐라\" 일본이 삼성으로 갈아탄 이유 | 나리카와 아야 기자 3부",
+      "title": "한글이 너무 부러운 일본 절대로 넘볼 수 없는 이유 | 나리카와 아야 기자 3부",
       "source_url": "https://www.youtube.com/watch?v=dhOsoSGzkds",
       "thumbnail_url": "https://i1.ytimg.com/vi/dhOsoSGzkds/hqdefault.jpg",
       "published_at": "2026-09-27T08:00:38+00:00",
@@ -573,7 +708,7 @@
     },
     {
       "video_id": "C6LPt_ptzlM",
-      "title": "삼성전자 7일 연속 상승, 10월이 더 기대됩니다 (박세익 전무, 소현철 박사, 김학균 센터장)",
+      "title": "\"9월에 이미 치고 나가는 게 보여요\" 삼성전자 다음 주도주는? (박세익 전무, 소현철 박사, 김학균 센터장)",
       "source_url": "https://www.youtube.com/watch?v=C6LPt_ptzlM",
       "thumbnail_url": "https://i4.ytimg.com/vi/C6LPt_ptzlM/hqdefault.jpg",
       "published_at": "2026-09-26T09:59:20+00:00",
@@ -1048,25 +1183,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "G7X-z_3ZzYw",
-      "title": "AI가 다 해주는데도 살아남는 사람들이 있다, 앞으로 더 중요해지는 일 | 마인드마이너 송길영 [신과대화]",
-      "source_url": "https://www.youtube.com/watch?v=G7X-z_3ZzYw",
-      "thumbnail_url": "https://i4.ytimg.com/vi/G7X-z_3ZzYw/hqdefault.jpg",
-      "published_at": "2026-09-25T04:00:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "vWmulzmz0TY",
       "title": "\"안 할 이유가 없을 것 같아요\"…부모 50만 원에 나라가 100만 원, 우리 아이 7천만 원 만드는 진짜 조건 | 주식주부 리나",
       "source_url": "https://www.youtube.com/watch?v=vWmulzmz0TY",
@@ -1115,25 +1231,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "Ys6BzhfURXQ",
-      "title": "\"피크아웃 착각입니다\" 고금리 고착화에도 ‘AI 반도체’ 사모아야 하는 이유ㅣ손인준 유진투자증권 연구위원 feat.김장열 [칩썰]",
-      "source_url": "https://www.youtube.com/watch?v=Ys6BzhfURXQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/Ys6BzhfURXQ/hqdefault.jpg",
-      "published_at": "2026-09-25T02:00:26+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "zdTN6BmbjFI",
       "title": "\"계약 취소가 아니라 SOS였다?\"… 오라클 뉴멕시코 데이터센터가 늦어지는 이유와 AI 인프라 투자에 남는 숙제",
       "source_url": "https://www.youtube.com/watch?v=zdTN6BmbjFI",
@@ -1177,44 +1274,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "zkWmbBZO1Jk",
-      "title": "\"집 사는 사람 실종됐다\" -50% 급매도 절대 사지마세요. 부동산 시장 진짜 쑥대밭 됐다 | 빠숑 김학렬 소장 1부 #김경필 #돈쭐남",
-      "source_url": "https://www.youtube.com/watch?v=zkWmbBZO1Jk",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zkWmbBZO1Jk/hqdefault.jpg",
-      "published_at": "2026-09-25T00:00:28+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "tp3ix_yMqFc",
-      "title": "4분기 증시, 분위기가 달라지고 있다 | 이지환 오로라투자자문 대표 [주말인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=tp3ix_yMqFc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/tp3ix_yMqFc/hqdefault.jpg",
-      "published_at": "2026-09-24T23:00:36+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "ZT7xqcHz5io",
       "title": "이제 얼마 남지 않았습니다! 주식공부는 이효석 아카데미와 함께!",
       "source_url": "https://www.youtube.com/shorts/ZT7xqcHz5io",
@@ -1253,54 +1312,11 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "QEjIQ_qChRs",
-      "title": "\"농지 전수조사\" 무엇이 논란을 일으켰나? | 송미령 농림축산식품부 장관 [직격인터뷰]",
-      "source_url": "https://www.youtube.com/watch?v=QEjIQ_qChRs",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QEjIQ_qChRs/hqdefault.jpg",
-      "published_at": "2026-09-24T06:00:37+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "AJtr0VeAFao",
       "title": "미국 금리 급등! 하워드막스가 주식 팔지 말라고 한 이유",
       "source_url": "https://www.youtube.com/watch?v=AJtr0VeAFao",
       "thumbnail_url": "https://i2.ytimg.com/vi/AJtr0VeAFao/hqdefault.jpg",
       "published_at": "2026-09-24T00:34:28+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Z6Qae1B4Dv0",
-      "title": "[모닝효LIVE] 미국 금리 급등에도 하워드막스가 주식을 팔지 말라고 한 이유",
-      "source_url": "https://www.youtube.com/watch?v=Z6Qae1B4Dv0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/Z6Qae1B4Dv0/hqdefault.jpg",
-      "published_at": "2026-09-24T00:27:18+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "stocks",

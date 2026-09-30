@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T18:57:46.433258+00:00",
+  "generated_at": "2026-09-30T22:55:59.786246+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "b-B0wyea1xg",
+      "title": "8월 PCE 물가 예상 하회...마이크론 실적은 좋았는데 주가는 왜? [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=b-B0wyea1xg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/b-B0wyea1xg/hqdefault.jpg",
+      "published_at": "2026-09-30T22:28:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "LNhoGiZ-YvI",
+      "title": "공개된 대미투자, 가스발전·원전·알래스카…기대반 우려반 | 메타 뮤즈 이용자 1인당 D램 8GB 사용 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=LNhoGiZ-YvI",
+      "thumbnail_url": "https://i1.ytimg.com/vi/LNhoGiZ-YvI/hqdefault.jpg",
+      "published_at": "2026-09-30T20:28:54+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "FyRjGtqrUOM",
       "title": "마이크론 실적 앞두고, 운용 본부장이 반도체 담는 순서 (체슬리 최일호 부사장, 소현철 박사, 박세환 박사)",
@@ -581,54 +624,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "j9mhV8aDdSk",
-      "title": "SWIFT 연동부터 RWA까지…체인링크가 전통 금융을 온체인으로 이끄는 방법ㅣ서동주, 김동환, 니키 아리야싱헤 체인링크 APAC 사업 총괄 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=j9mhV8aDdSk",
-      "thumbnail_url": "https://i3.ytimg.com/vi/j9mhV8aDdSk/hqdefault.jpg",
-      "published_at": "2026-09-30T03:30:14+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "nLSWz_Zq80I",
-      "title": "[26.09.30 오전 방송 전체보기] 유가 '하락'·금리 '상승' 속 뉴욕증시 소폭 하락...반도체주 상승 마감",
-      "source_url": "https://www.youtube.com/watch?v=nLSWz_Zq80I",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nLSWz_Zq80I/hqdefault.jpg",
-      "published_at": "2026-09-30T03:20:42+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "4Bb-P_C40SE",
       "title": "3년 전 ChatGPT 직전과 소름 돋게 닮았다, 지금 대부분이 놓치고 있는 '돈 버는 신호'",
       "source_url": "https://www.youtube.com/watch?v=4Bb-P_C40SE",
@@ -668,17 +663,22 @@
     },
     {
       "video_id": "CY_4jzGAF0M",
-      "title": "9월 30일 부티플 × 원픽리포트",
+      "title": "[10/1 부티플 아침 라이브] 마이크론 실적이 삼성전자에 보낸 신호 · 앤트로픽 상장 · 한국은행 두 달 연속 금리 인상 | 원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=CY_4jzGAF0M",
       "thumbnail_url": "https://i4.ytimg.com/vi/CY_4jzGAF0M/hqdefault.jpg",
       "published_at": "2026-09-30T00:59:29+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "macro"
+        "stocks",
+        "interest_rate"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

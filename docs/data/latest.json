@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T13:28:16.051728+00:00",
+  "generated_at": "2026-09-30T18:57:46.433258+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "FyRjGtqrUOM",
+      "title": "마이크론 실적 앞두고, 운용 본부장이 반도체 담는 순서 (체슬리 최일호 부사장, 소현철 박사, 박세환 박사)",
+      "source_url": "https://www.youtube.com/watch?v=FyRjGtqrUOM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FyRjGtqrUOM/hqdefault.jpg",
+      "published_at": "2026-09-30T13:48:46+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "3-WbJD12y9k",
       "title": "실적보다 강해진 매크로 변수…10월 증시 '금리' 꼭 챙겨보세요ㅣ명민준, 박가영, 송재경 [주린이 구조대]",
@@ -1010,25 +1029,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "zFphY8voGdI",
-      "title": "주식 초보 딱지 이번 10월에 저와 함께 끝내시죠, 대한민국 최초 투자 교육 프로그램 슈퍼패스가 3년 만에 돌아옵니다",
-      "source_url": "https://www.youtube.com/watch?v=zFphY8voGdI",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zFphY8voGdI/hqdefault.jpg",
-      "published_at": "2026-09-29T03:30:14+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "0zYc8u6eZRY",
       "title": "매일 터지는 이슈에 전부 대응하려다 계좌만 망가집니다, 20년 투자하면서 결국 딱 하나만 남기고 다 버린 기준을 공개합니다",
       "source_url": "https://www.youtube.com/watch?v=0zYc8u6eZRY",
@@ -1127,25 +1127,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "c6wRngd7OCc",
-      "title": "지난 20년을 통째로 복기한 뒤 지금 이 시점에 꼭 해주고 싶다는 이야기는 결국 이것 하나였습니다",
-      "source_url": "https://www.youtube.com/watch?v=c6wRngd7OCc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/c6wRngd7OCc/hqdefault.jpg",
-      "published_at": "2026-09-28T11:11:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "dUdP_rkwrkY",
@@ -1319,25 +1300,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "nFAzu-KPfBU",
-      "title": "주식 본전 된다고 팔지마라, 지금이 일생일대의 기회이다 (빈센트 위원)",
-      "source_url": "https://www.youtube.com/watch?v=nFAzu-KPfBU",
-      "thumbnail_url": "https://i3.ytimg.com/vi/nFAzu-KPfBU/hqdefault.jpg",
-      "published_at": "2026-09-27T07:00:05+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "R3RtzC1ngcc",
       "title": "블랙록이 투자 포트폴리오를 블록체인 위에 올렸습니다, 하필 안전자산부터 먼저 들어간 순서에는 이유가 있었습니다",
       "source_url": "https://www.youtube.com/watch?v=R3RtzC1ngcc",
@@ -1350,6 +1312,54 @@
       "topic_stances": [
         {
           "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "PGg1ztLS9F4",
+      "title": "\"충격적인 계산! 미국 가계 순자산 60조→170조 달러\"…금리 5%에도 AI 주식으로 흘러갈 돈이 쌓이고 있는 이유",
+      "source_url": "https://www.youtube.com/watch?v=PGg1ztLS9F4",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PGg1ztLS9F4/hqdefault.jpg",
+      "published_at": "2026-09-27T00:00:37+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks",
+        "fx",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "CAs3xXSzY98",
+      "title": "[속보효] 미국 행정부가 예고한 역사적인 규모의 구매, 그 대상 목록에 농산물과 의료용품 말고 무엇이 끼어 있는지가 훨씬 더 중요합니다",
+      "source_url": "https://www.youtube.com/watch?v=CAs3xXSzY98",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CAs3xXSzY98/hqdefault.jpg",
+      "published_at": "2026-09-26T05:42:10+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
           "stance": "neutral"
         }
       ],

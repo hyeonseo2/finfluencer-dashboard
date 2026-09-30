@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T20:34:17.978880+00:00",
+  "generated_at": "2026-09-30T00:11:20.189049+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,116 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "NN1Qlx_oN_w",
+      "title": "서울대 동아리 왜곡된 학연…정보 카르텔 200억 '꿀꺽' | 삼성그룹, AI 인프라 베팅…미국 헬릭스에 10억 달러 투자 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=NN1Qlx_oN_w",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NN1Qlx_oN_w/hqdefault.jpg",
+      "published_at": "2026-09-29T23:30:15+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "fx"
+      ],
+      "topic_stances": [
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "8xeWkx_jSs0",
+      "title": "금리 상승에도 주가는 버틴다…'종목 압축'은 어디로? | 신영증권 김효진 박사 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=8xeWkx_jSs0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/8xeWkx_jSs0/hqdefault.jpg",
+      "published_at": "2026-09-29T23:11:43+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "T5JcAzgxsbU",
+      "title": "[4주년 이벤트 D-day] '초고금리 시대' AI 투자로 살아남는 방식은 '이것'",
+      "source_url": "https://www.youtube.com/watch?v=T5JcAzgxsbU",
+      "thumbnail_url": "https://i1.ytimg.com/vi/T5JcAzgxsbU/hqdefault.jpg",
+      "published_at": "2026-09-29T23:06:48+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "exEs4GMv-5o",
+      "title": "오픈AI, 24시간 자율 에이전트 '닷츠' 공개...나스닥, 금리 불안 완화에 낙폭 축소 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=exEs4GMv-5o",
+      "thumbnail_url": "https://i2.ytimg.com/vi/exEs4GMv-5o/hqdefault.jpg",
+      "published_at": "2026-09-29T22:07:05+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "nLSWz_Zq80I",
+      "title": "[9월 30일 개장시황] 빈센트, 정프로, 하창완, 편다송, 이지환 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=nLSWz_Zq80I",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nLSWz_Zq80I/hqdefault.jpg",
+      "published_at": "2026-09-29T20:24:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "svhOHQarkWI",
       "title": "[속보효] 악법중의 악법 | 이 법안이 통과되면, 코리아디스카운트는 영원히 해소되지 않을 수도 있습니다.",
@@ -572,87 +682,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "CUpfy79qiZY",
-      "title": "\"IPO 이후 주식이라고 생각하면 됩니다\" 여전히 비트코인을 사야 하는 이유 | 서동주, 김동환, 백훈종 스매시파이 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=CUpfy79qiZY",
-      "thumbnail_url": "https://i4.ytimg.com/vi/CUpfy79qiZY/hqdefault.jpg",
-      "published_at": "2026-09-29T03:21:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "VO0nNOKlKks",
-      "title": "[26.09.29 오전 방송 전체보기] 휴전 불확실성 속 뉴욕증시 하락 마감...엔비디아만 '상승'...왜?",
-      "source_url": "https://www.youtube.com/watch?v=VO0nNOKlKks",
-      "thumbnail_url": "https://i3.ytimg.com/vi/VO0nNOKlKks/hqdefault.jpg",
-      "published_at": "2026-09-29T03:19:11+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qgDkzJaHc4E",
-      "title": "검열 저항성 중요하다던 이더리움 새로운 저항성 찾는다 | 서동주, 김동환, 함지현 블록미디어 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=qgDkzJaHc4E",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qgDkzJaHc4E/hqdefault.jpg",
-      "published_at": "2026-09-29T03:12:35+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "SbBEEtfuJfM",
-      "title": "솔리다임 중복상장 무조건 악재일까요? \"위기가 온다해도 1등 기업은 들고 가야 합니다\" | 김종문, 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=SbBEEtfuJfM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/SbBEEtfuJfM/hqdefault.jpg",
-      "published_at": "2026-09-29T02:19:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "0zYc8u6eZRY",
       "title": "매일 터지는 이슈에 전부 대응하려다 계좌만 망가집니다, 20년 투자하면서 결국 딱 하나만 남기고 다 버린 기준을 공개합니다",
       "source_url": "https://www.youtube.com/watch?v=0zYc8u6eZRY",
@@ -692,7 +721,7 @@
     },
     {
       "video_id": "GAXu_LAyAl0",
-      "title": "9월 29일 부티플 오늘의 원픽 리포트",
+      "title": "9월 30일 부티플 × 원픽리포트",
       "source_url": "https://www.youtube.com/watch?v=GAXu_LAyAl0",
       "thumbnail_url": "https://i4.ytimg.com/vi/GAXu_LAyAl0/hqdefault.jpg",
       "published_at": "2026-09-29T01:01:25+00:00",
@@ -1320,25 +1349,6 @@
       "source_url": "https://www.youtube.com/watch?v=CAs3xXSzY98",
       "thumbnail_url": "https://i4.ytimg.com/vi/CAs3xXSzY98/hqdefault.jpg",
       "published_at": "2026-09-26T05:42:10+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cxCYQnWT4qM",
-      "title": "[모닝효 LIVE] 미중정상회담이 투자자에게 주는 시사점",
-      "source_url": "https://www.youtube.com/watch?v=cxCYQnWT4qM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cxCYQnWT4qM/hqdefault.jpg",
-      "published_at": "2026-09-26T00:29:59+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "macro"

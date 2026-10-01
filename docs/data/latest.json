@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T16:11:03.483832+00:00",
+  "generated_at": "2026-10-01T21:41:21.509723+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,40 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "-QfEetlNAPA",
+      "title": "미국 국채금리 하락 속 뉴욕증시 상승 마감...메모리주 동반 '강세'_26.10.02 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=-QfEetlNAPA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-QfEetlNAPA/hqdefault.jpg",
+      "published_at": "2026-10-01T20:23:37+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "d1MJpyjuRTU",
       "title": "\"오르든 떨어지든 10월 중순까지 모아가세요\" 연말까지 가져갈 포트폴리오 짜는 법ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
@@ -656,25 +690,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1KBur1Z64AA",
-      "title": "절대 사지 말아야 할 '주식 타이밍 & 습관' | [하나증권 대규모 세미나 영상]",
-      "source_url": "https://www.youtube.com/watch?v=1KBur1Z64AA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1KBur1Z64AA/hqdefault.jpg",
-      "published_at": "2026-10-01T02:56:50+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "CY_4jzGAF0M",

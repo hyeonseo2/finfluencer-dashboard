@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T15:35:01.758701+00:00",
+  "generated_at": "2026-10-02T20:31:28.883024+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -768,22 +768,17 @@
     },
     {
       "video_id": "49QDs_rrr8I",
-      "title": "개별주만 사다 반복해서 손절했다면, '이 ETF' 부터 먼저 담아야 하는 이유 (주식 초보가 쉽게 돈 버는 포트폴리오 공식 공개)ㅣ주식주부s",
+      "title": "매번 수익률이 신통치 않다면, 개별 종목 대신 이것부터 죽어라 모아야 하는 이유ㅣ주식주부s",
       "source_url": "https://www.youtube.com/watch?v=49QDs_rrr8I",
       "thumbnail_url": "https://i1.ytimg.com/vi/49QDs_rrr8I/hqdefault.jpg",
       "published_at": "2026-10-01T10:00:17+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "stocks",
-        "etf"
+        "stocks"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
           "stance": "neutral"
         }
       ],

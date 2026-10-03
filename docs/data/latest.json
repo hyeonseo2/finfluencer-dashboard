@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T20:49:17.407649+00:00",
+  "generated_at": "2026-10-03T23:37:46.576072+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "p61QUjftYr0",
+      "title": "HBM만 보고 있다면 놓칠 수 있습니다, AI 반도체의 다음 수혜처는 어디일까 | 김장열 유니스토리자산운용 리서치센터 센터장 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=p61QUjftYr0",
+      "thumbnail_url": "https://i1.ytimg.com/vi/p61QUjftYr0/hqdefault.jpg",
+      "published_at": "2026-10-03T23:00:29+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ujB1CDIP_3I",
       "title": "2027년 부동산 대격변 시작된다, '이 지역 아파트' 무섭게 오른다 (서울대 김경민 교수)",
@@ -878,25 +897,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "iZSsBpGqVew",
-      "title": "자사주 매입 끝나면 주가 떨어질까? 과거엔 ‘매도세 소멸’이 오히려 플러스였다ㅣ권다영, 이지환 오로라투자자문 대표 [2시 마켓워치]",
-      "source_url": "https://www.youtube.com/watch?v=iZSsBpGqVew",
-      "thumbnail_url": "https://i2.ytimg.com/vi/iZSsBpGqVew/hqdefault.jpg",
-      "published_at": "2026-10-02T06:02:06+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "KZV1eg6jN6A",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T12:21:24.479364+00:00",
+  "generated_at": "2026-10-03T17:06:29.665021+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "ujB1CDIP_3I",
+      "title": "2027년 부동산 대격변 시작된다, '이 지역 아파트' 무섭게 오른다 (서울대 김경민 교수)",
+      "source_url": "https://www.youtube.com/watch?v=ujB1CDIP_3I",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ujB1CDIP_3I/hqdefault.jpg",
+      "published_at": "2026-10-03T12:30:07+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "emm8sR96nUU",
       "title": "4분기 투자 포트폴리오에 새로 담을 것 (박세환 박사, 체슬리 최일호 부사장, 소현철 박사) 3부",
@@ -1226,25 +1245,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "hCb9v1o2FDM",
-      "title": "요즘 5060 사이에 급속도로 퍼져가는 충격적인 이상 현상 (김용섭 소장)",
-      "source_url": "https://www.youtube.com/watch?v=hCb9v1o2FDM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/hCb9v1o2FDM/hqdefault.jpg",
-      "published_at": "2026-09-30T09:45:13+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

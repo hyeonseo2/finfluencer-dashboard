@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:43:04.857669+00:00",
+  "generated_at": "2026-10-05T22:24:12.657643+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,54 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "hUH70pivXSU",
+      "title": "엔비디아 신고가, 나스닥 사상 최고치 랠리…금리와 반대로 가는 이유 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=hUH70pivXSU",
+      "thumbnail_url": "https://i1.ytimg.com/vi/hUH70pivXSU/hqdefault.jpg",
+      "published_at": "2026-10-05T22:02:17+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "kMuSNu1XcZQ",
+      "title": "막 나가는 트럼프 '관세 300%'…한국 쥐어짜고 현금 공약 펑펑 | 중국 AI 해커 1인에 초토화된 한국 금융 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=kMuSNu1XcZQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kMuSNu1XcZQ/hqdefault.jpg",
+      "published_at": "2026-10-05T20:24:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "lXbvIUcUqQI",
       "title": "서울 아파트 역대급 공급 절벽 온다, 내년부터 전월세 폭등 정말 무섭다 (서울대 김경민 교수)",
@@ -1051,44 +1099,6 @@
       "source_url": "https://www.youtube.com/watch?v=sZykGpR4gW4",
       "thumbnail_url": "https://i4.ytimg.com/vi/sZykGpR4gW4/hqdefault.jpg",
       "published_at": "2026-10-02T12:30:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "3hGGIcX3XmE",
-      "title": "5년 뒤 모든 암호가 뚫린다? 미국 정부가 움직인 진짜 이유",
-      "source_url": "https://www.youtube.com/watch?v=3hGGIcX3XmE",
-      "thumbnail_url": "https://i4.ytimg.com/vi/3hGGIcX3XmE/hqdefault.jpg",
-      "published_at": "2026-10-02T12:00:28+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "PdD9hYja22I",
-      "title": "HBM 적층 경쟁의 숨은 수혜…수율 때문에 후공정 테스트가 중요해지는 이유ㅣ명민준, 박가영, 유영화 [주린이 구조대]",
-      "source_url": "https://www.youtube.com/watch?v=PdD9hYja22I",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PdD9hYja22I/hqdefault.jpg",
-      "published_at": "2026-10-02T11:30:26+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "commodities"

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T16:37:25.617073+00:00",
+  "generated_at": "2026-10-06T21:29:46.528442+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,6 +45,7 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -55,6 +56,40 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "LS2YoYe5JiQ",
+      "title": "국채금리 숨고르기 속 S&P·나스닥 '사상 최고' 메모리·장비주 하락...왜?_26.10.07 | 여도은, 박명석, 김효진 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=LS2YoYe5JiQ",
+      "thumbnail_url": "https://i1.ytimg.com/vi/LS2YoYe5JiQ/hqdefault.jpg",
+      "published_at": "2026-10-06T20:24:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "NrWGB7OBxo4",
       "title": "'이때'를 기점으로 투자판이 완전히 바뀐다 (박세익 전무 & 윤지호 경제평론가)ㅣ주식프리미어리그",
@@ -634,25 +669,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "UIhZeFfg63A",
-      "title": "기관 금융으로 들어오는 디지털자산…BitGo가 말하는 새로운 인프라 | 김동환, 서동주, 마이크 벨시(Mike Belshe) BitGo CEO [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=UIhZeFfg63A",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UIhZeFfg63A/hqdefault.jpg",
-      "published_at": "2026-10-06T03:10:34+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

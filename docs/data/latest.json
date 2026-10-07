@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T16:12:48.122132+00:00",
+  "generated_at": "2026-10-07T21:49:53.640891+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,40 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "OKwzByuBnG4",
+      "title": "국채금리 부담 속 뉴욕증시 일제히 하락...마이크론 4% 급등, 왜?_26.10.08 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=OKwzByuBnG4",
+      "thumbnail_url": "https://i4.ytimg.com/vi/OKwzByuBnG4/hqdefault.jpg",
+      "published_at": "2026-10-07T20:23:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "yAwijjVrxEk",
       "title": "2030은 이것 주목해하새요 1억 → 20억 금방 됩다 #이다훈 #돈쭐남 #김경필",
@@ -689,25 +723,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "FxODK6IMn_Q",
-      "title": "변수의 시대, 시장은 어디로 향할까? | 서동주, 김동환, 이윤수 에릭의 거장연구소 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=FxODK6IMn_Q",
-      "thumbnail_url": "https://i3.ytimg.com/vi/FxODK6IMn_Q/hqdefault.jpg",
-      "published_at": "2026-10-07T03:47:38+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ZLQlwGaC0HI",

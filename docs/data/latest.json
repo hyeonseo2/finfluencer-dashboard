@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T08:43:03.006382+00:00",
+  "generated_at": "2026-10-09T15:58:17.666350+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,82 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Fc2LdFnfpxI",
+      "title": "2027년 주도주 완전히 결정됐다, '이 2개 주식' 모아가면 큰돈 번다 (반교수 이주택 교수)",
+      "source_url": "https://www.youtube.com/watch?v=Fc2LdFnfpxI",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Fc2LdFnfpxI/hqdefault.jpg",
+      "published_at": "2026-10-09T11:00:17+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "nE0VMFWvnQM",
+      "title": "한국 경제는 끝났습니다 미국에 퍼진 충격 소문 | 홍춘욱 박사 1부",
+      "source_url": "https://www.youtube.com/watch?v=nE0VMFWvnQM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nE0VMFWvnQM/hqdefault.jpg",
+      "published_at": "2026-10-09T10:00:28+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "SvWrHWRoq7g",
+      "title": "삼성전자 정말 무서울 겁니다, 100년에 1번 나오는 폭등 나온다 (권영화 교수)",
+      "source_url": "https://www.youtube.com/watch?v=SvWrHWRoq7g",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SvWrHWRoq7g/hqdefault.jpg",
+      "published_at": "2026-10-09T09:45:34+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zHRkl6Kg_oQ",
+      "title": "취임 2달만에 사퇴 위기? 영국 총리는 임시직인가?",
+      "source_url": "https://www.youtube.com/watch?v=zHRkl6Kg_oQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zHRkl6Kg_oQ/hqdefault.jpg",
+      "published_at": "2026-10-09T09:01:45+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Me9kmGJO-bY",
       "title": "두산에너빌리티 난리난 이유. 가진 주식 싹다 '이렇게' 해라｜염승환 이사 2부",
@@ -120,17 +196,17 @@
     },
     {
       "video_id": "gOFm0hmIaEE",
-      "title": "\"관우를 치료한 화타는 없었다\" 정사와 삼국지연의는 어떻게 달랐나 | 이성원 전남대 교수 [이성원의 삼국지]",
+      "title": "삼국지 속 인물은 어디까지 실존 인물이었을까? | 이성원 전남대 교수 [이성원의 삼국지]",
       "source_url": "https://www.youtube.com/watch?v=gOFm0hmIaEE",
       "thumbnail_url": "https://i4.ytimg.com/vi/gOFm0hmIaEE/hqdefault.jpg",
       "published_at": "2026-10-09T06:00:16+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -929,25 +1005,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "olGVCWsRg_U",
-      "title": "“이건 사실상 신이 준 축복” 석유시대 끝낼 한국의 ‘이 기술’ ｜정주용 의장 3부",
-      "source_url": "https://www.youtube.com/watch?v=olGVCWsRg_U",
-      "thumbnail_url": "https://i4.ytimg.com/vi/olGVCWsRg_U/hqdefault.jpg",
-      "published_at": "2026-10-07T10:30:12+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "M_Y0jE9P8wE",
       "title": "다가오는 이스라엘 총선과 항공기 납치 시도 사건",
       "source_url": "https://www.youtube.com/watch?v=M_Y0jE9P8wE",
@@ -1174,49 +1231,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "vEsEXhtGg8w",
-      "title": "나스닥100 주식 지금 당장 사세요, '이 방법대로' 하면 10배 수익 난다 (최고민수 박민수 작가)",
-      "source_url": "https://www.youtube.com/watch?v=vEsEXhtGg8w",
-      "thumbnail_url": "https://i3.ytimg.com/vi/vEsEXhtGg8w/hqdefault.jpg",
-      "published_at": "2026-10-05T09:45:15+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "PQlGUOTbWK4",
-      "title": "5천만원 있다면 '이 주식' 사라, 하늘이 내린 기회가 왔습니다 (이효석 대표 풀버전)",
-      "source_url": "https://www.youtube.com/watch?v=PQlGUOTbWK4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PQlGUOTbWK4/hqdefault.jpg",
-      "published_at": "2026-10-04T09:00:18+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "XIEitZGI4dg",
@@ -1474,25 +1488,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Gy9zZfrYwUo",
-      "title": "그들이 사는 세상 (주식 버전)",
-      "source_url": "https://www.youtube.com/shorts/Gy9zZfrYwUo",
-      "thumbnail_url": "https://i4.ytimg.com/vi/Gy9zZfrYwUo/hqdefault.jpg",
-      "published_at": "2026-09-28T13:18:09+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

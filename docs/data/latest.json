@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:53:07.903130+00:00",
+  "generated_at": "2026-10-09T01:51:43.355266+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,82 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "kiDCF84SER0",
+      "title": "[속보효] OpenAI 매출 충격, 신호인가? 소음인가?",
+      "source_url": "https://www.youtube.com/watch?v=kiDCF84SER0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/kiDCF84SER0/hqdefault.jpg",
+      "published_at": "2026-10-09T00:05:10+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "u7TtqnhWeXY",
+      "title": "\"개미들만 모르고 있다” 미국 월가에 싹다 퍼졌다 삼전닉스에 대한 충격 소문 | 김지훈 대표 1부",
+      "source_url": "https://www.youtube.com/watch?v=u7TtqnhWeXY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/u7TtqnhWeXY/hqdefault.jpg",
+      "published_at": "2026-10-09T00:00:31+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jUv_RnYyNCQ",
+      "title": "\"배당으로 평생 놀고 먹어요\" 월 50만 원씩 3년만 모으세요. 현존하는 가장 완벽한 ETF | 쭈압 1부 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/watch?v=jUv_RnYyNCQ",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jUv_RnYyNCQ/hqdefault.jpg",
+      "published_at": "2026-10-09T00:00:24+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "18hOuqgDw9o",
+      "title": "\"증시 짓눌린다\" 107조 힘 못 쓰는 이유 | 장우진 금시공 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=18hOuqgDw9o",
+      "thumbnail_url": "https://i2.ytimg.com/vi/18hOuqgDw9o/hqdefault.jpg",
+      "published_at": "2026-10-08T23:00:12+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "CwyVtguWE4o",
       "title": "현금 전부 다 '이 계좌에' 넣으세요, 예적금보다 5배 불어납니다 (손희애 작가)",
@@ -663,25 +739,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "YHF9soni-WI",
-      "title": "템퍼스 AI 질주에 다시 뜨는 미국 바이오, 최대 수혜주는? | 박현지, 강하나 여도은, 허재무 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=YHF9soni-WI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/YHF9soni-WI/hqdefault.jpg",
-      "published_at": "2026-10-08T02:25:31+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "u_ECwGWNhEU",
       "title": "삼성전자 100조 실적 기대에도 왜 매도 걱정? - AI 투자·엔화·미국 원전 [10/8 부티플 아침 라이브]",
       "source_url": "https://www.youtube.com/watch?v=u_ECwGWNhEU",
@@ -742,25 +799,6 @@
       "topic_stances": [
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "En-4cMmu2yY",
-      "title": "은퇴 필수 포트폴리오 이 2가지만 주목하세요 #제도권주식분석",
-      "source_url": "https://www.youtube.com/shorts/En-4cMmu2yY",
-      "thumbnail_url": "https://i2.ytimg.com/vi/En-4cMmu2yY/hqdefault.jpg",
-      "published_at": "2026-10-07T12:30:28+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -961,30 +999,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "u2JcpOg5j6I",
-      "title": "\"배터리 대장주 다 잡는다\" 수혜주 싹 담은 ETF #김지훈",
-      "source_url": "https://www.youtube.com/shorts/u2JcpOg5j6I",
-      "thumbnail_url": "https://i2.ytimg.com/vi/u2JcpOg5j6I/hqdefault.jpg",
-      "published_at": "2026-10-07T06:00:10+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
           "stance": "neutral"
         }
       ],
@@ -1428,25 +1442,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "PiV0NE7Mcc4",
-      "title": "다음 열 배가 나올 자리를 찾는다면 이 산업부터 보세요, 유전체 진단 기업 한 곳이 조용히 주목받기 시작했습니다ㅣ테크피드 2부",
-      "source_url": "https://www.youtube.com/watch?v=PiV0NE7Mcc4",
-      "thumbnail_url": "https://i1.ytimg.com/vi/PiV0NE7Mcc4/hqdefault.jpg",
-      "published_at": "2026-10-01T09:00:39+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "l8kRYkK8ptc",

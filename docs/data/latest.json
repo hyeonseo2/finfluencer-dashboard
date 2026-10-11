@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T15:28:10.372482+00:00",
+  "generated_at": "2026-10-11T20:03:30.880486+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,17 +56,22 @@
   "videos": [
     {
       "video_id": "vMR69QydzrA",
-      "title": "당장 '이 1개 주식만' 모으세요, 묻어두면 10억 부자 된다 (라오어 작가)",
+      "title": "2천만원으로 '이 주식' 사세요, 20년 뒤 최소 10억은 됩니다 (라오어 작가)",
       "source_url": "https://www.youtube.com/watch?v=vMR69QydzrA",
       "thumbnail_url": "https://i3.ytimg.com/vi/vMR69QydzrA/hqdefault.jpg",
       "published_at": "2026-10-11T12:30:04+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -151,17 +156,17 @@
     },
     {
       "video_id": "3H2fyNdSOjA",
-      "title": "반도체 공장 증설로 돈 쓸어담는다, 영업이익률 30% 찍는 독점 장비주 (권영화 교수)",
+      "title": "삼성전자보다 무섭게 폭등할 종목, AI 반도체 최대 수혜주 '이 주식' (권영화 교수)",
       "source_url": "https://www.youtube.com/watch?v=3H2fyNdSOjA",
       "thumbnail_url": "https://i4.ytimg.com/vi/3H2fyNdSOjA/hqdefault.jpg",
       "published_at": "2026-10-11T07:30:11+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "stocks"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "stocks",
           "stance": "neutral"
         }
       ],

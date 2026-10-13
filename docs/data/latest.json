@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:44:49.724376+00:00",
+  "generated_at": "2026-10-13T21:04:45.884829+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,12 +48,42 @@
     "commodities",
     "crypto",
     "etf",
+    "interest_rate",
     "macro",
     "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "0Wdp1qmkFHE",
+      "title": "반도체주 동반 약세 속 뉴욕증시 하락 마감...금리 인상 우려 '제한적'_26.10.14 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=0Wdp1qmkFHE",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0Wdp1qmkFHE/hqdefault.jpg",
+      "published_at": "2026-10-13T20:20:53+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "xGx3-rDd-Zo",
       "title": "삼성전자, 하이닉스 10% 급락 '이것 '만 챙겨라 [10/13 부티플 증시 라이브]",
@@ -726,25 +756,6 @@
       "source_url": "https://www.youtube.com/watch?v=VDz2bx61RZE",
       "thumbnail_url": "https://i3.ytimg.com/vi/VDz2bx61RZE/hqdefault.jpg",
       "published_at": "2026-10-13T03:54:23+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "HceZZNad4Cc",
-      "title": "[26.10.13 오전 방송 전체보기] CXMT 신기술 소식에 반도체주 동반 하락...뉴욕증시 '혼조' 마감",
-      "source_url": "https://www.youtube.com/watch?v=HceZZNad4Cc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/HceZZNad4Cc/hqdefault.jpg",
-      "published_at": "2026-10-13T03:23:50+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "stocks"

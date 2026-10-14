@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T17:52:14.684629+00:00",
+  "generated_at": "2026-10-14T21:26:26.657251+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "z30z7cNnV8A",
+      "title": "예상치 웃돈 물가 압력에 뉴욕증시 일제히 하락...기술주 매도 집중_26.10.15 | 여도은, 박명석, 이선엽 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=z30z7cNnV8A",
+      "thumbnail_url": "https://i3.ytimg.com/vi/z30z7cNnV8A/hqdefault.jpg",
+      "published_at": "2026-10-14T20:23:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "UMIka6hqIEc",
       "title": "나만 놓칠까 두렵던 AI 투자…이제는 '잘못 살까'봐 더 무섭다ㅣ명민준, 박가영, 송재경 [주린이 구조대]",
@@ -681,30 +705,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "0Wdp1qmkFHE",
-      "title": "[26.10.14 오전 방송 전체보기] 반도체주 동반 약세 속 뉴욕증시 하락 마감...금리 인상 우려 '제한적'",
-      "source_url": "https://www.youtube.com/watch?v=0Wdp1qmkFHE",
-      "thumbnail_url": "https://i1.ytimg.com/vi/0Wdp1qmkFHE/hqdefault.jpg",
-      "published_at": "2026-10-14T03:23:18+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
           "stance": "neutral"
         }
       ],

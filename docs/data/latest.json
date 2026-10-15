@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:13:09.577209+00:00",
+  "generated_at": "2026-10-15T23:35:59.784156+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -47,7 +47,6 @@
   "topics": [
     "bonds",
     "commodities",
-    "crypto",
     "etf",
     "fx",
     "interest_rate",
@@ -56,6 +55,68 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Y9wDXyYLGeQ",
+      "title": "연말까지 미국 증시 신고가 전망…한국 증시 반등 가능성은? | 문남중 대신증권 리서치센터 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=Y9wDXyYLGeQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Y9wDXyYLGeQ/hqdefault.jpg",
+      "published_at": "2026-10-15T23:02:29+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "M2iOm886YFk",
+      "title": "PPI 예상치 상회, 나스닥 상승 전환…코어위브, 네비우스 반등 성공 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=M2iOm886YFk",
+      "thumbnail_url": "https://i2.ytimg.com/vi/M2iOm886YFk/hqdefault.jpg",
+      "published_at": "2026-10-15T21:56:24+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "VaWc9oOFpvg",
+      "title": "PPI 예상 상회에도 젠슨 황 코어위브 낙관론에 회복...오늘은 회복의 장 시작? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=VaWc9oOFpvg",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VaWc9oOFpvg/hqdefault.jpg",
+      "published_at": "2026-10-15T20:29:25+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "r2fiFV9wnsA",
       "title": "삼성전자, 하이닉스 또 역대급 하락 시작. 지하실도 깨졌다 팔아야 하나? [10/15 부티플 증시 라이브]",
@@ -671,59 +732,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "z30z7cNnV8A",
-      "title": "[26.10.15 오전 방송 전체보기] 예상치 웃돈 물가 압력에 뉴욕증시 일제히 하락...기술주 매도 집중",
-      "source_url": "https://www.youtube.com/watch?v=z30z7cNnV8A",
-      "thumbnail_url": "https://i3.ytimg.com/vi/z30z7cNnV8A/hqdefault.jpg",
-      "published_at": "2026-10-15T03:17:37+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "1CP0dFMYunw",
-      "title": "미국 CPI 예상치 상회, 금리 인상 우려에 비트코인·뉴욕증시 동반 하락 | 김동환, 박지원, 박현영 뉴스1 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=1CP0dFMYunw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/1CP0dFMYunw/hqdefault.jpg",
-      "published_at": "2026-10-15T03:02:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "crypto",
-        "interest_rate",
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "hmPXcxP9Wyk",
       "title": "조..조졌는데?",
       "source_url": "https://www.youtube.com/shorts/hmPXcxP9Wyk",
@@ -741,25 +749,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "OtjY9__0jTM",
-      "title": "유가는 꺾이고 경제는 상회 그런데 주가는 왜? | 김인식 한국투자자산운용 차장 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=OtjY9__0jTM",
-      "thumbnail_url": "https://i4.ytimg.com/vi/OtjY9__0jTM/hqdefault.jpg",
-      "published_at": "2026-10-15T02:23:53+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "SC6jvx4Nkd8",

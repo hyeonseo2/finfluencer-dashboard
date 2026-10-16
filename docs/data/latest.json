@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T13:50:42.513040+00:00",
+  "generated_at": "2026-10-16T17:53:15.004082+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "_Th8Z0aTNmk",
+      "title": "주식백화점 大바겐세일",
+      "source_url": "https://www.youtube.com/shorts/_Th8Z0aTNmk",
+      "thumbnail_url": "https://i4.ytimg.com/vi/_Th8Z0aTNmk/hqdefault.jpg",
+      "published_at": "2026-10-16T15:14:08+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "5Nvi3bsUHmo",
       "title": "삼성전자, 하이닉스 어디까지 내려가나? 여기서는 배팅 해야된다  [10/16 부티플 증시 라이브]",
@@ -1436,25 +1455,6 @@
       "source_url": "https://www.youtube.com/watch?v=izM605Qavok",
       "thumbnail_url": "https://i2.ytimg.com/vi/izM605Qavok/hqdefault.jpg",
       "published_at": "2026-10-06T12:57:15+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "EtNDC9293MA",
-      "title": "한국이 안내면 2배로 청구하면 그만입니다!",
-      "source_url": "https://www.youtube.com/watch?v=EtNDC9293MA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/EtNDC9293MA/hqdefault.jpg",
-      "published_at": "2026-10-05T10:01:07+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

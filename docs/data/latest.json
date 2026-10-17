@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T12:48:04.836022+00:00",
+  "generated_at": "2026-10-17T16:12:55.291942+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,8 +54,56 @@
   ],
   "videos": [
     {
+      "video_id": "0JzIdXInl0g",
+      "title": "ISA 깡통 계좌가 많은 이유",
+      "source_url": "https://www.youtube.com/shorts/0JzIdXInl0g",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0JzIdXInl0g/hqdefault.jpg",
+      "published_at": "2026-10-17T13:36:36+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "MmnL_PXclY4",
+      "title": "금리, 실적, 섹터… 흔들리는 변수 속 남은 10월 전략은 '이렇게' 가져갑니다 (박세익 전무 & 체슬리투자자문) | 주식프리미어리그 (10월 12일 촬영)",
+      "source_url": "https://www.youtube.com/watch?v=MmnL_PXclY4",
+      "thumbnail_url": "https://i2.ytimg.com/vi/MmnL_PXclY4/hqdefault.jpg",
+      "published_at": "2026-10-17T13:22:33+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "qNriKY7RzkY",
-      "title": "당장 '이 주식' 계속 모아가세요, 사놓고 묻어두면 10억이 된다 (라오어 작가 풀버전)",
+      "title": "5년만에 140억 이상 벌었어요, '단 2가지 주식만' 사 모았어요 (라오어 작가 풀버전)",
       "source_url": "https://www.youtube.com/watch?v=qNriKY7RzkY",
       "thumbnail_url": "https://i2.ytimg.com/vi/qNriKY7RzkY/hqdefault.jpg",
       "published_at": "2026-10-17T10:45:30+00:00",
@@ -1182,25 +1230,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "i2oOnWb0_1A",
-      "title": "개인투자자 10명 중 9명이 '이 실수 때문에' 돈 잃는다 (반교수 이주택 교수)",
-      "source_url": "https://www.youtube.com/watch?v=i2oOnWb0_1A",
-      "thumbnail_url": "https://i2.ytimg.com/vi/i2oOnWb0_1A/hqdefault.jpg",
-      "published_at": "2026-10-14T11:45:10+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "gH6kU4vq-vY",
       "title": "“우리 고객이니까 뺏어가지 마” 메타가 구글보다 먼저 당신의 취향을 알아야 하는 이유 [Z1 뉴스 - 1부]",
       "source_url": "https://www.youtube.com/watch?v=gH6kU4vq-vY",
@@ -1408,25 +1437,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "mKiplSfm_yM",
-      "title": "AI 투자자들에게 다모다란 교수님이 던지는 엄중한 경고",
-      "source_url": "https://www.youtube.com/watch?v=mKiplSfm_yM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/mKiplSfm_yM/hqdefault.jpg",
-      "published_at": "2026-10-10T02:17:41+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "zHRkl6Kg_oQ",

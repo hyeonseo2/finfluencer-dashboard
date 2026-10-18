@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T10:40:56.465831+00:00",
+  "generated_at": "2026-10-18T14:22:28.971028+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "iHTpyk-eSWQ",
+      "title": "대응하기 어려운 시장, 주도주를 찾는 '기준'을 함께 짚어보았습니다 (박세익 전무 & 체슬리투자자문) | 주식프리미어리그 (10월 12일 촬영)",
+      "source_url": "https://www.youtube.com/watch?v=iHTpyk-eSWQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/iHTpyk-eSWQ/hqdefault.jpg",
+      "published_at": "2026-10-18T12:31:12+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "n1Kr-uSnvv4",
+      "title": "[슈카월드] 코스피 6000 붕괴, 우리는 어디로 가는가 / 숏돌이가 고른 종목 / 세상을 놀라게한 테슬라 로드스터 / 일본 경쟁력 저하의 원인 / 인도 바퀴벌레당의 분노",
+      "source_url": "https://www.youtube.com/watch?v=n1Kr-uSnvv4",
+      "thumbnail_url": "https://i3.ytimg.com/vi/n1Kr-uSnvv4/hqdefault.jpg",
+      "published_at": "2026-10-18T11:22:22+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "j8giknKNaW0",
+      "title": "금 투자에 전 재산을 걸었어요, 앞으로 미친 상승 시작된다 (조규원 대표)",
+      "source_url": "https://www.youtube.com/watch?v=j8giknKNaW0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/j8giknKNaW0/hqdefault.jpg",
+      "published_at": "2026-10-18T11:00:01+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "vCB7KKmF4YU",
       "title": "\"주룽지 사망 충격 소문\" 들고 일어난 중국 국민들 시진핑 지금 미칠지경이다 | 강준영 교수 풀버전",
@@ -155,17 +212,17 @@
     },
     {
       "video_id": "SnYqT1DXP98",
-      "title": "부자들은 절대 안 합니다, 가난한 사람은 자꾸 '이 말' 해요 (이하영 원장)",
+      "title": "평생 돈에 쪼들리며 사는 사람 특징, '이 말' 쓰면 평생 가난하게 삽니다 (이하영 원장)",
       "source_url": "https://www.youtube.com/watch?v=SnYqT1DXP98",
       "thumbnail_url": "https://i4.ytimg.com/vi/SnYqT1DXP98/hqdefault.jpg",
       "published_at": "2026-10-18T07:15:05+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -174,17 +231,17 @@
     },
     {
       "video_id": "QHhngeDbMvo",
-      "title": "중국 부자들 전재산 들고 도망친다, 부자들은 이미 전재산 빼서 날랐다 (유광종 소장)",
+      "title": "중국 반도체, 로봇 다 소용없다, 상상초월 파국이 눈앞에 닥쳤다 (유광종 소장)",
       "source_url": "https://www.youtube.com/watch?v=QHhngeDbMvo",
       "thumbnail_url": "https://i2.ytimg.com/vi/QHhngeDbMvo/hqdefault.jpg",
       "published_at": "2026-10-18T06:15:07+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -916,25 +973,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "IJxG9u2b_O4",
-      "title": "금값 100년에 한 번 오는 상승장, 금 한돈 '이때' 300만원 넘어선다 (조규원 대표)",
-      "source_url": "https://www.youtube.com/watch?v=IJxG9u2b_O4",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IJxG9u2b_O4/hqdefault.jpg",
-      "published_at": "2026-10-16T11:45:11+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "dLv8BBcDNVw",
       "title": "세계 각국에서 접속 차단되고 있는 예측시장 폴리마켓",
       "source_url": "https://www.youtube.com/watch?v=dLv8BBcDNVw",
@@ -971,30 +1009,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "3jWqOQZ1Izc",
-      "title": "금리 신호 나오면 '이 섹터'가 가장 먼저 움직입니다 (박세익 전무 & 체슬리투자자문) | 주식프리미어리그 (10월 12일 촬영)",
-      "source_url": "https://www.youtube.com/watch?v=3jWqOQZ1Izc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/3jWqOQZ1Izc/hqdefault.jpg",
-      "published_at": "2026-10-16T10:40:18+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "interest_rate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "nm3Vl2T4oMY",
@@ -1444,25 +1458,6 @@
       "source_url": "https://www.youtube.com/watch?v=zHRkl6Kg_oQ",
       "thumbnail_url": "https://i3.ytimg.com/vi/zHRkl6Kg_oQ/hqdefault.jpg",
       "published_at": "2026-10-09T09:01:45+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "WmTcNn597FA",
-      "title": "임대료 폭등에 분노한 국민들에게, 정치인들이 말하는 신박한 해법",
-      "source_url": "https://www.youtube.com/watch?v=WmTcNn597FA",
-      "thumbnail_url": "https://i4.ytimg.com/vi/WmTcNn597FA/hqdefault.jpg",
-      "published_at": "2026-10-08T12:04:14+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

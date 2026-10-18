@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T20:21:14.095932+00:00",
+  "generated_at": "2026-10-18T22:53:29.635981+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Qmx3pgh3vQg",
+      "title": "나스닥, AI 관련주 급락에 2% 하락...코어위브 등 네오클라우드 변동성 지속 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=Qmx3pgh3vQg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Qmx3pgh3vQg/hqdefault.jpg",
+      "published_at": "2026-10-18T22:00:14+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "2KemflG6c68",
+      "title": "머스크 \"중국이 D램 쏟아낼 것\"…비싼 메모리에 투정 | \"한은, 기준금리 10월 동결, 11월엔 인상 유력\" | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=2KemflG6c68",
+      "thumbnail_url": "https://i3.ytimg.com/vi/2KemflG6c68/hqdefault.jpg",
+      "published_at": "2026-10-18T20:23:21+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "iHTpyk-eSWQ",
       "title": "대응하기 어려운 시장, 주도주를 찾는 '기준'을 함께 짚어보았습니다 (박세익 전무 & 체슬리투자자문) | 주식프리미어리그 (10월 12일 촬영)",
@@ -1147,44 +1190,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "0SYco_PNmXM",
-      "title": "머리 깨지는 코스피, 결국 세력들이 왕? | 하창완 & 빈센트 [더블 체크]",
-      "source_url": "https://www.youtube.com/shorts/0SYco_PNmXM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/0SYco_PNmXM/hqdefault.jpg",
-      "published_at": "2026-10-16T07:57:27+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "UfwZdXfzMkw",
-      "title": "미국 CPI 발표 후 크게 흔들리는 시장, 불안 해소 언제 될까? | 백찬규 NH투자증권 센터장 [아침N투자]",
-      "source_url": "https://www.youtube.com/shorts/UfwZdXfzMkw",
-      "thumbnail_url": "https://i2.ytimg.com/vi/UfwZdXfzMkw/hqdefault.jpg",
-      "published_at": "2026-10-16T06:59:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Z0yj8Q3-A7E",

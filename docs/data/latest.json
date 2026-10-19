@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T19:12:51.901742+00:00",
+  "generated_at": "2026-10-19T23:28:51.639855+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,8 +45,8 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
-    "crypto",
     "etf",
     "interest_rate",
     "macro",
@@ -54,6 +54,92 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "0FNztssN8A8",
+      "title": "미국 데이터센터 곳곳 차질 AI 투자 균열…65% 건설 장담 못해 | 불타는 프랑스…국채 금리 수십 년 만에 최고치 찍을 것 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=0FNztssN8A8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/0FNztssN8A8/hqdefault.jpg",
+      "published_at": "2026-10-19T23:17:35+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "interest_rate",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "PoLndyAWfo8",
+      "title": "AI 투자 붕괴 우려는 과도하다? 코어위브 위기론부터 빅테크 실적까지 | 한상희 한화투자증권 수석연구위원 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=PoLndyAWfo8",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PoLndyAWfo8/hqdefault.jpg",
+      "published_at": "2026-10-19T23:06:20+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ywWt2SwvWDE",
+      "title": "JP모건 제이미다이먼 CEO \"미국 경기 좋다\"…코어위브, 반등 출발 이후 변동성 확대 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=ywWt2SwvWDE",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ywWt2SwvWDE/hqdefault.jpg",
+      "published_at": "2026-10-19T22:01:19+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "K3gLY120WDc",
+      "title": "미국 AI·반도체주 저가매수에 나스닥은 웃었다…삼전닉스도 오늘 따라갈까? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=K3gLY120WDc",
+      "thumbnail_url": "https://i4.ytimg.com/vi/K3gLY120WDc/hqdefault.jpg",
+      "published_at": "2026-10-19T20:24:02+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "t2O7mJw0uEU",
       "title": "\"AI 데이터센터 망했다더니 황무지가 거대한 공장으로\"…위성사진에 찍힌 미국의 진짜 상황",
@@ -617,49 +703,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "mqzQAC_fcxQ",
-      "title": "신용잔고 32조 수급 비상! 지금 필요한 건 '매수'가 아닌 '리스크 관리'ㅣ권다영, 유영화 KB증권 PRIME CLUB 차장 [2시 마켓워치]",
-      "source_url": "https://www.youtube.com/watch?v=mqzQAC_fcxQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/mqzQAC_fcxQ/hqdefault.jpg",
-      "published_at": "2026-10-19T06:02:01+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "2KemflG6c68",
-      "title": "[26.10.19 오전 방송 전체보기] 채무부담·유가 상승 속 뉴욕증시 일제히 하락...AI·반도체에 집중된 매도",
-      "source_url": "https://www.youtube.com/watch?v=2KemflG6c68",
-      "thumbnail_url": "https://i3.ytimg.com/vi/2KemflG6c68/hqdefault.jpg",
-      "published_at": "2026-10-19T06:00:49+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "oW6s-tf_kLM",
       "title": "삼성전자만 보지 마세요 반도체 다음 수혜주는 '여기' #민재기",
       "source_url": "https://www.youtube.com/shorts/oW6s-tf_kLM",
@@ -677,44 +720,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "fhtxYFRAnLM",
-      "title": "삼백만 기념, 더 피플 \"김프로를 털다\" [2부] | 김동환 삼프로TV 의장 [더 피플]",
-      "source_url": "https://www.youtube.com/watch?v=fhtxYFRAnLM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fhtxYFRAnLM/hqdefault.jpg",
-      "published_at": "2026-10-19T04:57:12+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8kRZms73ieU",
-      "title": "캐시 우드가 주목하는 AI 혁명과 비트코인의 미래 | 김동환, 박지원, 캐시 우드(Cathie Wood) ARK Invest CEO [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=8kRZms73ieU",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8kRZms73ieU/hqdefault.jpg",
-      "published_at": "2026-10-19T03:30:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "iHTpyk-eSWQ",

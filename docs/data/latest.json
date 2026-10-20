@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T19:04:48.721216+00:00",
+  "generated_at": "2026-10-20T23:03:14.024634+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -46,7 +46,6 @@
   ],
   "topics": [
     "commodities",
-    "crypto",
     "etf",
     "fx",
     "interest_rate",
@@ -55,6 +54,63 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "yO65qdIdYgo",
+      "title": "\"빠질 가능성보다 상승 가능성이 높다\" 외국인 매도 정점 지났나? | 신영증권 김효진 박사 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=yO65qdIdYgo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/yO65qdIdYgo/hqdefault.jpg",
+      "published_at": "2026-10-20T22:44:00+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Jm79OSl03f0",
+      "title": "스페이스X, AI 부문 호실적에 시간외 상승…미국·이란, 예비 승인 타협안 기대감 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=Jm79OSl03f0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Jm79OSl03f0/hqdefault.jpg",
+      "published_at": "2026-10-20T21:56:18+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "ejai69EoQg8",
+      "title": "미국 상승도 소용없다, 흔들리는 반도체주…날개없는 추락은 어디까지? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=ejai69EoQg8",
+      "thumbnail_url": "https://i2.ytimg.com/vi/ejai69EoQg8/hqdefault.jpg",
+      "published_at": "2026-10-20T20:26:31+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "7b9U04PWESA",
       "title": "삼성전자, 하이닉스 하락 막을 수 없나? 코스피 2가지만 확인해라   [10/20 부티플 증시 라이브]",
@@ -635,68 +691,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "H67k1BAIBf8",
-      "title": "이제는 코인도 ’펀더멘탈의 시대’ 돈 버는 코인의 조건은?  | 서동주, 김동환, 조동현 언디파인드랩스 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=H67k1BAIBf8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/H67k1BAIBf8/hqdefault.jpg",
-      "published_at": "2026-10-20T03:11:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6p40aWxBKNc",
-      "title": "고조되는 지정학적 불안, 비트코인 하락 전환 시작되나? | 서동주, 김동환, 함지현 블록미디어 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=6p40aWxBKNc",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6p40aWxBKNc/hqdefault.jpg",
-      "published_at": "2026-10-20T02:47:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "8qck1dPP4Rg",
-      "title": "\"구글조차 메모리 구하러 다닌다” 코어위브 쇼크는 단순 변동성? | 정우창 NH투자증권 부장 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=8qck1dPP4Rg",
-      "thumbnail_url": "https://i1.ytimg.com/vi/8qck1dPP4Rg/hqdefault.jpg",
-      "published_at": "2026-10-20T02:27:29+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
           "stance": "neutral"
         }
       ],

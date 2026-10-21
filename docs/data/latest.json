@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T19:13:07.417808+00:00",
+  "generated_at": "2026-10-21T23:06:25.191886+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,11 +48,72 @@
     "commodities",
     "etf",
     "macro",
-    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "KLY4_VCgqe4",
+      "title": "\"지금은 분할 매수할 타이밍\"…삼성전자·SK하이닉스 반등, 다음 주 빅테크 실적에 달렸다? | 김장열 유니스토리자산운용 리서치센터 센터장 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=KLY4_VCgqe4",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KLY4_VCgqe4/hqdefault.jpg",
+      "published_at": "2026-10-21T22:53:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "AVqXPwaziYo",
+      "title": "메타, 소송 비용 반영에도 서프라이즈…테슬라, FSD 호조에 마진 개선 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=AVqXPwaziYo",
+      "thumbnail_url": "https://i2.ytimg.com/vi/AVqXPwaziYo/hqdefault.jpg",
+      "published_at": "2026-10-21T21:57:56+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "xhuxRU8a8rY",
+      "title": "미국 실적 발표에 다시 들뜬 글로벌 증시, 오늘 우리장까지 영향 받을까 | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=xhuxRU8a8rY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xhuxRU8a8rY/hqdefault.jpg",
+      "published_at": "2026-10-21T20:27:23+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "8cbtlzEtE30",
       "title": "솔리다임 상장, sk하이닉스 의 배신? 주주들의 분노, 삼성전자는 괜찮은가?  [10/20 부티플 증시 라이브]",
@@ -687,30 +748,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "k686F8SVfEk",
-      "title": "내려올 만큼 내려왔지만 매수는 아직 이르다…현금 투입보다 교체매매를 선택해야 하는 이유ㅣ권다영, 이지환 오로라투자자문 대표 [2시 마켓워치]",
-      "source_url": "https://www.youtube.com/watch?v=k686F8SVfEk",
-      "thumbnail_url": "https://i4.ytimg.com/vi/k686F8SVfEk/hqdefault.jpg",
-      "published_at": "2026-10-21T05:55:48+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "bkcCODnNtz4",
       "title": "2028년까지 이어질 공급 부족? 삼성전자 실적 전망!",
       "source_url": "https://www.youtube.com/shorts/bkcCODnNtz4",
@@ -747,44 +784,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "DteOB2F5NsY",
-      "title": "관우를 치료한 화타, 이미 죽었다? | 이성원 전남대 교수 [이성원의 삼국지]",
-      "source_url": "https://www.youtube.com/shorts/DteOB2F5NsY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/DteOB2F5NsY/hqdefault.jpg",
-      "published_at": "2026-10-21T04:00:21+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "RbrDrLBVTi8",
-      "title": "클래리티 법안 부결 이후, 미국 중간선거와 한국 디지털자산 기본법의 향방 | 서동주, 김동환, 한서희 법무법인 광장 변호사 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=RbrDrLBVTi8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RbrDrLBVTi8/hqdefault.jpg",
-      "published_at": "2026-10-21T03:40:44+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "policy"
-      ],
-      "topic_stances": [
-        {
-          "topic": "policy",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "x-9NgDST5bY",

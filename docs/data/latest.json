@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:08:33.085710+00:00",
+  "generated_at": "2026-10-22T23:05:38.089340+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -53,6 +53,68 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "BOGalkxQkEc",
+      "title": "미국보다 더 빠진 한국 증시….실적과 주가의 엇갈림, 시장은 무엇을 놓쳤나? | 이선엽 AFW파트너스 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=BOGalkxQkEc",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BOGalkxQkEc/hqdefault.jpg",
+      "published_at": "2026-10-22T22:51:10+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "COVlzkuxAc0",
+      "title": "블룸에너지, 호실적에도 급락…AI 관련주 투매 확산세 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=COVlzkuxAc0",
+      "thumbnail_url": "https://i4.ytimg.com/vi/COVlzkuxAc0/hqdefault.jpg",
+      "published_at": "2026-10-22T22:00:56+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "a4vLiofm0wU",
+      "title": "솔리다임 상장·기업 실적에 몰린 관심…이번주 마지막 거래일 괜찮을까? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=a4vLiofm0wU",
+      "thumbnail_url": "https://i2.ytimg.com/vi/a4vLiofm0wU/hqdefault.jpg",
+      "published_at": "2026-10-22T20:29:57+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "NJCjsvnprUQ",
       "title": "[미드나잇효] 상황이 엄중하네요...",
@@ -640,68 +702,6 @@
         "crypto"
       ],
       "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "xhuxRU8a8rY",
-      "title": "[26.10.22 오전 방송 전체보기] 기술주 중심 상승 속 뉴욕증시 상승 마감...메타·테슬라 실적발표",
-      "source_url": "https://www.youtube.com/watch?v=xhuxRU8a8rY",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xhuxRU8a8rY/hqdefault.jpg",
-      "published_at": "2026-10-22T03:16:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "Lb9Qnx5GM7o",
-      "title": "조조의 머리를 열겠다고?  | 이성원 전남대 교수 [이성원의 삼국지]",
-      "source_url": "https://www.youtube.com/shorts/Lb9Qnx5GM7o",
-      "thumbnail_url": "https://i1.ytimg.com/vi/Lb9Qnx5GM7o/hqdefault.jpg",
-      "published_at": "2026-10-22T03:00:00+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "5-u5PYan9vE",
-      "title": "미국 OCC '지니어스법 최종 규칙' 발표, 스테이블코인 준비금·자본금 기준이 관건 | 서동주, 김동환, 함지현 블록미디어 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=5-u5PYan9vE",
-      "thumbnail_url": "https://i2.ytimg.com/vi/5-u5PYan9vE/hqdefault.jpg",
-      "published_at": "2026-10-22T02:40:30+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
         {
           "topic": "crypto",
           "stance": "neutral"

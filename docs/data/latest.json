@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T14:46:39.930724+00:00",
+  "generated_at": "2026-10-23T18:57:20.952585+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -150,7 +150,7 @@
     },
     {
       "video_id": "9m2mas-xlv0",
-      "title": "\"국가에서 주는 최고의 혜택\" 남는 돈 저축 하지말고 싹다 이 통장으로 옮겨라 | 포메뽀꼬 3부 #돈쭐남 #김경필",
+      "title": "19.5% 역대급 통장 떴다 \"매달 50만원씩 넣으세요\" 나이제한, 소득제한 없습니다 | 포메뽀꼬 3부 #돈쭐남 #김경필",
       "source_url": "https://www.youtube.com/watch?v=9m2mas-xlv0",
       "thumbnail_url": "https://i2.ytimg.com/vi/9m2mas-xlv0/hqdefault.jpg",
       "published_at": "2026-10-23T10:30:36+00:00",
@@ -193,17 +193,22 @@
     },
     {
       "video_id": "LOYNR8Z9J38",
-      "title": "해외에선 벌써 주식을 잘게 쪼개 거래합니다, 2028년이면 미국 개인도 제도권에서 토큰화 주식을 삽니다ㅣ거스 쿤 작가",
+      "title": "JP모건이 향후 10년 연평균 10% 이상을 전망한 자산, 미국 주식도 채권도 금도 아니었습니다ㅣ거스 쿤 작가",
       "source_url": "https://www.youtube.com/watch?v=LOYNR8Z9J38",
       "thumbnail_url": "https://i1.ytimg.com/vi/LOYNR8Z9J38/hqdefault.jpg",
       "published_at": "2026-10-23T10:00:18+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
-        "stocks"
+        "stocks",
+        "bonds"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
           "stance": "neutral"
         }
       ],

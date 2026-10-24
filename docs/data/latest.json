@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:36:50.863795+00:00",
+  "generated_at": "2026-10-24T14:22:05.476173+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "t-IIGGFe80U",
+      "title": "추락하는 일본 GDP, 원인은 무엇인가",
+      "source_url": "https://www.youtube.com/watch?v=t-IIGGFe80U",
+      "thumbnail_url": "https://i1.ytimg.com/vi/t-IIGGFe80U/hqdefault.jpg",
+      "published_at": "2026-10-24T11:02:14+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "2XIKvrhF6Jg",
       "title": "한국 주식 대폭락 임박했다? '이렇게' 안 하면 계좌 싹 녹는다 (슈퍼개미 이정윤 세무사 풀버전)",
@@ -115,7 +134,7 @@
     },
     {
       "video_id": "PWsxC8yfyDo",
-      "title": "한국 6세대 전투기 충격 소문. 미국 내부 발칵 뒤집혔다｜김민석 특파원 풀버전2",
+      "title": "한국 손절에 초비상 걸렸다. 우크라 땅치고 후회중인 이유｜김민석 특파원 풀버전2",
       "source_url": "https://www.youtube.com/watch?v=PWsxC8yfyDo",
       "thumbnail_url": "https://i1.ytimg.com/vi/PWsxC8yfyDo/hqdefault.jpg",
       "published_at": "2026-10-24T08:00:28+00:00",
@@ -716,20 +735,15 @@
     },
     {
       "video_id": "uCDiobopNAQ",
-      "title": "\"10년간 모으세요\" 앞으로 미국 주식 사도 될까요? 이 ETF를 모아야 하는 이유 | 송해준 1부",
+      "title": "\"5060 은퇴 1순위 자산\" 이 3가지 ETF만 있으면 노후 평생 놀고 먹는다 | 송해준 1부",
       "source_url": "https://www.youtube.com/watch?v=uCDiobopNAQ",
       "thumbnail_url": "https://i2.ytimg.com/vi/uCDiobopNAQ/hqdefault.jpg",
       "published_at": "2026-10-23T08:30:18+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
-        "stocks",
         "etf"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "etf",
           "stance": "neutral"
@@ -1474,25 +1488,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "_Th8Z0aTNmk",
-      "title": "주식백화점 大바겐세일",
-      "source_url": "https://www.youtube.com/shorts/_Th8Z0aTNmk",
-      "thumbnail_url": "https://i4.ytimg.com/vi/_Th8Z0aTNmk/hqdefault.jpg",
-      "published_at": "2026-10-16T15:14:08+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T21:58:33.002741+00:00",
+  "generated_at": "2026-10-24T00:29:30.646560+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -48,11 +48,93 @@
     "bonds",
     "commodities",
     "etf",
+    "interest_rate",
     "macro",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "LF6m5BUKhQc",
+      "title": "\"현금은 전체 자산의 1%도 안 들고 있습니다\" 돈이 생길 때마다 옮겨두는 곳은 주식이 아닌 바로 '이것'입니다",
+      "source_url": "https://www.youtube.com/watch?v=LF6m5BUKhQc",
+      "thumbnail_url": "https://i1.ytimg.com/vi/LF6m5BUKhQc/hqdefault.jpg",
+      "published_at": "2026-10-24T00:00:37+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "1hVFYpZkqwA",
+      "title": "돈 없어서 전쟁도 못한다. 쫄딱 망해버린 중국 근황｜조현승 박사 4부",
+      "source_url": "https://www.youtube.com/watch?v=1hVFYpZkqwA",
+      "thumbnail_url": "https://i2.ytimg.com/vi/1hVFYpZkqwA/hqdefault.jpg",
+      "published_at": "2026-10-24T00:00:19+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NnBpPCPe8rA",
+      "title": "\"이래서 금리가 무서운 것\" 아무도 말하지 않는 것들. 미국 경제 심상치 않습니다 | 배문성 이사 1부 #김경필 #돈쭐남",
+      "source_url": "https://www.youtube.com/watch?v=NnBpPCPe8rA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NnBpPCPe8rA/hqdefault.jpg",
+      "published_at": "2026-10-24T00:00:11+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "BRhAgo6VIds",
+      "title": "180도 달라진 변동성 장세에서 살아남는 법 | 이지환 오로라투자자문 대표 [주말인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=BRhAgo6VIds",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BRhAgo6VIds/hqdefault.jpg",
+      "published_at": "2026-10-23T23:00:30+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "QXSy9FtQP1o",
       "title": "인도 선관위 조작 논란, 폭발한 인도 청년들",
@@ -322,20 +404,15 @@
     },
     {
       "video_id": "9o6rK85OVdA",
-      "title": "삼성전자, SK하이닉스 지금 안 팔고 버티면, 장기적으로 '이렇게' 됩니다 (빈센트 위원)",
+      "title": "SK하이닉스 지금 안 팔고 버티면, 장기적으로 '이렇게' 될 겁니다 (빈센트 위원)",
       "source_url": "https://www.youtube.com/watch?v=9o6rK85OVdA",
       "thumbnail_url": "https://i2.ytimg.com/vi/9o6rK85OVdA/hqdefault.jpg",
       "published_at": "2026-10-23T08:45:05+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks",
         "commodities"
       ],
       "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
         {
           "topic": "commodities",
           "stance": "neutral"
@@ -600,25 +677,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "v4POJBbqHaQ",
-      "title": "투자자들이 채권을 봐야하는 이유  | 구혜영 NH투자증권 차장 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=v4POJBbqHaQ",
-      "thumbnail_url": "https://i3.ytimg.com/vi/v4POJBbqHaQ/hqdefault.jpg",
-      "published_at": "2026-10-23T02:34:35+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "bonds"
-      ],
-      "topic_stances": [
-        {
-          "topic": "bonds",
           "stance": "neutral"
         }
       ],
@@ -983,25 +1041,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "gbRTMtD3EHQ",
-      "title": "IMF의 마지막 경고 떴다. 한국 곧 끔찍한 충격 올겁니다. 이게 바로 29년 전 실화 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=gbRTMtD3EHQ",
-      "thumbnail_url": "https://i4.ytimg.com/vi/gbRTMtD3EHQ/hqdefault.jpg",
-      "published_at": "2026-10-22T07:00:19+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "UtuS6wf01Tk",
       "title": "\"다들 잘못 알고 있다\" 코스피 폭락한 진짜 이유 곧 어마무시한 일 터진다 | 이권희 대표 1부",
       "source_url": "https://www.youtube.com/watch?v=UtuS6wf01Tk",
@@ -1114,25 +1153,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "4dwojmMjtxM",
-      "title": "이란 사실상 항복 선언 초토화된 혁명수비대 상황 | 김민석 특파원 1부",
-      "source_url": "https://www.youtube.com/watch?v=4dwojmMjtxM",
-      "thumbnail_url": "https://i1.ytimg.com/vi/4dwojmMjtxM/hqdefault.jpg",
-      "published_at": "2026-10-21T09:30:19+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "3qDdNTXhuOg",
@@ -1397,25 +1417,6 @@
       "source_url": "https://www.youtube.com/watch?v=xxFUfAvkvRM",
       "thumbnail_url": "https://i1.ytimg.com/vi/xxFUfAvkvRM/hqdefault.jpg",
       "published_at": "2026-10-18T08:41:12+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "wRF41ozmszY",
-      "title": "\"코어위브 끝났다는 판에 캐시 우드는 어제도 샀다고?\"...점심식사 자리에서 직접 들은 캐시우드의 충격적인 풀매수 이유",
-      "source_url": "https://www.youtube.com/watch?v=wRF41ozmszY",
-      "thumbnail_url": "https://i4.ytimg.com/vi/wRF41ozmszY/hqdefault.jpg",
-      "published_at": "2026-10-18T00:00:31+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "commodities"

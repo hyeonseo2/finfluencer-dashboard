@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T14:10:48.413844+00:00",
+  "generated_at": "2026-10-25T18:15:43.269786+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -120,30 +120,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "djny0bkGyqk",
-      "title": "[슈카월드] 세계 주식시장 하락율 1위 국가의 대책 / 불타는 프랑스, 그 원인은? / 김정은은 사망했는가 / 미국 중간선거, 선 넘는 네거티브 광고 / 미국 부유세 논란",
-      "source_url": "https://www.youtube.com/watch?v=djny0bkGyqk",
-      "thumbnail_url": "https://i1.ytimg.com/vi/djny0bkGyqk/hqdefault.jpg",
-      "published_at": "2026-10-25T11:25:12+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "DRyAA3JvD6M",
       "title": "47년 철학 공부하고 깨달았다, 한국인이 불행한 진짜 이유 (최진석 교수)",
       "source_url": "https://www.youtube.com/watch?v=DRyAA3JvD6M",
@@ -183,17 +159,17 @@
     },
     {
       "video_id": "zYv-cTc36fE",
-      "title": "비상 걸린 일본 지진 초비상 사태, 동일본 대지진때와 똑같습니다 (김기범 교수)",
+      "title": "한반도 지진 심상치 않은 이유, 조만간 한국에 엄청난 일 터진다 (김기범 교수)",
       "source_url": "https://www.youtube.com/watch?v=zYv-cTc36fE",
       "thumbnail_url": "https://i3.ytimg.com/vi/zYv-cTc36fE/hqdefault.jpg",
       "published_at": "2026-10-25T09:45:39+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "macro"
+        "commodities"
       ],
       "topic_stances": [
         {
-          "topic": "macro",
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -564,7 +540,7 @@
     },
     {
       "video_id": "hZ08cHCGEQc",
-      "title": "낭만의 나라 프랑스가 어쩌다? 경제는 위기, 거리엔 분노 | 손진석 조선일보 기자 [신과 대화]",
+      "title": "아수라장 된 파리, 140년 된 시청 건물 불탔다는데... 대체 왜? | 손진석 조선일보 기자 [신과 대화]",
       "source_url": "https://www.youtube.com/watch?v=hZ08cHCGEQc",
       "thumbnail_url": "https://i1.ytimg.com/vi/hZ08cHCGEQc/hqdefault.jpg",
       "published_at": "2026-10-24T23:00:34+00:00",
@@ -1497,6 +1473,25 @@
       "source_url": "https://www.youtube.com/watch?v=mZ22ca3OCYc",
       "thumbnail_url": "https://i2.ytimg.com/vi/mZ22ca3OCYc/hqdefault.jpg",
       "published_at": "2026-10-17T10:20:55+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Lf89bw8zlXM",
+      "title": "삼성 회장님이 1조9천억 원 긁었다는 소문",
+      "source_url": "https://www.youtube.com/shorts/Lf89bw8zlXM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/Lf89bw8zlXM/hqdefault.jpg",
+      "published_at": "2026-10-17T08:06:08+00:00",
       "channel_name": "슈카월드",
       "topics": [
         "macro"

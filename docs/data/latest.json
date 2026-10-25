@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T18:15:43.269786+00:00",
+  "generated_at": "2026-10-25T21:32:53.860736+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -57,6 +57,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "DKPM0LV3vPU",
+      "title": "중동 긴장 고조 속 WTI 유가 100불 돌파...뉴욕증시 하락 마감_26.10.26 | 여도은, 박명석, 성상현 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=DKPM0LV3vPU",
+      "thumbnail_url": "https://i1.ytimg.com/vi/DKPM0LV3vPU/hqdefault.jpg",
+      "published_at": "2026-10-25T20:24:34+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "Jq3Wc8ESOxE",
       "title": "국내증시 -30% 간다? 삼성전자 하이닉스도 -30%? [10/25 부티플 증시 라이브]",
@@ -1171,25 +1195,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "ce-C_sDQKmY",
-      "title": "실적은 계속 좋은데 왜 주가만 무너지나…빈센트가 아직 반도체 피크를 말하지 않는 이유ㅣ홍선애, 빈센트 하나증권 애널리스트 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=ce-C_sDQKmY",
-      "thumbnail_url": "https://i4.ytimg.com/vi/ce-C_sDQKmY/hqdefault.jpg",
-      "published_at": "2026-10-23T08:59:19+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

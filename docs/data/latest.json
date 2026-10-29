@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:36:17.574688+00:00",
+  "generated_at": "2026-10-29T18:51:32.018811+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,149 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "6n_eqt5XpC0",
+      "title": "코스피 다시 하락 시작, 삼성전자 하이닉스 폭락 예정 대응은?  [10/29 부티플 증시 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=6n_eqt5XpC0",
+      "thumbnail_url": "https://i3.ytimg.com/vi/6n_eqt5XpC0/hqdefault.jpg",
+      "published_at": "2026-10-29T13:41:19+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "CmoxCfh8stE",
+      "title": "코스피 다시 하락 시작, 삼성전자 하이닉스 폭락 예정 대응은?  [10/29 부티플 증시 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=CmoxCfh8stE",
+      "thumbnail_url": "https://i4.ytimg.com/vi/CmoxCfh8stE/hqdefault.jpg",
+      "published_at": "2026-10-29T13:33:36+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "lZNFQoZ4DOU",
+      "title": "5060은 이거 하세요 원금 안녹고 15% 나온다 #존버나드 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/shorts/lZNFQoZ4DOU",
+      "thumbnail_url": "https://i1.ytimg.com/vi/lZNFQoZ4DOU/hqdefault.jpg",
+      "published_at": "2026-10-29T13:15:24+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "VoTS2fIfvSA",
+      "title": "SCHD보다 좋은 배당률 배당 + 성장 다 잡았다 #이다훈 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/shorts/VoTS2fIfvSA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/VoTS2fIfvSA/hqdefault.jpg",
+      "published_at": "2026-10-29T13:00:23+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "zLlSNne-X0U",
+      "title": "퇴직연금 포트폴리오 이 1가지만 기억하세요 #인생업 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/shorts/zLlSNne-X0U",
+      "thumbnail_url": "https://i3.ytimg.com/vi/zLlSNne-X0U/hqdefault.jpg",
+      "published_at": "2026-10-29T12:45:20+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NwBEZEZk6Pw",
+      "title": "더도말고 덜도말고 이 1가지만 하세요 #오기찬 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/shorts/NwBEZEZk6Pw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NwBEZEZk6Pw/hqdefault.jpg",
+      "published_at": "2026-10-29T12:30:05+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "nJPmcR7Kzwo",
+      "title": "적금 끊고 여기 넣어라 평생 연금 ETF #쭈압 #돈쭐남 #김경필",
+      "source_url": "https://www.youtube.com/shorts/nJPmcR7Kzwo",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nJPmcR7Kzwo/hqdefault.jpg",
+      "published_at": "2026-10-29T12:15:37+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "etf"
+      ],
+      "topic_stances": [
+        {
+          "topic": "etf",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "DFuuPZ9qI1E",
       "title": "추가 급락 가능성은 줄었지만 12월까지 길어질 조정에 대비하는 법ㅣ명민준, 박가영, 이지환 [주린이 구조대]",
@@ -332,7 +475,7 @@
     },
     {
       "video_id": "XYlCrVW-XdU",
-      "title": "현금 5천만원 있다면, '이 2개 주식' 당장 사세요 (차영주 소장)",
+      "title": "현금 2천만원 '이 주식' 사라, 하늘이 내린 기회 왔습니다 (차영주 소장)",
       "source_url": "https://www.youtube.com/watch?v=XYlCrVW-XdU",
       "thumbnail_url": "https://i1.ytimg.com/vi/XYlCrVW-XdU/hqdefault.jpg",
       "published_at": "2026-10-29T09:21:23+00:00",
@@ -474,25 +617,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "P4qcIamJr_k",
-      "title": "\"경매 물건 쏟아지는 중\" 걱정했던 일이 현실이 됐다. 경기 인천까지 번질 겁니다 | 부투스쿨 1부 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=P4qcIamJr_k",
-      "thumbnail_url": "https://i1.ytimg.com/vi/P4qcIamJr_k/hqdefault.jpg",
-      "published_at": "2026-10-29T08:30:14+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "hUcXSS7PIZo",
       "title": "[10월 29일 마감시황] 삼성전자 실적 발표에 하루 만에 뒤집힌 코스피…하이닉스와 달랐던 시장의 반응ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
       "source_url": "https://www.youtube.com/watch?v=hUcXSS7PIZo",
@@ -567,25 +691,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "19RfQia0c_E",
-      "title": "\"이런 땅 싹 다 몰수된다\" 농지전수조사 조치계획 공식 발표됐습니다 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=19RfQia0c_E",
-      "thumbnail_url": "https://i2.ytimg.com/vi/19RfQia0c_E/hqdefault.jpg",
-      "published_at": "2026-10-29T07:00:13+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "Ug8xu7V8W6M",
@@ -750,54 +855,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "HluqPJpQBpc",
-      "title": "ETF, 주린이 전문!! 매일 듣는 경제 이야기 - 트럼프 [10/27 부티플 증시 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=HluqPJpQBpc",
-      "thumbnail_url": "https://i1.ytimg.com/vi/HluqPJpQBpc/hqdefault.jpg",
-      "published_at": "2026-10-28T13:37:48+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "6n_eqt5XpC0",
-      "title": "코스피 다시 하락 시작, 삼성전자 하이닉스 폭락 예정 대응은?  [10/29 부티플 증시 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=6n_eqt5XpC0",
-      "thumbnail_url": "https://i3.ytimg.com/vi/6n_eqt5XpC0/hqdefault.jpg",
-      "published_at": "2026-10-28T13:30:30+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "75NzqhKOC_c",
       "title": "[SK하이닉스 실적 발표] 삼성전자 9%, SK하이닉스 10% 폭등, 지금 반드시 '이렇게' 하세요 (빈센트 위원)",
       "source_url": "https://www.youtube.com/watch?v=75NzqhKOC_c",
@@ -946,30 +1003,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "faaQ1j5QGHI",
-      "title": "\"1억으로 이렇게 굴리세요\" 올해부터 15%씩 나온다. 원금 지키는 무적 배당 ETF | 장호 박사 2부 #배당투자",
-      "source_url": "https://www.youtube.com/watch?v=faaQ1j5QGHI",
-      "thumbnail_url": "https://i3.ytimg.com/vi/faaQ1j5QGHI/hqdefault.jpg",
-      "published_at": "2026-10-28T09:30:09+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "oCWoGG3_uaE",
       "title": "삼성전자, SK하이닉스 정말 무서울 겁니다, 이번 주 급등하면 조금 파세요  (남석관 회장)",
       "source_url": "https://www.youtube.com/watch?v=oCWoGG3_uaE",
@@ -1013,25 +1046,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "fa9kxExEm7k",
-      "title": "\"노후 생활비 걱정없다\" 월 50만 원씩 3년만 넣으세요. 배당 2배 더 주고 +14%씩 오른다 | 조윤진 작가 1부 #etf투자",
-      "source_url": "https://www.youtube.com/watch?v=fa9kxExEm7k",
-      "thumbnail_url": "https://i3.ytimg.com/vi/fa9kxExEm7k/hqdefault.jpg",
-      "published_at": "2026-10-28T08:30:29+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "F_9_eHN7ueA",
       "title": "\"미군 충격 발어\" 한반도 수상한 움직임 포착. 전쟁 나면 한국에 벌어질 일 #김진앵커",
       "source_url": "https://www.youtube.com/shorts/F_9_eHN7ueA",
@@ -1068,25 +1082,6 @@
       ],
       "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "m5dsrbih9OA",
-      "title": "전세계에서 한국인만 반복하는 가난해지는 행동 1가지 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/shorts/m5dsrbih9OA",
-      "thumbnail_url": "https://i2.ytimg.com/vi/m5dsrbih9OA/hqdefault.jpg",
-      "published_at": "2026-10-28T08:00:04+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "O4e6UBashiM",

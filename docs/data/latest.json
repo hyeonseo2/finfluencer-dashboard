@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T09:25:27.145062+00:00",
+  "generated_at": "2026-10-31T15:38:44.154695+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,101 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "wzWdEhIiK0g",
+      "title": "삼성전자, SK하이닉스 정말 무서울 겁니다, 앞으로 급등할 때마다 파세요 (남석관 회장 풀버전)",
+      "source_url": "https://www.youtube.com/watch?v=wzWdEhIiK0g",
+      "thumbnail_url": "https://i4.ytimg.com/vi/wzWdEhIiK0g/hqdefault.jpg",
+      "published_at": "2026-10-31T12:00:18+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "xwoqgBb8NZY",
+      "title": "11월 3일 미국 부유세 부과 주민투표 시작",
+      "source_url": "https://www.youtube.com/watch?v=xwoqgBb8NZY",
+      "thumbnail_url": "https://i1.ytimg.com/vi/xwoqgBb8NZY/hqdefault.jpg",
+      "published_at": "2026-10-31T11:17:21+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "FDN0zQnzcQs",
+      "title": "일본보다 더 위험한 한반도 대지진, 동해안에 초대형 대지진 옵니다 (김기범 교수)",
+      "source_url": "https://www.youtube.com/watch?v=FDN0zQnzcQs",
+      "thumbnail_url": "https://i3.ytimg.com/vi/FDN0zQnzcQs/hqdefault.jpg",
+      "published_at": "2026-10-31T11:00:09+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "7e5MI8QiHIQ",
+      "title": "한국에 제2의 반도체 탄생. 곧 어마어마한 일 벌어진다 | 윤석천 경제평론가 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=7e5MI8QiHIQ",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7e5MI8QiHIQ/hqdefault.jpg",
+      "published_at": "2026-10-31T10:00:29+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "-jL7NhqBX-w",
+      "title": "정말 미친 AI 나왔습니다, '이것' 모르면 완전 도태된다 (김덕진 교수)",
+      "source_url": "https://www.youtube.com/watch?v=-jL7NhqBX-w",
+      "thumbnail_url": "https://i2.ytimg.com/vi/-jL7NhqBX-w/hqdefault.jpg",
+      "published_at": "2026-10-31T09:30:25+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "UkrBE-yLrVI",
       "title": "사우디 전투기 역대급 폭격 이란 싸그리 초토화 됐다 | 김종대 교수 풀버전 1",
@@ -246,7 +341,7 @@
     },
     {
       "video_id": "mW7c9jFN6VY",
-      "title": "\"1억 생기면 뭐 살래?\" 주식 전문가들의 유쾌한 투자 수다 | 정프로 장우진 빈센트 박가영 이형수 [여의도 투자회담]",
+      "title": "\"1억 생기면 뭐 살래?\" 험난한 코스피 속 생존 전략 | 정프로 장우진 빈센트 박가영 이형수 [여의도 투자회담]",
       "source_url": "https://www.youtube.com/watch?v=mW7c9jFN6VY",
       "thumbnail_url": "https://i2.ytimg.com/vi/mW7c9jFN6VY/hqdefault.jpg",
       "published_at": "2026-10-31T01:10:43+00:00",
@@ -1188,25 +1283,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "cE5t8a7_S9M",
-      "title": "미국 긴급철수한 진짜 이유 곧 중동에 피바람이 분다｜김민석 특파원 2부",
-      "source_url": "https://www.youtube.com/watch?v=cE5t8a7_S9M",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cE5t8a7_S9M/hqdefault.jpg",
-      "published_at": "2026-10-29T09:30:34+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "QlRqJ1TJny4",
       "title": "가치투자, 차트투자 버렸다, 결국 부자되는 주식투자 법 (라오어 작가, shorts)",
       "source_url": "https://www.youtube.com/shorts/QlRqJ1TJny4",
@@ -1219,73 +1295,6 @@
       "topic_stances": [
         {
           "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "XYlCrVW-XdU",
-      "title": "현금 2천만원 '이 주식' 사라, 하늘이 내린 기회 왔습니다 (차영주 소장)",
-      "source_url": "https://www.youtube.com/watch?v=XYlCrVW-XdU",
-      "thumbnail_url": "https://i1.ytimg.com/vi/XYlCrVW-XdU/hqdefault.jpg",
-      "published_at": "2026-10-29T09:21:23+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "JYpKS3rU6FM",
-      "title": "5년만에 140억 벌었어요, '단 2개 주식만' 샀어요 (라오어 작가)",
-      "source_url": "https://www.youtube.com/shorts/JYpKS3rU6FM",
-      "thumbnail_url": "https://i3.ytimg.com/vi/JYpKS3rU6FM/hqdefault.jpg",
-      "published_at": "2026-10-29T08:51:13+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "75NzqhKOC_c",
-      "title": "[SK하이닉스 실적 발표] 삼성전자 9%, SK하이닉스 10% 폭등, 지금 반드시 '이렇게' 하세요 (빈센트 위원)",
-      "source_url": "https://www.youtube.com/watch?v=75NzqhKOC_c",
-      "thumbnail_url": "https://i4.ytimg.com/vi/75NzqhKOC_c/hqdefault.jpg",
-      "published_at": "2026-10-28T12:30:27+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1457,25 +1466,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qpu_kIMdo0k",
-      "title": "주식시장 K-사고방식",
-      "source_url": "https://www.youtube.com/shorts/qpu_kIMdo0k",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qpu_kIMdo0k/hqdefault.jpg",
-      "published_at": "2026-10-21T05:09:04+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

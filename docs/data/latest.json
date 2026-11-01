@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-01T18:20:42.950002+00:00",
+  "generated_at": "2026-11-01T22:38:03.373641+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "bqD6uhxMXes",
+      "title": "인텔·샌디스크 등 반도체 급락...AI 투자 불안감 지속 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=bqD6uhxMXes",
+      "thumbnail_url": "https://i3.ytimg.com/vi/bqD6uhxMXes/hqdefault.jpg",
+      "published_at": "2026-11-01T22:02:43+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "QlzNCuLk0hw",
+      "title": "인텔 29% 폭락·AI 기업 실적 저조…K증시 향방은? | 이재용 회장도 직접 챙기는 '로봇'…미·중 양강에 도전한다 | 정프로, 이주호, 류종은, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=QlzNCuLk0hw",
+      "thumbnail_url": "https://i2.ytimg.com/vi/QlzNCuLk0hw/hqdefault.jpg",
+      "published_at": "2026-11-01T20:31:46+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "5yHhsyZ8oRk",
       "title": "[주말효] AI 주가 급락을 만든 용의자를 찾았습니다! | 버틸 수 있는 구조",
@@ -1083,25 +1126,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "MvowM8J6-SI",
-      "title": "중간선거보다 더 중요한 다음 변수…미국 전력망 인허가, 그린산업의 분기점ㅣ홍선애, 한병화 유진투자증권 이사 [여의도 인사이트]",
-      "source_url": "https://www.youtube.com/watch?v=MvowM8J6-SI",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MvowM8J6-SI/hqdefault.jpg",
-      "published_at": "2026-10-30T09:15:26+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "tXWs9zUqR-g",
       "title": "김정은 사망 루머를 퍼트린자는 누구인가",
       "source_url": "https://www.youtube.com/watch?v=tXWs9zUqR-g",
@@ -1157,25 +1181,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "jIq6dsZ-yQ8",
-      "title": "[10월 30일 마감시황] AI 산업의 성장통인가, 본격적인 위기의 시작인가…실적 쇼크 이후 시장이 확인해야 할 것들ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=jIq6dsZ-yQ8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/jIq6dsZ-yQ8/hqdefault.jpg",
-      "published_at": "2026-10-30T07:58:45+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "BvxWJg1Lz6E",

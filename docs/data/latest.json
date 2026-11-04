@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T14:01:57.108735+00:00",
+  "generated_at": "2026-11-04T21:07:37.819063+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Npknxry4JdY",
+      "title": "뉴욕증시, 중간선거 민주당 압승·트럼프 승복에 급등…다우 3%↑_26.11.05 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=Npknxry4JdY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Npknxry4JdY/hqdefault.jpg",
+      "published_at": "2026-11-04T20:21:44+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "pZPJ-_BfQew",
       "title": "블루 쓰나미 왔다! 반도체도 상승 가능한가? -3 11/04 화요일 부티플 실시간 증시 라이브",
@@ -391,7 +415,7 @@
     },
     {
       "video_id": "PD156ViVYlE",
-      "title": "증시 폭락 공포 역대급 기회, 그때 '이 주식' 죽어라 사세요 (김동엽 대표)",
+      "title": "증시 큰 조정이 올 겁니다, 그때 '이 주식을' 꼭 사세요 (김동엽 대표)",
       "source_url": "https://www.youtube.com/watch?v=PD156ViVYlE",
       "thumbnail_url": "https://i1.ytimg.com/vi/PD156ViVYlE/hqdefault.jpg",
       "published_at": "2026-11-04T08:45:09+00:00",
@@ -757,25 +781,6 @@
       "source_url": "https://www.youtube.com/shorts/onRqv3wevgo",
       "thumbnail_url": "https://i4.ytimg.com/vi/onRqv3wevgo/hqdefault.jpg",
       "published_at": "2026-11-04T03:30:11+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zebCYfCBLq8",
-      "title": "[26.11.04 오전 방송 전체보기] 미국 중간선거 D-DAY 기술주 중심 '반등'...AMD 실적, 결과는?",
-      "source_url": "https://www.youtube.com/watch?v=zebCYfCBLq8",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zebCYfCBLq8/hqdefault.jpg",
-      "published_at": "2026-11-04T03:21:19+00:00",
       "channel_name": "삼프로TV 3PROTV",
       "topics": [
         "macro"

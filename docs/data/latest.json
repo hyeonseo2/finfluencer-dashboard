@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T14:52:13.707605+00:00",
+  "generated_at": "2026-11-06T20:44:58.395029+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,25 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "WvYPxSAC7Ro",
+      "title": "[미드나잇효] 나스닥, 급락후 반등, 긴장되는 밤",
+      "source_url": "https://www.youtube.com/watch?v=WvYPxSAC7Ro",
+      "thumbnail_url": "https://i4.ytimg.com/vi/WvYPxSAC7Ro/hqdefault.jpg",
+      "published_at": "2026-11-06T16:16:42+00:00",
+      "channel_name": "이효석아카데미",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "lioIrGMoIbs",
       "title": "좋은 사람 있으면 소개시켜줘",
@@ -201,17 +220,22 @@
     },
     {
       "video_id": "HhR3ACyM5t4",
-      "title": "이번 폭락장 때 오히려 오른 종목, '딱 3개 종목만' 알려드릴게요 (주식장인 이창대 대표)",
+      "title": "제약·바이오주 '이 주식' 조금 사세요, 실적 폭발하는데 주가만 역대급 바닥 (주식장인 이창대 대표)",
       "source_url": "https://www.youtube.com/watch?v=HhR3ACyM5t4",
       "thumbnail_url": "https://i1.ytimg.com/vi/HhR3ACyM5t4/hqdefault.jpg",
       "published_at": "2026-11-06T10:30:03+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "stocks"
+        "stocks",
+        "commodities"
       ],
       "topic_stances": [
         {
           "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
           "stance": "neutral"
         }
       ],
@@ -1468,25 +1492,6 @@
       "source_url": "https://www.youtube.com/watch?v=U4zDhfoJc2I",
       "thumbnail_url": "https://i2.ytimg.com/vi/U4zDhfoJc2I/hqdefault.jpg",
       "published_at": "2026-10-30T09:00:00+00:00",
-      "channel_name": "이효석아카데미",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCxvdCnvGODDyuvnELnLkQWw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/GZorXpbNosUQkhi32M8ejQ8V_pA_K_szZpr9ELJQDOKep4UiSeMNjPWMDf5Js958fngLQGQWSg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "BvxWJg1Lz6E",
-      "title": "한 번에 2천만 원을 넣는다면? 적립식 vs 거치식 종결",
-      "source_url": "https://www.youtube.com/shorts/BvxWJg1Lz6E",
-      "thumbnail_url": "https://i3.ytimg.com/vi/BvxWJg1Lz6E/hqdefault.jpg",
-      "published_at": "2026-10-30T04:31:34+00:00",
       "channel_name": "이효석아카데미",
       "topics": [
         "macro"

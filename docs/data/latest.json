@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T16:37:05.632589+00:00",
+  "generated_at": "2026-11-08T20:59:48.468796+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,30 @@
   ],
   "videos": [
     {
+      "video_id": "Qe8YPDua9eM",
+      "title": "기술주 저가 매수 유입 속 나스닥 1%대 반등...AI주 투매 끝났나?_26.11.09 | 여도은, 박명석, 성상현 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=Qe8YPDua9eM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Qe8YPDua9eM/hqdefault.jpg",
+      "published_at": "2026-11-08T20:29:53+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "dykLzOJmOqE",
       "title": "예견된 코스피 5천 붕괴! 언제 다시 상승할까?  [11/08 일요일 부티플 실시간 증시 라이브]",
       "source_url": "https://www.youtube.com/watch?v=dykLzOJmOqE",
@@ -76,7 +100,7 @@
     },
     {
       "video_id": "EIQz8T1-cbE",
-      "title": "\"겨우 오라클 계약 하나가 끝났는데 왜?\"... 엔비디아와 하이닉스까지 출렁일 수 있는 이유",
+      "title": "\"수면위로 올라오는 악재의 실채\"... 해결을 위한 진통제를 투여하는 과정",
       "source_url": "https://www.youtube.com/watch?v=EIQz8T1-cbE",
       "thumbnail_url": "https://i2.ytimg.com/vi/EIQz8T1-cbE/hqdefault.jpg",
       "published_at": "2026-11-08T13:19:01+00:00",
@@ -1158,25 +1182,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "-6ktwDvP4vM",
-      "title": "[11월 6일 마감시황] 업황이 정말 그만큼 나빠졌나…당장 실적보다 무서운 미래 투자 축소 우려ㅣ홍선애, 이권희, 하창완 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=-6ktwDvP4vM",
-      "thumbnail_url": "https://i2.ytimg.com/vi/-6ktwDvP4vM/hqdefault.jpg",
-      "published_at": "2026-11-06T08:07:52+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "pIDj6SvKnrQ",

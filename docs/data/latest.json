@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T17:34:53.916995+00:00",
+  "generated_at": "2026-11-10T23:00:51.848899+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -49,12 +49,66 @@
     "crypto",
     "etf",
     "fx",
+    "interest_rate",
     "macro",
     "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "eScBBegrUtM",
+      "title": "10월 CPI 예상치 상회…앤트로픽, 시가총액 최대 1조 4천억 달러 | 여도은, 박명석 큐레이터 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=eScBBegrUtM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eScBBegrUtM/hqdefault.jpg",
+      "published_at": "2026-11-10T22:27:48+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "fx",
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "fx",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "BJYRChkhW-M",
+      "title": "미국 경제 지표 발표에 금리인상 가능성…돌아온 외국인, 오늘도 국내증시서 자리 지켜줄까? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=BJYRChkhW-M",
+      "thumbnail_url": "https://i3.ytimg.com/vi/BJYRChkhW-M/hqdefault.jpg",
+      "published_at": "2026-11-10T20:30:22+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "SFbXyfHM7rQ",
       "title": "진짜 반등인가? 이제 삼성전자, 하이닉스 지금인가? 추가매수 할까?  [11/10 화요일 부티플 실시간 증시 라이브]",
@@ -644,44 +698,6 @@
         },
         {
           "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "zji1R38ZLAo",
-      "title": "미국 토큰화 증권, 허가에서 신고제로…새로운 주식 거래 시대 열리나 | 김동환, 서동주, 박상혁, 이성산 솔라나 코리아 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=zji1R38ZLAo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/zji1R38ZLAo/hqdefault.jpg",
-      "published_at": "2026-11-10T04:05:24+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "eCWlUsZmh6o",
-      "title": "중간선거 이후 달라진 비트코인에 대한 인식, 디지털 금에서 위험자산으로 돌아섰다? | 서동주, 김동환, 함지현 블록미디어 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=eCWlUsZmh6o",
-      "thumbnail_url": "https://i2.ytimg.com/vi/eCWlUsZmh6o/hqdefault.jpg",
-      "published_at": "2026-11-10T03:35:13+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
           "stance": "neutral"
         }
       ],

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:51:34.229682+00:00",
+  "generated_at": "2026-11-11T21:08:37.434322+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,49 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "qQvmbjl2Fr0",
+      "title": "AI 투자 우려 완화에 뉴욕증시 상승 마감...네오클라우드주 '급등'_26.11.12 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=qQvmbjl2Fr0",
+      "thumbnail_url": "https://i2.ytimg.com/vi/qQvmbjl2Fr0/hqdefault.jpg",
+      "published_at": "2026-11-11T20:28:26+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "y0L9GYE9vBg",
+      "title": "하락 한 번 더 남았다 도대체 언제까지 떨어지나 [11/11 수요일 부티플 실시간 증시 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=y0L9GYE9vBg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/y0L9GYE9vBg/hqdefault.jpg",
+      "published_at": "2026-11-11T16:47:59+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "ShvaHQ62JlA",
       "title": "반도체 폭락 했을때? 이 ETF부터 담아라 #인생업 #돈쭐남 #김경필",
@@ -807,54 +850,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "BJYRChkhW-M",
-      "title": "[26.11.11 오전 방송 전체보기] 예상치 상회한 CPI에 12월 금리인상 우려...뉴욕증시 하락 마감",
-      "source_url": "https://www.youtube.com/watch?v=BJYRChkhW-M",
-      "thumbnail_url": "https://i3.ytimg.com/vi/BJYRChkhW-M/hqdefault.jpg",
-      "published_at": "2026-11-11T03:15:54+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "interest_rate",
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "interest_rate",
-          "stance": "neutral"
-        },
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "y0L9GYE9vBg",
-      "title": "하락 한 번 더 남았다 도대체 언제까지 떨어지나 [11/10 화요일 부티플 실시간 증시 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=y0L9GYE9vBg",
-      "thumbnail_url": "https://i2.ytimg.com/vi/y0L9GYE9vBg/hqdefault.jpg",
-      "published_at": "2026-11-10T13:42:02+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "FcqxWV8vBIY",

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:44:42.751042+00:00",
+  "generated_at": "2026-11-12T23:59:55.335655+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -45,6 +45,7 @@
     }
   ],
   "topics": [
+    "bonds",
     "commodities",
     "crypto",
     "etf",
@@ -55,6 +56,140 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Zk2HOnQ-yUM",
+      "title": "젠슨 황 엔비디아 CEO 퇴진…세번째 불륜 등장 | 온양 캠퍼스 삼성 3사 첫삽…충청 메가프로젝트 급물살 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=Zk2HOnQ-yUM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Zk2HOnQ-yUM/hqdefault.jpg",
+      "published_at": "2026-11-12T23:43:11+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "jvYxhzuJWds",
+      "title": "앞으로 4년 전세계 현금 여기로 몰린다 #김창익교수",
+      "source_url": "https://www.youtube.com/shorts/jvYxhzuJWds",
+      "thumbnail_url": "https://i3.ytimg.com/vi/jvYxhzuJWds/hqdefault.jpg",
+      "published_at": "2026-11-12T23:30:35+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "commodities",
+        "real_estate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "real_estate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "9e-V_r0N-qI",
+      "title": "미국의 중국 반도체 압박 본격화? 엔비디아 논란 이후 삼성전자·SK하이닉스, 기회되나 | 여도은, 노근창 세미콘리서치랩 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=9e-V_r0N-qI",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9e-V_r0N-qI/hqdefault.jpg",
+      "published_at": "2026-11-12T22:58:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Sa7ZwiJc2jY",
+      "title": "젠슨 황 엔비디아 CEO 불명예 퇴진…네비우스, 추가 채권 발행 우려에 급락 | 여도은, 박명석 큐레이터 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=Sa7ZwiJc2jY",
+      "thumbnail_url": "https://i4.ytimg.com/vi/Sa7ZwiJc2jY/hqdefault.jpg",
+      "published_at": "2026-11-12T22:17:03+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "bonds"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "bonds",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "Uk0ZY0x7ehg",
+      "title": "[11월 13일 개장시황] 빈센트, 정프로, 이재규, 박준영, 편다송, 조희진 [더블 밸류업]",
+      "source_url": "https://www.youtube.com/watch?v=Uk0ZY0x7ehg",
+      "thumbnail_url": "https://i2.ytimg.com/vi/Uk0ZY0x7ehg/hqdefault.jpg",
+      "published_at": "2026-11-12T20:38:28+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "MC0xJFRIPyY",
+      "title": "삼성전자,하이닉스만 주식이 아니다. 돈은 다른곳으로 이동하고 있다 [11/12 목요일 부티플 실시간 증시 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=MC0xJFRIPyY",
+      "thumbnail_url": "https://i2.ytimg.com/vi/MC0xJFRIPyY/hqdefault.jpg",
+      "published_at": "2026-11-12T18:50:51+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "yusjnsBGiio",
       "title": "삼성전자,하이닉스만 주식이 아니다. 돈은 다른곳으로 이동하고 있다 [11/12 목요일 부티플 실시간 증시 라이브]",
@@ -97,30 +232,6 @@
       ],
       "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "MC0xJFRIPyY",
-      "title": "삼성전자,하이닉스만 주식이 아니다. 돈은 다른곳으로 이동하고 있다 [11/12 목요일 부티플 실시간 증시 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=MC0xJFRIPyY",
-      "thumbnail_url": "https://i2.ytimg.com/vi/MC0xJFRIPyY/hqdefault.jpg",
-      "published_at": "2026-11-12T11:35:23+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "f-KBB3g34Uo",
@@ -575,82 +686,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "xEgjZCzIvFQ",
-      "title": "거래량 줄어든 눈치보기 장세, 기존 보유자만 있는 종목 대신 신규 자금 몰리는 곳에 집중하세요ㅣ권다영, 차영주 와이즈경제연구소 소장 [2시 마켓워치]",
-      "source_url": "https://www.youtube.com/watch?v=xEgjZCzIvFQ",
-      "thumbnail_url": "https://i1.ytimg.com/vi/xEgjZCzIvFQ/hqdefault.jpg",
-      "published_at": "2026-11-12T05:54:20+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cld93O7T6fc",
-      "title": "RWA 시장 400억 달러 돌파, 토큰화 금융이 바꾸는 블록체인 생태계 | 서동주, 김동환, 김종승 엑스크립톤 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=cld93O7T6fc",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cld93O7T6fc/hqdefault.jpg",
-      "published_at": "2026-11-12T03:49:09+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "fx"
-      ],
-      "topic_stances": [
-        {
-          "topic": "fx",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "L-MKyoQXqi8",
-      "title": "비트코인 현물 수요 위축에 스트래티지 MSCI 편출까지…흔들리는 디지털 자산 시장 | 서동주, 김동환, 박현영 뉴스1 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=L-MKyoQXqi8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/L-MKyoQXqi8/hqdefault.jpg",
-      "published_at": "2026-11-12T03:36:38+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "qQvmbjl2Fr0",
-      "title": "[26.11.12 오전 방송 전체보기] AI 투자 우려 완화에 뉴욕증시 상승 마감...네오클라우드주 '급등'",
-      "source_url": "https://www.youtube.com/watch?v=qQvmbjl2Fr0",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qQvmbjl2Fr0/hqdefault.jpg",
-      "published_at": "2026-11-12T03:17:55+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "5s8NiG97Q-I",
       "title": "[속보효] 엔비디아 이사회 젠슨황 CEO 해임 가능성?",
       "source_url": "https://www.youtube.com/watch?v=5s8NiG97Q-I",
@@ -996,25 +1031,6 @@
       ],
       "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "uzrCGuJvPPo",
-      "title": "한국 원유 선박 싹다 통과. 이란 한국에 벌벌 기는 이유｜김종대 교수 1부",
-      "source_url": "https://www.youtube.com/watch?v=uzrCGuJvPPo",
-      "thumbnail_url": "https://i2.ytimg.com/vi/uzrCGuJvPPo/hqdefault.jpg",
-      "published_at": "2026-11-11T07:30:08+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "kUOygKNl-zY",

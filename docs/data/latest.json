@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T16:15:50.144499+00:00",
+  "generated_at": "2026-11-15T21:32:56.854694+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -54,6 +54,35 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "nRr8HYVQvMY",
+      "title": "반도체주 동반 하락 속 뉴욕증시 혼조 마감...10년물 금리 5% 재돌파_26.11.16 | 여도은, 박명석, 성상현 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=nRr8HYVQvMY",
+      "thumbnail_url": "https://i3.ytimg.com/vi/nRr8HYVQvMY/hqdefault.jpg",
+      "published_at": "2026-11-15T20:23:51+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "yusjnsBGiio",
       "title": "하락이 끝나가고있다. 우리나라 반도체 미래는 어디로?? [11/15 일요일 부티플 실시간 증시 라이브]",
@@ -1147,30 +1176,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "SKNqY7mDNTw",
-      "title": "[11월 13일 마감시황] 코스피 장중 5,500선 돌파에도 웃지 못한 이유…삼전닉스 약세 뒤에 숨은 외국인 수급과 반도체주의 변화ㅣ홍선애, 이권희, 김장열 [클로징벨 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=SKNqY7mDNTw",
-      "thumbnail_url": "https://i4.ytimg.com/vi/SKNqY7mDNTw/hqdefault.jpg",
-      "published_at": "2026-11-13T08:03:55+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks",
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        },
-        {
-          "topic": "commodities",
           "stance": "neutral"
         }
       ],

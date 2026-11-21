@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:25:55.555311+00:00",
+  "generated_at": "2026-11-21T17:13:49.531484+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -56,6 +56,68 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "M0Ak8p29VyQ",
+      "title": "삼성전자 -7%, SK하이닉스 -6% 폭락, 지금 꼭 '이렇게' 하세요 (슈퍼개미 이정윤 세무사)",
+      "source_url": "https://www.youtube.com/watch?v=M0Ak8p29VyQ",
+      "thumbnail_url": "https://i2.ytimg.com/vi/M0Ak8p29VyQ/hqdefault.jpg",
+      "published_at": "2026-11-21T12:15:22+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "PRNldZmsNHM",
+      "title": "정치 묻고 나락가는 인류 최대의 지식창고, 위키피디아",
+      "source_url": "https://www.youtube.com/watch?v=PRNldZmsNHM",
+      "thumbnail_url": "https://i1.ytimg.com/vi/PRNldZmsNHM/hqdefault.jpg",
+      "published_at": "2026-11-21T11:47:06+00:00",
+      "channel_name": "슈카월드",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "d-YN9HHa7mA",
+      "title": "워런 버핏 최후의 경고 조만간 비트코인 완전 뒤집힌다 | 김창익 대표 풀버전2",
+      "source_url": "https://www.youtube.com/watch?v=d-YN9HHa7mA",
+      "thumbnail_url": "https://i1.ytimg.com/vi/d-YN9HHa7mA/hqdefault.jpg",
+      "published_at": "2026-11-21T10:00:02+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "crypto"
+      ],
+      "topic_stances": [
+        {
+          "topic": "crypto",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "mVbORW1vjDY",
       "title": "삼성전자 30만대, SK하이닉스 200만원대, 물렸으면, 꼭 '이렇게' 하세요 (박병창 대표)",
@@ -1072,25 +1134,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "FZibNPNqtVo",
-      "title": "트럼프 “한국 전쟁 종결” 선언 발칵 뒤집힌 북한 실제 상황 | 조용근 장군 3부",
-      "source_url": "https://www.youtube.com/watch?v=FZibNPNqtVo",
-      "thumbnail_url": "https://i3.ytimg.com/vi/FZibNPNqtVo/hqdefault.jpg",
-      "published_at": "2026-11-19T09:30:26+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "CUh7guNGt44",
       "title": "엔비디아가 HBM 이익을 깎으려던 계획이 흔들립니다... 구글 TPU가 HBM 수요를 빠르게 가져가면서 메모리 업체 협상력이 달라지는 이유 [월간 아신 11월호 2부]",
       "source_url": "https://www.youtube.com/watch?v=CUh7guNGt44",
@@ -1201,25 +1244,6 @@
       "source_url": "https://www.youtube.com/watch?v=-PVT3Gp45SE",
       "thumbnail_url": "https://i2.ytimg.com/vi/-PVT3Gp45SE/hqdefault.jpg",
       "published_at": "2026-11-18T11:00:24+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "agyobp9BQ4I",
-      "title": "27년까지 '딱 2개 주식만' 사세요, 앞으로 평생 돈 걱정 끝입니다 (무극선생 이승조 대표)",
-      "source_url": "https://www.youtube.com/watch?v=agyobp9BQ4I",
-      "thumbnail_url": "https://i2.ytimg.com/vi/agyobp9BQ4I/hqdefault.jpg",
-      "published_at": "2026-11-18T10:15:33+00:00",
       "channel_name": "김작가 TV",
       "topics": [
         "stocks"
@@ -1479,25 +1503,6 @@
       "topic_stances": [
         {
           "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "QBSm6BJko4A",
-      "title": "코스피 5,000 붕괴, AI 서사는 무너졌는가",
-      "source_url": "https://www.youtube.com/watch?v=QBSm6BJko4A",
-      "thumbnail_url": "https://i2.ytimg.com/vi/QBSm6BJko4A/hqdefault.jpg",
-      "published_at": "2026-11-11T11:22:17+00:00",
-      "channel_name": "슈카월드",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
           "stance": "neutral"
         }
       ],

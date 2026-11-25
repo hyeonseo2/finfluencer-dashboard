@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:21:57.618824+00:00",
+  "generated_at": "2026-11-25T22:14:05.038130+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,68 @@
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "KtnvpzjdIjg",
+      "title": "AI주 투매에도 낙폭 축소…다우 0.3% 반등 마감, 반도체주 투심은 여전히 냉랭_26.11.26 | 여도은, 박명석, 김장열 [월스트리트 모닝브리핑]",
+      "source_url": "https://www.youtube.com/watch?v=KtnvpzjdIjg",
+      "thumbnail_url": "https://i4.ytimg.com/vi/KtnvpzjdIjg/hqdefault.jpg",
+      "published_at": "2026-11-25T20:28:42+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "RuDgNtBi0yw",
+      "title": "또 댜시 하락하는 코스피 끝나지 않는 AI공포 진짜 대공항 오나?  [11/25 수요일 부티플 실시간 증시 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=RuDgNtBi0yw",
+      "thumbnail_url": "https://i3.ytimg.com/vi/RuDgNtBi0yw/hqdefault.jpg",
+      "published_at": "2026-11-25T15:12:13+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "znv9g61PLS8",
+      "title": "또 댜시 하락하는 코스피 끝나지 않는 AI공포 진짜 대공항 오나?  [11/25 수요일 부티플 실시간 증시 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=znv9g61PLS8",
+      "thumbnail_url": "https://i3.ytimg.com/vi/znv9g61PLS8/hqdefault.jpg",
+      "published_at": "2026-11-25T14:29:03+00:00",
+      "channel_name": "부티플 - 부의 배수를 높여라",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "C6ApP7Rw_Wk",
       "title": "반등장에서 드러난 삼성전자·SK하이닉스의 이상 신호…추가 매수에서 절반 매도로 돌아선 이유ㅣ명민준, 박가영, 유창희 [주린이 구조대]",
@@ -133,7 +195,7 @@
     },
     {
       "video_id": "J59BlFTiHEc",
-      "title": "한국 주식 '여기까지' 떨어지면, 가진 현금으로 주식 다 살겁니다 (남석관 회장)",
+      "title": "한국 주식 '여기까지' 떨어지면, 가진 현금으로 주식 다 살 겁니다 (남석관 회장)",
       "source_url": "https://www.youtube.com/watch?v=J59BlFTiHEc",
       "thumbnail_url": "https://i3.ytimg.com/vi/J59BlFTiHEc/hqdefault.jpg",
       "published_at": "2026-11-25T11:00:01+00:00",
@@ -575,49 +637,11 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "lH9LC1sf2Ps",
-      "title": "[26.11.25 오전 방송 전체보기] AI 투심 다시 흔들리며 뉴욕증시 혼조세 마감...엔비디아 7%↓·다우 상승",
-      "source_url": "https://www.youtube.com/watch?v=lH9LC1sf2Ps",
-      "thumbnail_url": "https://i1.ytimg.com/vi/lH9LC1sf2Ps/hqdefault.jpg",
-      "published_at": "2026-11-25T03:15:53+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "g5czpSGNjTI",
       "title": "진짜 사야될까? 또 속는걸까? / 젠슨황이 돌아왔다 [11/24 화요일 부티플 실시간 증시 라이브]",
       "source_url": "https://www.youtube.com/watch?v=g5czpSGNjTI",
       "thumbnail_url": "https://i4.ytimg.com/vi/g5czpSGNjTI/hqdefault.jpg",
       "published_at": "2026-11-24T16:40:39+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "RuDgNtBi0yw",
-      "title": "진짜 사야될까? 또 속는걸까? / 젠슨황이 돌아왔다 [11/24 화요일 부티플 실시간 증시 라이브]",
-      "source_url": "https://www.youtube.com/watch?v=RuDgNtBi0yw",
-      "thumbnail_url": "https://i3.ytimg.com/vi/RuDgNtBi0yw/hqdefault.jpg",
-      "published_at": "2026-11-24T14:41:03+00:00",
       "channel_name": "부티플 - 부의 배수를 높여라",
       "topics": [
         "stocks"
@@ -1001,25 +1025,6 @@
       ],
       "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "p0CPrpVVoco",
-      "title": "\"종로 금은방에 싹 다 퍼졌다\" 금값 곧 무시무시할 겁니다. 무조건 이렇게 하세요 #돈쭐남 #김경필",
-      "source_url": "https://www.youtube.com/watch?v=p0CPrpVVoco",
-      "thumbnail_url": "https://i1.ytimg.com/vi/p0CPrpVVoco/hqdefault.jpg",
-      "published_at": "2026-11-24T07:00:24+00:00",
-      "channel_name": "부티플 - 부의 배수를 높여라",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCriq8I8GEESkQq0svX19oCw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "GA84xe5aKkY",

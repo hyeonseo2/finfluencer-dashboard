@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T14:51:03.928383+00:00",
+  "generated_at": "2026-11-26T23:35:12.443768+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -51,10 +51,117 @@
     "etf",
     "interest_rate",
     "macro",
+    "policy",
     "real_estate",
     "stocks"
   ],
   "videos": [
+    {
+      "video_id": "Fd-vqZM1pMA",
+      "title": "금리 올린 한은 \"내년 성장률 4.1%\" | '머스크도 당황' 메모리 부족 난리인데, 메모리 과잉 생산 관세라니 | 권순우 삼프로TV 취재팀장 [뉴스3]",
+      "source_url": "https://www.youtube.com/watch?v=Fd-vqZM1pMA",
+      "thumbnail_url": "https://i3.ytimg.com/vi/Fd-vqZM1pMA/hqdefault.jpg",
+      "published_at": "2026-11-26T23:28:30+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities",
+        "interest_rate",
+        "macro",
+        "policy"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        },
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        },
+        {
+          "topic": "policy",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "SlqI4tj_l8A",
+      "title": "시장은 아직 돈이 부족하다…반도체 반등을 가로막는 진짜 변수는? | 여도은, 이선엽 AFW파트너스 대표 [글로벌 인터뷰]",
+      "source_url": "https://www.youtube.com/watch?v=SlqI4tj_l8A",
+      "thumbnail_url": "https://i4.ytimg.com/vi/SlqI4tj_l8A/hqdefault.jpg",
+      "published_at": "2026-11-26T23:11:44+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "commodities"
+      ],
+      "topic_stances": [
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "9KEKhFUKnAM",
+      "title": "나스닥, 4년차 강세장을 지켜낼 수 있을까?...금리인상기 뉴욕증시 투자 전략 | 여도은, 박명석 큐레이터 [월가 뉴스레터]",
+      "source_url": "https://www.youtube.com/watch?v=9KEKhFUKnAM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/9KEKhFUKnAM/hqdefault.jpg",
+      "published_at": "2026-11-26T22:07:41+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "commodities",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "commodities",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "eXAueXZo6dM",
+      "title": "'전강후약'코스피…미국 휴장부터 금리인상까지 고민 가득한 오늘장, 구조대는 어디에? | 정프로, 이주호, 권순우, 박병창 [오늘아침 라이브]",
+      "source_url": "https://www.youtube.com/watch?v=eXAueXZo6dM",
+      "thumbnail_url": "https://i2.ytimg.com/vi/eXAueXZo6dM/hqdefault.jpg",
+      "published_at": "2026-11-26T20:27:04+00:00",
+      "channel_name": "삼프로TV 3PROTV",
+      "topics": [
+        "stocks",
+        "interest_rate"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        },
+        {
+          "topic": "interest_rate",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
+    },
     {
       "video_id": "znv9g61PLS8",
       "title": "700조를 벌어도 코스피는 반토막 / 경제가 좋아도 금리인상 도대체 왜?   [11/26 목요일 부티플 실시간 증시 라이브]",
@@ -681,63 +788,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "yIBY1iAQW1I",
-      "title": "해외는 자산 굴리는데 한국은 거래 중심, 업계가 본 기본법의 한계 | 서동주, 김동환, 김준우 쟁글 대표 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=yIBY1iAQW1I",
-      "thumbnail_url": "https://i2.ytimg.com/vi/yIBY1iAQW1I/hqdefault.jpg",
-      "published_at": "2026-11-26T03:32:38+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "KtnvpzjdIjg",
-      "title": "[26.11.26 오전 방송 전체보기] AI주 투매에도 낙폭 축소…다우 0.3% 반등 마감 AI주는 약세 지속",
-      "source_url": "https://www.youtube.com/watch?v=KtnvpzjdIjg",
-      "thumbnail_url": "https://i4.ytimg.com/vi/KtnvpzjdIjg/hqdefault.jpg",
-      "published_at": "2026-11-26T03:21:03+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "stocks"
-      ],
-      "topic_stances": [
-        {
-          "topic": "stocks",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "IcnAog-gRmQ",
-      "title": "기본법 전문 보니…마켓메이커·스테이블코인·레퍼럴부터 은행의 거래소 지분까지 | 서동주, 김동환, 박현영 뉴스1 기자 [크립토 PLUS]",
-      "source_url": "https://www.youtube.com/watch?v=IcnAog-gRmQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/IcnAog-gRmQ/hqdefault.jpg",
-      "published_at": "2026-11-26T03:12:15+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "crypto"
-      ],
-      "topic_stances": [
-        {
-          "topic": "crypto",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "TodYTG1T5gQ",
       "title": "폭락했을 때 담아야 합니다 지금 사세요 #김양수대표 #김경필 #돈쭐남",
       "source_url": "https://www.youtube.com/shorts/TodYTG1T5gQ",
@@ -774,30 +824,6 @@
       ],
       "channel_id": "UCriq8I8GEESkQq0svX19oCw",
       "channel_avatar_url": "https://yt3.googleusercontent.com/POp1_n41Xpv53ODlZnN8-0QkIHtbi3IYOiXVjjFXEpa4zzjs1ctErbjHmkOdDNNP0gLEAWFkvA=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "LB4G3JHPqF8",
-      "title": "로봇주 순환매부터 ETF 리밸런싱까지…변동성 장세, 지금 필요한 투자 전략은? | 차진호 NH투자증권 부장, 박현지 NH투자증권 과장 [아침N투자]",
-      "source_url": "https://www.youtube.com/watch?v=LB4G3JHPqF8",
-      "thumbnail_url": "https://i1.ytimg.com/vi/LB4G3JHPqF8/hqdefault.jpg",
-      "published_at": "2026-11-26T02:40:06+00:00",
-      "channel_name": "삼프로TV 3PROTV",
-      "topics": [
-        "commodities",
-        "etf"
-      ],
-      "topic_stances": [
-        {
-          "topic": "commodities",
-          "stance": "neutral"
-        },
-        {
-          "topic": "etf",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UChlv4GSd7OQl3js-jkLOnFA",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/--qajlNgqpwDCjcupwfYwXsgXS3szfhMEEFGI1ouLTj4CKOtwGOyXGR7xl8-tzOGCDFt9umfqQ=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "0JWvZlIRTG4",

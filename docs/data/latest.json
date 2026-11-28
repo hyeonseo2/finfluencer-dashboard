@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T09:59:00.675073+00:00",
+  "generated_at": "2026-11-28T18:08:30.853842+00:00",
   "channels": [
     {
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
@@ -55,6 +55,44 @@
   ],
   "videos": [
     {
+      "video_id": "7_RtJh8NbNo",
+      "title": "다음주 코스피 심상치 않습니다, 삼성전자, SK하이닉스 싹다 '이렇게' 하세요 (김장열 센터장)",
+      "source_url": "https://www.youtube.com/watch?v=7_RtJh8NbNo",
+      "thumbnail_url": "https://i4.ytimg.com/vi/7_RtJh8NbNo/hqdefault.jpg",
+      "published_at": "2026-11-28T11:00:28+00:00",
+      "channel_name": "김작가 TV",
+      "topics": [
+        "stocks"
+      ],
+      "topic_stances": [
+        {
+          "topic": "stocks",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+      "video_id": "NZBuYlQn0QM",
+      "title": "드디어 진실을 접한 일본인들. 이젠 혐한 씨알도 안먹힌다 | 호사카유지 교수 풀버전",
+      "source_url": "https://www.youtube.com/watch?v=NZBuYlQn0QM",
+      "thumbnail_url": "https://i3.ytimg.com/vi/NZBuYlQn0QM/hqdefault.jpg",
+      "published_at": "2026-11-28T10:00:34+00:00",
+      "channel_name": "달란트투자",
+      "topics": [
+        "macro"
+      ],
+      "topic_stances": [
+        {
+          "topic": "macro",
+          "stance": "neutral"
+        }
+      ],
+      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
+      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
       "video_id": "fSGFo0xS1Ss",
       "title": "4일 만에 8500만원 벌었어요, '이 방법대로' 따라서 주식 사세요 (대왕개미 홍인기)",
       "source_url": "https://www.youtube.com/watch?v=fSGFo0xS1Ss",
@@ -94,17 +132,17 @@
     },
     {
       "video_id": "DUCKMSnzdDU",
-      "title": "오픈AI 현직자가 밝힌 AI 시대 생존법, 지금 AI 안 쓰면 부의 격차 벌어진다? (이상현 박사)",
+      "title": "빅테크에 13년 일하며 알게 된 것, AI 시대 살아남는 진짜 능력 1가지 (이상현 박사)",
       "source_url": "https://www.youtube.com/watch?v=DUCKMSnzdDU",
       "thumbnail_url": "https://i1.ytimg.com/vi/DUCKMSnzdDU/hqdefault.jpg",
       "published_at": "2026-11-28T08:15:24+00:00",
       "channel_name": "김작가 TV",
       "topics": [
-        "commodities"
+        "macro"
       ],
       "topic_stances": [
         {
-          "topic": "commodities",
+          "topic": "macro",
           "stance": "neutral"
         }
       ],
@@ -1011,25 +1049,6 @@
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
-      "video_id": "qw7D-LJpnaQ",
-      "title": "“새로운 한류 대박났다” 전세계가 한국에 열광중인 이유 | 오네게 3부",
-      "source_url": "https://www.youtube.com/watch?v=qw7D-LJpnaQ",
-      "thumbnail_url": "https://i2.ytimg.com/vi/qw7D-LJpnaQ/hqdefault.jpg",
-      "published_at": "2026-11-26T10:30:09+00:00",
-      "channel_name": "달란트투자",
-      "topics": [
-        "real_estate"
-      ],
-      "topic_stances": [
-        {
-          "topic": "real_estate",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCBM86JVoHLqg9irpR2XKvGw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/JxAvKDUF8ZSIXDsdmq7iZWDp1d1jro9ld2KZi4LKtKg2nMP5VcAFLUkIRQv-vtGFxXIYcmWZOg=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
       "video_id": "glG__Zh1woE",
       "title": "AI 데이터센터는 버블인가",
       "source_url": "https://www.youtube.com/watch?v=glG__Zh1woE",
@@ -1047,25 +1066,6 @@
       ],
       "channel_id": "UCsJ6RuBiTVWRX156FVbeaGg",
       "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_kqf6MgVU6c8LWzVAVqpggLLS4bTxdKe_aiQzM17HsqRhk=s900-c-k-c0x00ffffff-no-rj"
-    },
-    {
-      "video_id": "cX8NAxq84Tw",
-      "title": "6년 동안 기다린 폭락장입니다, 속는 셈치고 한 번만 해보세요 (전업투자자 김종봉)",
-      "source_url": "https://www.youtube.com/watch?v=cX8NAxq84Tw",
-      "thumbnail_url": "https://i4.ytimg.com/vi/cX8NAxq84Tw/hqdefault.jpg",
-      "published_at": "2026-11-26T09:19:11+00:00",
-      "channel_name": "김작가 TV",
-      "topics": [
-        "macro"
-      ],
-      "topic_stances": [
-        {
-          "topic": "macro",
-          "stance": "neutral"
-        }
-      ],
-      "channel_id": "UCvil4OAt-zShzkKHsg9EQAw",
-      "channel_avatar_url": "https://yt3.googleusercontent.com/ytc/AIdro_l79jFuRgya9MaP5m4cBZiYJatuLf7i4maG5TWjJ7Zu27E=s900-c-k-c0x00ffffff-no-rj"
     },
     {
       "video_id": "ao8sMC5Olh4",
